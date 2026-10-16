@@ -13,10 +13,10 @@ Everything is checked against the site's robots.txt first. A broken or blocked
 source is logged and skipped; it never stops the run.
 """
 
+import calendar
 import html
 import json
 import re
-import time
 import urllib.error
 import urllib.request
 import urllib.robotparser
@@ -141,7 +141,7 @@ def entry_published_iso(entry):
     for key in ("published_parsed", "updated_parsed"):
         value = getattr(entry, key, None)
         if value:
-            return datetime.fromtimestamp(time.mktime(value), tz=timezone.utc).strftime(TIME_FORMAT)
+            return datetime.fromtimestamp(calendar.timegm(value), tz=timezone.utc).strftime(TIME_FORMAT)
     return now_utc().strftime(TIME_FORMAT)
 
 
