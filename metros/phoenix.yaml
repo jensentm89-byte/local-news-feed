@@ -1,0 +1,55 @@
+# Phoenix, AZ. See jacksonville.yaml for the file format.
+
+name: "Phoenix, AZ"
+aliases:
+  - "Maricopa County"
+  - "Mesa"
+  - "Scottsdale"
+  - "Tempe"
+  - "Chandler"
+  - "Glendale"
+  - "Gilbert"
+  - "Peoria"
+  - "Surprise"
+  - "Valley of the Sun"
+  - "East Valley"
+  - "West Valley"
+
+areas: ["Phoenix"]
+
+sources:
+  - name: "Phoenix New Times"
+    area: "Phoenix"
+    feed_url: "https://www.phoenixnewtimes.com/phoenix/Rss.xml"
+    status: active
+
+  - name: "AZ Luminaria"
+    area: "Phoenix"
+    feed_url: "https://azluminaria.org/feed/"
+    status: active
+
+  - name: "Cronkite News"
+    area: "Phoenix"
+    feed_url: "https://cronkitenews.azpbs.org/feed/"
+    status: active
+
+  - name: "12News"
+    area: "Phoenix"
+    feed_url: "https://www.12news.com/feeds/syndication/rss/news/local"
+    status: active
+
+  - name: "azfamily"
+    area: "Phoenix"
+    feed_url: "https://www.azfamily.com/arc/outboundfeeds/rss/category/news/?outputType=xml"
+    status: active
+
+  - name: "FOX 10 Phoenix"
+    area: "Phoenix"
+    feed_url: "https://www.fox10phoenix.com/rss/category/news"
+    status: active
+
+  - name: "The Arizona Republic"
+    area: "Phoenix"
+    status: link_only
+    homepage: "https://www.azcentral.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."

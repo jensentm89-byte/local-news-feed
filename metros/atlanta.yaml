@@ -1,0 +1,74 @@
+# Atlanta, GA. See jacksonville.yaml for the file format.
+
+name: "Atlanta, GA"
+aliases:
+  - "ATL"
+  - "Fulton County"
+  - "DeKalb"
+  - "Cobb County"
+  - "Gwinnett"
+  - "Decatur"
+  - "Marietta"
+  - "Sandy Springs"
+  - "Roswell"
+  - "Alpharetta"
+  - "Buckhead"
+
+areas: ["Atlanta"]
+
+sources:
+  - name: "Capital B Atlanta"
+    area: "Atlanta"
+    feed_url: "https://atlanta.capitalbnews.org/feed/"
+    status: active
+
+  - name: "Rough Draft Atlanta"
+    area: "Atlanta"
+    feed_url: "https://roughdraftatlanta.com/feed/"
+    status: active
+
+  - name: "Atlanta Magazine"
+    area: "Atlanta"
+    feed_url: "https://www.atlantamagazine.com/feed/"
+    status: active
+
+  - name: "The Atlanta Voice"
+    area: "Atlanta"
+    feed_url: "https://theatlantavoice.com/rss.xml"
+    status: active
+
+  - name: "Saporta Report"
+    area: "Atlanta"
+    feed_url: "https://saportareport.com/feed/"
+    status: active
+
+  - name: "Reporter Newspapers"
+    area: "Atlanta"
+    feed_url: "https://www.reporternewspapers.net/feed/"
+    status: active
+
+  - name: "11Alive"
+    area: "Atlanta"
+    feed_url: "https://www.11alive.com/feeds/syndication/rss/news/local"
+    status: active
+
+  - name: "WSB-TV"
+    area: "Atlanta"
+    feed_url: "https://www.wsbtv.com/arc/outboundfeeds/rss/category/news/local/?outputType=xml"
+    status: active
+
+  - name: "Atlanta News First (WANF)"
+    area: "Atlanta"
+    feed_url: "https://www.atlantanewsfirst.com/arc/outboundfeeds/rss/?outputType=xml"
+    status: active
+
+  - name: "FOX 5 Atlanta"
+    area: "Atlanta"
+    feed_url: "https://www.fox5atlanta.com/rss/category/news"
+    status: active
+
+  - name: "Atlanta Journal-Constitution"
+    area: "Atlanta"
+    status: link_only
+    homepage: "https://www.ajc.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."

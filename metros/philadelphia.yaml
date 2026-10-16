@@ -1,0 +1,67 @@
+# Philadelphia, PA. See jacksonville.yaml for the file format.
+
+name: "Philadelphia, PA"
+aliases:
+  - "Philly"
+  - "Delaware County"
+  - "Bucks County"
+  - "Montgomery County"
+  - "Chester County"
+  - "Camden"
+  - "South Jersey"
+  - "Wilmington"
+  - "Main Line"
+
+areas: ["Philadelphia", "Region-wide"]
+
+sources:
+  - name: "Billy Penn at WHYY"
+    area: "Philadelphia"
+    feed_url: "https://billypenn.com/feed/"
+    status: active
+
+  - name: "WHYY"
+    area: "Region-wide"
+    feed_url: "https://whyy.org/feed/"
+    status: active
+
+  - name: "PhillyVoice"
+    area: "Philadelphia"
+    feed_url: "https://www.phillyvoice.com/feed/"
+    status: active
+
+  - name: "Philadelphia Magazine"
+    area: "Philadelphia"
+    feed_url: "https://www.phillymag.com/feed/"
+    status: active
+
+  - name: "Technical.ly Philly"
+    area: "Philadelphia"
+    feed_url: "https://technical.ly/feed/"
+    status: active
+
+  - name: "NBC10 Philadelphia"
+    area: "Philadelphia"
+    feed_url: "https://www.nbcphiladelphia.com/?rss=y"
+    status: active
+
+  - name: "FOX 29 Philadelphia"
+    area: "Philadelphia"
+    feed_url: "https://www.fox29.com/rss/category/news"
+    status: active
+
+  - name: "Philadelphia Citizen"
+    area: "Philadelphia"
+    feed_url: "https://thephiladelphiacitizen.org/feed/"
+    status: active
+
+  - name: "The Philadelphia Sunday Sun"
+    area: "Philadelphia"
+    feed_url: "https://philasun.com/feed/"
+    status: active
+
+  - name: "The Philadelphia Inquirer"
+    area: "Philadelphia"
+    status: link_only
+    homepage: "https://www.inquirer.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."

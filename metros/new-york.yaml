@@ -1,0 +1,89 @@
+# New York, NY. See jacksonville.yaml for the file format.
+
+name: "New York, NY"
+aliases:
+  - "NYC"
+  - "New York City"
+  - "Manhattan"
+  - "Brooklyn"
+  - "Queens"
+  - "Bronx"
+  - "Staten Island"
+  - "Long Island"
+  - "Nassau"
+  - "Suffolk"
+  - "Westchester"
+  - "Newark"
+  - "Jersey City"
+  - "Hoboken"
+  - "New Jersey"
+
+areas: ["New York City", "Long Island", "New Jersey"]
+
+sources:
+  - name: "Gothamist"
+    area: "New York City"
+    feed_url: "https://gothamist.com/feed"
+    status: active
+
+  - name: "THE CITY"
+    area: "New York City"
+    feed_url: "https://www.thecity.nyc/feed/"
+    status: active
+
+  - name: "amNY"
+    area: "New York City"
+    feed_url: "https://www.amny.com/feed/"
+    status: active
+
+  - name: "Brooklyn Paper"
+    area: "New York City"
+    feed_url: "https://www.brooklynpaper.com/feed/"
+    status: active
+
+  - name: "Bronx Times"
+    area: "New York City"
+    feed_url: "https://www.bxtimes.com/feed/"
+    status: active
+
+  - name: "The Bronx Free Press"
+    area: "New York City"
+    feed_url: "https://thebronxfreepress.com/feed/"
+    status: active
+
+  - name: "Staten Island Advance"
+    area: "New York City"
+    feed_url: "https://www.silive.com/arc/outboundfeeds/rss/?outputType=xml"
+    status: active
+
+  - name: "Long Island Press"
+    area: "Long Island"
+    feed_url: "https://www.longislandpress.com/feed/"
+    status: active
+
+  - name: "NJ.com"
+    area: "New Jersey"
+    feed_url: "https://www.nj.com/arc/outboundfeeds/rss/?outputType=xml"
+    status: active
+
+  - name: "Jersey City Times"
+    area: "New Jersey"
+    feed_url: "https://jcitytimes.com/feed/"
+    status: active
+
+  - name: "New York Post (metro)"
+    area: "New York City"
+    feed_url: "https://nypost.com/metro/feed/"
+    status: active
+
+  - name: "NY Daily News"
+    area: "New York City"
+    status: link_only
+    homepage: "https://www.nydailynews.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Newsday"
+    area: "Long Island"
+    status: link_only
+    homepage: "https://www.newsday.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."

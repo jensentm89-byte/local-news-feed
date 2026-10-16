@@ -1,6 +1,89 @@
 {
   "metros": [
     {
+      "id": "atlanta",
+      "name": "Atlanta, GA",
+      "aliases": [
+        "ATL",
+        "Fulton County",
+        "DeKalb",
+        "Cobb County",
+        "Gwinnett",
+        "Decatur",
+        "Marietta",
+        "Sandy Springs",
+        "Roswell",
+        "Alpharetta",
+        "Buckhead"
+      ],
+      "areas": [
+        "Atlanta"
+      ]
+    },
+    {
+      "id": "chicago",
+      "name": "Chicago, IL",
+      "aliases": [
+        "Cook County",
+        "DuPage",
+        "Lake County",
+        "Evanston",
+        "Naperville",
+        "Aurora",
+        "Joliet",
+        "Elgin",
+        "Oak Park",
+        "Schaumburg",
+        "Arlington Heights"
+      ],
+      "areas": [
+        "Chicago",
+        "Suburbs"
+      ]
+    },
+    {
+      "id": "dallas-fort-worth",
+      "name": "Dallas–Fort Worth, TX",
+      "aliases": [
+        "DFW",
+        "Dallas",
+        "Fort Worth",
+        "Arlington",
+        "Plano",
+        "Irving",
+        "Garland",
+        "Frisco",
+        "Denton",
+        "Tarrant County",
+        "Dallas County",
+        "Collin County"
+      ],
+      "areas": [
+        "Dallas",
+        "Fort Worth",
+        "Region-wide"
+      ]
+    },
+    {
+      "id": "houston",
+      "name": "Houston, TX",
+      "aliases": [
+        "Harris County",
+        "Sugar Land",
+        "The Woodlands",
+        "Katy",
+        "Pasadena",
+        "Pearland",
+        "Galveston",
+        "Montgomery County",
+        "Fort Bend"
+      ],
+      "areas": [
+        "Houston",
+        "Region-wide"
+      ]
+    },
+    {
       "id": "jacksonville",
       "name": "Jacksonville, FL",
       "aliases": [
@@ -29,6 +112,141 @@
         "Clay",
         "St. Johns",
         "Flagler"
+      ]
+    },
+    {
+      "id": "los-angeles",
+      "name": "Los Angeles, CA",
+      "aliases": [
+        "LA",
+        "L.A.",
+        "Hollywood",
+        "Long Beach",
+        "Pasadena",
+        "Santa Monica",
+        "Burbank",
+        "Glendale",
+        "Anaheim",
+        "Santa Ana",
+        "Irvine",
+        "Orange County",
+        "San Fernando Valley",
+        "Torrance"
+      ],
+      "areas": [
+        "Los Angeles County",
+        "Orange County"
+      ]
+    },
+    {
+      "id": "miami",
+      "name": "Miami, FL",
+      "aliases": [
+        "South Florida",
+        "Fort Lauderdale",
+        "Hialeah",
+        "Coral Gables",
+        "Miami Beach",
+        "Hollywood",
+        "Boca Raton",
+        "West Palm Beach",
+        "Pembroke Pines",
+        "Homestead",
+        "Key Biscayne"
+      ],
+      "areas": [
+        "Miami-Dade",
+        "Broward",
+        "Palm Beach"
+      ]
+    },
+    {
+      "id": "new-york",
+      "name": "New York, NY",
+      "aliases": [
+        "NYC",
+        "New York City",
+        "Manhattan",
+        "Brooklyn",
+        "Queens",
+        "Bronx",
+        "Staten Island",
+        "Long Island",
+        "Nassau",
+        "Suffolk",
+        "Westchester",
+        "Newark",
+        "Jersey City",
+        "Hoboken",
+        "New Jersey"
+      ],
+      "areas": [
+        "New York City",
+        "Long Island",
+        "New Jersey"
+      ]
+    },
+    {
+      "id": "philadelphia",
+      "name": "Philadelphia, PA",
+      "aliases": [
+        "Philly",
+        "Delaware County",
+        "Bucks County",
+        "Montgomery County",
+        "Chester County",
+        "Camden",
+        "South Jersey",
+        "Wilmington",
+        "Main Line"
+      ],
+      "areas": [
+        "Philadelphia",
+        "Region-wide"
+      ]
+    },
+    {
+      "id": "phoenix",
+      "name": "Phoenix, AZ",
+      "aliases": [
+        "Maricopa County",
+        "Mesa",
+        "Scottsdale",
+        "Tempe",
+        "Chandler",
+        "Glendale",
+        "Gilbert",
+        "Peoria",
+        "Surprise",
+        "Valley of the Sun",
+        "East Valley",
+        "West Valley"
+      ],
+      "areas": [
+        "Phoenix"
+      ]
+    },
+    {
+      "id": "washington-dc",
+      "name": "Washington, DC",
+      "aliases": [
+        "DC",
+        "D.C.",
+        "Arlington",
+        "Alexandria",
+        "Fairfax",
+        "Bethesda",
+        "Silver Spring",
+        "Montgomery County",
+        "Prince George's County",
+        "Northern Virginia",
+        "NoVA",
+        "DMV"
+      ],
+      "areas": [
+        "District of Columbia",
+        "Maryland",
+        "Virginia"
       ]
     }
   ]

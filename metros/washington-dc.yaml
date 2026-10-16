@@ -1,0 +1,90 @@
+# Washington, DC. See jacksonville.yaml for the file format.
+
+name: "Washington, DC"
+aliases:
+  - "DC"
+  - "D.C."
+  - "Arlington"
+  - "Alexandria"
+  - "Fairfax"
+  - "Bethesda"
+  - "Silver Spring"
+  - "Montgomery County"
+  - "Prince George's County"
+  - "Northern Virginia"
+  - "NoVA"
+  - "DMV"
+
+areas: ["District of Columbia", "Maryland", "Virginia"]
+
+sources:
+  - name: "WTOP News"
+    area: "District of Columbia"
+    feed_url: "https://wtop.com/feed/"
+    status: active
+
+  - name: "WAMU"
+    area: "District of Columbia"
+    feed_url: "https://wamu.org/feed/"
+    status: active
+
+  - name: "Washington City Paper"
+    area: "District of Columbia"
+    feed_url: "https://washingtoncitypaper.com/feed/"
+    status: active
+
+  - name: "Washington Informer"
+    area: "District of Columbia"
+    feed_url: "https://www.washingtoninformer.com/feed/"
+    status: active
+
+  - name: "Greater Greater Washington"
+    area: "District of Columbia"
+    feed_url: "https://ggwash.org/rss"
+    status: active
+
+  - name: "Washingtonian"
+    area: "District of Columbia"
+    feed_url: "https://www.washingtonian.com/feed/"
+    status: active
+
+  - name: "Bethesda Magazine"
+    area: "Maryland"
+    feed_url: "https://bethesdamagazine.com/feed/"
+    status: active
+
+  - name: "ARLnow"
+    area: "Virginia"
+    feed_url: "https://www.arlnow.com/feed/"
+    status: active
+
+  - name: "FFXnow"
+    area: "Virginia"
+    feed_url: "https://www.ffxnow.com/feed/"
+    status: active
+
+  - name: "ALXnow"
+    area: "Virginia"
+    feed_url: "https://www.alxnow.com/feed/"
+    status: active
+
+  - name: "NBC4 Washington"
+    area: "District of Columbia"
+    feed_url: "https://www.nbcwashington.com/news/local/feed/"
+    status: active
+
+  - name: "WUSA9"
+    area: "District of Columbia"
+    feed_url: "https://www.wusa9.com/feeds/syndication/rss/news/local"
+    status: active
+
+  - name: "FOX 5 DC"
+    area: "District of Columbia"
+    feed_url: "https://www.fox5dc.com/rss/category/news"
+    status: active
+
+  - name: "The Washington Post"
+    area: "District of Columbia"
+    status: link_only
+    homepage: "https://www.washingtonpost.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."

@@ -1,0 +1,66 @@
+# Miami, FL. See jacksonville.yaml for the file format.
+
+name: "Miami, FL"
+aliases:
+  - "South Florida"
+  - "Fort Lauderdale"
+  - "Hialeah"
+  - "Coral Gables"
+  - "Miami Beach"
+  - "Hollywood"
+  - "Boca Raton"
+  - "West Palm Beach"
+  - "Pembroke Pines"
+  - "Homestead"
+  - "Key Biscayne"
+
+areas: ["Miami-Dade", "Broward", "Palm Beach"]
+
+sources:
+  - name: "Miami New Times"
+    area: "Miami-Dade"
+    feed_url: "https://www.miaminewtimes.com/miami/Rss.xml"
+    status: active
+
+  - name: "Miami Today"
+    area: "Miami-Dade"
+    feed_url: "https://www.miamitodaynews.com/feed/"
+    status: active
+
+  - name: "Florida Bulldog"
+    area: "Miami-Dade"
+    feed_url: "https://www.floridabulldog.org/feed/"
+    status: active
+
+  - name: "Local10 (WPLG)"
+    area: "Miami-Dade"
+    feed_url: "https://www.local10.com/arc/outboundfeeds/rss/category/news/local/?outputType=xml"
+    status: active
+
+  - name: "WSVN 7News"
+    area: "Miami-Dade"
+    feed_url: "https://wsvn.com/news/local/feed/"
+    status: active
+
+  - name: "WPTV"
+    area: "Palm Beach"
+    feed_url: "https://www.wptv.com/index.rss"
+    status: active
+
+  - name: "Miami Herald"
+    area: "Miami-Dade"
+    status: link_only
+    homepage: "https://www.miamiherald.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Sun Sentinel"
+    area: "Broward"
+    status: link_only
+    homepage: "https://www.sun-sentinel.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Palm Beach Post"
+    area: "Palm Beach"
+    status: link_only
+    homepage: "https://www.palmbeachpost.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."

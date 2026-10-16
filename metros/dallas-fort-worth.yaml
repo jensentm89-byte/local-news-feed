@@ -1,0 +1,81 @@
+# Dallas–Fort Worth, TX. See jacksonville.yaml for the file format.
+
+name: "Dallas–Fort Worth, TX"
+aliases:
+  - "DFW"
+  - "Dallas"
+  - "Fort Worth"
+  - "Arlington"
+  - "Plano"
+  - "Irving"
+  - "Garland"
+  - "Frisco"
+  - "Denton"
+  - "Tarrant County"
+  - "Dallas County"
+  - "Collin County"
+
+areas: ["Dallas", "Fort Worth", "Region-wide"]
+
+sources:
+  - name: "Fort Worth Report"
+    area: "Fort Worth"
+    feed_url: "https://fortworthreport.org/feed/"
+    status: active
+
+  - name: "Dallas Observer"
+    area: "Dallas"
+    feed_url: "https://www.dallasobserver.com/dallas/Rss.xml"
+    status: active
+
+  - name: "Candy's Dirt"
+    area: "Dallas"
+    feed_url: "https://candysdirt.com/feed/"
+    status: active
+
+  - name: "The Dallas Express"
+    area: "Dallas"
+    feed_url: "https://dallasexpress.com/feed/"
+    status: active
+
+  - name: "Fort Worth Weekly"
+    area: "Fort Worth"
+    feed_url: "https://www.fwweekly.com/feed/"
+    status: active
+
+  - name: "WFAA"
+    area: "Region-wide"
+    feed_url: "https://www.wfaa.com/feeds/syndication/rss/news/local"
+    status: active
+
+  - name: "NBC Dallas-Fort Worth"
+    area: "Region-wide"
+    feed_url: "https://www.nbcdfw.com/news/local/feed/"
+    status: active
+
+  - name: "Fox 4 Dallas-Fort Worth"
+    area: "Region-wide"
+    feed_url: "https://www.fox4news.com/rss/category/news"
+    status: active
+
+  - name: "Dallas Weekly"
+    area: "Dallas"
+    feed_url: "https://dallasweekly.com/feed/"
+    status: active
+
+  - name: "Community Impact (Dallas-Fort Worth)"
+    area: "Region-wide"
+    feed_url: "https://communityimpact.com/rss/dallas-fort-worth/"
+    status: active
+
+  - name: "Dallas Morning News"
+    area: "Dallas"
+    status: link_only
+    homepage: "https://www.dallasnews.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Fort Worth Star-Telegram"
+    area: "Fort Worth"
+    status: link_only
+    homepage: "https://www.star-telegram.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."

@@ -1,0 +1,94 @@
+# Chicago, IL. See jacksonville.yaml for the file format.
+
+name: "Chicago, IL"
+aliases:
+  - "Cook County"
+  - "DuPage"
+  - "Lake County"
+  - "Evanston"
+  - "Naperville"
+  - "Aurora"
+  - "Joliet"
+  - "Elgin"
+  - "Oak Park"
+  - "Schaumburg"
+  - "Arlington Heights"
+
+areas: ["Chicago", "Suburbs"]
+
+sources:
+  - name: "Block Club Chicago"
+    area: "Chicago"
+    feed_url: "https://blockclubchicago.org/feed/"
+    status: active
+
+  - name: "Chicago Sun-Times"
+    area: "Chicago"
+    feed_url: "https://chicago.suntimes.com/rss/index.xml"
+    status: active
+
+  - name: "WBEZ"
+    area: "Chicago"
+    feed_url: "https://www.wbez.org/rss"
+    status: active
+
+  - name: "WTTW News"
+    area: "Chicago"
+    feed_url: "https://news.wttw.com/rss.xml"
+    status: active
+
+  - name: "Chicago Reader"
+    area: "Chicago"
+    feed_url: "https://chicagoreader.com/feed/"
+    status: active
+
+  - name: "Injustice Watch"
+    area: "Chicago"
+    feed_url: "https://www.injusticewatch.org/feed/"
+    status: active
+
+  - name: "Illinois Answers Project"
+    area: "Chicago"
+    feed_url: "https://illinoisanswers.org/feed/"
+    status: active
+
+  - name: "The Triibe"
+    area: "Chicago"
+    feed_url: "https://thetriibe.com/feed/"
+    status: active
+
+  - name: "Chicago Crusader"
+    area: "Chicago"
+    feed_url: "https://chicagocrusader.com/feed/"
+    status: active
+
+  - name: "Evanston RoundTable"
+    area: "Suburbs"
+    feed_url: "https://evanstonroundtable.com/feed/"
+    status: active
+
+  - name: "Wednesday Journal (Oak Park)"
+    area: "Suburbs"
+    feed_url: "https://www.oakpark.com/feed/"
+    status: active
+
+  - name: "NBC Chicago"
+    area: "Chicago"
+    feed_url: "https://www.nbcchicago.com/news/local/feed/"
+    status: active
+
+  - name: "Fox 32 Chicago"
+    area: "Chicago"
+    feed_url: "https://www.fox32chicago.com/rss/category/news"
+    status: active
+
+  - name: "WGN-TV"
+    area: "Chicago"
+    feed_url: "https://wgntv.com/news/chicago-news/feed/"
+    status: active
+
+  - name: "Chicago Tribune"
+    area: "Chicago"
+    status: link_only
+    homepage: "https://www.chicagotribune.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."

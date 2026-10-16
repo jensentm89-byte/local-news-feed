@@ -1,0 +1,99 @@
+# Los Angeles, CA. See jacksonville.yaml for the file format.
+
+name: "Los Angeles, CA"
+aliases:
+  - "LA"
+  - "L.A."
+  - "Hollywood"
+  - "Long Beach"
+  - "Pasadena"
+  - "Santa Monica"
+  - "Burbank"
+  - "Glendale"
+  - "Anaheim"
+  - "Santa Ana"
+  - "Irvine"
+  - "Orange County"
+  - "San Fernando Valley"
+  - "Torrance"
+
+areas: ["Los Angeles County", "Orange County"]
+
+sources:
+  - name: "LAist"
+    area: "Los Angeles County"
+    feed_url: "https://laist.com/index.rss"
+    status: active
+
+  - name: "Los Angeles Times"
+    area: "Los Angeles County"
+    feed_url: "https://www.latimes.com/local/rss2.0.xml"
+    status: active
+
+  - name: "Long Beach Post"
+    area: "Los Angeles County"
+    feed_url: "https://lbpost.com/feed/"
+    status: active
+
+  - name: "Crosstown"
+    area: "Los Angeles County"
+    feed_url: "https://xtown.la/feed/"
+    status: active
+
+  - name: "LA Taco"
+    area: "Los Angeles County"
+    feed_url: "https://lataco.com/feed"
+    status: active
+
+  - name: "Streetsblog Los Angeles"
+    area: "Los Angeles County"
+    feed_url: "https://la.streetsblog.org/feed/"
+    status: active
+
+  - name: "Boyle Heights Beat"
+    area: "Los Angeles County"
+    feed_url: "https://thelalocal.org/feed/"
+    status: active
+
+  - name: "Santa Monica Daily Press"
+    area: "Los Angeles County"
+    feed_url: "https://www.smdp.com/rss/"
+    status: active
+
+  - name: "Pasadena Now"
+    area: "Los Angeles County"
+    feed_url: "https://pasadenanow.com/main/feed"
+    status: active
+
+  - name: "Voice of OC"
+    area: "Orange County"
+    feed_url: "https://voiceofoc.org/feed/"
+    status: active
+
+  - name: "KTLA"
+    area: "Los Angeles County"
+    feed_url: "https://ktla.com/news/local-news/feed/"
+    status: active
+
+  - name: "NBC Los Angeles"
+    area: "Los Angeles County"
+    feed_url: "https://www.nbclosangeles.com/?rss=y"
+    status: active
+
+  - name: "Daily News (Los Angeles)"
+    area: "Los Angeles County"
+    status: link_only
+    homepage: "https://www.dailynews.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Orange County Register"
+    area: "Orange County"
+    status: link_only
+    homepage: "https://www.ocregister.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Daily Breeze"
+    area: "Los Angeles County"
+    status: link_only
+    homepage: "https://www.dailybreeze.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."

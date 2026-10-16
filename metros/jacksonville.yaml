@@ -53,8 +53,8 @@ sources:
   - name: Historic City News
     area: St. Johns
     feed_url: https://historiccity.com/feed/
-    status: active
-    note: "robots.txt asks for a 30s crawl-delay; a few requests a day easily honors that."
+    status: inactive
+    note: "Paused: newest feed entry is months old (checked Oct 2026). Set back to active if it resumes. robots.txt asks for a 30s crawl-delay."
 
   - name: St. Augustine Record
     area: St. Johns

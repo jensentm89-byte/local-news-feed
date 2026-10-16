@@ -4,7 +4,7 @@ A Drudge-style headline aggregator for local news. Pick your metro area and see
 the latest headlines from its local outlets, linking out to the original stories.
 Only headlines, short excerpts and links are kept; the stories stay on the outlets' sites.
 
-**Status:** Phase 1 — structure + Jacksonville, FL (Duval, Clay, St. Johns, Flagler).
+**Status:** Phase 2 — Jacksonville plus the 10 largest US metros: New York, Los Angeles, Chicago, Dallas–Fort Worth, Houston, Washington DC, Philadelphia, Atlanta, Miami and Phoenix.
 
 ## How it works
 
@@ -12,6 +12,7 @@ Only headlines, short excerpts and links are kept; the stories stay on the outle
 - `fetch.py` — reads every metro file, pulls each source's RSS feed, and writes
   `data/articles/<metro>.jsonl` (full history) and `docs/data/<metro>.json` (last 14 days),
   plus `docs/metros.json` (the picker/search index).
+- `validate_sources.py` — checks every active feed (robots.txt, parses, recent). Run it after adding a metro.
 - `docs/` — the static site (GitHub Pages serves this folder).
 - `.github/workflows/fetch.yml` — runs `fetch.py` twice a day (6 AM and 3 PM Eastern) and commits the results.
 
@@ -21,13 +22,15 @@ Only headlines, short excerpts and links are kept; the stories stay on the outle
   The collector identifies itself honestly and makes a few requests per day.
 - Outlets that block automated access are `status: link_only`: the page just links to them
   (with their top headline when their homepage allows us to read it).
-- A broken feed is logged and skipped.
+- A broken feed is logged and skipped. `status: inactive` pauses a source without deleting it.
+- Statewide outlets and national wire feeds are left out; the goal is metro-level local news.
 
 ## Adding a metro
 
 1. Copy `metros/jacksonville.yaml` to `metros/<new-metro>.yaml` and edit it.
-2. `python fetch.py`
-3. Open `docs/index.html` through a local server (`python3 -m http.server --directory docs`).
+2. `python validate_sources.py <new-metro>` and fix or drop failing sources.
+3. `python fetch.py`
+4. Open `docs/index.html` through a local server (`python3 -m http.server --directory docs`).
 
 ## Run locally
 

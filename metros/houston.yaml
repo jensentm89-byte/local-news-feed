@@ -1,0 +1,62 @@
+# Houston, TX. See jacksonville.yaml for the file format.
+
+name: "Houston, TX"
+aliases:
+  - "Harris County"
+  - "Sugar Land"
+  - "The Woodlands"
+  - "Katy"
+  - "Pasadena"
+  - "Pearland"
+  - "Galveston"
+  - "Montgomery County"
+  - "Fort Bend"
+
+areas: ["Houston", "Region-wide"]
+
+sources:
+  - name: "Houston Public Media"
+    area: "Houston"
+    feed_url: "https://www.houstonpublicmedia.org/feed/"
+    status: active
+
+  - name: "Houston Press"
+    area: "Houston"
+    feed_url: "https://www.houstonpress.com/feed/"
+    status: active
+
+  - name: "Houstonia"
+    area: "Houston"
+    feed_url: "https://www.houstoniamag.com/feed"
+    status: active
+
+  - name: "Houston Defender"
+    area: "Houston"
+    feed_url: "https://defendernetwork.com/feed/"
+    status: active
+
+  - name: "Community Impact (Houston)"
+    area: "Region-wide"
+    feed_url: "https://communityimpact.com/rss/houston/"
+    status: active
+
+  - name: "KHOU 11"
+    area: "Houston"
+    feed_url: "https://www.khou.com/feeds/syndication/rss/news/local"
+    status: active
+
+  - name: "KPRC Click2Houston"
+    area: "Houston"
+    feed_url: "https://www.click2houston.com/arc/outboundfeeds/rss/category/news/local/?outputType=xml"
+    status: active
+
+  - name: "Fox 26 Houston"
+    area: "Houston"
+    feed_url: "https://www.fox26houston.com/rss/category/news"
+    status: active
+
+  - name: "Houston Chronicle"
+    area: "Houston"
+    status: link_only
+    homepage: "https://www.houstonchronicle.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
