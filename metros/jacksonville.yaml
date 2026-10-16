@@ -1,0 +1,145 @@
+# Jacksonville / the First Coast.
+#
+# Metro file format (one file per metro; the file name is the metro id):
+#   name:     display name in the picker
+#   aliases:  extra words that should find this metro in the search box
+#             (cities, counties, nicknames)
+#   areas:    the sub-regions shown as filter buttons (every source needs one)
+#   sources:  list of outlets, each either
+#     status: active     -> its RSS/Atom feed is fetched on every run
+#     status: link_only  -> no feed is read. We make one polite request per run to
+#                           the public homepage (if its robots.txt allows) to show the
+#                           top headline as "headline - outlet"; the link goes to the
+#                           outlet. Optional `headline` says how to find that headline:
+#                             link_pattern: regex matched against link paths
+#                             exclude_pattern: regex of link paths to skip
+#                             h1: true  (use the first linked <h1>)
+#                           With no `headline` (or if nothing is found) the outlet name
+#                           alone is shown.
+#   county_filter_keywords (optional): for feeds shared by several markets, keep only
+#     entries whose link or headline contains one of these.
+
+name: Jacksonville, FL
+aliases:
+  - First Coast
+  - Northeast Florida
+  - NE Florida
+  - JAX
+  - Duval
+  - Clay
+  - St. Johns
+  - Flagler
+  - Jacksonville Beach
+  - Atlantic Beach
+  - Neptune Beach
+  - Ponte Vedra
+  - Orange Park
+  - Fleming Island
+  - Green Cove Springs
+  - St. Augustine
+  - Palm Coast
+  - Bunnell
+  - Mandarin
+
+areas: [Duval, Clay, St. Johns, Flagler]
+
+sources:
+  # ---- St. Johns County ----
+  - name: St. Johns Citizen
+    area: St. Johns
+    feed_url: https://sjcitizen.com/feed/
+    status: active
+
+  - name: Historic City News
+    area: St. Johns
+    feed_url: https://historiccity.com/feed/
+    status: active
+    note: "robots.txt asks for a 30s crawl-delay; a few requests a day easily honors that."
+
+  - name: St. Augustine Record
+    area: St. Johns
+    status: link_only
+    homepage: https://www.staugustine.com/
+    note: "Gannett site: robots.txt disallows feeds, and the server answers automated requests (even to the homepage) with HTTP 402, so only the outlet name and link are shown."
+
+  # ---- Duval County ----
+  - name: Jacksonville Today
+    area: Duval
+    feed_url: https://jaxtoday.org/feed/
+    status: active
+    note: "The outlet historically called 'Jax Today'; the site is jaxtoday.org."
+
+  - name: Jacksonville Daily Record
+    area: Duval
+    feed_url: https://www.jaxdailyrecord.com/rss/headlines/all/
+    status: active
+
+  - name: First Coast News
+    area: Duval
+    feed_url: https://www.firstcoastnews.com/feeds/syndication/rss/news/local
+    status: active
+    note: "'local' category feed, to avoid national/world stories."
+
+  - name: Action News Jax
+    area: Duval
+    feed_url: "https://www.actionnewsjax.com/arc/outboundfeeds/rss/category/news/local/?outputType=xml"
+    status: active
+    note: "'local' category feed, to avoid national/world stories."
+
+  - name: News4Jax
+    area: Duval
+    feed_url: "https://www.news4jax.com/arc/outboundfeeds/rss/category/news/local/?outputType=xml"
+    status: active
+    note: "'local' category feed. robots.txt names AI-training bots as disallowed, but its general User-agent: * rule does not block this public syndication feed."
+
+  - name: WJCT News
+    area: Duval
+    feed_url: https://www.wjct.org/feed/
+    status: active
+    note: "Public radio newsroom covering Jacksonville/Duval."
+
+  - name: Florida Times-Union
+    area: Duval
+    status: link_only
+    homepage: https://www.jacksonville.com/
+    note: "Gannett site: robots.txt disallows feeds, and the server answers automated requests (even to the homepage) with HTTP 402, so only the outlet name and link are shown."
+
+  - name: The Resident (Jax Beaches)
+    area: Duval
+    feed_url: https://residentnews.net/feed/
+    status: active
+    note: "Replacement source: community news for the Jacksonville Beaches/Ponte Vedra area."
+
+  - name: Folio Weekly
+    area: Duval
+    feed_url: https://folioweekly.com/feed/
+    status: active
+    note: "Replacement source: Jacksonville alt-weekly (arts, culture, local news)."
+
+  - name: Jacksonville Free Press
+    area: Duval
+    feed_url: https://jacksonvillefreepress.com/feed/
+    status: active
+    note: "Replacement source: Jacksonville's Black community newspaper. Includes some syndicated national stories."
+
+  # ---- Clay County ----
+  - name: Clay Today
+    area: Clay
+    status: link_only
+    homepage: https://www.claytodayonline.com/
+    headline:
+      h1: true
+    note: "Its feed endpoint returns HTTP 403 for automated requests, so no feed is read; the homepage is allowed by robots.txt."
+
+  # ---- Flagler County ----
+  - name: FlaglerLive
+    area: Flagler
+    feed_url: https://flaglerlive.com/feed/
+    status: active
+
+  - name: Palm Coast Observer
+    area: Flagler
+    feed_url: https://www.palmcoastobserver.com/rss/headlines/all/
+    status: active
+    county_filter_keywords: [palm-coast, flagler, bunnell, beverly-beach, marineland]
+    note: "Feed is shared across Observer Media Group markets (e.g. Ormond Beach); keywords keep only Flagler items."
