@@ -14,6 +14,8 @@
     --text-muted: #5b6370;
     --accent: #2563eb;
     --accent-text: #ffffff;
+    --link: #2563eb;
+    --link-visited: #7a6aa8;
     --pill-bg: #eef1f5;
     --pill-text: #3a4048;
     --shadow: 0 1px 2px rgba(0,0,0,0.06);
@@ -27,6 +29,8 @@
       --text-muted: #9aa2ad;
       --accent: #5b8cff;
       --accent-text: #0b1021;
+      --link: #8fb4ff;
+      --link-visited: #7a84a0;
       --pill-bg: #262a31;
       --pill-text: #c3c9d1;
       --shadow: 0 1px 2px rgba(0,0,0,0.4);
@@ -40,6 +44,8 @@
     --text-muted: #9aa2ad;
     --accent: #5b8cff;
     --accent-text: #0b1021;
+    --link: #8fb4ff;
+    --link-visited: #7a84a0;
     --pill-bg: #262a31;
     --pill-text: #c3c9d1;
     --shadow: 0 1px 2px rgba(0,0,0,0.4);
@@ -53,7 +59,8 @@
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
   }
-  a { color: var(--accent); text-decoration: none; }
+  a { color: var(--link); text-decoration: none; }
+  a:visited { color: var(--link-visited); }
   a:hover { text-decoration: underline; }
 
   header {
@@ -190,9 +197,6 @@
     font-size: 0.95rem;
     flex: 1 1 100%;
   }
-  .headline:visited {
-    color: var(--text);
-  }
   .empty-state, .loading-state {
     text-align: center;
     color: var(--text-muted);
@@ -208,6 +212,16 @@
     text-align: center;
   }
 
+  #fav-btn {
+    flex: 0 0 auto; border: 1px solid var(--border); background: var(--surface); color: var(--text-muted);
+    border-radius: 8px; padding: 6px 10px; font-size: 1.1rem; line-height: 1.2; cursor: pointer;
+  }
+  #fav-btn.on { color: #e0a800; border-color: #e0a800; }
+  #category-select {
+    padding: 8px 12px; border: 1px solid var(--border); border-radius: 8px;
+    background: var(--surface); color: var(--text); font-size: 0.9rem; max-width: 45%;
+  }
+  .cat { font-size: 0.7rem; color: var(--text-muted); border: 1px solid var(--border); border-radius: 999px; padding: 0 7px; }
   .metro-row { display: flex; gap: 8px; align-items: flex-start; max-width: 760px; margin: 0 auto 10px; }
   #metro-select, #metro-search {
     padding: 8px 12px; border: 1px solid var(--border); border-radius: 8px;
@@ -245,6 +259,7 @@
   </div>
   <div class="metro-row">
     <select id="metro-select" aria-label="Choose a metro area"></select>
+    <button id="fav-btn" type="button" aria-label="Make this my default area" title="Make this my default area">&#9734;</button>
     <div class="metro-search-wrap">
       <input id="metro-search" type="search" autocomplete="off" placeholder="Search city, county or metro&hellip;" aria-label="Find your area">
       <ul id="metro-results" hidden></ul>
@@ -254,6 +269,7 @@
     <div class="county-row" id="county-row" role="group" aria-label="Filter by area"></div>
     <div class="search-row">
       <input id="search" type="search" placeholder="Search headlines&hellip;" aria-label="Search headlines">
+      <select id="category-select" aria-label="Filter by category"></select>
     </div>
   </div>
 </header>
@@ -266,7 +282,7 @@
 (function () {
   "use strict";
 
-  var state = { metros: [], metro: null, articles: [], linkOnly: [], areas: [], area: "All", search: "" };
+  var state = { metros: [], metro: null, articles: [], linkOnly: [], areas: [], area: "All", category: "All", search: "" };
 
   function applyStoredTheme() {
     try {
@@ -330,6 +346,43 @@
     ul.hidden = false;
   }
 
+  function getFav() { try { return localStorage.getItem("lnf-fav"); } catch (e) { return null; } }
+
+  function updateFavBtn() {
+    var btn = document.getElementById("fav-btn");
+    var on = state.metro && getFav() === state.metro;
+    btn.classList.toggle("on", !!on);
+    btn.innerHTML = on ? "&#9733;" : "&#9734;";
+    var label = on ? "Your default area (click to clear)" : "Make this my default area";
+    btn.title = label;
+    btn.setAttribute("aria-label", label);
+    btn.setAttribute("aria-pressed", on ? "true" : "false");
+  }
+
+  function toggleFav() {
+    if (!state.metro) return;
+    try {
+      if (getFav() === state.metro) localStorage.removeItem("lnf-fav");
+      else localStorage.setItem("lnf-fav", state.metro);
+    } catch (e) { /* storage unavailable; nothing to save */ }
+    updateFavBtn();
+  }
+
+  function renderCategories() {
+    var counts = {};
+    state.articles.forEach(function (a) { var c = a.category || "Other"; counts[c] = (counts[c] || 0) + 1; });
+    var names = Object.keys(counts).sort(function (a, b) {
+      if (a === "Other") return 1;
+      if (b === "Other") return -1;
+      return counts[b] - counts[a];
+    });
+    var sel = document.getElementById("category-select");
+    sel.innerHTML = '<option value="All">All categories</option>' + names.map(function (c) {
+      return '<option value="' + escapeHtml(c) + '">' + escapeHtml(c) + ' (' + counts[c] + ')</option>';
+    }).join("");
+    sel.value = state.category;
+  }
+
   function chooseMetro(id) {
     document.getElementById("metro-results").hidden = true;
     document.getElementById("metro-search").value = "";
@@ -352,6 +405,7 @@
     var main = document.getElementById("main");
     var filtered = state.articles.filter(function (a) {
       if (state.area !== "All" && a.area !== state.area) return false;
+      if (state.category !== "All" && (a.category || "Other") !== state.category) return false;
       if (state.search && a.headline.toLowerCase().indexOf(state.search) === -1) return false;
       return true;
     });
@@ -389,6 +443,7 @@
             '<span class="meta">' + time + '</span>' +
             '<span class="meta">&middot; ' + escapeHtml(a.source) + '</span>' +
             '<span class="county-pill">' + escapeHtml(a.area) + '</span>' +
+            (a.category && a.category !== "Other" ? '<span class="cat">' + escapeHtml(a.category) + '</span>' : '') +
             '<a class="headline" href="' + escapeHtml(a.link) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(a.headline) + '</a>' +
           '</li>'
         );
@@ -410,6 +465,7 @@
         state.linkOnly = data.link_only || [];
         state.areas = data.areas || [];
         state.area = "All";
+        state.category = "All";
         state.search = "";
         document.getElementById("search").value = "";
         document.getElementById("title").firstChild.nodeValue = "Local News Feed";
@@ -418,6 +474,8 @@
         document.getElementById("footer").textContent =
           state.articles.length + " headlines \u00b7 updated " + new Date(data.generated_at).toLocaleString();
         renderAreas();
+        renderCategories();
+        updateFavBtn();
         render();
       })
       .catch(function (err) {
@@ -428,7 +486,7 @@
 
   function initialMetro() {
     var wanted = null;
-    try { wanted = new URLSearchParams(location.search).get("metro") || localStorage.getItem("lnf-metro"); } catch (e) { /* ignore */ }
+    try { wanted = new URLSearchParams(location.search).get("metro") || localStorage.getItem("lnf-fav") || localStorage.getItem("lnf-metro"); } catch (e) { /* ignore */ }
     var ids = state.metros.map(function (m) { return m.id; });
     return ids.indexOf(wanted) !== -1 ? wanted : ids[0];
   }
@@ -437,6 +495,8 @@
     document.getElementById("theme-toggle").addEventListener("click", toggleTheme);
 
     document.getElementById("metro-select").addEventListener("change", function (e) { chooseMetro(e.target.value); });
+    document.getElementById("fav-btn").addEventListener("click", toggleFav);
+    document.getElementById("category-select").addEventListener("change", function (e) { state.category = e.target.value; render(); });
 
     var box = document.getElementById("metro-search");
     box.addEventListener("input", function () { showResults(box.value); });

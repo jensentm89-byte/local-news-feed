@@ -1,8 +1,8 @@
 # Source health
 
-Generated 2026-10-17 05:17Z.
+Generated 2026-10-17 13:05Z.
 
-Active feeds: 436 · link-only: 196 · paused: 1
+Active feeds: 489 · link-only: 222 · paused: 1
 
 ## Atlanta, GA
 
@@ -21,13 +21,17 @@ Active feeds: 436 · link-only: 196 · paused: 1
 
 - **silent** Better Government Association: newest story 28 days old
 
+## Columbus, OH
+
+- **no stories yet** Circleville Herald
+
 ## Dallas–Fort Worth, TX
 
 - **silent** Dallas Free Press: newest story 14 days old
 
-## Denver, CO
+## Indianapolis, IN
 
-- **failing** Castle Rock News-Press: 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **no stories yet** Shelbyville News
 
 ## Jacksonville, FL
 
@@ -43,11 +47,19 @@ Active feeds: 436 · link-only: 196 · paused: 1
 - **silent** Park Bugle: newest story 15 days old
 - **silent** Hmong Times: newest story 16 days old
 
+## Nashville, TN
+
+- **silent** Murfreesboro Pulse: newest story 15 days old
+
 ## New York, NY
 
 - **no stories yet** Queens Post
 - **no stories yet** Astoria Post
 - **silent** Norwood News: newest story 17 days old
+
+## Philadelphia, PA
+
+- **silent** Generocity Philly: newest story 10 days old
 
 ## Tampa–St. Petersburg, FL
 

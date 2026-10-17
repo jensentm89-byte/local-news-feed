@@ -199,6 +199,7 @@ def process_feed(source, existing_links, metro_regexes=None):
 
     cutoff = (now_utc() - timedelta(days=RETENTION_DAYS)).strftime(TIME_FORMAT)
     summary_by_link = {}
+    tags_by_link = {}
     new_items = []
     for entry in parsed.entries:
         link = getattr(entry, "link", None)
@@ -210,6 +211,7 @@ def process_feed(source, existing_links, metro_regexes=None):
         if keywords and not any(k.lower() in link.lower() or k.lower() in headline.lower() for k in keywords):
             continue
         summary_by_link[link] = to_text(getattr(entry, "summary", "") or "")
+        tags_by_link[link] = [to_text(tag.get("term", "")) for tag in getattr(entry, "tags", []) or []]
         new_items.append(
             {
                 "headline": headline,
@@ -220,6 +222,8 @@ def process_feed(source, existing_links, metro_regexes=None):
                 "fetched_at": fetched_at,
             }
         )
+    for item in new_items:
+        item["category"] = categorize(item["headline"], tags_by_link[item["link"]])
     if source.get("filter") == "local" and metro_regexes is not None:
         # The excerpt is used only to decide relevance and is never stored or published.
         for item in new_items:
@@ -266,6 +270,47 @@ def process_homepage(source):
     if headline:
         entry["headline"], entry["url"] = headline, url
     return entry
+
+
+# ---------------------------------------------------------------- categories
+#
+# One category per story, chosen by keyword rules on the headline (and the feed's own
+# category tags when it has them). Rule-based, so some stories will be mislabelled.
+
+CATEGORY_PATTERNS = [
+    ("Weather", r"weather|forecast|storms?|hurricane|tropical|tornado|flood\w*|rain\w*|thunderstorm|heat advisory|heat wave|freez\w*|frost|snow\w*|blizzard|wind advisory|high winds?|red flag|nor'?easter|cold front|temperatures|heat index|drought|el ni[nñ]o|first alert|wildfire|fire danger"),
+    ("Crime & Safety", r"shot|shoot\w*|gunman|gunfire|killed|killing|murder\w*|homicide|stabb\w*|arrest\w*|charged|charges|indict\w*|sentenc\w*|convict\w*|guilty|plea|suspects?|police|sheriff\w*|deputies|deputy|officers?|robbery|burglar\w*|theft|stolen|carjack\w*|assault\w*|abuse|kidnap\w*|missing|amber alert|manhunt|standoff|lockdown|fatal\w*|dies|dead|overdose|fentanyl|trafficking|fraud|scam\w*|jail|prison|inmates?|court|trial|judge|lawsuit|sued|prosecut\w*|detectives?|crime|ICE agents?|fire crews?|firefighters?|blaze|evacuat\w*"),
+    ("Traffic & Transit", r"traffic|road closures?|lane closures?|lanes closed|detour|commut\w*|highway|interstate|I-\d+|US-\d+|expressway|turnpike|bridge|crash\w*|collision|wreck|rollover|bus|buses|transit|metro(?:rail)?|light rail|subway|train|amtrak|airport|flights?|airlines?|ferry|rideshare|uber|lyft|bike lanes?|pedestrian|tolls?|potholes?|road work|roadwork|street closures?|parking"),
+    ("Sports", r"nfl|nba|mlb|nhl|mls|wnba|ncaa|football|basketball|baseball|softball|volleyball|soccer|hockey|lacrosse|golf|tennis|wrestling|playoffs?|postseason|championship|quarterback|touchdown|coach|preseason|win streak|shutout|shuts out|rolls past|defeats?|falls to|beats?|tournament|olympic\w*|world series|super bowl|bowl game|march madness|recap|roster|lineup card|injury report|trade deadline|draft pick|game \d|\bvs\.?\b"),
+    ("Education", r"schools?|students?|teachers?|districts?|superintendent|principal|universit\w*|colleges?|campus|classrooms?|graduat\w*|curriculum|tuition|enrollment|kindergarten|PTA|scholarships?|education|academic|dropout|school board"),
+    ("Health", r"hospitals?|health\w*|medical|doctors?|cancer|covid|flu|vaccin\w*|measles|disease|medicaid|medicare|clinics?|patients?|mental health|opioid|surgery|nurs\w*|outbreak|pharmac\w*|dementia|diabetes|obesity|wellness"),
+    ("Government & Politics", r"council|mayor|commissioners?|city hall|county commission|board of|election\w*|vote\w*|voters?|voting|ballot\w*|candidates?|campaign\w*|governor|legislat\w*|lawmakers?|senate|senator|congress\w*|representative|trump|biden|harris|republicans?|democrat\w*|GOP|budget|tax|taxes|ordinance|referendum|ban|bill|policy|immigration|redistrict\w*|midterms?|state house|statehouse|attorney general|supervisors?|city manager|public records|ethics"),
+    ("Development & Housing", r"development|developer\w*|rezon\w*|zoning|housing|apartments?|condos?|towers?|mixed-use|groundbreaking|construction|renovation|redevelopment|real estate|home prices|mortgage|rent|rents|landlords?|eviction\w*|permits?|subdivision|new homes|homebuyers?|homeowners?|high-rise|skyscraper|master plan|site plan"),
+    ("Food & Events", r"restaurants?|menu|chef|food|dining|brewery|cafe|coffee|bakery|pizza|taco\w*|bbq|barbecue|festival|concert|tours?|exhibit\w*|museum|theat(?:er|re)|film|movie|music|band|fair|parade|things to do|weekend|events?|halloween|holiday|christmas|thanksgiving|gallery|comedy|trivia|farmers market|tickets|artists?|performance|opens? (?:its|a|new)|grand opening|happy hour|cocktail|wine|beer"),
+    ("Business", r"business\w*|compan\w*|jobs|hiring|layoffs?|employees|economy|economic|inflation|stocks?|market|investors?|CEO|startups?|bank|retail|stores?|plants?|factory|manufactur\w*|tariffs?|prices|unemployment|wages|strike|earnings|profit|merger|acquisition|bankruptcy|funding|grants?|expansion|headquarters|investment|revenue"),
+]
+CATEGORY_REGEXES = [(name, re.compile(rf"(?<![A-Za-z0-9])(?:{pat})(?![A-Za-z0-9])", re.I)) for name, pat in CATEGORY_PATTERNS]
+TAG_HINTS = [
+    ("Sports", ("sport",)), ("Weather", ("weather",)), ("Crime & Safety", ("crime", "police", "public safety", "courts")),
+    ("Government & Politics", ("politic", "government", "election")), ("Education", ("education", "school")),
+    ("Health", ("health",)), ("Traffic & Transit", ("traffic", "transport", "transit")),
+    ("Development & Housing", ("real estate", "housing", "development")), ("Business", ("business", "economy", "money")),
+    ("Food & Events", ("food", "dining", "restaurant", "entertainment", "arts", "events", "things to do", "lifestyle")),
+]
+
+
+def categorize(headline, tags=()):
+    """Return one category name for a story, or "Other"."""
+    tag_text = " ".join(tags).lower()
+    for name, hints in TAG_HINTS:
+        if any(h in tag_text for h in hints):
+            return name
+    best, best_score = "Other", 0
+    for name, regex in CATEGORY_REGEXES:
+        score = len(regex.findall(headline))
+        if score > best_score:  # ties go to the earlier (higher-priority) category
+            best, best_score = name, score
+    return best
 
 
 # ---------------------------------------------------------------- local-relevance filter
@@ -359,6 +404,7 @@ def recent_articles(path, keep=None):
                 if published >= cutoff:
                     article["headline"] = to_text(article["headline"])
                     article.pop("excerpt", None)
+                    article.setdefault("category", categorize(article["headline"]))
                     if keep is None or keep(article):
                         recent.append(article)
     recent.sort(key=lambda a: a["published"], reverse=True)

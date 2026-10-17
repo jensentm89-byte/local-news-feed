@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T05:37:59Z",
+  "generated_at": "2026-10-17T13:05:36Z",
   "name": "Nashville, TN",
   "areas": [
     "Nashville",
@@ -9,12 +9,50 @@
   ],
   "articles": [
     {
+      "headline": "I-65 southbound closed in Williamson County after crash",
+      "link": "https://www.wkrn.com/news/local-news/i-65-southbound-closed-in-williamson-county-after-crash/",
+      "published": "2026-10-17T12:47:31Z",
+      "source": "WKRN News 2",
+      "area": "Nashville",
+      "fetched_at": "2026-10-17T13:03:22Z",
+      "category": "Traffic & Transit"
+    },
+    {
+      "headline": "Kentucky man faces 1,134 CSAM charges after phone search",
+      "link": "https://www.wkrn.com/news/kentucky/kentucky-man-faces-1134-csam-charges-after-phone-search/",
+      "published": "2026-10-17T12:24:40Z",
+      "source": "WKRN News 2",
+      "area": "Nashville",
+      "fetched_at": "2026-10-17T13:03:22Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Sunny today, frosty tonight!",
+      "link": "https://www.wkrn.com/weather-headlines/tn-forecast/october-17-2026/",
+      "published": "2026-10-17T12:00:03Z",
+      "source": "WKRN News 2",
+      "area": "Nashville",
+      "fetched_at": "2026-10-17T13:03:22Z",
+      "category": "Weather"
+    },
+    {
+      "headline": "Woman previously convicted of killing husband arrested again on new charge",
+      "link": "https://www.wsmv.com/2026/10/17/woman-previously-convicted-killing-husband-arrested-again-new-charge/",
+      "published": "2026-10-17T05:35:35Z",
+      "source": "WSMV 4",
+      "area": "Nashville",
+      "fetched_at": "2026-10-17T13:03:19Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
       "headline": "Plans for new jail turn into battle over land in Rutherford County",
       "link": "https://www.wkrn.com/news/local-news/murfreesboro/plans-for-new-jail-turn-into-battle-over-land-in-rutherford-county/",
       "published": "2026-10-17T03:53:40Z",
       "source": "WKRN News 2",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:30Z"
+      "fetched_at": "2026-10-17T05:37:30Z",
+      "category": "Crime & Safety"
     },
     {
       "headline": "Parents of Nashville ambush victims say they were delivering food with DoorDash",
@@ -23,7 +61,8 @@
       "source": "WSMV 4",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:30Z",
-      "local": true
+      "local": true,
+      "category": "Food & Events"
     },
     {
       "headline": "No injuries reported after home near Old Hickory damaged in fire",
@@ -32,7 +71,8 @@
       "source": "WSMV 4",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:30Z",
-      "local": true
+      "local": true,
+      "category": "Other"
     },
     {
       "headline": "Lawmaker doubles down, speaks publicly about possible MNPS takeover",
@@ -40,7 +80,8 @@
       "published": "2026-10-17T00:22:00Z",
       "source": "WKRN News 2",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:30Z"
+      "fetched_at": "2026-10-17T05:37:30Z",
+      "category": "Government & Politics"
     },
     {
       "headline": "‘It happens all the time’: Neighbors want additional safety measures after Una shooting",
@@ -49,7 +90,8 @@
       "source": "WSMV 4",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:30Z",
-      "local": true
+      "local": true,
+      "category": "Crime & Safety"
     },
     {
       "headline": "Losing bidder in Choice Lanes project files second lawsuit against TDOT",
@@ -57,7 +99,8 @@
       "published": "2026-10-16T23:29:59Z",
       "source": "WKRN News 2",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:30Z"
+      "fetched_at": "2026-10-17T05:37:30Z",
+      "category": "Crime & Safety"
     },
     {
       "headline": "Paris mother says son was hit with his own lunchbox at school by worker",
@@ -65,7 +108,8 @@
       "published": "2026-10-16T23:17:39Z",
       "source": "WKRN News 2",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:30Z"
+      "fetched_at": "2026-10-17T05:37:30Z",
+      "category": "Education"
     },
     {
       "headline": "Extra weekend traffic expected on side streets due to I-65 closure in Nashville",
@@ -73,7 +117,8 @@
       "published": "2026-10-16T22:58:09Z",
       "source": "WKRN News 2",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:30Z"
+      "fetched_at": "2026-10-17T05:37:30Z",
+      "category": "Traffic & Transit"
     },
     {
       "headline": "From Brentwood Academy to Rocky Top: George MacIntyre takes center stage in Tennessee-Alabama rivalry",
@@ -82,7 +127,8 @@
       "source": "WSMV 4",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:30Z",
-      "local": true
+      "local": true,
+      "category": "Other"
     },
     {
       "headline": "Nashville schools expand security as Oregon shooting raises familiar questions",
@@ -91,7 +137,8 @@
       "source": "WSMV 4",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:30Z",
-      "local": true
+      "local": true,
+      "category": "Crime & Safety"
     },
     {
       "headline": "New Nissan Stadium to host 2027 Banana Ball championship",
@@ -100,7 +147,8 @@
       "source": "WSMV 4",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:30Z",
-      "local": true
+      "local": true,
+      "category": "Sports"
     },
     {
       "headline": "White Bluff police officer heralded for saving choking baby",
@@ -108,7 +156,8 @@
       "published": "2026-10-16T22:12:47Z",
       "source": "WKRN News 2",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:30Z"
+      "fetched_at": "2026-10-17T05:37:30Z",
+      "category": "Crime & Safety"
     },
     {
       "headline": "Defense Secretary Pete Hegseth to attend Tennessee-Alabama game at Neyland Stadium on Saturday",
@@ -117,7 +166,8 @@
       "source": "WSMV 4",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:30Z",
-      "local": true
+      "local": true,
+      "category": "Other"
     },
     {
       "headline": "Deadly shooting at Birchstone Village Apartments leaves community searching for answers",
@@ -126,7 +176,8 @@
       "source": "WSMV 4",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:30Z",
-      "local": true
+      "local": true,
+      "category": "Crime & Safety"
     },
     {
       "headline": "Titans CEO Burke Nihill talks with News 2",
@@ -134,7 +185,8 @@
       "published": "2026-10-16T21:53:57Z",
       "source": "WKRN News 2",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:30Z"
+      "fetched_at": "2026-10-17T05:37:30Z",
+      "category": "Business"
     },
     {
       "headline": "Teen girl charged with homicide following Grundy County shooting",
@@ -142,7 +194,8 @@
       "published": "2026-10-16T21:19:06Z",
       "source": "WKRN News 2",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:30Z"
+      "fetched_at": "2026-10-17T05:37:30Z",
+      "category": "Crime & Safety"
     },
     {
       "headline": "Teen charged after woman found dead in Grundy County home",
@@ -151,7 +204,8 @@
       "source": "WSMV 4",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:30Z",
-      "local": true
+      "local": true,
+      "category": "Crime & Safety"
     },
     {
       "headline": "Baseball’s Top Golf? Batter Up Social plans Nashville flagship location in 2028",
@@ -160,7 +214,8 @@
       "source": "WSMV 4",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:30Z",
-      "local": true
+      "local": true,
+      "category": "Sports"
     },
     {
       "headline": "InvestigateTV+ Weekend: The fight for water product safety changes",
@@ -169,7 +224,8 @@
       "source": "WSMV 4",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:30Z",
-      "local": true
+      "local": true,
+      "category": "Food & Events"
     },
     {
       "headline": "Murfreesboro firefighters rescue trapped man, 2 pets from burning home",
@@ -178,7 +234,8 @@
       "source": "WSMV 4",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:30Z",
-      "local": true
+      "local": true,
+      "category": "Crime & Safety"
     },
     {
       "headline": "2027 pay raise for disabled veterans, military retirees announced",
@@ -187,7 +244,8 @@
       "source": "WSMV 4",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:30Z",
-      "local": true
+      "local": true,
+      "category": "Other"
     },
     {
       "headline": "Fairgrounds Petition Certified After 27,567 Bad Signatures Are Tossed",
@@ -196,7 +254,8 @@
       "source": "Nashville Scene",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:29Z",
-      "local": true
+      "local": true,
+      "category": "Other"
     },
     {
       "headline": "Tennessee Republican candidate for state house says death threat targeted her family on first day of early voting",
@@ -205,7 +264,8 @@
       "source": "WSMV 4",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:30Z",
-      "local": true
+      "local": true,
+      "category": "Government & Politics"
     },
     {
       "headline": "Election Commission Puts Fairgrounds Racing Referendum on Nashville Ballot Next Year",
@@ -213,7 +273,8 @@
       "published": "2026-10-16T19:21:13Z",
       "source": "The Nashville Banner",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:29Z"
+      "fetched_at": "2026-10-17T05:37:29Z",
+      "category": "Government & Politics"
     },
     {
       "headline": "Man dead, teen critically injured after shooting at Madison apartment complex",
@@ -221,7 +282,8 @@
       "published": "2026-10-16T15:45:21Z",
       "source": "WKRN News 2",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:30Z"
+      "fetched_at": "2026-10-17T05:37:30Z",
+      "category": "Crime & Safety"
     },
     {
       "headline": "Suspicious package destined for Tennessee elections office intercepted by authorities",
@@ -229,7 +291,8 @@
       "published": "2026-10-16T14:53:51Z",
       "source": "WPLN",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:29Z"
+      "fetched_at": "2026-10-17T05:37:29Z",
+      "category": "Government & Politics"
     },
     {
       "headline": "FBI, USPIS Investigating ‘Suspicious Package’ Sent to State Election Office",
@@ -238,7 +301,8 @@
       "source": "Nashville Scene",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:29Z",
-      "local": true
+      "local": true,
+      "category": "Government & Politics"
     },
     {
       "headline": "Nashvillager Podcast: Political treason?",
@@ -246,7 +310,8 @@
       "published": "2026-10-16T11:37:22Z",
       "source": "WPLN",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:29Z"
+      "fetched_at": "2026-10-17T05:37:29Z",
+      "category": "Other"
     },
     {
       "headline": "Oct. 16: Tennessee’s Unemployment Rate Holds Steady; Early Voting Participation Picks Up",
@@ -254,7 +319,8 @@
       "published": "2026-10-16T11:05:00Z",
       "source": "The Nashville Banner",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:29Z"
+      "fetched_at": "2026-10-17T05:37:29Z",
+      "category": "Government & Politics"
     },
     {
       "headline": "Everyone Agrees Housing is an Issue in Nashville and Tennessee, but Candidates and Experts Offer Different Solutions",
@@ -262,7 +328,8 @@
       "published": "2026-10-16T11:02:00Z",
       "source": "The Nashville Banner",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:29Z"
+      "fetched_at": "2026-10-17T05:37:29Z",
+      "category": "Government & Politics"
     },
     {
       "headline": "Cool breezy weekend ahead",
@@ -270,7 +337,8 @@
       "published": "2026-10-16T10:56:46Z",
       "source": "WKRN News 2",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:30Z"
+      "fetched_at": "2026-10-17T05:37:30Z",
+      "category": "Food & Events"
     },
     {
       "headline": "Republicans and Democrats find a unifying target: pharmacy benefit managers",
@@ -278,7 +346,8 @@
       "published": "2026-10-16T10:48:52Z",
       "source": "WPLN",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:29Z"
+      "fetched_at": "2026-10-17T05:37:29Z",
+      "category": "Government & Politics"
     },
     {
       "headline": "Commentary: November 3 Will Tell the Story",
@@ -287,7 +356,8 @@
       "source": "The Tennessee Tribune",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:31Z",
-      "local": true
+      "local": true,
+      "category": "Other"
     },
     {
       "headline": "91,144 Tennesseans Have Already Voted as Democratic Early Turnout Builds Momentum",
@@ -296,7 +366,8 @@
       "source": "The Tennessee Tribune",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:31Z",
-      "local": true
+      "local": true,
+      "category": "Government & Politics"
     },
     {
       "headline": "Blackburn promotes coal, nuclear while Green vows to protect rivers, forest and farmland",
@@ -304,7 +375,8 @@
       "published": "2026-10-15T19:49:33Z",
       "source": "WPLN",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:29Z"
+      "fetched_at": "2026-10-17T05:37:29Z",
+      "category": "Other"
     },
     {
       "headline": "Breaking Down the Constitutional Amendments on Tennesseans' Ballots",
@@ -313,7 +385,8 @@
       "source": "Nashville Scene",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:29Z",
-      "local": true
+      "local": true,
+      "category": "Government & Politics"
     },
     {
       "headline": "Nashville voter turnout 15 times higher than last midterm so far",
@@ -321,7 +394,8 @@
       "published": "2026-10-15T17:39:03Z",
       "source": "WPLN",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:29Z"
+      "fetched_at": "2026-10-17T05:37:29Z",
+      "category": "Government & Politics"
     },
     {
       "headline": "Worried about the mix of meds you’re taking? Start a conversation with your doctor",
@@ -329,7 +403,8 @@
       "published": "2026-10-15T16:13:04Z",
       "source": "WPLN",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:29Z"
+      "fetched_at": "2026-10-17T05:37:29Z",
+      "category": "Health"
     },
     {
       "headline": "Nashvillager Podcast: Mail service",
@@ -337,7 +412,8 @@
       "published": "2026-10-15T11:27:15Z",
       "source": "WPLN",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:29Z"
+      "fetched_at": "2026-10-17T05:37:29Z",
+      "category": "Other"
     },
     {
       "headline": "Oct. 15: Order of Protection for Fairgrounds Racing Proponent Dissolved; Thousands Turn Out on First Day of Early Voting",
@@ -345,7 +421,8 @@
       "published": "2026-10-15T11:05:00Z",
       "source": "The Nashville Banner",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:29Z"
+      "fetched_at": "2026-10-17T05:37:29Z",
+      "category": "Government & Politics"
     },
     {
       "headline": "As Benefits Losses Continue, Candidates Consider Who Can Have Access",
@@ -353,7 +430,8 @@
       "published": "2026-10-15T11:04:00Z",
       "source": "The Nashville Banner",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:29Z"
+      "fetched_at": "2026-10-17T05:37:29Z",
+      "category": "Government & Politics"
     },
     {
       "headline": "Ad Watch: Chaz Molder Drops Pair of Ads Attacking Charlie Hatcher",
@@ -361,7 +439,8 @@
       "published": "2026-10-15T11:03:00Z",
       "source": "The Nashville Banner",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:29Z"
+      "fetched_at": "2026-10-17T05:37:29Z",
+      "category": "Other"
     },
     {
       "headline": "TSU leaders say playing home football games at Nissan Stadium makes financial sense. Here’s why.",
@@ -369,7 +448,8 @@
       "published": "2026-10-15T10:30:13Z",
       "source": "WPLN",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:29Z"
+      "fetched_at": "2026-10-17T05:37:29Z",
+      "category": "Sports"
     },
     {
       "headline": "Flock cameras are dividing Tennessee towns. Here’s the split in Murfreesboro.",
@@ -377,7 +457,8 @@
       "published": "2026-10-15T09:31:27Z",
       "source": "WPLN",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:29Z"
+      "fetched_at": "2026-10-17T05:37:29Z",
+      "category": "Other"
     },
     {
       "headline": "Early Voting Begins October 14",
@@ -386,7 +467,8 @@
       "source": "The Tennessee Tribune",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:31Z",
-      "local": true
+      "local": true,
+      "category": "Government & Politics"
     },
     {
       "headline": "Voters Amendment Seeks Bail Change",
@@ -395,7 +477,8 @@
       "source": "The Tennessee Tribune",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:31Z",
-      "local": true
+      "local": true,
+      "category": "Government & Politics"
     },
     {
       "headline": "Waymo Robotaxi Service Expands to BNA",
@@ -404,7 +487,8 @@
       "source": "Nashville Scene",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:29Z",
-      "local": true
+      "local": true,
+      "category": "Other"
     },
     {
       "headline": "911 recordings show why ambulance was delayed after Pike’s failed execution",
@@ -412,7 +496,8 @@
       "published": "2026-10-14T17:48:41Z",
       "source": "WPLN",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:29Z"
+      "fetched_at": "2026-10-17T05:37:29Z",
+      "category": "Other"
     },
     {
       "headline": "Early Voting Opens Across Tennessee Ahead of Midterms",
@@ -421,7 +506,8 @@
       "source": "Nashville Scene",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:29Z",
-      "local": true
+      "local": true,
+      "category": "Government & Politics"
     },
     {
       "headline": "4 tales from Tennessee election history to read during early voting that may surprise you",
@@ -429,7 +515,8 @@
       "published": "2026-10-14T12:16:01Z",
       "source": "WPLN",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:29Z"
+      "fetched_at": "2026-10-17T05:37:29Z",
+      "category": "Government & Politics"
     },
     {
       "headline": "Nashvillager Podcast: How Tennessee became a supermajority state",
@@ -437,7 +524,8 @@
       "published": "2026-10-14T11:21:13Z",
       "source": "WPLN",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:29Z"
+      "fetched_at": "2026-10-17T05:37:29Z",
+      "category": "Other"
     },
     {
       "headline": "Oct. 14: Tennessee Valley Authority Powers Up; Nashville Broadcast Personality Jimmy Carter Dies",
@@ -445,7 +533,8 @@
       "published": "2026-10-14T11:05:00Z",
       "source": "The Nashville Banner",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:29Z"
+      "fetched_at": "2026-10-17T05:37:29Z",
+      "category": "Crime & Safety"
     },
     {
       "headline": "Preemption in Immigration and Law Enforcement Are on the Ballot in Tennessee",
@@ -453,7 +542,8 @@
       "published": "2026-10-14T11:03:00Z",
       "source": "The Nashville Banner",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:29Z"
+      "fetched_at": "2026-10-17T05:37:29Z",
+      "category": "Government & Politics"
     },
     {
       "headline": "Quiz: Which Tennessee Candidate for Governor Do You Align With?",
@@ -461,7 +551,8 @@
       "published": "2026-10-14T11:02:00Z",
       "source": "The Nashville Banner",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:29Z"
+      "fetched_at": "2026-10-17T05:37:29Z",
+      "category": "Government & Politics"
     },
     {
       "headline": "Fort Negley Park Construction Gets Underway",
@@ -470,7 +561,8 @@
       "source": "Nashville Scene",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:29Z",
-      "local": true
+      "local": true,
+      "category": "Development & Housing"
     },
     {
       "headline": "Onward Real Estate Shows the Power of Local Ownership With $3.7 Billion in Sales",
@@ -479,7 +571,8 @@
       "source": "The Tennessee Tribune",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:31Z",
-      "local": true
+      "local": true,
+      "category": "Development & Housing"
     },
     {
       "headline": "Metro to award $40M for affordable housing in largest Barnes Fund round in program history",
@@ -488,7 +581,8 @@
       "source": "The Tennessee Tribune",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:31Z",
-      "local": true
+      "local": true,
+      "category": "Traffic & Transit"
     },
     {
       "headline": "MNPS Students Learn in Two Languages at New Immersion Magnet Schools",
@@ -497,7 +591,8 @@
       "source": "The Tennessee Tribune",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:31Z",
-      "local": true
+      "local": true,
+      "category": "Education"
     },
     {
       "headline": "Thousands of Davidson County Properties Receive Flood Risk Notifications",
@@ -506,7 +601,8 @@
       "source": "The Tennessee Tribune",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:31Z",
-      "local": true
+      "local": true,
+      "category": "Weather"
     },
     {
       "headline": "Nashvillager Podcast: Food dye, the legality of caffeine, and barrels of Coca-Cola",
@@ -514,7 +610,8 @@
       "published": "2026-10-13T12:02:08Z",
       "source": "WPLN",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:29Z"
+      "fetched_at": "2026-10-17T05:37:29Z",
+      "category": "Food & Events"
     },
     {
       "headline": "Oct. 13: Federal Courthouse Shooter Identified; Jerri Green Will Debate Independent Gubernatorial Candidates",
@@ -522,7 +619,8 @@
       "published": "2026-10-13T11:05:00Z",
       "source": "The Nashville Banner",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:29Z"
+      "fetched_at": "2026-10-17T05:37:29Z",
+      "category": "Crime & Safety"
     },
     {
       "headline": "‘Legislation to Living Room’: Reentry Home Opens for Incarcerated Women",
@@ -531,7 +629,8 @@
       "source": "Nashville Scene",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:29Z",
-      "local": true
+      "local": true,
+      "category": "Government & Politics"
     },
     {
       "headline": "Tennessee Amendment 3 gives voters say on Marsy’s Law and expanded crime victim rights",
@@ -539,7 +638,8 @@
       "published": "2026-10-13T09:25:35Z",
       "source": "WPLN",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:29Z"
+      "fetched_at": "2026-10-17T05:37:29Z",
+      "category": "Crime & Safety"
     },
     {
       "headline": "Christa Pike Back in Prison After Being Discharged From Hospital",
@@ -548,7 +648,8 @@
       "source": "Nashville Scene",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:29Z",
-      "local": true
+      "local": true,
+      "category": "Crime & Safety"
     },
     {
       "headline": "Kid Rock Stokes Islamophobic Fears at Trump Rally in Clarksville",
@@ -557,7 +658,8 @@
       "source": "Nashville Scene",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:29Z",
-      "local": true
+      "local": true,
+      "category": "Government & Politics"
     },
     {
       "headline": "Nashvillager Podcast: Tennessee, death penalty test case",
@@ -565,7 +667,8 @@
       "published": "2026-10-12T12:39:59Z",
       "source": "WPLN",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:29Z"
+      "fetched_at": "2026-10-17T05:37:29Z",
+      "category": "Other"
     },
     {
       "headline": "William Edmondson, a Quarry Accident, and a Vanished Black Cemetery",
@@ -574,7 +677,8 @@
       "source": "Nashville Scene",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:29Z",
-      "local": true
+      "local": true,
+      "category": "Other"
     },
     {
       "headline": "Tennessee Amendment 1 asks voters to change bail rules",
@@ -582,7 +686,8 @@
       "published": "2026-10-12T09:25:34Z",
       "source": "WPLN",
       "area": "Nashville",
-      "fetched_at": "2026-10-17T05:37:29Z"
+      "fetched_at": "2026-10-17T05:37:29Z",
+      "category": "Government & Politics"
     },
     {
       "headline": "ICE Trying to Build Its Attorney Team in Nashville",
@@ -591,7 +696,8 @@
       "source": "Nashville Scene",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:29Z",
-      "local": true
+      "local": true,
+      "category": "Other"
     },
     {
       "headline": "What We Know About Thursday's Shooting at the Federal Courthouse",
@@ -600,7 +706,8 @@
       "source": "Nashville Scene",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:29Z",
-      "local": true
+      "local": true,
+      "category": "Crime & Safety"
     },
     {
       "headline": "Thiel Becomes Nashville’s Edgiest Pastor",
@@ -609,7 +716,8 @@
       "source": "Nashville Scene",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:29Z",
-      "local": true
+      "local": true,
+      "category": "Other"
     },
     {
       "headline": "Federal Judge Dismisses DC BLOX Lawsuit Against Metro",
@@ -618,7 +726,8 @@
       "source": "Nashville Scene",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:29Z",
-      "local": true
+      "local": true,
+      "category": "Crime & Safety"
     },
     {
       "headline": "Davidson County Sheriff Daron Hall to Enter Private Sector",
@@ -627,7 +736,8 @@
       "source": "Nashville Scene",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:29Z",
-      "local": true
+      "local": true,
+      "category": "Crime & Safety"
     },
     {
       "headline": "Judge Orders State to Preserve Pike Execution Evidence",
@@ -636,7 +746,8 @@
       "source": "Nashville Scene",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:29Z",
-      "local": true
+      "local": true,
+      "category": "Crime & Safety"
     },
     {
       "headline": "Metro Council Delays Vote on Right-on-Red Restrictions",
@@ -645,7 +756,8 @@
       "source": "Nashville Scene",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:29Z",
-      "local": true
+      "local": true,
+      "category": "Government & Politics"
     },
     {
       "headline": "Blackburn, Hagerty Court Nuclear Power for New Data Centers",
@@ -654,7 +766,8 @@
       "source": "Nashville Scene",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:29Z",
-      "local": true
+      "local": true,
+      "category": "Crime & Safety"
     },
     {
       "headline": "Copeland Files Ethics Complaint Against Congressional Opponent Van Epps",
@@ -663,7 +776,8 @@
       "source": "Nashville Scene",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:29Z",
-      "local": true
+      "local": true,
+      "category": "Government & Politics"
     },
     {
       "headline": "Tech and Government Leaders Converge in Nashville for ImagineIF Conference",
@@ -672,7 +786,8 @@
       "source": "Nashville Scene",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:29Z",
-      "local": true
+      "local": true,
+      "category": "Other"
     },
     {
       "headline": "Historic Civil War Sites Wrestle With Event Offerings",
@@ -681,7 +796,8 @@
       "source": "Nashville Scene",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:29Z",
-      "local": true
+      "local": true,
+      "category": "Food & Events"
     },
     {
       "headline": "Third Boring Company Tunneling Machine Launch Set for Late October",
@@ -690,7 +806,8 @@
       "source": "Nashville Scene",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:29Z",
-      "local": true
+      "local": true,
+      "category": "Business"
     },
     {
       "headline": "The Cruel Stupidity of Lethal Injection",
@@ -699,7 +816,8 @@
       "source": "Nashville Scene",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:29Z",
-      "local": true
+      "local": true,
+      "category": "Other"
     },
     {
       "headline": "Beshear Campaigns for Molder as Dems Eye Midterms",
@@ -708,7 +826,8 @@
       "source": "Nashville Scene",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:29Z",
-      "local": true
+      "local": true,
+      "category": "Government & Politics"
     },
     {
       "headline": "Oracle Commits $10 Million to Sustain Nashville Symphony",
@@ -717,7 +836,8 @@
       "source": "Nashville Scene",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:29Z",
-      "local": true
+      "local": true,
+      "category": "Other"
     },
     {
       "headline": "State Correction Department Leader Resigns After Botched Execution",
@@ -726,7 +846,8 @@
       "source": "Nashville Scene",
       "area": "Nashville",
       "fetched_at": "2026-10-17T05:37:29Z",
-      "local": true
+      "local": true,
+      "category": "Other"
     }
   ],
   "link_only": [
