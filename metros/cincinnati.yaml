@@ -1,0 +1,125 @@
+# Cincinnati, OH. See jacksonville.yaml for the file format.
+
+name: "Cincinnati, OH"
+aliases:
+  - "Boone"
+  - "Bracken"
+  - "Brown"
+  - "Butler"
+  - "Campbell"
+  - "Clermont"
+  - "Dearborn"
+  - "Franklin"
+  - "Gallatin"
+  - "Grant"
+  - "Hamilton"
+  - "Kenton"
+  - "Ohio"
+  - "Pendleton"
+  - "Warren"
+  - "Hamilton County"
+  - "Butler County"
+  - "Warren County"
+  - "Clermont County"
+  - "Kenton County"
+  - "Boone County"
+  - "Campbell County"
+  - "Dearborn County Indiana"
+  - "Covington"
+  - "Newport"
+  - "Florence"
+  - "Fort Thomas"
+  - "Middletown"
+  - "Mason"
+  - "West Chester"
+  - "Lebanon"
+  - "Milford"
+  - "Batavia"
+  - "Cincy"
+  - "Queen City"
+  - "Cincinnati metro"
+  - "Tri-State"
+  - "Tristate"
+
+areas: ["Cincinnati", "Northern Kentucky", "Butler & Warren Counties", "Clermont & Brown Counties"]
+states: ["Indiana", "Kentucky", "Ohio"]
+local_terms: ["Bengals", "Reds", "FC Cincinnati", "Cyclones", "Bearcats", "UC", "Xavier", "Musketeers", "Northern Kentucky University", "NKU", "Aftab Pureval", "Pureval", "DeWine", "Beshear", "Metro", "Cincinnati Metro", "SORTA", "Cincinnati/Northern Kentucky International", "CVG", "Paycor Stadium", "Great American Ball Park", "TQL Stadium", "Fountain Square", "Over-the-Rhine", "OTR", "Findlay Market", "Mount Adams", "Hyde Park", "Clifton", "Walnut Hills", "Avondale", "Price Hill", "Northside", "Mount Lookout", "Oakley", "Norwood", "Blue Ash", "Sharonville", "Montgomery", "Loveland", "Ohio River", "Roebling", "Purple People Bridge", "Brent Spence", "I-71", "I-75", "I-74", "I-275", "P&G", "Procter & Gamble", "Kroger", "Fifth Third", "Cincinnati Children's", "UC Health", "TriHealth", "Christ Hospital", "CPS", "Cincinnati Public Schools", "Cincinnati Police", "CPD", "Hamilton County Sheriff", "Cincinnati Fire", "Cintas", "GE Aerospace"]
+
+sources:
+  - name: "The Cincinnati Enquirer"
+    area: "Cincinnati"
+    status: link_only
+    homepage: "https://www.cincinnati.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "WCPO 9"
+    area: "Cincinnati"
+    feed_url: "https://www.wcpo.com/index.rss"
+    status: active
+
+  - name: "WLWT"
+    area: "Cincinnati"
+    status: link_only
+    homepage: "https://www.wlwt.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "FOX19"
+    area: "Cincinnati"
+    feed_url: "https://www.fox19.com/arc/outboundfeeds/rss/?outputType=xml"
+    status: active
+    filter: local
+
+  - name: "WVXU"
+    area: "Cincinnati"
+    status: link_only
+    homepage: "https://www.wvxu.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "CityBeat"
+    area: "Cincinnati"
+    feed_url: "https://www.citybeat.com/feed/"
+    status: active
+
+  - name: "Cincinnati Magazine"
+    area: "Cincinnati"
+    status: link_only
+    homepage: "https://www.cincinnatimagazine.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Soapbox Cincinnati"
+    area: "Cincinnati"
+    feed_url: "https://www.soapboxmedia.com/feed/"
+    status: active
+
+  - name: "The News Record (UC)"
+    area: "Cincinnati"
+    feed_url: "https://newsrecord.org/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "LINK nky"
+    area: "Northern Kentucky"
+    feed_url: "https://linknky.com/feed/"
+    status: active
+
+  - name: "NKyTribune"
+    area: "Northern Kentucky"
+    feed_url: "https://nkytribune.com/feed/"
+    status: active
+
+  - name: "Journal-News (Hamilton)"
+    area: "Butler & Warren Counties"
+    feed_url: "https://www.journal-news.com/search/?f=rss&t=article&c=local&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "Middletown Journal"
+    area: "Butler & Warren Counties"
+    feed_url: "https://www.journal-news.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "The Clermont Sun"
+    area: "Clermont & Brown Counties"
+    feed_url: "https://www.clermontsun.com/feed"
+    status: active

@@ -1,8 +1,8 @@
 # Source health
 
-Generated 2026-10-17 14:38Z.
+Generated 2026-10-17 14:55Z.
 
-Active feeds: 610 · link-only: 277 · paused: 1
+Active feeds: 673 · link-only: 299 · paused: 1
 
 ## Atlanta, GA
 
@@ -24,6 +24,11 @@ Active feeds: 610 · link-only: 277 · paused: 1
 ## Chicago, IL
 
 - **silent** Better Government Association: newest story 28 days old
+
+## Cincinnati, OH
+
+- **no stories yet** Journal-News (Hamilton)
+- **no stories yet** Middletown Journal
 
 ## Columbus, OH
 
@@ -88,6 +93,14 @@ Active feeds: 610 · link-only: 277 · paused: 1
 ## Philadelphia, PA
 
 - **silent** Generocity Philly: newest story 10 days old
+
+## Pittsburgh, PA
+
+- **no stories yet** The Pitt News
+
+## Portland, OR
+
+- **silent** Southeast Examiner: newest story 15 days old
 
 ## Providence, RI
 

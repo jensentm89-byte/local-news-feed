@@ -1,0 +1,128 @@
+# Kansas City, MO. See jacksonville.yaml for the file format.
+
+name: "Kansas City, MO"
+aliases:
+  - "Bates"
+  - "Caldwell"
+  - "Cass"
+  - "Clay"
+  - "Clinton"
+  - "Jackson"
+  - "Johnson"
+  - "Lafayette"
+  - "Leavenworth"
+  - "Linn"
+  - "Miami"
+  - "Platte"
+  - "Ray"
+  - "Wyandotte"
+  - "Jackson County"
+  - "Clay County"
+  - "Platte County"
+  - "Cass County"
+  - "Johnson County Kansas"
+  - "Wyandotte County"
+  - "Leavenworth County"
+  - "Miami County"
+  - "Overland Park"
+  - "Olathe"
+  - "Lenexa"
+  - "Shawnee"
+  - "Leawood"
+  - "Prairie Village"
+  - "Mission"
+  - "Kansas City Kansas"
+  - "KCK"
+  - "KCMO"
+  - "Independence"
+  - "Lee's Summit"
+  - "Blue Springs"
+  - "Liberty"
+  - "Gladstone"
+  - "Raytown"
+  - "Grandview"
+  - "Belton"
+  - "Parkville"
+  - "Riverside"
+  - "Lawrence"
+  - "KC"
+  - "Cowtown"
+  - "City of Fountains"
+  - "Paris of the Plains"
+  - "Northland"
+
+areas: ["Kansas City", "Johnson County, KS"]
+states: ["Kansas", "Missouri"]
+local_terms: ["Chiefs", "Royals", "Sporting KC", "Current", "KC Current", "Kansas City Current", "Mavericks", "Monarchs", "UMKC", "Kangaroos", "Avila", "Rockhurst", "Johnson County Community College", "Quinton Lucas", "Lucas", "Laura Kelly", "Mike Kehoe", "Parson", "Kehoe", "KC Streetcar", "KCATA", "RideKC", "Kansas City International", "MCI", "Arrowhead", "GEHA Field", "Kauffman", "Kauffman Stadium", "Children's Mercy Park", "T-Mobile Center", "Power & Light", "Crossroads", "West Bottoms", "River Market", "Westport", "Plaza", "Country Club Plaza", "Brookside", "Waldo", "Midtown", "Hyde Park", "Troost", "18th and Vine", "Jazz District", "Union Station", "Liberty Memorial", "National WWI Museum", "Nelson-Atkins", "Missouri River", "Kansas River", "Cerner", "Oracle Health", "Hallmark", "H&R Block", "Burns & McDonnell", "Garmin", "Sprint", "T-Mobile", "Evergy", "KC Scout", "Panasonic", "I-70", "I-35", "I-435", "I-29", "I-670", "I-635", "US-69", "KCPD", "Kansas City Police", "Jackson County Sheriff", "KCPS", "Kansas City Public Schools"]
+
+sources:
+  - name: "The Kansas City Star"
+    area: "Kansas City"
+    status: link_only
+    homepage: "https://www.kansascity.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "KCUR"
+    area: "Kansas City"
+    feed_url: "https://www.kcur.org/feeds/syndication/rss/news/local"
+    status: active
+    filter: local
+
+  - name: "Startland News"
+    area: "Kansas City"
+    feed_url: "https://startlandnews.com/feed/"
+    status: active
+
+  - name: "KCTV5"
+    area: "Kansas City"
+    feed_url: "https://www.kctv5.com/arc/outboundfeeds/rss/?outputType=xml"
+    status: active
+    filter: local
+
+  - name: "KMBC 9"
+    area: "Kansas City"
+    status: link_only
+    homepage: "https://www.kmbc.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "FOX 4 KC"
+    area: "Kansas City"
+    feed_url: "https://fox4kc.com/feed/"
+    status: active
+
+  - name: "KSHB 41"
+    area: "Kansas City"
+    status: link_only
+    homepage: "https://www.kshb.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The Pitch"
+    area: "Kansas City"
+    feed_url: "https://www.thepitchkc.com/feed/"
+    status: active
+
+  - name: "The Kansas City Call"
+    area: "Kansas City"
+    feed_url: "https://www.kccall.com/feed/"
+    status: active
+
+  - name: "The Kansas City Defender"
+    area: "Kansas City"
+    feed_url: "https://kansascitydefender.com/feed/"
+    status: active
+
+  - name: "KC Studio"
+    area: "Kansas City"
+    feed_url: "https://kcstudio.org/feed/"
+    status: active
+
+  - name: "Johnson County Post"
+    area: "Johnson County, KS"
+    feed_url: "https://johnsoncountypost.com/feed/"
+    status: active
+
+  - name: "Olathe Reporter"
+    area: "Johnson County, KS"
+    status: link_only
+    homepage: "https://www.olathereporter.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."

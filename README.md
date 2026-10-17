@@ -4,7 +4,7 @@ A Drudge-style headline aggregator for local news. Pick your metro area and see
 the latest headlines from its local outlets, linking out to the original stories.
 Only headlines, links, outlet names and times are stored or shown. No story text or excerpts are kept; the stories stay on the outlets' sites.
 
-**Status:** Phase 2 — Jacksonville plus the 10 largest US metros: New York, Los Angeles, Chicago, Dallas–Fort Worth, Houston, Washington DC, Philadelphia, Atlanta, Miami and Phoenix.
+**Status:** Phase 3 — the 50 largest US metro areas (ranked from Census data in `metros/top50.json`).
 
 ## How it works
 

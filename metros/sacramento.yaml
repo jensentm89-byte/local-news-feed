@@ -1,0 +1,124 @@
+# Sacramento, CA. See jacksonville.yaml for the file format.
+
+name: "Sacramento, CA"
+aliases:
+  - "El Dorado"
+  - "Placer"
+  - "Sacramento"
+  - "Yolo"
+  - "Sacramento County"
+  - "Placer County"
+  - "El Dorado County"
+  - "Yolo County"
+  - "Elk Grove"
+  - "Roseville"
+  - "Folsom"
+  - "Rancho Cordova"
+  - "Citrus Heights"
+  - "Davis"
+  - "Woodland"
+  - "West Sacramento"
+  - "Rocklin"
+  - "Lincoln"
+  - "Auburn"
+  - "Placerville"
+  - "Carmichael"
+  - "Fair Oaks"
+  - "Orangevale"
+  - "Natomas"
+  - "Land Park"
+  - "Greater Sacramento"
+  - "River City"
+  - "City of Trees"
+  - "Capital Region"
+  - "Sac"
+
+areas: ["Sacramento", "Placer & El Dorado Counties", "Yolo County", "South Sacramento & Elk Grove"]
+states: ["California"]
+local_terms: ["Kings", "Sacramento Kings", "River Cats", "Republic FC", "Valkyries", "Golden 1 Center", "Sacramento State", "Hornets", "UC Davis", "Aggies", "Steinberg", "Kevin McCarty", "McCarty", "Newsom", "SacRT", "Sacramento International", "SMF", "Capitol", "State Capitol", "California Legislature", "Old Sacramento", "Midtown", "Downtown Commons", "Oak Park", "Curtis Park", "East Sacramento", "McKinley Park", "Tahoe Park", "Del Paso Heights", "Arden-Arcade", "Arden", "Meadowview", "Pocket", "Greenhaven", "Freeport", "American River", "Sacramento River", "Folsom Lake", "Lake Natoma", "Tower Bridge", "I-5", "I-80", "US-50", "Highway 99", "Capital City Freeway", "SMUD", "Sutter Health", "UC Davis Health", "Kaiser", "Dignity Health", "SCUSD", "Sacramento City Unified", "Sacramento Police", "SPD", "Sacramento County Sheriff", "SCSO", "CHP", "Cal Fire"]
+
+sources:
+  - name: "The Sacramento Bee"
+    area: "Sacramento"
+    status: link_only
+    homepage: "https://www.sacbee.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "CapRadio"
+    area: "Sacramento"
+    status: link_only
+    homepage: "https://www.capradio.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "ABC10"
+    area: "Sacramento"
+    feed_url: "https://www.abc10.com/feeds/syndication/rss/news"
+    status: active
+    filter: local
+
+  - name: "KCRA 3"
+    area: "Sacramento"
+    status: link_only
+    homepage: "https://www.kcra.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "FOX40"
+    area: "Sacramento"
+    feed_url: "https://fox40.com/feed/"
+    status: active
+
+  - name: "CBS Sacramento"
+    area: "Sacramento"
+    status: link_only
+    homepage: "https://www.cbsnews.com/sacramento/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The Sacramento Observer"
+    area: "Sacramento"
+    feed_url: "https://sacobserver.com/rss.xml"
+    status: active
+
+  - name: "Sacramento City Express"
+    area: "Sacramento"
+    feed_url: "https://sacramentocityexpress.com/feed/"
+    status: active
+
+  - name: "Capitol Weekly"
+    area: "Sacramento"
+    feed_url: "https://capitolweekly.net/feed/"
+    status: active
+
+  - name: "The State Hornet"
+    area: "Sacramento"
+    feed_url: "https://statehornet.com/feed/"
+    status: active
+    filter: local
+
+  - name: "Elk Grove Citizen"
+    area: "South Sacramento & Elk Grove"
+    feed_url: "https://www.egcitizen.com/?format=atom"
+    status: active
+
+  - name: "The Press Tribune / Gold Country Media"
+    area: "Placer & El Dorado Counties"
+    feed_url: "https://goldcountrymedia.com/rss/category/news"
+    status: active
+    filter: local
+
+  - name: "Mountain Democrat (Placerville)"
+    area: "Placer & El Dorado Counties"
+    feed_url: "https://www.mtdemocrat.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "The Davis Enterprise"
+    area: "Yolo County"
+    feed_url: "https://www.davisenterprise.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "Woodland Daily Democrat"
+    area: "Yolo County"
+    status: link_only
+    homepage: "https://www.dailydemocrat.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."

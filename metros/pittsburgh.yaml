@@ -1,0 +1,135 @@
+# Pittsburgh, PA. See jacksonville.yaml for the file format.
+
+name: "Pittsburgh, PA"
+aliases:
+  - "Allegheny"
+  - "Armstrong"
+  - "Beaver"
+  - "Butler"
+  - "Fayette"
+  - "Lawrence"
+  - "Washington"
+  - "Westmoreland"
+  - "Allegheny County"
+  - "Westmoreland County"
+  - "Beaver County"
+  - "Butler County"
+  - "Washington County Pennsylvania"
+  - "Fayette County"
+  - "Armstrong County"
+  - "Greene County"
+  - "Steel City"
+  - "Burgh"
+  - "Iron City"
+  - "City of Bridges"
+  - "Pgh"
+  - "412"
+  - "724"
+  - "Monroeville"
+  - "Bethel Park"
+  - "McKeesport"
+  - "Penn Hills"
+  - "Mt. Lebanon"
+  - "Cranberry"
+  - "Greensburg"
+  - "New Kensington"
+  - "Murrysville"
+  - "Washington PA"
+  - "Canonsburg"
+  - "Beaver Falls"
+  - "Aliquippa"
+  - "Monaca"
+  - "Uniontown"
+  - "Connellsville"
+
+areas: ["Pittsburgh", "Beaver & Butler Counties", "Washington & Fayette Counties"]
+states: ["Pennsylvania"]
+local_terms: ["Steelers", "Pirates", "Penguins", "Riverhounds", "Pitt", "Panthers", "Duquesne", "Dukes", "Carnegie Mellon", "CMU", "Point Park", "Robert Morris", "Gainey", "Corey O'Connor", "O'Connor", "Shapiro", "McCormick", "Fetterman", "Pittsburgh Regional Transit", "PRT", "Pittsburgh International", "PIT", "Acrisure Stadium", "Heinz Field", "PNC Park", "PPG Paints Arena", "Point State Park", "Strip District", "Lawrenceville", "Shadyside", "Squirrel Hill", "Oakland", "Bloomfield", "East Liberty", "Homewood", "Hill District", "North Side", "South Side", "Mount Washington", "Allegheny River", "Monongahela", "Ohio River", "Three Rivers", "Golden Triangle", "Fort Pitt", "Fort Duquesne", "US Steel", "U.S. Steel", "Nippon", "UPMC", "Allegheny Health Network", "AHN", "Highmark", "PNC", "Alcoa", "Heinz", "Kraft Heinz", "Wabtec", "Duquesne Light", "I-376", "I-279", "I-79", "I-76", "Parkway", "PPS", "Pittsburgh Public Schools", "Pittsburgh Police", "Allegheny County Police", "Allegheny County Sheriff"]
+
+sources:
+  - name: "Pittsburgh Post-Gazette"
+    area: "Pittsburgh"
+    feed_url: "https://www.post-gazette.com/rss"
+    status: active
+    filter: local
+
+  - name: "TribLive"
+    area: "Pittsburgh"
+    feed_url: "https://triblive.com/feed/"
+    status: active
+
+  - name: "WESA"
+    area: "Pittsburgh"
+    status: link_only
+    homepage: "https://www.wesa.fm/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Pittsburgh City Paper"
+    area: "Pittsburgh"
+    feed_url: "https://www.pghcitypaper.com/feed/"
+    status: active
+
+  - name: "PublicSource"
+    area: "Pittsburgh"
+    feed_url: "https://www.publicsource.org/feed/"
+    status: active
+
+  - name: "NEXTpittsburgh"
+    area: "Pittsburgh"
+    feed_url: "https://nextpittsburgh.com/feed/"
+    status: active
+
+  - name: "Pittsburgh Magazine"
+    area: "Pittsburgh"
+    feed_url: "https://www.pittsburghmagazine.com/feed/"
+    status: active
+
+  - name: "WPXI"
+    area: "Pittsburgh"
+    feed_url: "https://www.wpxi.com/arc/outboundfeeds/rss/category/news/local/?outputType=xml"
+    status: active
+    filter: local
+
+  - name: "KDKA CBS Pittsburgh"
+    area: "Pittsburgh"
+    status: link_only
+    homepage: "https://www.cbsnews.com/pittsburgh/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "WTAE"
+    area: "Pittsburgh"
+    status: link_only
+    homepage: "https://www.wtae.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The Pitt News"
+    area: "Pittsburgh"
+    feed_url: "https://pittnews.com/feed/"
+    status: active
+
+  - name: "Pittsburgh Quarterly"
+    area: "Pittsburgh"
+    status: link_only
+    homepage: "https://pittsburghquarterly.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Mon Valley Independent"
+    area: "Pittsburgh"
+    feed_url: "https://www.monvalleyindependent.com/feed/"
+    status: active
+
+  - name: "Observer-Reporter"
+    area: "Washington & Fayette Counties"
+    feed_url: "https://observer-reporter.com/feed/"
+    status: active
+
+  - name: "Beaver County Times"
+    area: "Beaver & Butler Counties"
+    status: link_only
+    homepage: "https://www.timesonline.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Herald-Standard (Uniontown)"
+    area: "Washington & Fayette Counties"
+    feed_url: "https://www.heraldstandard.com/feed/"
+    status: active
