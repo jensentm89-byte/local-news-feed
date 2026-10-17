@@ -2,9 +2,10 @@ name: Fetch headlines
 
 on:
   schedule:
-    # Twice a day: 10:00 UTC (6 AM EDT / 5 AM EST) and 19:00 UTC (3 PM EDT / 2 PM EST).
-    - cron: "0 10 * * *"
-    - cron: "0 19 * * *"
+    # Twice a day: ~10:17 UTC (6 AM EDT / 5 AM EST) and ~19:43 UTC (3 PM EDT / 2 PM EST).
+    # Off-the-hour minutes: GitHub delays or drops scheduled runs at the top of the hour.
+    - cron: "17 10 * * *"
+    - cron: "43 19 * * *"
   workflow_dispatch: {}
 
 permissions:
