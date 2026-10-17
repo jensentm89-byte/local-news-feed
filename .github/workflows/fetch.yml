@@ -17,6 +17,7 @@ concurrency:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
 
@@ -28,6 +29,8 @@ jobs:
       - run: pip install -r requirements.txt
 
       - run: python fetch.py
+
+      - run: python tools/health_report.py
 
       - name: Commit updated data
         run: |

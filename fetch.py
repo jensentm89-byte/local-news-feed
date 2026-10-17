@@ -5,22 +5,30 @@ For every metro in metros/*.yaml:
   * fetches each active source's RSS/Atom feed (skipping a source that was
     fetched within the last MIN_HOURS_BETWEEN_FETCHES hours),
   * for link_only sources, reads the public homepage once to find a top headline,
-  * appends new articles to data/articles/<metro>.jsonl,
+  * appends new articles to data/articles/<metro>.jsonl and prunes that history to
+    the last RETENTION_DAYS days,
   * writes docs/data/<metro>.json (last 14 days) for the page to load,
-  * writes docs/metros.json, the index the page uses for its picker and search.
+  * writes docs/metros.json, the index the page uses for its picker and search,
+  * records each source's health (last success, consecutive failures) in data/state.json.
+
+Sources are fetched by a small thread pool, with a minimum gap between requests to the
+same site. Run `python fetch.py --metros boston,denver` to limit the run.
 
 Everything is checked against the site's robots.txt first. A broken or blocked
 source is logged and skipped; it never stops the run.
 """
 
+import argparse
 import calendar
 import html
 import json
 import re
+import threading
 import time
 import urllib.error
 import urllib.request
 import urllib.robotparser
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
@@ -44,8 +52,10 @@ USER_AGENT = (
 REQUEST_TIMEOUT = 15
 EXCERPT_MAX_CHARS = 300
 DAYS_TO_KEEP_ON_PAGE = 14
+RETENTION_DAYS = 30
+MAX_WORKERS = 8
+MIN_SECONDS_PER_HOST = 2.0
 MIN_HOURS_BETWEEN_FETCHES = 6
-REQUEST_PAUSE_SECONDS = 1
 MAX_HOMEPAGE_BYTES = 2_000_000
 TIME_FORMAT = "%Y-%m-%dT%H:%M:%SZ"
 
@@ -56,6 +66,8 @@ ANCHOR_RE = re.compile(r"<a\s[^>]*?href=[\"']?([^\"' >]+)[^>]*>(.*?)</a>", re.S 
 H1_RE = re.compile(r"<h1[^>]*>(.*?)</h1>", re.S | re.I)
 
 _robots_cache = {}
+_pace_lock = threading.Lock()
+_next_request_at = {}
 
 
 def now_utc():
@@ -97,10 +109,22 @@ def load_metros():
 # ---------------------------------------------------------------- HTTP / robots
 
 
+def pace(url):
+    """Block until at least MIN_SECONDS_PER_HOST has passed since the last request to this host."""
+    host = urlparse(url).netloc
+    with _pace_lock:
+        now = time.monotonic()
+        start = max(now, _next_request_at.get(host, 0))
+        _next_request_at[host] = start + MIN_SECONDS_PER_HOST
+    if start > now:
+        time.sleep(start - now)
+
+
 def http_get(url, max_bytes=None):
     """GET with a polite retry: a 429/503 is retried after the server's Retry-After (max 30s)."""
     request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     for attempt in range(3):
+        pace(url)
         try:
             with urllib.request.urlopen(request, timeout=REQUEST_TIMEOUT) as response:
                 return response.read(max_bytes) if max_bytes else response.read()
@@ -172,6 +196,7 @@ def load_existing_links(path):
 
 
 def process_feed(source, existing_links):
+    """Return new article dicts from a feed. Does not modify existing_links."""
     feed_url = source["feed_url"]
     if not allowed_by_robots(feed_url):
         raise PermissionError("robots.txt disallows this feed")
@@ -180,11 +205,14 @@ def process_feed(source, existing_links):
     parsed = feedparser.parse(http_get(feed_url))
     fetched_at = now_utc().strftime(TIME_FORMAT)
 
+    cutoff = (now_utc() - timedelta(days=RETENTION_DAYS)).strftime(TIME_FORMAT)
     new_items = []
     for entry in parsed.entries:
         link = getattr(entry, "link", None)
         headline = to_text(getattr(entry, "title", None))
         if not link or not headline or link in existing_links:
+            continue
+        if entry_published_iso(entry) < cutoff:
             continue
         if keywords and not any(k.lower() in link.lower() or k.lower() in headline.lower() for k in keywords):
             continue
@@ -199,7 +227,6 @@ def process_feed(source, existing_links):
                 "fetched_at": fetched_at,
             }
         )
-        existing_links.add(link)
     return new_items
 
 
@@ -348,55 +375,56 @@ def is_due(last_iso):
     return now_utc() - last >= timedelta(hours=MIN_HOURS_BETWEEN_FETCHES)
 
 
-def run_metro(metro, state):
+def prune_articles(path):
+    """Rewrite the history file keeping only the last RETENTION_DAYS days."""
+    if not path.exists():
+        return
+    cutoff = (now_utc() - timedelta(days=RETENTION_DAYS)).strftime(TIME_FORMAT)
+    kept, dropped = [], 0
+    with path.open(encoding="utf-8") as f:
+        for line in f:
+            try:
+                published = json.loads(line)["published"]
+            except (json.JSONDecodeError, KeyError):
+                dropped += 1
+                continue
+            if published >= cutoff:
+                kept.append(line if line.endswith("\n") else line + "\n")
+            else:
+                dropped += 1
+    if dropped:
+        path.write_text("".join(kept), encoding="utf-8")
+
+
+def fetch_one(task):
+    """Worker: fetch one source. Returns (task, result, error)."""
+    metro_id, source, existing_links = task
+    try:
+        if source["status"] == "active":
+            return task, process_feed(source, existing_links), None
+        return task, process_homepage(source), None
+    except Exception as exc:  # noqa: BLE001 - a bad source must never crash the run
+        return task, None, f"{type(exc).__name__}: {exc}"
+
+
+def record_health(state, key, error):
+    health = state.setdefault("health", {}).setdefault(key, {"failures": 0})
+    if error is None:
+        health.update(failures=0, last_success=now_utc().strftime(TIME_FORMAT))
+        health.pop("last_error", None)
+    else:
+        health["failures"] = health.get("failures", 0) + 1
+        health["last_error"] = error[:200]
+        health["last_failure"] = now_utc().strftime(TIME_FORMAT)
+
+
+def build_metro_output(metro, state):
     metro_id = metro["id"]
-    articles_file = ARTICLES_DIR / f"{metro_id}.jsonl"
-    existing_links = load_existing_links(articles_file)
-    feeds_state = state.setdefault("feeds", {})
     homepages_state = state.setdefault("homepages", {})
-    total_new = 0
-
-    for source in metro["sources"]:
-        key = f"{metro_id}|{source['name']}"
-        status = source.get("status")
-
-        if status == "active":
-            if not is_due(feeds_state.get(key)):
-                log(f"skip metro={metro_id} source={source['name']!r} reason=fetched_recently")
-                continue
-            time.sleep(REQUEST_PAUSE_SECONDS)
-            try:
-                new_items = process_feed(source, existing_links)
-            except Exception as exc:  # noqa: BLE001 - a bad feed must never crash the run
-                log(f"error metro={metro_id} source={source['name']!r} error={type(exc).__name__}: {exc}")
-                continue
-            if new_items:
-                articles_file.parent.mkdir(parents=True, exist_ok=True)
-                with articles_file.open("a", encoding="utf-8") as f:
-                    for item in new_items:
-                        f.write(json.dumps(item, ensure_ascii=False) + "\n")
-            total_new += len(new_items)
-            feeds_state[key] = now_utc().strftime(TIME_FORMAT)
-            log(f"ok metro={metro_id} source={source['name']!r} new_items={len(new_items)}")
-
-        elif status == "link_only":
-            previous = homepages_state.get(key)
-            if previous and not is_due(previous.get("checked_at")):
-                continue
-            try:
-                entry = process_homepage(source)
-            except Exception as exc:  # noqa: BLE001
-                log(f"error metro={metro_id} source={source['name']!r} homepage error={type(exc).__name__}: {exc}")
-                entry = {"name": source["name"], "area": source["area"], "homepage": source["homepage"],
-                         "headline": None, "url": source["homepage"]}
-            entry["checked_at"] = now_utc().strftime(TIME_FORMAT)
-            homepages_state[key] = entry
-            log(f"ok metro={metro_id} source={source['name']!r} homepage_headline={bool(entry['headline'])}")
-
     local_filtered = {s["name"] for s in metro["sources"] if s.get("filter") == "local"}
     local_regex = local_filter_regexes(metro)
     recent = recent_articles(
-        articles_file,
+        ARTICLES_DIR / f"{metro_id}.jsonl",
         keep=lambda a: a["source"] not in local_filtered or is_local(a, local_regex),
     )
     outlets = []
@@ -412,7 +440,6 @@ def run_metro(metro, state):
                 "url": entry.get("url") or source["homepage"],
             }
         )
-
     write_json(
         OUTPUT_DIR / f"{metro_id}.json",
         {
@@ -423,25 +450,85 @@ def run_metro(metro, state):
             "link_only": outlets,
         },
     )
-    log(f"metro_complete metro={metro_id} new_items={total_new} articles_on_page={len(recent)}")
-    return total_new, len(recent)
+    return len(recent)
 
 
 def main():
-    metros = load_metros()
+    parser = argparse.ArgumentParser(description="Collect local-news headlines for every metro.")
+    parser.add_argument("--metros", help="comma-separated metro ids to fetch (default: all)")
+    parser.add_argument("--force", action="store_true", help="ignore the per-source fetch throttle")
+    args = parser.parse_args()
+
+    all_metros = load_metros()
+    wanted = set(args.metros.split(",")) if args.metros else None
+    metros = [m for m in all_metros if wanted is None or m["id"] in wanted]
     state = load_state()
     ARTICLES_DIR.mkdir(parents=True, exist_ok=True)
+    feeds_state = state.setdefault("feeds", {})
+    homepages_state = state.setdefault("homepages", {})
 
+    due = (lambda _last: True) if args.force else is_due
+
+    # 1. Work out what is due.
+    existing = {m["id"]: load_existing_links(ARTICLES_DIR / f"{m['id']}.jsonl") for m in metros}
+    tasks = []
     for metro in metros:
-        run_metro(metro, state)
+        for source in metro["sources"]:
+            key = f"{metro['id']}|{source['name']}"
+            if source.get("status") == "active" and due(feeds_state.get(key)):
+                tasks.append((metro["id"], source, existing[metro["id"]]))
+            elif source.get("status") == "link_only" and due((homepages_state.get(key) or {}).get("checked_at")):
+                tasks.append((metro["id"], source, None))
+    log(f"start metros={len(metros)} sources_due={len(tasks)}")
+
+    # 2. Fetch concurrently (paced per host).
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as pool:
+        results = list(pool.map(fetch_one, tasks))
+
+    # 3. Apply results one metro at a time (single thread: no file or set races).
+    new_by_metro = {m["id"]: 0 for m in metros}
+    for (metro_id, source, _), result, error in results:
+        key = f"{metro_id}|{source['name']}"
+        record_health(state, key, error)
+        if source["status"] == "active":
+            if error:
+                log(f"error metro={metro_id} source={source['name']!r} error={error}")
+                continue
+            fresh = []
+            for item in result:
+                if item["link"] not in existing[metro_id]:
+                    existing[metro_id].add(item["link"])
+                    fresh.append(item)
+            if fresh:
+                with (ARTICLES_DIR / f"{metro_id}.jsonl").open("a", encoding="utf-8") as f:
+                    for item in fresh:
+                        f.write(json.dumps(item, ensure_ascii=False) + "\n")
+            new_by_metro[metro_id] += len(fresh)
+            feeds_state[key] = now_utc().strftime(TIME_FORMAT)
+            log(f"ok metro={metro_id} source={source['name']!r} new_items={len(fresh)}")
+        else:
+            if error:
+                log(f"error metro={metro_id} source={source['name']!r} homepage error={error}")
+                result = {"name": source["name"], "area": source["area"], "homepage": source["homepage"],
+                          "headline": None, "url": source["homepage"]}
+            result["checked_at"] = now_utc().strftime(TIME_FORMAT)
+            homepages_state[key] = result
+            log(f"ok metro={metro_id} source={source['name']!r} homepage_headline={bool(result['headline'])}")
+
+    # 4. Prune history, write each metro's page data.
+    for metro in metros:
+        prune_articles(ARTICLES_DIR / f"{metro['id']}.jsonl")
+        shown = build_metro_output(metro, state)
+        log(f"metro_complete metro={metro['id']} new_items={new_by_metro[metro['id']]} articles_on_page={shown}")
     write_json(STATE_FILE, state)
 
     index = [
         {"id": m["id"], "name": m["name"], "aliases": m.get("aliases", []), "areas": m["areas"]}
-        for m in sorted(metros, key=lambda m: m["name"].lower())
+        for m in sorted(all_metros, key=lambda m: m["name"].lower())
     ]
     write_json(METRO_INDEX_FILE, {"metros": index})
-    log(f"run_complete metros={len(metros)}")
+    failing = sum(1 for _, _, e in results if e)
+    log(f"run_complete metros={len(metros)} sources_fetched={len(results)} failures={failing}")
 
 
 if __name__ == "__main__":

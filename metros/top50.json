@@ -1,0 +1,1097 @@
+{
+ "source": "https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/metro/totals/cbsa-est2024-alldata.csv",
+ "year": "POPESTIMATE2024",
+ "metros": [
+  {
+   "rank": 1,
+   "id": "new-york",
+   "name": "New York, NY",
+   "cbsa": "35620",
+   "census_name": "New York-Newark-Jersey City, NY-NJ",
+   "population": 19940274,
+   "states": [
+    "NJ",
+    "NY"
+   ],
+   "counties": [
+    "Bergen County, NJ",
+    "Bronx County, NY",
+    "Essex County, NJ",
+    "Hudson County, NJ",
+    "Hunterdon County, NJ",
+    "Kings County, NY",
+    "Middlesex County, NJ",
+    "Monmouth County, NJ",
+    "Morris County, NJ",
+    "Nassau County, NY",
+    "New York County, NY",
+    "Ocean County, NJ",
+    "Passaic County, NJ",
+    "Putnam County, NY",
+    "Queens County, NY",
+    "Richmond County, NY",
+    "Rockland County, NY",
+    "Somerset County, NJ",
+    "Suffolk County, NY",
+    "Sussex County, NJ",
+    "Union County, NJ",
+    "Westchester County, NY"
+   ]
+  },
+  {
+   "rank": 2,
+   "id": "los-angeles",
+   "name": "Los Angeles, CA",
+   "cbsa": "31080",
+   "census_name": "Los Angeles-Long Beach-Anaheim, CA",
+   "population": 12927614,
+   "states": [
+    "CA"
+   ],
+   "counties": [
+    "Los Angeles County, CA",
+    "Orange County, CA"
+   ]
+  },
+  {
+   "rank": 3,
+   "id": "chicago",
+   "name": "Chicago, IL",
+   "cbsa": "16980",
+   "census_name": "Chicago-Naperville-Elgin, IL-IN",
+   "population": 9408576,
+   "states": [
+    "IL",
+    "IN"
+   ],
+   "counties": [
+    "Cook County, IL",
+    "DeKalb County, IL",
+    "DuPage County, IL",
+    "Grundy County, IL",
+    "Jasper County, IN",
+    "Kane County, IL",
+    "Kendall County, IL",
+    "Lake County, IL",
+    "Lake County, IN",
+    "McHenry County, IL",
+    "Newton County, IN",
+    "Porter County, IN",
+    "Will County, IL"
+   ]
+  },
+  {
+   "rank": 4,
+   "id": "dallas-fort-worth",
+   "name": "Dallas–Fort Worth, TX",
+   "cbsa": "19100",
+   "census_name": "Dallas-Fort Worth-Arlington, TX",
+   "population": 8344032,
+   "states": [
+    "TX"
+   ],
+   "counties": [
+    "Collin County, TX",
+    "Dallas County, TX",
+    "Denton County, TX",
+    "Ellis County, TX",
+    "Hunt County, TX",
+    "Johnson County, TX",
+    "Kaufman County, TX",
+    "Parker County, TX",
+    "Rockwall County, TX",
+    "Tarrant County, TX",
+    "Wise County, TX"
+   ]
+  },
+  {
+   "rank": 5,
+   "id": "houston",
+   "name": "Houston, TX",
+   "cbsa": "26420",
+   "census_name": "Houston-Pasadena-The Woodlands, TX",
+   "population": 7796182,
+   "states": [
+    "TX"
+   ],
+   "counties": [
+    "Austin County, TX",
+    "Brazoria County, TX",
+    "Chambers County, TX",
+    "Fort Bend County, TX",
+    "Galveston County, TX",
+    "Harris County, TX",
+    "Liberty County, TX",
+    "Montgomery County, TX",
+    "San Jacinto County, TX",
+    "Waller County, TX"
+   ]
+  },
+  {
+   "rank": 6,
+   "id": "miami",
+   "name": "Miami, FL",
+   "cbsa": "33100",
+   "census_name": "Miami-Fort Lauderdale-West Palm Beach, FL",
+   "population": 6457988,
+   "states": [
+    "FL"
+   ],
+   "counties": [
+    "Broward County, FL",
+    "Miami-Dade County, FL",
+    "Palm Beach County, FL"
+   ]
+  },
+  {
+   "rank": 7,
+   "id": "washington-dc",
+   "name": "Washington, DC",
+   "cbsa": "47900",
+   "census_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+   "population": 6436489,
+   "states": [
+    "DC",
+    "MD",
+    "VA",
+    "WV"
+   ],
+   "counties": [
+    "Alexandria city, VA",
+    "Arlington County, VA",
+    "Charles County, MD",
+    "Clarke County, VA",
+    "Culpeper County, VA",
+    "District of Columbia, DC",
+    "Fairfax County, VA",
+    "Fairfax city, VA",
+    "Falls Church city, VA",
+    "Fauquier County, VA",
+    "Frederick County, MD",
+    "Fredericksburg city, VA",
+    "Jefferson County, WV",
+    "Loudoun County, VA",
+    "Manassas Park city, VA",
+    "Manassas city, VA",
+    "Montgomery County, MD",
+    "Prince George's County, MD",
+    "Prince William County, VA",
+    "Rappahannock County, VA",
+    "Spotsylvania County, VA",
+    "Stafford County, VA",
+    "Warren County, VA"
+   ]
+  },
+  {
+   "rank": 8,
+   "id": "atlanta",
+   "name": "Atlanta, GA",
+   "cbsa": "12060",
+   "census_name": "Atlanta-Sandy Springs-Roswell, GA",
+   "population": 6411149,
+   "states": [
+    "GA"
+   ],
+   "counties": [
+    "Barrow County, GA",
+    "Bartow County, GA",
+    "Butts County, GA",
+    "Carroll County, GA",
+    "Cherokee County, GA",
+    "Clayton County, GA",
+    "Cobb County, GA",
+    "Coweta County, GA",
+    "Dawson County, GA",
+    "DeKalb County, GA",
+    "Douglas County, GA",
+    "Fayette County, GA",
+    "Forsyth County, GA",
+    "Fulton County, GA",
+    "Gwinnett County, GA",
+    "Haralson County, GA",
+    "Heard County, GA",
+    "Henry County, GA",
+    "Jasper County, GA",
+    "Lumpkin County, GA",
+    "Meriwether County, GA",
+    "Morgan County, GA",
+    "Newton County, GA",
+    "Paulding County, GA",
+    "Pickens County, GA",
+    "Pike County, GA",
+    "Rockdale County, GA",
+    "Spalding County, GA",
+    "Walton County, GA"
+   ]
+  },
+  {
+   "rank": 9,
+   "id": "philadelphia",
+   "name": "Philadelphia, PA",
+   "cbsa": "37980",
+   "census_name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+   "population": 6330422,
+   "states": [
+    "DE",
+    "MD",
+    "NJ",
+    "PA"
+   ],
+   "counties": [
+    "Bucks County, PA",
+    "Burlington County, NJ",
+    "Camden County, NJ",
+    "Cecil County, MD",
+    "Chester County, PA",
+    "Delaware County, PA",
+    "Gloucester County, NJ",
+    "Montgomery County, PA",
+    "New Castle County, DE",
+    "Philadelphia County, PA",
+    "Salem County, NJ"
+   ]
+  },
+  {
+   "rank": 10,
+   "id": "phoenix",
+   "name": "Phoenix, AZ",
+   "cbsa": "38060",
+   "census_name": "Phoenix-Mesa-Chandler, AZ",
+   "population": 5186958,
+   "states": [
+    "AZ"
+   ],
+   "counties": [
+    "Maricopa County, AZ",
+    "Pinal County, AZ"
+   ]
+  },
+  {
+   "rank": 11,
+   "id": "boston",
+   "name": "Boston, MA",
+   "cbsa": "14460",
+   "census_name": "Boston-Cambridge-Newton, MA-NH",
+   "population": 5025517,
+   "states": [
+    "MA",
+    "NH"
+   ],
+   "counties": [
+    "Essex County, MA",
+    "Middlesex County, MA",
+    "Norfolk County, MA",
+    "Plymouth County, MA",
+    "Rockingham County, NH",
+    "Strafford County, NH",
+    "Suffolk County, MA"
+   ]
+  },
+  {
+   "rank": 12,
+   "id": "riverside-san-bernardino",
+   "name": "Riverside–San Bernardino, CA",
+   "cbsa": "40140",
+   "census_name": "Riverside-San Bernardino-Ontario, CA",
+   "population": 4744214,
+   "states": [
+    "CA"
+   ],
+   "counties": [
+    "Riverside County, CA",
+    "San Bernardino County, CA"
+   ]
+  },
+  {
+   "rank": 13,
+   "id": "san-francisco",
+   "name": "San Francisco–Oakland, CA",
+   "cbsa": "41860",
+   "census_name": "San Francisco-Oakland-Fremont, CA",
+   "population": 4648486,
+   "states": [
+    "CA"
+   ],
+   "counties": [
+    "Alameda County, CA",
+    "Contra Costa County, CA",
+    "Marin County, CA",
+    "San Francisco County, CA",
+    "San Mateo County, CA"
+   ]
+  },
+  {
+   "rank": 14,
+   "id": "detroit",
+   "name": "Detroit, MI",
+   "cbsa": "19820",
+   "census_name": "Detroit-Warren-Dearborn, MI",
+   "population": 4400578,
+   "states": [
+    "MI"
+   ],
+   "counties": [
+    "Lapeer County, MI",
+    "Livingston County, MI",
+    "Macomb County, MI",
+    "Oakland County, MI",
+    "St. Clair County, MI",
+    "Wayne County, MI"
+   ]
+  },
+  {
+   "rank": 15,
+   "id": "seattle",
+   "name": "Seattle, WA",
+   "cbsa": "42660",
+   "census_name": "Seattle-Tacoma-Bellevue, WA",
+   "population": 4145494,
+   "states": [
+    "WA"
+   ],
+   "counties": [
+    "King County, WA",
+    "Pierce County, WA",
+    "Snohomish County, WA"
+   ]
+  },
+  {
+   "rank": 16,
+   "id": "minneapolis-st-paul",
+   "name": "Minneapolis–St. Paul, MN",
+   "cbsa": "33460",
+   "census_name": "Minneapolis-St. Paul-Bloomington, MN-WI",
+   "population": 3757952,
+   "states": [
+    "MN",
+    "WI"
+   ],
+   "counties": [
+    "Anoka County, MN",
+    "Carver County, MN",
+    "Chisago County, MN",
+    "Dakota County, MN",
+    "Hennepin County, MN",
+    "Isanti County, MN",
+    "Le Sueur County, MN",
+    "Mille Lacs County, MN",
+    "Pierce County, WI",
+    "Ramsey County, MN",
+    "Scott County, MN",
+    "Sherburne County, MN",
+    "St. Croix County, WI",
+    "Washington County, MN",
+    "Wright County, MN"
+   ]
+  },
+  {
+   "rank": 17,
+   "id": "tampa",
+   "name": "Tampa–St. Petersburg, FL",
+   "cbsa": "45300",
+   "census_name": "Tampa-St. Petersburg-Clearwater, FL",
+   "population": 3424560,
+   "states": [
+    "FL"
+   ],
+   "counties": [
+    "Hernando County, FL",
+    "Hillsborough County, FL",
+    "Pasco County, FL",
+    "Pinellas County, FL"
+   ]
+  },
+  {
+   "rank": 18,
+   "id": "san-diego",
+   "name": "San Diego, CA",
+   "cbsa": "41740",
+   "census_name": "San Diego-Chula Vista-Carlsbad, CA",
+   "population": 3298799,
+   "states": [
+    "CA"
+   ],
+   "counties": [
+    "San Diego County, CA"
+   ]
+  },
+  {
+   "rank": 19,
+   "id": "denver",
+   "name": "Denver, CO",
+   "cbsa": "19740",
+   "census_name": "Denver-Aurora-Centennial, CO",
+   "population": 3052498,
+   "states": [
+    "CO"
+   ],
+   "counties": [
+    "Adams County, CO",
+    "Arapahoe County, CO",
+    "Broomfield County, CO",
+    "Clear Creek County, CO",
+    "Denver County, CO",
+    "Douglas County, CO",
+    "Elbert County, CO",
+    "Gilpin County, CO",
+    "Jefferson County, CO",
+    "Park County, CO"
+   ]
+  },
+  {
+   "rank": 20,
+   "id": "orlando",
+   "name": "Orlando, FL",
+   "cbsa": "36740",
+   "census_name": "Orlando-Kissimmee-Sanford, FL",
+   "population": 2940513,
+   "states": [
+    "FL"
+   ],
+   "counties": [
+    "Lake County, FL",
+    "Orange County, FL",
+    "Osceola County, FL",
+    "Seminole County, FL"
+   ]
+  },
+  {
+   "rank": 21,
+   "id": "charlotte",
+   "name": "Charlotte, NC",
+   "cbsa": "16740",
+   "census_name": "Charlotte-Concord-Gastonia, NC-SC",
+   "population": 2883370,
+   "states": [
+    "NC",
+    "SC"
+   ],
+   "counties": [
+    "Anson County, NC",
+    "Cabarrus County, NC",
+    "Chester County, SC",
+    "Gaston County, NC",
+    "Iredell County, NC",
+    "Lancaster County, SC",
+    "Lincoln County, NC",
+    "Mecklenburg County, NC",
+    "Rowan County, NC",
+    "Union County, NC",
+    "York County, SC"
+   ]
+  },
+  {
+   "rank": 22,
+   "id": "baltimore",
+   "name": "Baltimore, MD",
+   "cbsa": "12580",
+   "census_name": "Baltimore-Columbia-Towson, MD",
+   "population": 2859024,
+   "states": [
+    "MD"
+   ],
+   "counties": [
+    "Anne Arundel County, MD",
+    "Baltimore County, MD",
+    "Baltimore city, MD",
+    "Carroll County, MD",
+    "Harford County, MD",
+    "Howard County, MD",
+    "Queen Anne's County, MD"
+   ]
+  },
+  {
+   "rank": 23,
+   "id": "st-louis",
+   "name": "St. Louis, MO",
+   "cbsa": "41180",
+   "census_name": "St. Louis, MO-IL",
+   "population": 2811927,
+   "states": [
+    "IL",
+    "MO"
+   ],
+   "counties": [
+    "Bond County, IL",
+    "Calhoun County, IL",
+    "Clinton County, IL",
+    "Franklin County, MO",
+    "Jefferson County, MO",
+    "Jersey County, IL",
+    "Lincoln County, MO",
+    "Macoupin County, IL",
+    "Madison County, IL",
+    "Monroe County, IL",
+    "St. Charles County, MO",
+    "St. Clair County, IL",
+    "St. Louis County, MO",
+    "St. Louis city, MO",
+    "Warren County, MO"
+   ]
+  },
+  {
+   "rank": 24,
+   "id": "san-antonio",
+   "name": "San Antonio, TX",
+   "cbsa": "41700",
+   "census_name": "San Antonio-New Braunfels, TX",
+   "population": 2763006,
+   "states": [
+    "TX"
+   ],
+   "counties": [
+    "Atascosa County, TX",
+    "Bandera County, TX",
+    "Bexar County, TX",
+    "Comal County, TX",
+    "Guadalupe County, TX",
+    "Kendall County, TX",
+    "Medina County, TX",
+    "Wilson County, TX"
+   ]
+  },
+  {
+   "rank": 25,
+   "id": "austin",
+   "name": "Austin, TX",
+   "cbsa": "12420",
+   "census_name": "Austin-Round Rock-San Marcos, TX",
+   "population": 2550637,
+   "states": [
+    "TX"
+   ],
+   "counties": [
+    "Bastrop County, TX",
+    "Caldwell County, TX",
+    "Hays County, TX",
+    "Travis County, TX",
+    "Williamson County, TX"
+   ]
+  },
+  {
+   "rank": 26,
+   "id": "portland",
+   "name": "Portland, OR",
+   "cbsa": "38900",
+   "census_name": "Portland-Vancouver-Hillsboro, OR-WA",
+   "population": 2537904,
+   "states": [
+    "OR",
+    "WA"
+   ],
+   "counties": [
+    "Clackamas County, OR",
+    "Clark County, WA",
+    "Columbia County, OR",
+    "Multnomah County, OR",
+    "Skamania County, WA",
+    "Washington County, OR",
+    "Yamhill County, OR"
+   ]
+  },
+  {
+   "rank": 27,
+   "id": "sacramento",
+   "name": "Sacramento, CA",
+   "cbsa": "40900",
+   "census_name": "Sacramento-Roseville-Folsom, CA",
+   "population": 2463127,
+   "states": [
+    "CA"
+   ],
+   "counties": [
+    "El Dorado County, CA",
+    "Placer County, CA",
+    "Sacramento County, CA",
+    "Yolo County, CA"
+   ]
+  },
+  {
+   "rank": 28,
+   "id": "pittsburgh",
+   "name": "Pittsburgh, PA",
+   "cbsa": "38300",
+   "census_name": "Pittsburgh, PA",
+   "population": 2429917,
+   "states": [
+    "PA"
+   ],
+   "counties": [
+    "Allegheny County, PA",
+    "Armstrong County, PA",
+    "Beaver County, PA",
+    "Butler County, PA",
+    "Fayette County, PA",
+    "Lawrence County, PA",
+    "Washington County, PA",
+    "Westmoreland County, PA"
+   ]
+  },
+  {
+   "rank": 29,
+   "id": "las-vegas",
+   "name": "Las Vegas, NV",
+   "cbsa": "29820",
+   "census_name": "Las Vegas-Henderson-North Las Vegas, NV",
+   "population": 2398871,
+   "states": [
+    "NV"
+   ],
+   "counties": [
+    "Clark County, NV"
+   ]
+  },
+  {
+   "rank": 30,
+   "id": "cincinnati",
+   "name": "Cincinnati, OH",
+   "cbsa": "17140",
+   "census_name": "Cincinnati, OH-KY-IN",
+   "population": 2302815,
+   "states": [
+    "IN",
+    "KY",
+    "OH"
+   ],
+   "counties": [
+    "Boone County, KY",
+    "Bracken County, KY",
+    "Brown County, OH",
+    "Butler County, OH",
+    "Campbell County, KY",
+    "Clermont County, OH",
+    "Dearborn County, IN",
+    "Franklin County, IN",
+    "Gallatin County, KY",
+    "Grant County, KY",
+    "Hamilton County, OH",
+    "Kenton County, KY",
+    "Ohio County, IN",
+    "Pendleton County, KY",
+    "Warren County, OH"
+   ]
+  },
+  {
+   "rank": 31,
+   "id": "kansas-city",
+   "name": "Kansas City, MO",
+   "cbsa": "28140",
+   "census_name": "Kansas City, MO-KS",
+   "population": 2253579,
+   "states": [
+    "KS",
+    "MO"
+   ],
+   "counties": [
+    "Bates County, MO",
+    "Caldwell County, MO",
+    "Cass County, MO",
+    "Clay County, MO",
+    "Clinton County, MO",
+    "Jackson County, MO",
+    "Johnson County, KS",
+    "Lafayette County, MO",
+    "Leavenworth County, KS",
+    "Linn County, KS",
+    "Miami County, KS",
+    "Platte County, MO",
+    "Ray County, MO",
+    "Wyandotte County, KS"
+   ]
+  },
+  {
+   "rank": 32,
+   "id": "columbus",
+   "name": "Columbus, OH",
+   "cbsa": "18140",
+   "census_name": "Columbus, OH",
+   "population": 2225377,
+   "states": [
+    "OH"
+   ],
+   "counties": [
+    "Delaware County, OH",
+    "Fairfield County, OH",
+    "Franklin County, OH",
+    "Hocking County, OH",
+    "Licking County, OH",
+    "Madison County, OH",
+    "Morrow County, OH",
+    "Perry County, OH",
+    "Pickaway County, OH",
+    "Union County, OH"
+   ]
+  },
+  {
+   "rank": 33,
+   "id": "indianapolis",
+   "name": "Indianapolis, IN",
+   "cbsa": "26900",
+   "census_name": "Indianapolis-Carmel-Greenwood, IN",
+   "population": 2174833,
+   "states": [
+    "IN"
+   ],
+   "counties": [
+    "Boone County, IN",
+    "Brown County, IN",
+    "Hamilton County, IN",
+    "Hancock County, IN",
+    "Hendricks County, IN",
+    "Johnson County, IN",
+    "Madison County, IN",
+    "Marion County, IN",
+    "Morgan County, IN",
+    "Shelby County, IN",
+    "Tipton County, IN"
+   ]
+  },
+  {
+   "rank": 34,
+   "id": "cleveland",
+   "name": "Cleveland, OH",
+   "cbsa": "17410",
+   "census_name": "Cleveland, OH",
+   "population": 2171877,
+   "states": [
+    "OH"
+   ],
+   "counties": [
+    "Ashtabula County, OH",
+    "Cuyahoga County, OH",
+    "Geauga County, OH",
+    "Lake County, OH",
+    "Lorain County, OH",
+    "Medina County, OH"
+   ]
+  },
+  {
+   "rank": 35,
+   "id": "nashville",
+   "name": "Nashville, TN",
+   "cbsa": "34980",
+   "census_name": "Nashville-Davidson--Murfreesboro--Franklin, TN",
+   "population": 2150553,
+   "states": [
+    "TN"
+   ],
+   "counties": [
+    "Cannon County, TN",
+    "Cheatham County, TN",
+    "Davidson County, TN",
+    "Dickson County, TN",
+    "Hickman County, TN",
+    "Macon County, TN",
+    "Maury County, TN",
+    "Robertson County, TN",
+    "Rutherford County, TN",
+    "Smith County, TN",
+    "Sumner County, TN",
+    "Trousdale County, TN",
+    "Williamson County, TN",
+    "Wilson County, TN"
+   ]
+  },
+  {
+   "rank": 36,
+   "id": "san-jose",
+   "name": "San Jose, CA",
+   "cbsa": "41940",
+   "census_name": "San Jose-Sunnyvale-Santa Clara, CA",
+   "population": 1995484,
+   "states": [
+    "CA"
+   ],
+   "counties": [
+    "San Benito County, CA",
+    "Santa Clara County, CA"
+   ]
+  },
+  {
+   "rank": 37,
+   "id": "virginia-beach-norfolk",
+   "name": "Virginia Beach–Norfolk, VA",
+   "cbsa": "47260",
+   "census_name": "Virginia Beach-Chesapeake-Norfolk, VA-NC",
+   "population": 1794278,
+   "states": [
+    "NC",
+    "VA"
+   ],
+   "counties": [
+    "Camden County, NC",
+    "Chesapeake city, VA",
+    "Currituck County, NC",
+    "Gates County, NC",
+    "Gloucester County, VA",
+    "Hampton city, VA",
+    "Isle of Wight County, VA",
+    "James City County, VA",
+    "Mathews County, VA",
+    "Newport News city, VA",
+    "Norfolk city, VA",
+    "Poquoson city, VA",
+    "Portsmouth city, VA",
+    "Suffolk city, VA",
+    "Surry County, VA",
+    "Virginia Beach city, VA",
+    "Williamsburg city, VA",
+    "York County, VA"
+   ]
+  },
+  {
+   "rank": 38,
+   "id": "jacksonville",
+   "name": "Jacksonville, FL",
+   "cbsa": "27260",
+   "census_name": "Jacksonville, FL",
+   "population": 1760548,
+   "states": [
+    "FL"
+   ],
+   "counties": [
+    "Baker County, FL",
+    "Clay County, FL",
+    "Duval County, FL",
+    "Nassau County, FL",
+    "St. Johns County, FL"
+   ]
+  },
+  {
+   "rank": 39,
+   "id": "providence",
+   "name": "Providence, RI",
+   "cbsa": "39300",
+   "census_name": "Providence-Warwick, RI-MA",
+   "population": 1700901,
+   "states": [
+    "MA",
+    "RI"
+   ],
+   "counties": [
+    "Bristol County, MA",
+    "Bristol County, RI",
+    "Kent County, RI",
+    "Newport County, RI",
+    "Providence County, RI",
+    "Washington County, RI"
+   ]
+  },
+  {
+   "rank": 40,
+   "id": "milwaukee",
+   "name": "Milwaukee, WI",
+   "cbsa": "33340",
+   "census_name": "Milwaukee-Waukesha, WI",
+   "population": 1574452,
+   "states": [
+    "WI"
+   ],
+   "counties": [
+    "Milwaukee County, WI",
+    "Ozaukee County, WI",
+    "Washington County, WI",
+    "Waukesha County, WI"
+   ]
+  },
+  {
+   "rank": 41,
+   "id": "raleigh",
+   "name": "Raleigh, NC",
+   "cbsa": "39580",
+   "census_name": "Raleigh-Cary, NC",
+   "population": 1562009,
+   "states": [
+    "NC"
+   ],
+   "counties": [
+    "Franklin County, NC",
+    "Johnston County, NC",
+    "Wake County, NC"
+   ]
+  },
+  {
+   "rank": 42,
+   "id": "oklahoma-city",
+   "name": "Oklahoma City, OK",
+   "cbsa": "36420",
+   "census_name": "Oklahoma City, OK",
+   "population": 1497821,
+   "states": [
+    "OK"
+   ],
+   "counties": [
+    "Canadian County, OK",
+    "Cleveland County, OK",
+    "Grady County, OK",
+    "Lincoln County, OK",
+    "Logan County, OK",
+    "McClain County, OK",
+    "Oklahoma County, OK"
+   ]
+  },
+  {
+   "rank": 43,
+   "id": "louisville",
+   "name": "Louisville, KY",
+   "cbsa": "31140",
+   "census_name": "Louisville/Jefferson County, KY-IN",
+   "population": 1394234,
+   "states": [
+    "IN",
+    "KY"
+   ],
+   "counties": [
+    "Bullitt County, KY",
+    "Clark County, IN",
+    "Floyd County, IN",
+    "Harrison County, IN",
+    "Henry County, KY",
+    "Jefferson County, KY",
+    "Meade County, KY",
+    "Nelson County, KY",
+    "Oldham County, KY",
+    "Shelby County, KY",
+    "Spencer County, KY",
+    "Washington County, IN"
+   ]
+  },
+  {
+   "rank": 44,
+   "id": "richmond",
+   "name": "Richmond, VA",
+   "cbsa": "40060",
+   "census_name": "Richmond, VA",
+   "population": 1370165,
+   "states": [
+    "VA"
+   ],
+   "counties": [
+    "Amelia County, VA",
+    "Charles City County, VA",
+    "Chesterfield County, VA",
+    "Colonial Heights city, VA",
+    "Dinwiddie County, VA",
+    "Goochland County, VA",
+    "Hanover County, VA",
+    "Henrico County, VA",
+    "Hopewell city, VA",
+    "King William County, VA",
+    "King and Queen County, VA",
+    "New Kent County, VA",
+    "Petersburg city, VA",
+    "Powhatan County, VA",
+    "Prince George County, VA",
+    "Richmond city, VA",
+    "Sussex County, VA"
+   ]
+  },
+  {
+   "rank": 45,
+   "id": "memphis",
+   "name": "Memphis, TN",
+   "cbsa": "32820",
+   "census_name": "Memphis, TN-MS-AR",
+   "population": 1339345,
+   "states": [
+    "AR",
+    "MS",
+    "TN"
+   ],
+   "counties": [
+    "Benton County, MS",
+    "Crittenden County, AR",
+    "DeSoto County, MS",
+    "Fayette County, TN",
+    "Marshall County, MS",
+    "Shelby County, TN",
+    "Tate County, MS",
+    "Tipton County, TN",
+    "Tunica County, MS"
+   ]
+  },
+  {
+   "rank": 46,
+   "id": "salt-lake-city",
+   "name": "Salt Lake City, UT",
+   "cbsa": "41620",
+   "census_name": "Salt Lake City-Murray, UT",
+   "population": 1300762,
+   "states": [
+    "UT"
+   ],
+   "counties": [
+    "Salt Lake County, UT",
+    "Tooele County, UT"
+   ]
+  },
+  {
+   "rank": 47,
+   "id": "birmingham",
+   "name": "Birmingham, AL",
+   "cbsa": "13820",
+   "census_name": "Birmingham, AL",
+   "population": 1192583,
+   "states": [
+    "AL"
+   ],
+   "counties": [
+    "Bibb County, AL",
+    "Blount County, AL",
+    "Chilton County, AL",
+    "Jefferson County, AL",
+    "Shelby County, AL",
+    "St. Clair County, AL",
+    "Walker County, AL"
+   ]
+  },
+  {
+   "rank": 48,
+   "id": "fresno",
+   "name": "Fresno, CA",
+   "cbsa": "23420",
+   "census_name": "Fresno, CA",
+   "population": 1189557,
+   "states": [
+    "CA"
+   ],
+   "counties": [
+    "Fresno County, CA",
+    "Madera County, CA"
+   ]
+  },
+  {
+   "rank": 49,
+   "id": "grand-rapids",
+   "name": "Grand Rapids, MI",
+   "cbsa": "24340",
+   "census_name": "Grand Rapids-Wyoming-Kentwood, MI",
+   "population": 1178826,
+   "states": [
+    "MI"
+   ],
+   "counties": [
+    "Barry County, MI",
+    "Ionia County, MI",
+    "Kent County, MI",
+    "Montcalm County, MI",
+    "Ottawa County, MI"
+   ]
+  },
+  {
+   "rank": 50,
+   "id": "hartford",
+   "name": "Hartford, CT",
+   "cbsa": "25540",
+   "census_name": "Hartford-West Hartford-East Hartford, CT",
+   "population": 1169048,
+   "states": [
+    "CT"
+   ],
+   "counties": [
+    "Capitol Planning Region, CT",
+    "Lower Connecticut River Valley Planning Region, CT"
+   ]
+  }
+ ]
+}

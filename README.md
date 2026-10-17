@@ -12,6 +12,9 @@ Only headlines, short excerpts and links are kept; the stories stay on the outle
 - `fetch.py` — reads every metro file, pulls each source's RSS feed, and writes
   `data/articles/<metro>.jsonl` (full history) and `docs/data/<metro>.json` (last 14 days),
   plus `docs/metros.json` (the picker/search index).
+- `tools/metro_list.py` — builds `metros/top50.json` (the 50 largest US metros, from Census data).
+- `tools/discover.py` — vets candidate outlets for a metro (finds feeds, checks robots/freshness/duplicates, suggests `filter: local`) and drafts the metro file. Candidate lists live in `candidates/`.
+- `tools/health_report.py` — writes `data/health.md` (failing or silent sources) after every fetch.
 - `validate_sources.py` — checks every active feed (robots.txt, parses, recent). Run it after adding a metro.
 - `docs/` — the static site (GitHub Pages serves this folder).
 - `.github/workflows/fetch.yml` — runs `fetch.py` twice a day (6 AM and 3 PM Eastern) and commits the results.
@@ -48,4 +51,4 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
   It needs an API key stored as a GitHub secret and costs a little per headline, so revisit it
   when there is revenue to cover it.
 - ZIP-code lookup for the metro picker.
-- Scale to 100 metros (phase 3).
+- Phase 3: scale to the 50 largest US metros. Metros beyond 50 (up to 100 and beyond) are a later phase.
