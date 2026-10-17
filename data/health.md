@@ -1,8 +1,8 @@
 # Source health
 
-Generated 2026-10-17 15:41Z.
+Generated 2026-10-17 21:49Z.
 
-Active feeds: 680 · link-only: 302 · paused: 1
+Active feeds: 679 · link-only: 303 · paused: 1
 
 ## Atlanta, GA
 
@@ -14,60 +14,43 @@ Active feeds: 680 · link-only: 302 · paused: 1
 
 ## Boston, MA
 
-- **silent** Gloucester Daily Times: newest story 10 days old
+- **silent** Gloucester Daily Times: newest story 11 days old
 
 ## Charlotte, NC
 
-- **silent** Mooresville Tribune: newest story 20 days old
-- **no stories yet** Lancaster News
+- **silent** Mooresville Tribune: newest story 21 days old
+- **failing** Lancaster News: 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Chicago, IL
 
-- **silent** Better Government Association: newest story 28 days old
+- **silent** Better Government Association: newest story 29 days old
 
 ## Cincinnati, OH
 
-- **no stories yet** Journal-News (Hamilton)
-- **no stories yet** Middletown Journal
+- **silent** Middletown Journal: newest story 10 days old
 
 ## Dallas–Fort Worth, TX
 
-- **silent** Dallas Free Press: newest story 14 days old
-
-## Hartford, CT
-
-- **no stories yet** Bristol Press
-
-## Indianapolis, IN
-
-- **no stories yet** Shelbyville News
+- **silent** Dallas Free Press: newest story 15 days old
 
 ## Jacksonville, FL
 
-- **silent** WJCT News: newest story 11 days old
-- **silent** The Resident (Jax Beaches): newest story 14 days old
+- **silent** WJCT News: newest story 12 days old
+- **silent** The Resident (Jax Beaches): newest story 15 days old
 
 ## Los Angeles, CA
 
-- **silent** Crosstown: newest story 18 days old
+- **silent** Crosstown: newest story 19 days old
 
 ## Louisville, KY
 
 - **no stories yet** Oldham Era
 - **no stories yet** Pioneer News (Bullitt County)
 
-## Memphis, TN
-
-- **no stories yet** DeSoto Times-Tribune
-
-## Milwaukee, WI
-
-- **no stories yet** West Bend Daily News
-
 ## Minneapolis–St. Paul, MN
 
-- **silent** Park Bugle: newest story 15 days old
-- **silent** Hmong Times: newest story 16 days old
+- **silent** Park Bugle: newest story 16 days old
+- **silent** Hmong Times: newest story 17 days old
 
 ## Nashville, TN
 
@@ -77,22 +60,17 @@ Active feeds: 680 · link-only: 302 · paused: 1
 
 - **no stories yet** Queens Post
 - **no stories yet** Astoria Post
-- **silent** Norwood News: newest story 17 days old
+- **silent** Norwood News: newest story 18 days old
 
 ## Oklahoma City, OK
 
-- **no stories yet** The City Sentinel
-- **silent** Oklahoma Magazine: newest story 18 days old
+- **silent** Oklahoma Magazine: newest story 19 days old
 - **silent** Edmond Life & Leisure: newest story 16 days old
 - **no stories yet** The Oklahoma Daily (OU)
 
 ## Philadelphia, PA
 
 - **silent** Generocity Philly: newest story 10 days old
-
-## Pittsburgh, PA
-
-- **no stories yet** The Pitt News
 
 ## Portland, OR
 
@@ -106,9 +84,9 @@ Active feeds: 680 · link-only: 302 · paused: 1
 
 - **silent** Walter Magazine: newest story 15 days old
 
-## Richmond, VA
+## Riverside–San Bernardino, CA
 
-- **no stories yet** Richmond Times-Dispatch
+- **failing** Mountain News: 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Tampa–St. Petersburg, FL
 
