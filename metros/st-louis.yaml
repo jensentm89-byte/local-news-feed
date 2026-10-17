@@ -1,0 +1,136 @@
+# St. Louis, MO. See jacksonville.yaml for the file format.
+
+name: "St. Louis, MO"
+aliases:
+  - "Bond"
+  - "Calhoun"
+  - "Clinton"
+  - "Franklin"
+  - "Jefferson"
+  - "Jersey"
+  - "Lincoln"
+  - "Macoupin"
+  - "Madison"
+  - "Monroe"
+  - "St. Charles"
+  - "St. Clair"
+  - "St. Louis"
+  - "St. Louis city"
+  - "Warren"
+  - "St. Louis County"
+  - "St. Charles County"
+  - "Jefferson County"
+  - "Franklin County"
+  - "Madison County"
+  - "St. Clair County"
+  - "Clayton"
+  - "Kirkwood"
+  - "Webster Groves"
+  - "Ferguson"
+  - "Florissant"
+  - "O'Fallon"
+  - "St. Peters"
+  - "Chesterfield"
+  - "Belleville"
+  - "Edwardsville"
+  - "Alton"
+  - "Collinsville"
+  - "East St. Louis"
+  - "Metro East"
+  - "Gateway City"
+  - "STL"
+
+areas: ["St. Louis", "Missouri Suburbs", "Metro East (Illinois)"]
+states: ["Illinois", "Missouri"]
+local_terms: ["Cardinals", "Blues", "Rams", "St. Louis City SC", "Battlehawks", "Wash U", "Washington University", "SLU", "Saint Louis University", "Mizzou", "SIUE", "Spencer", "Jones", "Kehoe", "Parson", "Metro Transit", "Metrolink", "Lambert", "STL Airport", "Gateway Arch", "Forest Park", "Busch Stadium", "Enterprise Center", "Cherokee Street", "Soulard", "Central West End", "The Hill", "Tower Grove", "Delmar", "Dogtown", "Benton Park", "Lafayette Square", "Downtown West", "North City", "South City", "Kingshighway", "Maplewood", "University City", "Brentwood", "Ladue", "Creve Coeur", "Maryland Heights", "Wentzville", "Fenton", "Arnold", "Chesterfield", "Clayton", "Ballwin", "Wildwood", "Hazelwood", "Bridgeton", "Granite City", "Fairview Heights", "Waterloo", "Highland"]
+
+sources:
+  - name: "St. Louis Post-Dispatch"
+    area: "St. Louis"
+    feed_url: "https://www.stltoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "St. Louis Public Radio"
+    area: "St. Louis"
+    status: link_only
+    homepage: "https://www.stlpr.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The St. Louis American"
+    area: "St. Louis"
+    feed_url: "https://www.stlamerican.com/feed/"
+    status: active
+
+  - name: "KSDK 5 On Your Side"
+    area: "St. Louis"
+    feed_url: "https://www.ksdk.com/feeds/syndication/rss/news"
+    status: active
+    filter: local
+
+  - name: "KMOV"
+    area: "St. Louis"
+    feed_url: "https://www.kmov.com/arc/outboundfeeds/rss/category/news/local/?outputType=xml"
+    status: active
+    filter: local
+
+  - name: "FOX 2 St. Louis"
+    area: "St. Louis"
+    feed_url: "https://fox2now.com/feed/"
+    status: active
+
+  - name: "St. Louis Magazine"
+    area: "St. Louis"
+    feed_url: "https://www.stlmag.com/feed/"
+    status: active
+
+  - name: "Sauce Magazine"
+    area: "St. Louis"
+    feed_url: "https://www.saucemagazine.com/feed/"
+    status: active
+
+  - name: "The Beacon"
+    area: "St. Louis"
+    status: link_only
+    homepage: "https://thebeacon.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "St. Louis Jewish Light"
+    area: "St. Louis"
+    feed_url: "https://stljewishlight.org/feed/"
+    status: active
+
+  - name: "Gateway Journalism Review"
+    area: "St. Louis"
+    feed_url: "https://gatewayjr.org/feed/"
+    status: active
+    filter: local
+
+  - name: "Ladue News"
+    area: "Missouri Suburbs"
+    status: link_only
+    homepage: "https://laduenews.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Webster-Kirkwood Times"
+    area: "Missouri Suburbs"
+    feed_url: "http://www.timesnewspapers.com/search/?f=rss&t=article&c=webster-kirkwoodtimes&l=50&s=start_time&sd=desc"
+    status: active
+
+  - name: "Belleville News-Democrat"
+    area: "Metro East (Illinois)"
+    status: link_only
+    homepage: "https://www.bnd.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The Telegraph (Alton)"
+    area: "Metro East (Illinois)"
+    status: link_only
+    homepage: "https://www.thetelegraph.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Edwardsville Intelligencer"
+    area: "Metro East (Illinois)"
+    status: link_only
+    homepage: "https://www.theintelligencer.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."

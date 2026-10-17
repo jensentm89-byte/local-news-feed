@@ -1,8 +1,8 @@
 # Source health
 
-Generated 2026-10-17 04:53Z.
+Generated 2026-10-17 05:17Z.
 
-Active feeds: 382 · link-only: 171 · paused: 1
+Active feeds: 436 · link-only: 196 · paused: 1
 
 ## Atlanta, GA
 
@@ -11,6 +11,11 @@ Active feeds: 382 · link-only: 171 · paused: 1
 ## Boston, MA
 
 - **silent** Gloucester Daily Times: newest story 10 days old
+
+## Charlotte, NC
+
+- **silent** Mooresville Tribune: newest story 20 days old
+- **no stories yet** Lancaster News
 
 ## Chicago, IL
 

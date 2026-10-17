@@ -1,0 +1,137 @@
+# Baltimore, MD. See jacksonville.yaml for the file format.
+
+name: "Baltimore, MD"
+aliases:
+  - "Anne Arundel"
+  - "Baltimore"
+  - "Baltimore city"
+  - "Carroll"
+  - "Harford"
+  - "Howard"
+  - "Queen Anne's"
+  - "Baltimore County"
+  - "Baltimore City"
+  - "Anne Arundel County"
+  - "Howard County"
+  - "Carroll County"
+  - "Harford County"
+  - "Queen Anne's County"
+  - "Towson"
+  - "Columbia"
+  - "Annapolis"
+  - "Glen Burnie"
+  - "Ellicott City"
+  - "Bel Air"
+  - "Aberdeen"
+  - "Westminster"
+  - "Catonsville"
+  - "Dundalk"
+  - "Essex"
+  - "Owings Mills"
+  - "Pikesville"
+  - "Charm City"
+  - "Bmore"
+
+areas: ["Baltimore", "Anne Arundel", "Howard & Carroll"]
+states: ["Maryland"]
+local_terms: ["Ravens", "Orioles", "Johns Hopkins", "Morgan State", "UMBC", "Towson University", "Scott", "Mosby", "Moore", "MTA", "Baltimore Banner", "BWI", "Camden Yards", "M&T Bank Stadium", "Inner Harbor", "Fells Point", "Canton", "Federal Hill", "Hampden", "Mount Vernon", "Station North", "Penn North", "Sandtown", "Park Heights", "Cherry Hill", "Brooklyn", "Highlandtown", "Patterson Park", "Druid Hill", "Harbor East", "Locust Point", "Key Bridge", "Fort McHenry", "Chesapeake Bay", "Patapsco", "Severn", "Pasadena", "Severna Park", "Arnold", "Crofton", "Odenton", "Laurel", "Elkridge", "Reisterstown", "Hunt Valley", "Cockeysville", "Parkville", "Perry Hall", "White Marsh", "Havre de Grace", "Fallston", "Edgewood", "Joppa", "Sykesville", "Eldersburg", "Taneytown"]
+
+sources:
+  - name: "The Baltimore Sun"
+    area: "Baltimore"
+    status: link_only
+    homepage: "https://www.baltimoresun.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The Baltimore Banner"
+    area: "Baltimore"
+    feed_url: "https://www.thebaltimorebanner.com/arc/outboundfeeds/rss/?outputType=xml"
+    status: active
+    filter: local
+
+  - name: "Baltimore Fishbowl"
+    area: "Baltimore"
+    feed_url: "https://baltimorefishbowl.com/feed/"
+    status: active
+
+  - name: "Baltimore Brew"
+    area: "Baltimore"
+    status: link_only
+    homepage: "https://baltimorebrew.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "WYPR"
+    area: "Baltimore"
+    status: link_only
+    homepage: "https://www.wypr.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "WBAL-TV 11"
+    area: "Baltimore"
+    status: link_only
+    homepage: "https://www.wbaltv.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "WJZ CBS Baltimore"
+    area: "Baltimore"
+    status: link_only
+    homepage: "https://www.cbsnews.com/baltimore/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "WMAR-TV 2"
+    area: "Baltimore"
+    feed_url: "https://www.wmar2news.com/index.rss"
+    status: active
+
+  - name: "Baltimore Magazine"
+    area: "Baltimore"
+    feed_url: "https://www.baltimoremagazine.com/feed/"
+    status: active
+
+  - name: "Baltimore Beat"
+    area: "Baltimore"
+    feed_url: "https://baltimorebeat.com/feed/"
+    status: active
+
+  - name: "Baltimore Witness"
+    area: "Baltimore"
+    feed_url: "https://baltimorewitness.org/feed/"
+    status: active
+
+  - name: "The Baltimore Times"
+    area: "Baltimore"
+    feed_url: "https://baltimoretimes-online.com/feed/"
+    status: active
+
+  - name: "Baltimore Jewish Times"
+    area: "Baltimore"
+    feed_url: "https://www.jewishtimes.com/feed/"
+    status: active
+
+  - name: "Technical.ly Baltimore"
+    area: "Baltimore"
+    feed_url: "https://technical.ly/feed/"
+    status: active
+    filter: local
+
+  - name: "Capital Gazette"
+    area: "Anne Arundel"
+    status: link_only
+    homepage: "https://www.capitalgazette.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Eye On Annapolis"
+    area: "Anne Arundel"
+    feed_url: "https://www.eyeonannapolis.net/feed/"
+    status: active
+
+  - name: "Chesapeake Bay Magazine"
+    area: "Anne Arundel"
+    feed_url: "https://www.chesapeakebaymagazine.com/feed/"
+    status: active
+
+  - name: "Carroll County Times"
+    area: "Howard & Carroll"
+    status: link_only
+    homepage: "https://www.carrollcountytimes.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."

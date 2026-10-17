@@ -1,0 +1,145 @@
+# Charlotte, NC. See jacksonville.yaml for the file format.
+
+name: "Charlotte, NC"
+aliases:
+  - "Anson"
+  - "Cabarrus"
+  - "Chester"
+  - "Gaston"
+  - "Iredell"
+  - "Lancaster"
+  - "Lincoln"
+  - "Mecklenburg"
+  - "Rowan"
+  - "Union"
+  - "York"
+  - "Mecklenburg County"
+  - "Queen City"
+  - "Concord"
+  - "Gastonia"
+  - "Huntersville"
+  - "Matthews"
+  - "Mooresville"
+  - "Cornelius"
+  - "Davidson"
+  - "Mint Hill"
+  - "Kannapolis"
+  - "Monroe"
+  - "Union County"
+  - "Cabarrus County"
+  - "Gaston County"
+  - "Iredell County"
+  - "Lake Norman"
+  - "Rock Hill"
+  - "Fort Mill"
+  - "Lancaster SC"
+  - "York County SC"
+  - "Indian Land"
+  - "Tega Cay"
+  - "Waxhaw"
+  - "Weddington"
+  - "Indian Trail"
+  - "Belmont"
+  - "Lincolnton"
+  - "Salisbury"
+
+areas: ["Charlotte", "Suburbs", "South Carolina"]
+states: ["North Carolina", "South Carolina"]
+local_terms: ["Panthers", "Hornets", "Charlotte FC", "Checkers", "Knights", "49ers", "Johnson C. Smith", "Lyles", "Cooper", "Stein", "CMS", "CMPD", "CATS", "Charlotte Douglas", "Bank of America Stadium", "Spectrum Center", "Uptown", "South End", "NoDa", "Plaza Midwood", "Dilworth", "Myers Park", "SouthPark", "Ballantyne", "University City", "West Charlotte", "Steele Creek", "Lake Wylie", "Rock Hill", "I-77", "I-85", "Carowinds", "Duke Energy"]
+
+sources:
+  - name: "The Charlotte Observer"
+    area: "Charlotte"
+    status: link_only
+    homepage: "https://www.charlotteobserver.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "WBTV"
+    area: "Charlotte"
+    feed_url: "https://www.wbtv.com/arc/outboundfeeds/rss/category/news/local/?outputType=xml"
+    status: active
+    filter: local
+
+  - name: "WCNC Charlotte"
+    area: "Charlotte"
+    feed_url: "https://www.wcnc.com/feeds/syndication/rss/news"
+    status: active
+    filter: local
+
+  - name: "WSOC-TV"
+    area: "Charlotte"
+    feed_url: "https://www.wsoctv.com/arc/outboundfeeds/rss/category/news/local/?outputType=xml"
+    status: active
+    filter: local
+
+  - name: "Queen City News / FOX 46"
+    area: "Charlotte"
+    feed_url: "https://www.qcnews.com/feed/"
+    status: active
+
+  - name: "WFAE"
+    area: "Charlotte"
+    status: link_only
+    homepage: "https://www.wfae.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The Charlotte Post"
+    area: "Charlotte"
+    status: link_only
+    homepage: "https://www.thecharlottepost.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "La Noticia"
+    area: "Charlotte"
+    feed_url: "https://lanoticia.com/feed/"
+    status: active
+
+  - name: "Charlotte Talks"
+    area: "Charlotte"
+    feed_url: "https://www.wfae.org/podcast/charlotte-talks-with-mike-collins/rss.xml"
+    status: active
+
+  - name: "Mooresville Tribune"
+    area: "Suburbs"
+    feed_url: "https://www.mooresvilletribune.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "Gaston Gazette"
+    area: "Suburbs"
+    status: link_only
+    homepage: "https://www.gastongazette.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Independent Tribune (Concord)"
+    area: "Suburbs"
+    feed_url: "https://www.independenttribune.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "Salisbury Post"
+    area: "Suburbs"
+    feed_url: "https://www.salisburypost.com/feed/"
+    status: active
+
+  - name: "Union County Weekly"
+    area: "Suburbs"
+    feed_url: "http://www.thecharlotteweekly.com/search/?f=rss&t=article&c=ucweekly&l=50&s=start_time&sd=desc"
+    status: active
+
+  - name: "Rock Hill Herald"
+    area: "South Carolina"
+    status: link_only
+    homepage: "https://www.heraldonline.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Fort Mill Times"
+    area: "South Carolina"
+    status: link_only
+    homepage: "https://www.fortmilltimes.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Lancaster News"
+    area: "South Carolina"
+    feed_url: "http://www.pmg-sc.com/search/?f=rss&t=article&c=the_lancaster_news&l=50&s=start_time&sd=desc"
+    status: active

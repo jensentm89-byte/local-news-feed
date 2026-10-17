@@ -1,0 +1,126 @@
+# Austin, TX. See jacksonville.yaml for the file format.
+
+name: "Austin, TX"
+aliases:
+  - "Bastrop"
+  - "Caldwell"
+  - "Hays"
+  - "Travis"
+  - "Williamson"
+  - "Travis County"
+  - "Williamson County"
+  - "Hays County"
+  - "Caldwell County"
+  - "Bastrop County"
+  - "Round Rock"
+  - "Cedar Park"
+  - "Georgetown"
+  - "Pflugerville"
+  - "Leander"
+  - "Kyle"
+  - "Buda"
+  - "San Marcos"
+  - "Lakeway"
+  - "Bee Cave"
+  - "Dripping Springs"
+  - "Manor"
+  - "Hutto"
+  - "Lockhart"
+  - "Liberty Hill"
+  - "Taylor"
+  - "Capital of Texas"
+  - "ATX"
+  - "Keep Austin Weird"
+  - "Central Texas"
+
+areas: ["Austin", "Williamson County", "Travis County Suburbs", "Hays & Caldwell Counties"]
+states: ["Texas"]
+local_terms: ["Longhorns", "UT", "Texas Longhorns", "Austin FC", "Spurs Austin", "Bats", "Texas State", "Bobcats", "Austin Community College", "Watson", "Abbott", "Capital Metro", "CapMetro", "Austin Energy", "AISD", "Austin ISD", "Austin-Bergstrom", "ABIA", "Q2 Stadium", "Moody Center", "Zilker", "Barton Springs", "South Congress", "SoCo", "East Austin", "Rainey Street", "Downtown Austin", "The Domain", "Mueller", "Hyde Park", "Clarksville", "Tarrytown", "Bouldin", "Travis Heights", "Montopolis", "Del Valle", "Oak Hill", "Circuit of the Americas", "COTA", "Lake Travis", "Lady Bird Lake", "Colorado River", "Texas Capitol", "Texas Legislature", "I-35", "MoPac", "Loop 360", "SH 130", "Samsung Taylor", "Tesla Gigafactory"]
+
+sources:
+  - name: "Austin American-Statesman"
+    area: "Austin"
+    status: link_only
+    homepage: "https://www.statesman.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "KUT"
+    area: "Austin"
+    feed_url: "https://www.kut.org/feeds/syndication/rss/news/local"
+    status: active
+    filter: local
+
+  - name: "The Austin Chronicle"
+    area: "Austin"
+    feed_url: "https://www.austinchronicle.com/feed/"
+    status: active
+
+  - name: "KXAN"
+    area: "Austin"
+    feed_url: "https://www.kxan.com/feed/"
+    status: active
+
+  - name: "KVUE"
+    area: "Austin"
+    feed_url: "https://www.kvue.com/feeds/syndication/rss/news"
+    status: active
+    filter: local
+
+  - name: "FOX 7 Austin"
+    area: "Austin"
+    feed_url: "https://www.fox7austin.com/rss.xml"
+    status: active
+
+  - name: "Austin Monthly"
+    area: "Austin"
+    feed_url: "https://www.austinmonthly.com/feed/"
+    status: active
+
+  - name: "CultureMap Austin"
+    area: "Austin"
+    feed_url: "https://austin.culturemap.com/feeds/feed.rss"
+    status: active
+
+  - name: "The Austin Bulldog"
+    area: "Austin"
+    feed_url: "https://theaustinbulldog.org/feed/"
+    status: active
+
+  - name: "Community Impact Austin"
+    area: "Austin"
+    feed_url: "https://communityimpact.com/rss/austin/"
+    status: active
+
+  - name: "Williamson County Sun"
+    area: "Williamson County"
+    feed_url: "https://www.wilcosun.com/rss.xml"
+    status: active
+
+  - name: "Round Rock Leader"
+    area: "Williamson County"
+    feed_url: "https://communityimpact.com/rss"
+    status: active
+
+  - name: "Lake Travis View"
+    area: "Travis County Suburbs"
+    status: link_only
+    homepage: "https://www.laketravisview.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Westlake Picayune"
+    area: "Travis County Suburbs"
+    status: link_only
+    homepage: "https://www.westlakepicayune.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Pflugerville Pflag"
+    area: "Travis County Suburbs"
+    status: link_only
+    homepage: "https://www.pflugervillepflag.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "San Marcos Daily Record"
+    area: "Hays & Caldwell Counties"
+    status: link_only
+    homepage: "https://www.sanmarcosrecord.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."

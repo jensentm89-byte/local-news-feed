@@ -1,0 +1,103 @@
+# San Antonio, TX. See jacksonville.yaml for the file format.
+
+name: "San Antonio, TX"
+aliases:
+  - "Atascosa"
+  - "Bandera"
+  - "Bexar"
+  - "Comal"
+  - "Guadalupe"
+  - "Kendall"
+  - "Medina"
+  - "Wilson"
+  - "Bexar County"
+  - "Comal County"
+  - "Guadalupe County"
+  - "Wilson County"
+  - "Medina County"
+  - "Kendall County"
+  - "Bandera County"
+  - "New Braunfels"
+  - "Seguin"
+  - "Schertz"
+  - "Boerne"
+  - "Universal City"
+  - "Converse"
+  - "Live Oak"
+  - "Helotes"
+  - "Alamo Heights"
+  - "Leon Valley"
+  - "Cibolo"
+  - "Floresville"
+  - "Alamo City"
+  - "Military City"
+
+areas: ["San Antonio", "New Braunfels & Comal County", "Hill Country & Suburbs"]
+states: ["Texas"]
+local_terms: ["Spurs", "San Antonio FC", "Missions", "Rampage", "UTSA", "Roadrunners", "Trinity", "Our Lady of the Lake", "St. Mary's", "Nirenberg", "Abbott", "VIA", "VIA Metropolitan", "CPS Energy", "SAWS", "San Antonio International", "Alamo", "Alamodome", "River Walk", "Pearl", "Southtown", "King William", "Dignowity", "Westside", "Eastside", "Stone Oak", "Medical Center", "Northside ISD", "SAISD", "Northeast ISD", "Joint Base San Antonio", "Fort Sam Houston", "Lackland", "Randolph", "Brooks", "Camp Bullis", "Camp Stanley", "Bulverde", "Spring Branch", "Canyon Lake", "Garden Ridge", "Selma", "Kirby", "Windcrest", "Castle Hills", "Shavano Park", "Fair Oaks Ranch"]
+
+sources:
+  - name: "San Antonio Express-News"
+    area: "San Antonio"
+    status: link_only
+    homepage: "https://www.expressnews.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "San Antonio Current"
+    area: "San Antonio"
+    feed_url: "https://www.sacurrent.com/feed/"
+    status: active
+
+  - name: "San Antonio Report"
+    area: "San Antonio"
+    feed_url: "https://sanantonioreport.org/feed/"
+    status: active
+
+  - name: "Texas Public Radio"
+    area: "San Antonio"
+    feed_url: "https://www.tpr.org/index.rss"
+    status: active
+
+  - name: "KENS 5"
+    area: "San Antonio"
+    feed_url: "https://www.kens5.com/feeds/syndication/rss/news"
+    status: active
+    filter: local
+
+  - name: "KSAT 12"
+    area: "San Antonio"
+    feed_url: "https://www.ksat.com/arc/outboundfeeds/rss/category/news/local/?outputType=xml"
+    status: active
+    filter: local
+
+  - name: "San Antonio Magazine"
+    area: "San Antonio"
+    feed_url: "https://www.sanantoniomag.com/feed/"
+    status: active
+
+  - name: "Community Impact San Antonio"
+    area: "San Antonio"
+    feed_url: "https://communityimpact.com/rss/"
+    status: active
+
+  - name: "Herald-Zeitung (New Braunfels)"
+    area: "New Braunfels & Comal County"
+    feed_url: "https://herald-zeitung.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "Community Impact New Braunfels"
+    area: "New Braunfels & Comal County"
+    feed_url: "https://communityimpact.com/rss/new-braunfels/"
+    status: active
+
+  - name: "Seguin Gazette"
+    area: "New Braunfels & Comal County"
+    feed_url: "https://seguingazette.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "The Boerne Star"
+    area: "Hill Country & Suburbs"
+    feed_url: "https://www.boernestar.com/rss/articles"
+    status: active
