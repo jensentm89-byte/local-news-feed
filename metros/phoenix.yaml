@@ -60,3 +60,67 @@ sources:
     status: link_only
     homepage: "https://www.azcentral.com/"
     note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Phoenix Magazine"
+    area: "Phoenix"
+    feed_url: "https://www.phoenixmag.com/feed/"
+    status: active
+
+  - name: "Arizona Jewish Post"
+    area: "Phoenix"
+    feed_url: "https://azjewishpost.com/feed/"
+    status: active
+
+  - name: "KJZZ"
+    area: "Phoenix"
+    status: link_only
+    homepage: "https://kjzz.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "KTAR"
+    area: "Phoenix"
+    status: link_only
+    homepage: "https://ktar.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Arizona Sports"
+    area: "Phoenix"
+    status: link_only
+    homepage: "https://arizonasports.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "AZ Big Media"
+    area: "Phoenix"
+    status: link_only
+    homepage: "https://azbigmedia.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "West Valley View"
+    area: "Region-wide"
+    status: link_only
+    homepage: "https://www.yourvalley.net/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Fountain Hills Times"
+    area: "Region-wide"
+    status: link_only
+    homepage: "https://www.fhtimes.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Scottsdale Independent"
+    area: "Region-wide"
+    status: link_only
+    homepage: "https://www.scottsdaleindependent.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "ABC15 Arizona"
+    area: "Phoenix"
+    feed_url: "https://www.abc15.com/news/local-news.rss"
+    status: active
+    filter: local
+
+  - name: "Pinal Central"
+    area: "Region-wide"
+    status: link_only
+    homepage: "https://www.pinalcentral.com/"
+    note: "No usable open feed found."

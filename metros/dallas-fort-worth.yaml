@@ -161,9 +161,9 @@ sources:
 
   - name: "Denton Record-Chronicle"
     area: "Region-wide"
-    status: link_only
-    homepage: "https://dentonrc.com/"
-    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+    feed_url: "https://dentonrc.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
 
   - name: "Frisco Enterprise"
     area: "Region-wide"

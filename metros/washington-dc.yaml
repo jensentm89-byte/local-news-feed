@@ -169,15 +169,15 @@ sources:
 
   - name: "Frederick News-Post"
     area: "Maryland"
-    status: link_only
-    homepage: "https://www.fredericknewspost.com/"
-    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+    feed_url: "https://www.fredericknewspost.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
 
   - name: "Loudoun Now"
     area: "Virginia"
-    status: link_only
-    homepage: "https://www.loudounnow.com/"
-    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+    feed_url: "https://www.loudounnow.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
 
   - name: "Loudoun Times-Mirror"
     area: "Virginia"
@@ -189,7 +189,7 @@ sources:
     area: "Virginia"
     status: link_only
     homepage: "https://www.insidenova.com/"
-    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+    note: "Its only open feed is stale, so only the outlet name and link are shown."
 
   - name: "Prince William Times"
     area: "Virginia"

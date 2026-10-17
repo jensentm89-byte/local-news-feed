@@ -81,3 +81,81 @@ sources:
     status: link_only
     homepage: "https://www.ajc.com/"
     note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Urbanize Atlanta"
+    area: "Atlanta"
+    feed_url: "https://atlanta.urbanize.city/rss.xml"
+    status: active
+
+  - name: "What Now Atlanta"
+    area: "Atlanta"
+    feed_url: "https://whatnow.com/feed/"
+    status: active
+
+  - name: "Creative Loafing Atlanta"
+    area: "Atlanta"
+    status: link_only
+    homepage: "https://clatl.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Decaturish"
+    area: "Region-wide"
+    status: link_only
+    homepage: "https://decaturish.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Gwinnett Daily Post"
+    area: "Region-wide"
+    feed_url: "https://www.gwinnettdailypost.com/search/?f=rss&t=article&c=local&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "Marietta Daily Journal"
+    area: "Region-wide"
+    feed_url: "https://www.mdjonline.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "Henry Herald"
+    area: "Region-wide"
+    feed_url: "https://www.henryherald.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "Appen Media"
+    area: "Region-wide"
+    status: link_only
+    homepage: "https://www.appenmedia.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "WABE"
+    area: "Atlanta"
+    feed_url: "https://www.wabe.org/news/feed"
+    status: active
+    filter: local
+
+  - name: "Forsyth County News"
+    area: "Region-wide"
+    feed_url: "https://www.forsythnews.com/rss/"
+    status: active
+
+  - name: "Cobb County Courier"
+    area: "Region-wide"
+    feed_url: "https://cobbcountycourier.com/feed/"
+    status: active
+
+  - name: "The Citizen (Fayette & Coweta)"
+    area: "Region-wide"
+    feed_url: "https://thecitizen.com/feed/"
+    status: active
+
+  - name: "Gwinnett Citizen"
+    area: "Region-wide"
+    feed_url: "https://gwinnettcitizen.com/feed/"
+    status: active
+
+  - name: "Rockdale Citizen"
+    area: "Region-wide"
+    feed_url: "https://www.rockdalecitizen.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local

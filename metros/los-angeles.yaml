@@ -193,9 +193,9 @@ sources:
 
   - name: "The Eastsider LA"
     area: "Los Angeles County"
-    status: link_only
-    homepage: "https://www.theeastsiderla.com/"
-    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+    feed_url: "https://www.theeastsiderla.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
 
   - name: "Los Angeles Sentinel"
     area: "Los Angeles County"
@@ -211,9 +211,9 @@ sources:
 
   - name: "Los Angeles Downtown News"
     area: "Los Angeles County"
-    status: link_only
-    homepage: "https://www.ladowntownnews.com/"
-    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+    feed_url: "https://www.ladowntownnews.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
 
   - name: "Santa Clarita Signal"
     area: "Los Angeles County"

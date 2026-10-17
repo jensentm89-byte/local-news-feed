@@ -70,3 +70,103 @@ sources:
     status: link_only
     homepage: "https://www.palmbeachpost.com/"
     note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Telemundo 51"
+    area: "Miami-Dade"
+    feed_url: "https://www.telemundo51.com/?rss=y"
+    status: active
+    filter: local
+
+  - name: "Biscayne Times"
+    area: "Miami-Dade"
+    feed_url: "https://www.biscaynetimes.com/api/rss/content.rss"
+    status: active
+
+  - name: "Community Newspapers (Miami-Dade)"
+    area: "Miami-Dade"
+    feed_url: "https://communitynewspapers.com/feed/"
+    status: active
+
+  - name: "Coral Gables Magazine"
+    area: "Miami-Dade"
+    feed_url: "https://coralgablesmagazine.com/feed/"
+    status: active
+
+  - name: "Coral Springs Talk"
+    area: "Broward"
+    feed_url: "https://coralspringstalk.com/feed"
+    status: active
+
+  - name: "Parkland Talk"
+    area: "Broward"
+    feed_url: "https://parklandtalk.com/feed"
+    status: active
+
+  - name: "Fort Lauderdale Magazine"
+    area: "Broward"
+    feed_url: "https://fortlauderdalemagazine.com/feed/"
+    status: active
+
+  - name: "Boca Raton Tribune"
+    area: "Palm Beach"
+    feed_url: "https://www.bocaratontribune.com/feed/"
+    status: active
+
+  - name: "Boca Magazine"
+    area: "Palm Beach"
+    feed_url: "https://www.bocamag.com/feed/"
+    status: active
+
+  - name: "WLRN"
+    area: "Miami-Dade"
+    status: link_only
+    homepage: "https://www.wlrn.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Miami Times"
+    area: "Miami-Dade"
+    status: link_only
+    homepage: "https://www.miamitimesonline.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Islander News (Key Biscayne)"
+    area: "Miami-Dade"
+    status: link_only
+    homepage: "https://islandernews.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "El Nuevo Herald"
+    area: "Miami-Dade"
+    status: link_only
+    homepage: "https://www.elnuevoherald.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "WPBF 25"
+    area: "Palm Beach"
+    status: link_only
+    homepage: "https://www.wpbf.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "CBS12"
+    area: "Palm Beach"
+    status: link_only
+    homepage: "https://cbs12.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Palm Beach Illustrated"
+    area: "Palm Beach"
+    status: link_only
+    homepage: "https://palmbeachillustrated.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Palm Beach Daily News"
+    area: "Palm Beach"
+    status: link_only
+    homepage: "https://www.palmbeachdailynews.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "NBC 6 South Florida"
+    area: "Miami-Dade"
+    feed_url: "https://www.nbcmiami.com/news/local/feed/"
+    status: active
+    filter: local

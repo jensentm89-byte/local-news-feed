@@ -17,6 +17,7 @@ import calendar
 import html
 import json
 import re
+import time
 import urllib.error
 import urllib.request
 import urllib.robotparser
@@ -44,6 +45,7 @@ REQUEST_TIMEOUT = 15
 EXCERPT_MAX_CHARS = 300
 DAYS_TO_KEEP_ON_PAGE = 14
 MIN_HOURS_BETWEEN_FETCHES = 6
+REQUEST_PAUSE_SECONDS = 1
 MAX_HOMEPAGE_BYTES = 2_000_000
 TIME_FORMAT = "%Y-%m-%dT%H:%M:%SZ"
 
@@ -96,9 +98,17 @@ def load_metros():
 
 
 def http_get(url, max_bytes=None):
+    """GET with a polite retry: a 429/503 is retried after the server's Retry-After (max 30s)."""
     request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(request, timeout=REQUEST_TIMEOUT) as response:
-        return response.read(max_bytes) if max_bytes else response.read()
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(request, timeout=REQUEST_TIMEOUT) as response:
+                return response.read(max_bytes) if max_bytes else response.read()
+        except urllib.error.HTTPError as exc:
+            if exc.code not in (429, 503) or attempt == 2:
+                raise
+            retry_after = exc.headers.get("Retry-After", "")
+            time.sleep(min(int(retry_after) if retry_after.isdigit() else 10 * (attempt + 1), 30))
 
 
 def allowed_by_robots(url):
@@ -354,6 +364,7 @@ def run_metro(metro, state):
             if not is_due(feeds_state.get(key)):
                 log(f"skip metro={metro_id} source={source['name']!r} reason=fetched_recently")
                 continue
+            time.sleep(REQUEST_PAUSE_SECONDS)
             try:
                 new_items = process_feed(source, existing_links)
             except Exception as exc:  # noqa: BLE001 - a bad feed must never crash the run

@@ -39,3 +39,13 @@ Only headlines, short excerpts and links are kept; the stories stay on the outle
 python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 .venv/bin/python fetch.py
 ```
+
+## Ideas for later
+
+- **AI relevance filter.** The `filter: local` rules hide most national and world stories from
+  TV/radio feeds, but some generic national stories (consumer news, entertainment) slip through
+  because they name no place. A small AI model could classify each new headline as local or not.
+  It needs an API key stored as a GitHub secret and costs a little per headline, so revisit it
+  when there is revenue to cover it.
+- ZIP-code lookup for the metro picker.
+- Scale to 100 metros (phase 3).
