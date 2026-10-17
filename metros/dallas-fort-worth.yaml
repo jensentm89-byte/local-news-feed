@@ -16,6 +16,9 @@ aliases:
   - "Collin County"
 
 areas: ["Dallas", "Fort Worth", "Region-wide"]
+states: ["Texas"]
+
+local_terms: ["Dallas", "Fort Worth", "DFW", "Texas", "Tarrant", "Collin", "Denton", "Dallas County", "Rockwall", "Ellis County", "Kaufman", "Parker County", "Plano", "Irving", "Garland", "Frisco", "McKinney", "Mesquite", "Carrollton", "Richardson", "Grand Prairie", "Lewisville", "Flower Mound", "Southlake", "Grapevine", "Keller", "Mansfield", "Mavericks", "Mavs", "FC Dallas", "SMU", "TCU", "UNT", "UT Dallas", "DART", "Abbott", "Paxton", "Eddie Johnson", "Mattie Parker", "DFW Airport", "Love Field", "AT&T Stadium", "State Fair", "Highland Park", "Oak Cliff", "Deep Ellum", "Uptown", "Dallas Cowboys", "Dallas Stars", "Texas Rangers", "Pct."]
 
 sources:
   - name: "Fort Worth Report"
@@ -47,16 +50,19 @@ sources:
     area: "Region-wide"
     feed_url: "https://www.wfaa.com/feeds/syndication/rss/news/local"
     status: active
+    filter: local
 
   - name: "NBC Dallas-Fort Worth"
     area: "Region-wide"
     feed_url: "https://www.nbcdfw.com/news/local/feed/"
     status: active
+    filter: local
 
   - name: "Fox 4 Dallas-Fort Worth"
     area: "Region-wide"
     feed_url: "https://www.fox4news.com/rss/category/news"
     status: active
+    filter: local
 
   - name: "Dallas Weekly"
     area: "Dallas"
@@ -78,4 +84,95 @@ sources:
     area: "Fort Worth"
     status: link_only
     homepage: "https://www.star-telegram.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Dallas Free Press"
+    area: "Dallas"
+    feed_url: "https://dallasfreepress.com/feed/"
+    status: active
+
+  - name: "Dallas Innovates"
+    area: "Dallas"
+    feed_url: "https://dallasinnovates.com/feed/"
+    status: active
+
+  - name: "Dallas Voice"
+    area: "Dallas"
+    feed_url: "https://dallasvoice.com/feed/"
+    status: active
+
+  - name: "Texas Metro News"
+    area: "Dallas"
+    feed_url: "https://texasmetronews.com/feed/"
+    status: active
+    filter: local
+
+  - name: "Plano Star Courier (Star Local Media)"
+    area: "Region-wide"
+    feed_url: "http://starlocalmedia.com/search/?f=rss&t=article&c=planocourier&l=50&s=start_time&sd=desc"
+    status: active
+
+  - name: "CW33"
+    area: "Region-wide"
+    feed_url: "https://cw33.com/feed/"
+    status: active
+    filter: local
+
+  - name: "Cross Timbers Gazette"
+    area: "Region-wide"
+    feed_url: "https://www.crosstimbersgazette.com/feed/"
+    status: active
+
+  - name: "D Magazine"
+    area: "Dallas"
+    status: link_only
+    homepage: "https://www.dmagazine.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "KERA News"
+    area: "Region-wide"
+    status: link_only
+    homepage: "https://www.keranews.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "People Newspapers"
+    area: "Dallas"
+    status: link_only
+    homepage: "https://peoplenewspapers.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Advocate Magazine"
+    area: "Dallas"
+    status: link_only
+    homepage: "https://advocatemag.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Fort Worth Magazine"
+    area: "Fort Worth"
+    status: link_only
+    homepage: "https://fwtx.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Fort Worth Inc"
+    area: "Fort Worth"
+    status: link_only
+    homepage: "https://fortworthinc.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Denton Record-Chronicle"
+    area: "Region-wide"
+    status: link_only
+    homepage: "https://dentonrc.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Frisco Enterprise"
+    area: "Region-wide"
+    status: link_only
+    homepage: "https://starlocalmedia.com/friscoenterprise/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "McKinney Courier-Gazette"
+    area: "Region-wide"
+    status: link_only
+    homepage: "https://starlocalmedia.com/mckinneycouriergazette/"
     note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."

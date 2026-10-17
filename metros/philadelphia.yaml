@@ -13,17 +13,22 @@ aliases:
   - "Main Line"
 
 areas: ["Philadelphia", "Region-wide"]
+states: ["Pennsylvania", "New Jersey", "Delaware", "Maryland"]
+
+local_terms: ["Philadelphia", "Philly", "Pennsylvania", "PA", "Delaware County", "Delco", "Bucks County", "Montgomery County", "Chester County", "Camden", "South Jersey", "Burlington County", "Gloucester County", "New Jersey", "N.J.", "Wilmington", "Main Line", "Chestnut Hill", "Germantown", "Manayunk", "Kensington", "Fishtown", "South Philly", "West Philly", "Center City", "Old City", "Northeast Philly", "King of Prussia", "Norristown", "West Chester", "Doylestown", "Pottstown", "Allentown", "Phillies", "76ers", "Sixers", "Drexel", "Villanova", "SEPTA", "PATCO", "Shapiro", "Fetterman", "PHL", "Wawa", "Schuylkill", "Delaware River", "Liberty Bell", "Philadelphia Eagles", "Cherelle Parker", "Penn State", "University of Pennsylvania"]
 
 sources:
   - name: "Billy Penn at WHYY"
     area: "Philadelphia"
     feed_url: "https://billypenn.com/feed/"
     status: active
+    filter: local
 
   - name: "WHYY"
     area: "Region-wide"
     feed_url: "https://whyy.org/feed/"
     status: active
+    filter: local
 
   - name: "PhillyVoice"
     area: "Philadelphia"
@@ -44,11 +49,13 @@ sources:
     area: "Philadelphia"
     feed_url: "https://www.nbcphiladelphia.com/?rss=y"
     status: active
+    filter: local
 
   - name: "FOX 29 Philadelphia"
     area: "Philadelphia"
     feed_url: "https://www.fox29.com/rss/category/news"
     status: active
+    filter: local
 
   - name: "Philadelphia Citizen"
     area: "Philadelphia"
@@ -64,4 +71,108 @@ sources:
     area: "Philadelphia"
     status: link_only
     homepage: "https://www.inquirer.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Generocity Philly"
+    area: "Philadelphia"
+    feed_url: "https://generocity.org/feed/"
+    status: active
+
+  - name: "Hidden City Philadelphia"
+    area: "Philadelphia"
+    feed_url: "https://hiddencityphila.org/feed/"
+    status: active
+
+  - name: "Philadelphia Gay News"
+    area: "Philadelphia"
+    feed_url: "https://epgn.com/feed/"
+    status: active
+    filter: local
+
+  - name: "Philadelphia Jewish Exponent"
+    area: "Philadelphia"
+    feed_url: "https://www.jewishexponent.com/feed/"
+    status: active
+    filter: local
+
+  - name: "Broad Street Review"
+    area: "Philadelphia"
+    feed_url: "https://www.broadstreetreview.com/rss"
+    status: active
+
+  - name: "PHL17"
+    area: "Philadelphia"
+    feed_url: "https://phl17.com/feed/"
+    status: active
+    filter: local
+
+  - name: "Main Line Today"
+    area: "Region-wide"
+    feed_url: "https://mainlinetoday.com/feed/"
+    status: active
+
+  - name: "Philadelphia Tribune"
+    area: "Philadelphia"
+    status: link_only
+    homepage: "https://www.phillytrib.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Chestnut Hill Local"
+    area: "Philadelphia"
+    status: link_only
+    homepage: "https://www.chestnuthilllocal.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "AL DÍA News"
+    area: "Philadelphia"
+    status: link_only
+    homepage: "https://aldianews.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Daily Local News"
+    area: "Region-wide"
+    status: link_only
+    homepage: "https://www.dailylocal.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Pottstown Mercury"
+    area: "Region-wide"
+    status: link_only
+    homepage: "https://www.pottsmerc.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Delco Times"
+    area: "Region-wide"
+    status: link_only
+    homepage: "https://www.delcotimes.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Courier-Post (Camden)"
+    area: "Region-wide"
+    status: link_only
+    homepage: "https://www.courierpostonline.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Burlington County Times"
+    area: "Region-wide"
+    status: link_only
+    homepage: "https://www.burlingtoncountytimes.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Delaware News Journal"
+    area: "Region-wide"
+    status: link_only
+    homepage: "https://www.delawareonline.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Bucks County Courier Times"
+    area: "Region-wide"
+    status: link_only
+    homepage: "https://www.buckscountycouriertimes.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The Intelligencer"
+    area: "Region-wide"
+    status: link_only
+    homepage: "https://www.theintell.com/"
     note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."

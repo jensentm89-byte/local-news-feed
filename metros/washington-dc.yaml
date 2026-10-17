@@ -16,17 +16,22 @@ aliases:
   - "DMV"
 
 areas: ["District of Columbia", "Maryland", "Virginia"]
+states: ["Maryland", "Virginia", "West Virginia"]
+
+local_terms: ["D.C.", "DC", "District", "DMV", "Maryland", "Virginia", "Northern Virginia", "NoVA", "Prince George's", "Montgomery County", "Alexandria", "Fairfax", "Loudoun", "Prince William", "Stafford", "Falls Church", "Bethesda", "Silver Spring", "Rockville", "Gaithersburg", "Bowie", "Laurel", "Hyattsville", "College Park", "Annapolis", "Frederick", "Anne Arundel", "Charles County", "Manassas", "Reston", "Tysons", "McLean", "Vienna", "Herndon", "Leesburg", "Capitol Hill", "Adams Morgan", "Dupont", "Anacostia", "Navy Yard", "Union Station", "WMATA", "Mystics", "D.C. United", "American University", "GWU", "Bowser", "Youngkin", "Reagan National", "Dulles", "BWI", "Beltway", "Potomac", "National Mall", "Smithsonian", "Georgetown University", "Howard University", "Commanders", "Capitals", "Wizards", "Nationals Park", "Metro", "White House press"]
 
 sources:
   - name: "WTOP News"
     area: "District of Columbia"
     feed_url: "https://wtop.com/feed/"
     status: active
+    filter: local
 
   - name: "WAMU"
     area: "District of Columbia"
     feed_url: "https://wamu.org/feed/"
     status: active
+    filter: local
 
   - name: "Washington City Paper"
     area: "District of Columbia"
@@ -37,6 +42,7 @@ sources:
     area: "District of Columbia"
     feed_url: "https://www.washingtoninformer.com/feed/"
     status: active
+    filter: local
 
   - name: "Greater Greater Washington"
     area: "District of Columbia"
@@ -72,19 +78,121 @@ sources:
     area: "District of Columbia"
     feed_url: "https://www.nbcwashington.com/news/local/feed/"
     status: active
+    filter: local
 
   - name: "WUSA9"
     area: "District of Columbia"
     feed_url: "https://www.wusa9.com/feeds/syndication/rss/news/local"
     status: active
+    filter: local
 
   - name: "FOX 5 DC"
     area: "District of Columbia"
     feed_url: "https://www.fox5dc.com/rss/category/news"
     status: active
+    filter: local
 
   - name: "The Washington Post"
     area: "District of Columbia"
     status: link_only
     homepage: "https://www.washingtonpost.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Washington Blade"
+    area: "District of Columbia"
+    feed_url: "https://www.washingtonblade.com/feed/"
+    status: active
+    filter: local
+
+  - name: "Hill Rag"
+    area: "District of Columbia"
+    feed_url: "https://www.hillrag.com/feed/"
+    status: active
+
+  - name: "The Georgetowner"
+    area: "District of Columbia"
+    feed_url: "https://georgetowner.com/feed/"
+    status: active
+
+  - name: "PoPville"
+    area: "District of Columbia"
+    feed_url: "https://www.popville.com/feed/"
+    status: active
+
+  - name: "The Afro"
+    area: "District of Columbia"
+    feed_url: "https://afro.com/rss.xml"
+    status: active
+    filter: local
+
+  - name: "DC Witness"
+    area: "District of Columbia"
+    feed_url: "https://dcwitness.org/feed/"
+    status: active
+
+  - name: "Montgomery Community Media"
+    area: "Maryland"
+    feed_url: "https://www.mymcmedia.org/feed/"
+    status: active
+
+  - name: "Potomac Local News"
+    area: "Virginia"
+    feed_url: "https://www.potomaclocal.com/feed/"
+    status: active
+
+  - name: "Falls Church News-Press"
+    area: "Virginia"
+    feed_url: "https://www.fcnp.com/feed/"
+    status: active
+
+  - name: "Alexandria Times"
+    area: "Virginia"
+    feed_url: "https://alextimes.com/feed/"
+    status: active
+
+  - name: "Arlington Magazine"
+    area: "Virginia"
+    feed_url: "https://www.arlingtonmagazine.com/feed/"
+    status: active
+
+  - name: "The DC Line"
+    area: "District of Columbia"
+    status: link_only
+    homepage: "https://www.thedcline.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "WJLA 7News"
+    area: "District of Columbia"
+    status: link_only
+    homepage: "https://wjla.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Frederick News-Post"
+    area: "Maryland"
+    status: link_only
+    homepage: "https://www.fredericknewspost.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Loudoun Now"
+    area: "Virginia"
+    status: link_only
+    homepage: "https://www.loudounnow.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Loudoun Times-Mirror"
+    area: "Virginia"
+    status: link_only
+    homepage: "https://www.loudountimes.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "InsideNoVA"
+    area: "Virginia"
+    status: link_only
+    homepage: "https://www.insidenova.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Prince William Times"
+    area: "Virginia"
+    status: link_only
+    homepage: "https://www.princewilliamtimes.com/"
     note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."

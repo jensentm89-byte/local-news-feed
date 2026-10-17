@@ -13,12 +13,16 @@ aliases:
   - "Fort Bend"
 
 areas: ["Houston", "Region-wide"]
+states: ["Texas"]
+
+local_terms: ["Houston", "Texas", "Harris County", "Fort Bend", "Montgomery County", "Brazoria", "Galveston", "Galveston County", "Liberty County", "Waller", "Sugar Land", "Katy", "Pearland", "Pasadena", "Baytown", "Conroe", "The Woodlands", "Cypress", "Humble", "Kingwood", "Missouri City", "League City", "Friendswood", "La Porte", "Tomball", "Texas City", "Clear Lake", "Montrose", "Galleria", "Third Ward", "Fifth Ward", "Astros", "Dynamo", "Prairie View", "Whitmire", "Lina Hidalgo", "Abbott", "HISD", "Bush Intercontinental", "Hobby", "Port of Houston", "Ship Channel", "Bayou", "Buffalo Bayou", "I-45", "I-10", "I-610", "Beltway 8", "Atascocita", "Bush Airport", "HPD", "HFD", "HCSO", "Pct.", "Precinct", "TxDOT", "Brenham", "Texas A&M", "Rice University", "Houston Texans", "Houston Rockets", "Houston Cougars"]
 
 sources:
   - name: "Houston Public Media"
     area: "Houston"
     feed_url: "https://www.houstonpublicmedia.org/feed/"
     status: active
+    filter: local
 
   - name: "Houston Press"
     area: "Houston"
@@ -34,6 +38,7 @@ sources:
     area: "Houston"
     feed_url: "https://defendernetwork.com/feed/"
     status: active
+    filter: local
 
   - name: "Community Impact (Houston)"
     area: "Region-wide"
@@ -44,19 +49,78 @@ sources:
     area: "Houston"
     feed_url: "https://www.khou.com/feeds/syndication/rss/news/local"
     status: active
+    filter: local
 
   - name: "KPRC Click2Houston"
     area: "Houston"
     feed_url: "https://www.click2houston.com/arc/outboundfeeds/rss/category/news/local/?outputType=xml"
     status: active
+    filter: local
 
   - name: "Fox 26 Houston"
     area: "Houston"
     feed_url: "https://www.fox26houston.com/rss/category/news"
     status: active
+    filter: local
 
   - name: "Houston Chronicle"
     area: "Houston"
     status: link_only
     homepage: "https://www.houstonchronicle.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "CultureMap Houston"
+    area: "Houston"
+    feed_url: "https://houston.culturemap.com/feeds/feed.rss"
+    status: active
+
+  - name: "InnovationMap Houston"
+    area: "Houston"
+    feed_url: "https://houston.innovationmap.com/feeds/feed.rss"
+    status: active
+
+  - name: "PaperCity Houston"
+    area: "Houston"
+    feed_url: "https://www.papercitymag.com/feed/"
+    status: active
+
+  - name: "OutSmart Magazine"
+    area: "Houston"
+    feed_url: "https://www.outsmartmagazine.com/feed/"
+    status: active
+    filter: local
+
+  - name: "Space City Weather"
+    area: "Houston"
+    feed_url: "https://spacecityweather.com/feed/"
+    status: active
+
+  - name: "CW39"
+    area: "Houston"
+    feed_url: "https://cw39.com/feed/"
+    status: active
+    filter: local
+
+  - name: "Houston Forward Times"
+    area: "Houston"
+    status: link_only
+    homepage: "https://forwardtimes.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Texas Monthly"
+    area: "Houston"
+    status: link_only
+    homepage: "https://www.texasmonthly.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Galveston County Daily News"
+    area: "Region-wide"
+    status: link_only
+    homepage: "https://www.galvnews.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Katy Times"
+    area: "Region-wide"
+    status: link_only
+    homepage: "https://www.katytimes.com/"
     note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."

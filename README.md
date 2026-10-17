@@ -23,6 +23,7 @@ Only headlines, short excerpts and links are kept; the stories stay on the outle
 - Outlets that block automated access are `status: link_only`: the page just links to them
   (with their top headline when their homepage allows us to read it).
 - A broken feed is logged and skipped. `status: inactive` pauses a source without deleting it.
+- General feeds (TV, radio, wire-style) are marked `filter: local`: stories about other states, other cities, foreign countries or national-only topics are hidden unless they also mention a local place. See the comments in `metros/jacksonville.yaml`.
 - Statewide outlets and national wire feeds are left out; the goal is metro-level local news.
 
 ## Adding a metro

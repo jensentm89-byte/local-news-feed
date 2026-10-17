@@ -48,6 +48,7 @@ MAX_HOMEPAGE_BYTES = 2_000_000
 TIME_FORMAT = "%Y-%m-%dT%H:%M:%SZ"
 
 HTML_TAG_RE = re.compile(r"<[^>]+>")
+_WORD_CHARS = r"[A-Za-z0-9]"
 WHITESPACE_RE = re.compile(r"\s+")
 ANCHOR_RE = re.compile(r"<a\s[^>]*?href=[\"']?([^\"' >]+)[^>]*>(.*?)</a>", re.S | re.I)
 H1_RE = re.compile(r"<h1[^>]*>(.*?)</h1>", re.S | re.I)
@@ -233,10 +234,84 @@ def process_homepage(source):
     return entry
 
 
+# ---------------------------------------------------------------- local-relevance filter
+#
+# Applied only to sources marked `filter: local` (TV/radio stations and other general
+# feeds that mix in national and world stories). An article is KEPT when:
+#   1. it mentions a local term for the metro (name, aliases, areas, local_terms), or
+#   2. it mentions nothing that clearly points elsewhere (another state, another big
+#      city, a foreign country, or a national-only topic like the White House).
+# It is dropped only when it points elsewhere and has no local term. Unsure -> keep.
+
+US_STATES = [
+    "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware",
+    "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky",
+    "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi",
+    "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico",
+    "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania",
+    "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont",
+    "Virginia", "West Virginia", "Wisconsin", "Wyoming",
+]
+OTHER_CITIES = [
+    "New York City", "Los Angeles", "Chicago", "Houston", "Dallas", "Phoenix", "Philadelphia",
+    "San Antonio", "San Diego", "San Francisco", "Seattle", "Portland", "Denver", "Boston",
+    "Detroit", "Minneapolis", "St. Louis", "Baltimore", "Nashville", "Memphis", "New Orleans",
+    "Las Vegas", "Cleveland", "Pittsburgh", "Cincinnati", "Kansas City",
+    "Milwaukee", "Oakland", "Sacramento", "Tampa", "Orlando", "Louisville", "Oklahoma City",
+    "Atlanta", "Miami", "Jacksonville", "Salt Lake City", "Indianapolis", 
+    "Albuquerque", "Tucson", "Honolulu", "Anchorage", "Charleston", 
+]
+FOREIGN = [
+    "Canada", "Canadian", "Israel", "Israeli", "Gaza", "West Bank", "Ukraine", "Ukrainian", "Russia",
+    "Russian", "China", "Iran", "Iranian", "Egypt", "Egyptian", "India",
+    "Britain", "U.K.", "England", "London", "Scotland", "Ireland", 
+    "France", "Italy", "Germany", "Spain", 
+    "Japan", "Korea", "Pakistan", "Afghanistan", "Yemen", "Houthi", "Saudi",
+    "Syria", "Iraq", "Venezuela", "Cuba", "Haiti", "Costa Rica", "Costa Rican",
+    "Brazil", "Argentina", "Colombia", "Philippines", "Australia", 
+    "New Zealand", "Africa", "Europe", "Asia", "Middle East",
+    "Pope", "Vatican", "Puerto Rico", "Bahamas", 
+]
+NATIONAL_ONLY = [
+    "White House", "Pentagon", "Supreme Court", "NASA", "NOAA", "Wall Street", "Fed rate",
+    "Federal Reserve", "Nobel", "Oscars", "Grammy", 
+]
+
+
+def _regex(terms):
+    parts = [
+        rf"(?<!{_WORD_CHARS}){re.escape(t)}(?!{_WORD_CHARS})"
+        for t in sorted(set(terms), key=len, reverse=True)
+    ]
+    return re.compile("|".join(parts), re.I) if parts else None
+
+
+def local_filter_regexes(metro):
+    """Return (local_regex, elsewhere_regex) for a metro."""
+    local = [metro["name"].split(",")[0]]
+    local += metro.get("aliases", []) + metro.get("areas", []) + metro.get("local_terms", [])
+    local += metro.get("states", [])
+    local = [t.strip() for t in local if t and t.strip() and t.strip().lower() != "region-wide"]
+    local_lower = {t.lower() for t in local}
+    # A term that is local for this metro (e.g. Mexico for Phoenix, Cuba for Miami) must
+    # never count as "elsewhere".
+    elsewhere = [t for t in US_STATES + OTHER_CITIES + FOREIGN + NATIONAL_ONLY if t.lower() not in local_lower]
+    return _regex(local), _regex(elsewhere)
+
+
+def is_local(article, regexes):
+    """Keep unless the story points elsewhere and has no local term."""
+    local, elsewhere = regexes
+    text = f"{article['headline']} {article.get('excerpt', '')} {urlparse(article['link']).path.replace('-', ' ')}"
+    if local and local.search(text):
+        return True
+    return not (elsewhere and elsewhere.search(text))
+
+
 # ---------------------------------------------------------------- output
 
 
-def recent_articles(path):
+def recent_articles(path, keep=None):
     cutoff = now_utc() - timedelta(days=DAYS_TO_KEEP_ON_PAGE)
     recent = []
     if path.exists():
@@ -250,7 +325,8 @@ def recent_articles(path):
                 if published >= cutoff:
                     article["headline"] = to_text(article["headline"])
                     article["excerpt"] = to_text(article.get("excerpt", ""))
-                    recent.append(article)
+                    if keep is None or keep(article):
+                        recent.append(article)
     recent.sort(key=lambda a: a["published"], reverse=True)
     return recent
 
@@ -306,7 +382,12 @@ def run_metro(metro, state):
             homepages_state[key] = entry
             log(f"ok metro={metro_id} source={source['name']!r} homepage_headline={bool(entry['headline'])}")
 
-    recent = recent_articles(articles_file)
+    local_filtered = {s["name"] for s in metro["sources"] if s.get("filter") == "local"}
+    local_regex = local_filter_regexes(metro)
+    recent = recent_articles(
+        articles_file,
+        keep=lambda a: a["source"] not in local_filtered or is_local(a, local_regex),
+    )
     outlets = []
     for source in metro["sources"]:
         if source.get("status") != "link_only":

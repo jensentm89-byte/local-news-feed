@@ -5,6 +5,8 @@
 #   aliases:  extra words that should find this metro in the search box
 #             (cities, counties, nicknames)
 #   areas:    the sub-regions shown as filter buttons (every source needs one)
+#   states:   the state(s) this metro belongs to (used by the local filter below)
+#   local_terms: extra places, teams and officials that mark a story as local
 #   sources:  list of outlets, each either
 #     status: active     -> its RSS/Atom feed is fetched on every run
 #     status: link_only  -> no feed is read. We make one polite request per run to
@@ -16,6 +18,11 @@
 #                             h1: true  (use the first linked <h1>)
 #                           With no `headline` (or if nothing is found) the outlet name
 #                           alone is shown.
+#   filter: local (optional, on active sources): for TV/radio and other general feeds that
+#     mix in national and world stories. An article is dropped only if it points
+#     elsewhere (another state or big city, a foreign country, "White House", etc.)
+#     and has no local term. Unsure -> kept. The stored history is untouched, so
+#     tuning the terms and re-running fetch.py re-filters everything.
 #   county_filter_keywords (optional): for feeds shared by several markets, keep only
 #     entries whose link or headline contains one of these.
 
@@ -42,6 +49,9 @@ aliases:
   - Mandarin
 
 areas: [Duval, Clay, St. Johns, Flagler]
+states: ["Florida", "Georgia"]
+
+local_terms: ["Jacksonville", "Jax", "Duval", "Clay County", "St. Johns", "Saint Johns", "Flagler", "Nassau County", "Florida", "First Coast", "Northeast Florida", "NE Florida", "Orange Park", "Fleming Island", "Green Cove Springs", "Middleburg", "St. Augustine", "Ponte Vedra", "Palm Coast", "Bunnell", "Fernandina", "Jacksonville Beach", "Atlantic Beach", "Neptune Beach", "Mandarin", "San Marco", "Baymeadows", "Jaguars", "JAX", "Jumbo Shrimp", "Icemen", "UNF", "JSO", "JEA", "JTA", "Deegan", "Curry", "I-95", "I-10", "Mayport"]
 
 sources:
   # ---- St. Johns County ----
@@ -78,24 +88,28 @@ sources:
     area: Duval
     feed_url: https://www.firstcoastnews.com/feeds/syndication/rss/news/local
     status: active
+    filter: local
     note: "'local' category feed, to avoid national/world stories."
 
   - name: Action News Jax
     area: Duval
     feed_url: "https://www.actionnewsjax.com/arc/outboundfeeds/rss/category/news/local/?outputType=xml"
     status: active
+    filter: local
     note: "'local' category feed, to avoid national/world stories."
 
   - name: News4Jax
     area: Duval
     feed_url: "https://www.news4jax.com/arc/outboundfeeds/rss/category/news/local/?outputType=xml"
     status: active
+    filter: local
     note: "'local' category feed. robots.txt names AI-training bots as disallowed, but its general User-agent: * rule does not block this public syndication feed."
 
   - name: WJCT News
     area: Duval
     feed_url: https://www.wjct.org/feed/
     status: active
+    filter: local
     note: "Public radio newsroom covering Jacksonville/Duval."
 
   - name: Florida Times-Union

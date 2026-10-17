@@ -15,6 +15,9 @@ aliases:
   - "Arlington Heights"
 
 areas: ["Chicago", "Suburbs"]
+states: ["Illinois", "Indiana", "Wisconsin"]
+
+local_terms: ["Chicago", "Illinois", "Cook County", "DuPage", "McHenry County", "Evanston", "Naperville", "Aurora", "Joliet", "Elgin", "Oak Park", "Schaumburg", "Arlington Heights", "Skokie", "Cicero", "Waukegan", "Rockford", "Lincoln Park", "Wrigleyville", "South Side", "West Side", "North Side", "Hyde Park", "Pilsen", "Logan Square", "O'Hare", "CTA", "Metra", "Cubs", "White Sox", "Blackhawks", "Pritzker", "CPS", "Lightfoot", "Northwestern", "DePaul", "Loyola", "Chicago Bears", "Chicago Bulls", "Chicago Fire", "Brandon Johnson"]
 
 sources:
   - name: "Block Club Chicago"
@@ -31,11 +34,13 @@ sources:
     area: "Chicago"
     feed_url: "https://www.wbez.org/rss"
     status: active
+    filter: local
 
   - name: "WTTW News"
     area: "Chicago"
     feed_url: "https://news.wttw.com/rss.xml"
     status: active
+    filter: local
 
   - name: "Chicago Reader"
     area: "Chicago"
@@ -76,19 +81,156 @@ sources:
     area: "Chicago"
     feed_url: "https://www.nbcchicago.com/news/local/feed/"
     status: active
+    filter: local
 
   - name: "Fox 32 Chicago"
     area: "Chicago"
     feed_url: "https://www.fox32chicago.com/rss/category/news"
     status: active
+    filter: local
 
   - name: "WGN-TV"
     area: "Chicago"
     feed_url: "https://wgntv.com/news/chicago-news/feed/"
     status: active
+    filter: local
 
   - name: "Chicago Tribune"
     area: "Chicago"
     status: link_only
     homepage: "https://www.chicagotribune.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "South Side Weekly"
+    area: "Chicago"
+    feed_url: "https://southsideweekly.com/feed/"
+    status: active
+
+  - name: "Austin Weekly News"
+    area: "Chicago"
+    feed_url: "https://www.austinweeklynews.com/feed/"
+    status: active
+
+  - name: "Borderless Magazine"
+    area: "Chicago"
+    feed_url: "https://borderlessmag.org/feed/"
+    status: active
+
+  - name: "Streetsblog Chicago"
+    area: "Chicago"
+    feed_url: "https://chi.streetsblog.org/feed/"
+    status: active
+
+  - name: "WBBM Newsradio"
+    area: "Chicago"
+    feed_url: "https://www.audacy.com/feeds/wbbm780.rss"
+    status: active
+    filter: local
+
+  - name: "WGN Radio"
+    area: "Chicago"
+    feed_url: "https://wgnradio.com/feed/"
+    status: active
+    filter: local
+
+  - name: "Better Government Association"
+    area: "Chicago"
+    feed_url: "https://www.bettergov.org/feed/"
+    status: active
+
+  - name: "The Record North Shore"
+    area: "Suburbs"
+    feed_url: "https://www.therecordnorthshore.org/feed/"
+    status: active
+
+  - name: "Evanston Now"
+    area: "Suburbs"
+    feed_url: "https://evanstonnow.com/feed/"
+    status: active
+
+  - name: "Forest Park Review"
+    area: "Suburbs"
+    feed_url: "https://www.forestparkreview.com/feed/"
+    status: active
+
+  - name: "Riverside Brookfield Landmark"
+    area: "Suburbs"
+    feed_url: "https://www.rblandmark.com/feed/"
+    status: active
+
+  - name: "Journal & Topics (Des Plaines)"
+    area: "Suburbs"
+    feed_url: "https://journal-topics.com/feed/"
+    status: active
+
+  - name: "Chicago Defender"
+    area: "Chicago"
+    status: link_only
+    homepage: "https://chicagodefender.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Hyde Park Herald"
+    area: "Chicago"
+    status: link_only
+    homepage: "https://hpherald.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Beverly Review"
+    area: "Chicago"
+    status: link_only
+    homepage: "https://www.beverlyreview.net/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Crain's Chicago Business"
+    area: "Chicago"
+    status: link_only
+    homepage: "https://www.chicagobusiness.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Chicago Magazine"
+    area: "Chicago"
+    status: link_only
+    homepage: "https://www.chicagomag.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "City Bureau"
+    area: "Chicago"
+    status: link_only
+    homepage: "https://www.citybureau.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Daily Herald"
+    area: "Suburbs"
+    status: link_only
+    homepage: "https://www.dailyherald.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Daily Southtown"
+    area: "Suburbs"
+    status: link_only
+    homepage: "https://www.dailysouthtown.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Joliet Herald-News"
+    area: "Suburbs"
+    status: link_only
+    homepage: "https://www.theherald-news.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Northwest Herald"
+    area: "Suburbs"
+    status: link_only
+    homepage: "https://www.nwherald.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Kane County Chronicle"
+    area: "Suburbs"
+    status: link_only
+    homepage: "https://www.kcchronicle.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Shaw Local"
+    area: "Suburbs"
+    status: link_only
+    homepage: "https://www.shawlocal.com/"
     note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."

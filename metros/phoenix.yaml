@@ -16,6 +16,9 @@ aliases:
   - "West Valley"
 
 areas: ["Phoenix"]
+states: ["Arizona"]
+
+local_terms: ["Phoenix", "Arizona", "AZ", "Maricopa", "Mesa", "Scottsdale", "Tempe", "Chandler", "Glendale", "Gilbert", "Peoria", "Surprise", "Goodyear", "Avondale", "Buckeye", "Queen Creek", "Fountain Hills", "Paradise Valley", "Cave Creek", "Carefree", "Pinal", "Casa Grande", "Apache Junction", "Flagstaff", "Tucson", "Yuma", "East Valley", "West Valley", "Sky Harbor", "Valley Metro", "Diamondbacks", "D-backs", "ASU", "Sun Devils", "Kari Lake", "Salt River", "Camelback", "Roosevelt Row", "Ahwatukee", "I-10", "Loop 101", "Loop 202", "Hualapai", "Phoenix Mercury", "Arizona State", "Phoenix Suns", "Arizona Cardinals", "Arizona Coyotes", "Katie Hobbs", "Adrian Fontes", "Ruben Gallego"]
 
 sources:
   - name: "Phoenix New Times"
@@ -32,21 +35,25 @@ sources:
     area: "Phoenix"
     feed_url: "https://cronkitenews.azpbs.org/feed/"
     status: active
+    filter: local
 
   - name: "12News"
     area: "Phoenix"
     feed_url: "https://www.12news.com/feeds/syndication/rss/news/local"
     status: active
+    filter: local
 
   - name: "azfamily"
     area: "Phoenix"
     feed_url: "https://www.azfamily.com/arc/outboundfeeds/rss/category/news/?outputType=xml"
     status: active
+    filter: local
 
   - name: "FOX 10 Phoenix"
     area: "Phoenix"
     feed_url: "https://www.fox10phoenix.com/rss/category/news"
     status: active
+    filter: local
 
   - name: "The Arizona Republic"
     area: "Phoenix"

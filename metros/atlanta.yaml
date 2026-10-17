@@ -15,12 +15,16 @@ aliases:
   - "Buckhead"
 
 areas: ["Atlanta"]
+states: ["Georgia"]
+
+local_terms: ["Atlanta", "ATL", "Georgia", "Fulton", "DeKalb", "Gwinnett", "Clayton County", "Cherokee County", "Decatur", "Marietta", "Sandy Springs", "Roswell", "Alpharetta", "Buckhead", "Peachtree", "Smyrna", "Kennesaw", "Lawrenceville", "Duluth", "Stone Mountain", "East Point", "College Park", "Hartsfield", "MARTA", "Georgia Tech", "Georgia State", "Emory", "Braves", "Atlanta United", "Six Flags Over Georgia", "Raffensperger", "GBI", "Atlanta Falcons", "Atlanta Hawks", "Georgia Bulldogs", "Andre Dickens", "Brian Kemp"]
 
 sources:
   - name: "Capital B Atlanta"
     area: "Atlanta"
     feed_url: "https://atlanta.capitalbnews.org/feed/"
     status: active
+    filter: local
 
   - name: "Rough Draft Atlanta"
     area: "Atlanta"
@@ -36,6 +40,7 @@ sources:
     area: "Atlanta"
     feed_url: "https://theatlantavoice.com/rss.xml"
     status: active
+    filter: local
 
   - name: "Saporta Report"
     area: "Atlanta"
@@ -51,21 +56,25 @@ sources:
     area: "Atlanta"
     feed_url: "https://www.11alive.com/feeds/syndication/rss/news/local"
     status: active
+    filter: local
 
   - name: "WSB-TV"
     area: "Atlanta"
     feed_url: "https://www.wsbtv.com/arc/outboundfeeds/rss/category/news/local/?outputType=xml"
     status: active
+    filter: local
 
   - name: "Atlanta News First (WANF)"
     area: "Atlanta"
     feed_url: "https://www.atlantanewsfirst.com/arc/outboundfeeds/rss/?outputType=xml"
     status: active
+    filter: local
 
   - name: "FOX 5 Atlanta"
     area: "Atlanta"
     feed_url: "https://www.fox5atlanta.com/rss/category/news"
     status: active
+    filter: local
 
   - name: "Atlanta Journal-Constitution"
     area: "Atlanta"

@@ -15,6 +15,9 @@ aliases:
   - "Key Biscayne"
 
 areas: ["Miami-Dade", "Broward", "Palm Beach"]
+states: ["Florida"]
+
+local_terms: ["Miami", "Florida", "South Florida", "Dade", "Miami-Dade", "Broward", "Palm Beach", "Fort Lauderdale", "Hialeah", "Coral Gables", "Miami Beach", "Hollywood", "Boca Raton", "West Palm Beach", "Pembroke Pines", "Homestead", "Key Biscayne", "Doral", "Kendall", "Little Havana", "Wynwood", "Brickell", "Coconut Grove", "Sunrise", "Plantation", "Davie", "Pompano", "Deerfield", "Delray", "Boynton", "Jupiter", "Keys", "Monroe County", "Miami Gardens", "North Miami", "Aventura", "Marlins", "Inter Miami", "FIU", "FAU", "Levine Cava", "Suarez", "DeSantis", "FHP", "MDX", "Metrorail", "PortMiami", "MIA", "Everglades", "Lake Okeechobee", "Port St. Lucie", "Martin County", "Treasure Coast", "Miami Dolphins", "Miami Heat", "Florida Panthers", "Miami Hurricanes"]
 
 sources:
   - name: "Miami New Times"
@@ -36,16 +39,19 @@ sources:
     area: "Miami-Dade"
     feed_url: "https://www.local10.com/arc/outboundfeeds/rss/category/news/local/?outputType=xml"
     status: active
+    filter: local
 
   - name: "WSVN 7News"
     area: "Miami-Dade"
     feed_url: "https://wsvn.com/news/local/feed/"
     status: active
+    filter: local
 
   - name: "WPTV"
     area: "Palm Beach"
     feed_url: "https://www.wptv.com/index.rss"
     status: active
+    filter: local
 
   - name: "Miami Herald"
     area: "Miami-Dade"

@@ -19,12 +19,16 @@ aliases:
   - "New Jersey"
 
 areas: ["New York City", "Long Island", "New Jersey"]
+states: ["New York", "New Jersey", "Connecticut", "Pennsylvania"]
+
+local_terms: ["New York", "NYC", "N.Y.C.", "Brooklyn", "Queens", "Bronx", "Manhattan", "Staten Island", "Long Island", "Nassau", "Suffolk", "Westchester", "Rockland", "Putnam", "Hudson Valley", "New Jersey", "N.J.", "Newark", "Jersey City", "Hoboken", "Paterson", "Elizabeth", "Hudson County", "Bergen", "Essex County", "Passaic", "Middlesex", "Monmouth", "Morris", "Montclair", "Harlem", "Bushwick", "Williamsburg", "Flatbush", "Astoria", "Flushing", "Jamaica", "Rockaway", "Coney Island", "Hamptons", "Mamdani", "Hochul", "MTA", "Port Authority", "Penn Station", "JFK", "LaGuardia", "Yankees", "Mets", "Knicks", "Nets", "Islanders", "Devils", "NYU", "Columbia", "CUNY", "NYPD", "FDNY", "Sherrill", "Bruce Springsteen", "Gotham", "Big Apple", "Tri-State", "New York Giants", "New York Jets", "Eric Adams", "Phil Murphy", "NY Liberty"]
 
 sources:
   - name: "Gothamist"
     area: "New York City"
     feed_url: "https://gothamist.com/feed"
     status: active
+    filter: local
 
   - name: "THE CITY"
     area: "New York City"
@@ -61,10 +65,11 @@ sources:
     feed_url: "https://www.longislandpress.com/feed/"
     status: active
 
-  - name: "NJ.com"
+  - name: "NJ.com (Star-Ledger)"
     area: "New Jersey"
     feed_url: "https://www.nj.com/arc/outboundfeeds/rss/?outputType=xml"
     status: active
+    filter: local
 
   - name: "Jersey City Times"
     area: "New Jersey"
@@ -75,6 +80,7 @@ sources:
     area: "New York City"
     feed_url: "https://nypost.com/metro/feed/"
     status: active
+    filter: local
 
   - name: "NY Daily News"
     area: "New York City"
@@ -86,4 +92,217 @@ sources:
     area: "Long Island"
     status: link_only
     homepage: "https://www.newsday.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Bushwick Daily"
+    area: "New York City"
+    feed_url: "https://bushwickdaily.com/feed/"
+    status: active
+
+  - name: "Greenpointers"
+    area: "New York City"
+    feed_url: "https://greenpointers.com/feed/"
+    status: active
+
+  - name: "Brooklyn Reporter"
+    area: "New York City"
+    feed_url: "https://www.brooklynreporter.com/feed/"
+    status: active
+
+  - name: "Brooklyn Buzz"
+    area: "New York City"
+    feed_url: "https://nycnewsnetwork.com/brooklynbuzz/feed/"
+    status: active
+
+  - name: "Canarsie Courier"
+    area: "New York City"
+    feed_url: "https://canarsiecourier.com/feed/"
+    status: active
+
+  - name: "QNS.com"
+    area: "New York City"
+    feed_url: "https://qns.com/feed/"
+    status: active
+
+  - name: "Queens Post"
+    area: "New York City"
+    feed_url: "https://queenspost.com/feed/"
+    status: active
+
+  - name: "Queens Gazette"
+    area: "New York City"
+    feed_url: "https://www.qgazette.com/feed/"
+    status: active
+
+  - name: "Queens Ledger"
+    area: "New York City"
+    feed_url: "https://queensledger.com/feed/"
+    status: active
+
+  - name: "Rockaway Times"
+    area: "New York City"
+    feed_url: "https://rockawaytimes.com/feed/"
+    status: active
+
+  - name: "Astoria Post"
+    area: "New York City"
+    feed_url: "https://astoriapost.com/feed/"
+    status: active
+
+  - name: "Norwood News"
+    area: "New York City"
+    feed_url: "https://www.norwoodnews.org/rss.xml"
+    status: active
+
+  - name: "EV Grieve"
+    area: "New York City"
+    feed_url: "https://evgrieve.com/feeds/posts/default"
+    status: active
+
+  - name: "West Side Rag"
+    area: "New York City"
+    feed_url: "https://www.westsiderag.com/feed"
+    status: active
+
+  - name: "Tribeca Citizen"
+    area: "New York City"
+    feed_url: "https://tribecacitizen.com/feed/"
+    status: active
+
+  - name: "W42ST"
+    area: "New York City"
+    feed_url: "https://w42st.com/feed/"
+    status: active
+
+  - name: "Hell Gate"
+    area: "New York City"
+    feed_url: "https://hellgatenyc.com/all-posts/rss/"
+    status: active
+
+  - name: "City Limits"
+    area: "New York City"
+    feed_url: "https://citylimits.org/feed/"
+    status: active
+
+  - name: "Streetsblog NYC"
+    area: "New York City"
+    feed_url: "https://nyc.streetsblog.org/feed/"
+    status: active
+
+  - name: "The Indypendent"
+    area: "New York City"
+    feed_url: "https://indypendent.org/feed/"
+    status: active
+
+  - name: "New York Amsterdam News"
+    area: "New York City"
+    feed_url: "https://amsterdamnews.com/feed/"
+    status: active
+    filter: local
+
+  - name: "Documented"
+    area: "New York City"
+    feed_url: "https://documentedny.com/feed/"
+    status: active
+
+  - name: "PIX11"
+    area: "New York City"
+    feed_url: "https://pix11.com/news/local-news/feed/"
+    status: active
+    filter: local
+
+  - name: "FOX 5 New York"
+    area: "New York City"
+    feed_url: "https://www.fox5ny.com/rss/category/news"
+    status: active
+    filter: local
+
+  - name: "NBC New York"
+    area: "New York City"
+    feed_url: "https://www.nbcnewyork.com/news/local/feed/"
+    status: active
+    filter: local
+
+  - name: "Greater Long Island"
+    area: "Long Island"
+    feed_url: "https://greaterlongisland.com/feed/"
+    status: active
+
+  - name: "The East Hampton Star"
+    area: "Long Island"
+    feed_url: "https://www.easthamptonstar.com/rss.xml"
+    status: active
+
+  - name: "Long Island Business News"
+    area: "Long Island"
+    feed_url: "https://libn.com/feed"
+    status: active
+
+  - name: "Hoboken Girl"
+    area: "New Jersey"
+    feed_url: "https://www.hobokengirl.com/feed/"
+    status: active
+
+  - name: "Hudson County View"
+    area: "New Jersey"
+    feed_url: "https://hudsoncountyview.com/feed/"
+    status: active
+
+  - name: "Montclair Local"
+    area: "New Jersey"
+    feed_url: "https://montclairlocal.news/feed/"
+    status: active
+
+  - name: "The Village Sun"
+    area: "New York City"
+    status: link_only
+    homepage: "https://thevillagesun.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "News 12 New York"
+    area: "New York City"
+    status: link_only
+    homepage: "https://www.news12.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Brooklyn Daily Eagle"
+    area: "New York City"
+    status: link_only
+    homepage: "https://brooklyneagle.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "News 12 Long Island"
+    area: "Long Island"
+    status: link_only
+    homepage: "https://longisland.news12.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "NJ Spotlight News"
+    area: "New Jersey"
+    status: link_only
+    homepage: "https://www.njspotlightnews.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The Record (NorthJersey.com)"
+    area: "New Jersey"
+    status: link_only
+    homepage: "https://www.northjersey.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Asbury Park Press"
+    area: "New Jersey"
+    status: link_only
+    homepage: "https://www.app.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "MyCentralJersey (Home News Tribune)"
+    area: "New Jersey"
+    status: link_only
+    homepage: "https://www.mycentraljersey.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The Journal News / lohud"
+    area: "New York City"
+    status: link_only
+    homepage: "https://www.lohud.com/"
     note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."

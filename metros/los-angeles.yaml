@@ -18,12 +18,16 @@ aliases:
   - "Torrance"
 
 areas: ["Los Angeles County", "Orange County"]
+states: ["California"]
+
+local_terms: ["Los Angeles", "LA", "L.A.", "California", "Angeles", "Orange County", "OC", "Long Beach", "Pasadena", "Santa Monica", "Burbank", "Glendale", "Anaheim", "Santa Ana", "Irvine", "Torrance", "Inglewood", "Compton", "Downey", "Pomona", "Whittier", "Culver City", "Beverly Hills", "West Hollywood", "Hollywood", "Venice", "Malibu", "San Fernando", "Van Nuys", "Northridge", "Sherman Oaks", "Santa Clarita", "Palmdale", "Lancaster", "Huntington Beach", "Newport Beach", "Costa Mesa", "Fullerton", "Laguna", "South LA", "Koreatown", "Boyle Heights", "Echo Park", "Silver Lake", "Lakers", "Clippers", "Dodgers", "LAFC", "UCLA", "USC", "LAPD", "LAUSD", "LAX", "SoCal", "Southern California", "San Gabriel", "Inland Empire", "Ventura County", "Caltrans", "DWP", "Los Angeles Rams", "Los Angeles Chargers", "Los Angeles Kings", "Anaheim Ducks", "Los Angeles Galaxy", "Karen Bass", "Gavin Newsom"]
 
 sources:
   - name: "LAist"
     area: "Los Angeles County"
     feed_url: "https://laist.com/index.rss"
     status: active
+    filter: local
 
   - name: "Los Angeles Times"
     area: "Los Angeles County"
@@ -74,11 +78,13 @@ sources:
     area: "Los Angeles County"
     feed_url: "https://ktla.com/news/local-news/feed/"
     status: active
+    filter: local
 
   - name: "NBC Los Angeles"
     area: "Los Angeles County"
     feed_url: "https://www.nbclosangeles.com/?rss=y"
     status: active
+    filter: local
 
   - name: "Daily News (Los Angeles)"
     area: "Los Angeles County"
@@ -96,4 +102,157 @@ sources:
     area: "Los Angeles County"
     status: link_only
     homepage: "https://www.dailybreeze.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "LA Public Press"
+    area: "Los Angeles County"
+    feed_url: "https://lapublicpress.org/feed/"
+    status: active
+
+  - name: "Knock LA"
+    area: "Los Angeles County"
+    feed_url: "https://knock-la.com/feed/"
+    status: active
+
+  - name: "Easy Reader (South Bay)"
+    area: "Los Angeles County"
+    feed_url: "https://easyreadernews.com/feed/"
+    status: active
+
+  - name: "Beverly Press"
+    area: "Los Angeles County"
+    feed_url: "https://beverlypress.com/feed/"
+    status: active
+
+  - name: "Culver City Observer"
+    area: "Los Angeles County"
+    feed_url: "https://culvercityobserver.com/rss"
+    status: active
+
+  - name: "WEHO Times"
+    area: "Los Angeles County"
+    feed_url: "https://wehotimes.com/feed/"
+    status: active
+
+  - name: "MyNewsLA (City News Service)"
+    area: "Los Angeles County"
+    feed_url: "https://mynewsla.com/feed/"
+    status: active
+    filter: local
+
+  - name: "Los Angeles Magazine"
+    area: "Los Angeles County"
+    feed_url: "https://lamag.com/feed/"
+    status: active
+
+  - name: "Burbank Leader"
+    area: "Los Angeles County"
+    feed_url: "https://www.latimes.com/socal/burbank-leader/index.rss"
+    status: active
+
+  - name: "Los Angeles Business Journal"
+    area: "Los Angeles County"
+    feed_url: "https://labusinessjournal.com/feed/"
+    status: active
+
+  - name: "FOX 11 Los Angeles"
+    area: "Los Angeles County"
+    feed_url: "https://www.foxla.com/rss/category/news"
+    status: active
+    filter: local
+
+  - name: "OC Weekly"
+    area: "Orange County"
+    feed_url: "https://www.ocweekly.com/feed/"
+    status: active
+
+  - name: "Orange County Business Journal"
+    area: "Orange County"
+    feed_url: "https://www.ocbj.com/feed/"
+    status: active
+
+  - name: "Daily Pilot"
+    area: "Orange County"
+    feed_url: "https://www.latimes.com/socal/daily-pilot/index.rss"
+    status: active
+
+  - name: "Irvine Standard"
+    area: "Orange County"
+    feed_url: "https://www.irvinestandard.com/feed/"
+    status: active
+
+  - name: "Fullerton Observer"
+    area: "Orange County"
+    feed_url: "https://fullertonobserver.com/feed/"
+    status: active
+
+  - name: "Newport Beach Indy"
+    area: "Orange County"
+    feed_url: "https://www.newportbeachindy.com/feed/"
+    status: active
+
+  - name: "The Eastsider LA"
+    area: "Los Angeles County"
+    status: link_only
+    homepage: "https://www.theeastsiderla.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Los Angeles Sentinel"
+    area: "Los Angeles County"
+    status: link_only
+    homepage: "https://lasentinel.net/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "LA Weekly"
+    area: "Los Angeles County"
+    status: link_only
+    homepage: "https://www.laweekly.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Los Angeles Downtown News"
+    area: "Los Angeles County"
+    status: link_only
+    homepage: "https://www.ladowntownnews.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Santa Clarita Signal"
+    area: "Los Angeles County"
+    status: link_only
+    homepage: "https://signalscv.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Pasadena Star-News"
+    area: "Los Angeles County"
+    status: link_only
+    homepage: "https://www.pasadenastarnews.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "San Gabriel Valley Tribune"
+    area: "Los Angeles County"
+    status: link_only
+    homepage: "https://www.sgvtribune.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "KCRW"
+    area: "Los Angeles County"
+    status: link_only
+    homepage: "https://www.kcrw.com/news"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "PBS SoCal (KCET)"
+    area: "Los Angeles County"
+    status: link_only
+    homepage: "https://www.pbssocal.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "CBS Los Angeles"
+    area: "Los Angeles County"
+    status: link_only
+    homepage: "https://www.cbsnews.com/losangeles/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Laguna Beach Independent"
+    area: "Orange County"
+    status: link_only
+    homepage: "https://www.lagunabeachindy.com/"
     note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
