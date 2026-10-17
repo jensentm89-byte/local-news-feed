@@ -50,7 +50,6 @@ USER_AGENT = (
     "personal local-news headline reader; a few requests per day)"
 )
 REQUEST_TIMEOUT = 15
-EXCERPT_MAX_CHARS = 300
 DAYS_TO_KEEP_ON_PAGE = 14
 RETENTION_DAYS = 30
 MAX_WORKERS = 8
@@ -165,13 +164,6 @@ def to_text(raw_html):
     return WHITESPACE_RE.sub(" ", text).strip()
 
 
-def clean_excerpt(raw_html):
-    text = to_text(raw_html)
-    if len(text) > EXCERPT_MAX_CHARS:
-        text = text[: EXCERPT_MAX_CHARS - 1].rstrip() + "…"
-    return text
-
-
 def entry_published_iso(entry):
     for key in ("published_parsed", "updated_parsed"):
         value = getattr(entry, key, None)
@@ -195,7 +187,7 @@ def load_existing_links(path):
     return links
 
 
-def process_feed(source, existing_links):
+def process_feed(source, existing_links, metro_regexes=None):
     """Return new article dicts from a feed. Does not modify existing_links."""
     feed_url = source["feed_url"]
     if not allowed_by_robots(feed_url):
@@ -206,6 +198,7 @@ def process_feed(source, existing_links):
     fetched_at = now_utc().strftime(TIME_FORMAT)
 
     cutoff = (now_utc() - timedelta(days=RETENTION_DAYS)).strftime(TIME_FORMAT)
+    summary_by_link = {}
     new_items = []
     for entry in parsed.entries:
         link = getattr(entry, "link", None)
@@ -216,6 +209,7 @@ def process_feed(source, existing_links):
             continue
         if keywords and not any(k.lower() in link.lower() or k.lower() in headline.lower() for k in keywords):
             continue
+        summary_by_link[link] = to_text(getattr(entry, "summary", "") or "")
         new_items.append(
             {
                 "headline": headline,
@@ -223,10 +217,13 @@ def process_feed(source, existing_links):
                 "published": entry_published_iso(entry),
                 "source": source["name"],
                 "area": source["area"],
-                "excerpt": clean_excerpt(getattr(entry, "summary", "") or ""),
                 "fetched_at": fetched_at,
             }
         )
+    if source.get("filter") == "local" and metro_regexes is not None:
+        # The excerpt is used only to decide relevance and is never stored or published.
+        for item in new_items:
+            item["local"] = is_local(dict(item, excerpt=summary_by_link[item["link"]]), metro_regexes)
     return new_items
 
 
@@ -361,7 +358,7 @@ def recent_articles(path, keep=None):
                     continue
                 if published >= cutoff:
                     article["headline"] = to_text(article["headline"])
-                    article["excerpt"] = to_text(article.get("excerpt", ""))
+                    article.pop("excerpt", None)
                     if keep is None or keep(article):
                         recent.append(article)
     recent.sort(key=lambda a: a["published"], reverse=True)
@@ -398,10 +395,10 @@ def prune_articles(path):
 
 def fetch_one(task):
     """Worker: fetch one source. Returns (task, result, error)."""
-    metro_id, source, existing_links = task
+    metro_id, source, existing_links, metro_regexes = task
     try:
         if source["status"] == "active":
-            return task, process_feed(source, existing_links), None
+            return task, process_feed(source, existing_links, metro_regexes), None
         return task, process_homepage(source), None
     except Exception as exc:  # noqa: BLE001 - a bad source must never crash the run
         return task, None, f"{type(exc).__name__}: {exc}"
@@ -425,7 +422,7 @@ def build_metro_output(metro, state):
     local_regex = local_filter_regexes(metro)
     recent = recent_articles(
         ARTICLES_DIR / f"{metro_id}.jsonl",
-        keep=lambda a: a["source"] not in local_filtered or is_local(a, local_regex),
+        keep=lambda a: a["source"] not in local_filtered or a.get("local", is_local(a, local_regex)),
     )
     outlets = []
     for source in metro["sources"]:
@@ -471,14 +468,15 @@ def main():
 
     # 1. Work out what is due.
     existing = {m["id"]: load_existing_links(ARTICLES_DIR / f"{m['id']}.jsonl") for m in metros}
+    regexes_by_metro = {m["id"]: local_filter_regexes(m) for m in metros}
     tasks = []
     for metro in metros:
         for source in metro["sources"]:
             key = f"{metro['id']}|{source['name']}"
             if source.get("status") == "active" and due(feeds_state.get(key)):
-                tasks.append((metro["id"], source, existing[metro["id"]]))
+                tasks.append((metro["id"], source, existing[metro["id"]], regexes_by_metro[metro["id"]]))
             elif source.get("status") == "link_only" and due((homepages_state.get(key) or {}).get("checked_at")):
-                tasks.append((metro["id"], source, None))
+                tasks.append((metro["id"], source, None, None))
     log(f"start metros={len(metros)} sources_due={len(tasks)}")
 
     # 2. Fetch concurrently (paced per host).
@@ -487,7 +485,7 @@ def main():
 
     # 3. Apply results one metro at a time (single thread: no file or set races).
     new_by_metro = {m["id"]: 0 for m in metros}
-    for (metro_id, source, _), result, error in results:
+    for (metro_id, source, _, _), result, error in results:
         key = f"{metro_id}|{source['name']}"
         record_health(state, key, error)
         if source["status"] == "active":

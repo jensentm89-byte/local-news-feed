@@ -102,9 +102,9 @@ sources:
 
   - name: "WDIV Local 4"
     area: "Detroit"
-    status: link_only
-    homepage: "https://www.clickondetroit.com/"
-    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+    feed_url: "https://www.clickondetroit.com/arc/outboundfeeds/rss/category/news/local/?outputType=xml"
+    status: active
+    filter: local
 
   - name: "FOX 2 Detroit"
     area: "Detroit"

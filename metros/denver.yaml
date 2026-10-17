@@ -1,0 +1,124 @@
+# Denver, CO. See jacksonville.yaml for the file format.
+
+name: "Denver, CO"
+aliases:
+  - "Adams"
+  - "Arapahoe"
+  - "Broomfield"
+  - "Clear Creek"
+  - "Denver"
+  - "Douglas"
+  - "Elbert"
+  - "Gilpin"
+  - "Jefferson"
+  - "Park"
+  - "Mile High"
+  - "Denver County"
+  - "Arapahoe County"
+  - "Jefferson County"
+  - "Adams County"
+  - "Douglas County"
+  - "Aurora"
+  - "Lakewood"
+  - "Arvada"
+  - "Westminster"
+  - "Thornton"
+  - "Centennial"
+  - "Littleton"
+  - "Englewood"
+  - "Parker"
+  - "Castle Rock"
+  - "Highlands Ranch"
+  - "Commerce City"
+  - "Brighton"
+  - "Golden"
+  - "Wheat Ridge"
+  - "Northglenn"
+  - "Lone Tree"
+  - "Front Range"
+
+areas: ["Denver", "Aurora", "Douglas & Jefferson Counties"]
+states: ["Colorado"]
+local_terms: ["Broncos", "Nuggets", "Avalanche", "Rockies", "Rapids", "Mammoth", "Pioneers", "CU Denver", "Johnston", "Polis", "RTD", "CDOT", "DIA", "Denver International", "LoDo", "RiNo", "Capitol Hill", "Cherry Creek", "Five Points", "Highlands", "Baker", "Washington Park", "Colfax", "Sloan's Lake", "Stapleton", "Central Park", "Green Valley Ranch", "Montbello", "Sun Valley", "Westwood", "Barnum", "Union Station", "Coors Field", "Empower Field", "Ball Arena", "Red Rocks", "Bennett", "Elizabeth", "Evergreen", "Morrison", "Louisville", "Lafayette", "Superior"]
+
+sources:
+  - name: "The Denver Post"
+    area: "Denver"
+    status: link_only
+    homepage: "https://www.denverpost.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Denverite"
+    area: "Denver"
+    feed_url: "https://denverite.com/feed/"
+    status: active
+
+  - name: "CPR News"
+    area: "Denver"
+    feed_url: "https://www.cpr.org/feed/"
+    status: active
+
+  - name: "Westword"
+    area: "Denver"
+    feed_url: "https://www.westword.com/feed/"
+    status: active
+
+  - name: "5280 Magazine"
+    area: "Denver"
+    feed_url: "https://5280.com/feed/"
+    status: active
+
+  - name: "9News"
+    area: "Denver"
+    feed_url: "https://www.9news.com/feeds/syndication/rss/news"
+    status: active
+    filter: local
+
+  - name: "Denver7"
+    area: "Denver"
+    feed_url: "https://www.denver7.com/index.rss"
+    status: active
+
+  - name: "CBS Colorado"
+    area: "Denver"
+    status: link_only
+    homepage: "https://www.cbsnews.com/colorado/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "FOX31 / KDVR"
+    area: "Denver"
+    feed_url: "https://kdvr.com/feed/"
+    status: active
+
+  - name: "The Denver Gazette"
+    area: "Denver"
+    feed_url: "https://denvergazette.com/feed/"
+    status: active
+
+  - name: "BusinessDen"
+    area: "Denver"
+    feed_url: "https://businessden.com/feed/"
+    status: active
+
+  - name: "La Voz Colorado"
+    area: "Denver"
+    feed_url: "https://lavozcolorado.com/feed/"
+    status: active
+
+  - name: "Aurora Sentinel"
+    area: "Aurora"
+    feed_url: "https://sentinelcolorado.com/feed/"
+    status: active
+    filter: local
+
+  - name: "Douglas County News-Press"
+    area: "Douglas & Jefferson Counties"
+    feed_url: "https://douglascountynewspress.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "Castle Rock News-Press"
+    area: "Douglas & Jefferson Counties"
+    feed_url: "https://castlerocknewspress.net/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local

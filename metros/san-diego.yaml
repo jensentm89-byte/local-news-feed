@@ -1,0 +1,165 @@
+# San Diego, CA. See jacksonville.yaml for the file format.
+
+name: "San Diego, CA"
+aliases:
+  - "San Diego"
+  - "San Diego County"
+  - "North County"
+  - "East County"
+  - "South Bay"
+  - "Chula Vista"
+  - "Oceanside"
+  - "Escondido"
+  - "Carlsbad"
+  - "El Cajon"
+  - "Vista"
+  - "San Marcos"
+  - "Encinitas"
+  - "National City"
+  - "La Mesa"
+  - "Santee"
+  - "Poway"
+  - "Coronado"
+  - "La Jolla"
+  - "Del Mar"
+  - "Imperial Beach"
+  - "Tijuana"
+  - "Point Loma"
+  - "Ocean Beach"
+
+areas: ["San Diego", "North County", "East County", "South Bay"]
+states: ["California"]
+local_terms: ["Padres", "Chargers", "Gulls", "Wave", "Loyalty", "SDSU", "UCSD", "Aztecs", "Gloria", "Lawson-Wolfe", "Fletcher", "Desmond", "Montgomery-Steppe", "Newsom", "MTS", "SANDAG", "Caltrans", "San Diego International", "Lindbergh", "Balboa Park", "Gaslamp", "Little Italy", "North Park", "Hillcrest", "Pacific Beach", "Mission Beach", "Mission Valley", "Barrio Logan", "Logan Heights", "City Heights", "Clairemont", "Kearny Mesa", "Rancho Bernardo", "Carmel Valley", "Scripps Ranch", "Otay Mesa", "San Ysidro", "Lakeside", "Ramona", "Fallbrook", "Temecula Valley", "Border", "Camp Pendleton", "Miramar"]
+
+sources:
+  - name: "The San Diego Union-Tribune"
+    area: "San Diego"
+    status: link_only
+    homepage: "https://www.sandiegouniontribune.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Voice of San Diego"
+    area: "San Diego"
+    feed_url: "https://voiceofsandiego.org/feed/"
+    status: active
+
+  - name: "inewsource"
+    area: "San Diego"
+    feed_url: "https://inewsource.org/feed/"
+    status: active
+
+  - name: "KPBS"
+    area: "San Diego"
+    feed_url: "https://www.kpbs.org/index.rss"
+    status: active
+
+  - name: "San Diego Reader"
+    area: "San Diego"
+    status: link_only
+    homepage: "https://www.sandiegoreader.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "San Diego Magazine"
+    area: "San Diego"
+    feed_url: "https://sandiegomagazine.com/feed/"
+    status: active
+
+  - name: "NBC 7 San Diego"
+    area: "San Diego"
+    feed_url: "https://www.nbcsandiego.com/?rss=y"
+    status: active
+
+  - name: "10News"
+    area: "San Diego"
+    feed_url: "https://www.10news.com/index.rss"
+    status: active
+    filter: local
+
+  - name: "FOX 5 San Diego"
+    area: "San Diego"
+    feed_url: "https://fox5sandiego.com/feed/"
+    status: active
+
+  - name: "CBS 8"
+    area: "San Diego"
+    feed_url: "https://www.cbs8.com/feeds/syndication/rss/news"
+    status: active
+    filter: local
+
+  - name: "Times of San Diego"
+    area: "San Diego"
+    feed_url: "https://timesofsandiego.com/feed/"
+    status: active
+
+  - name: "San Diego Free Press"
+    area: "San Diego"
+    status: link_only
+    homepage: "https://sandiegofreepress.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "La Jolla Light"
+    area: "San Diego"
+    status: link_only
+    homepage: "https://www.lajollalight.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Coronado Eagle & Journal"
+    area: "San Diego"
+    status: link_only
+    homepage: "https://coronadonewsca.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Ocean Beach Rag"
+    area: "San Diego"
+    feed_url: "https://obrag.org/feed/"
+    status: active
+
+  - name: "San Diego Business Journal"
+    area: "San Diego"
+    feed_url: "https://sdbj.com/feed/"
+    status: active
+
+  - name: "San Diego Voice & Viewpoint"
+    area: "San Diego"
+    feed_url: "https://sdvoice.info/feed/"
+    status: active
+
+  - name: "San Diego Jewish World"
+    area: "San Diego"
+    feed_url: "https://www.sdjewishworld.com/feed/"
+    status: active
+    filter: local
+
+  - name: "Rancho Santa Fe Review"
+    area: "North County"
+    status: link_only
+    homepage: "https://www.ranchosantafereview.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Del Mar Times"
+    area: "North County"
+    status: link_only
+    homepage: "https://www.delmartimes.net/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Encinitas Advocate"
+    area: "North County"
+    status: link_only
+    homepage: "https://www.encinitasadvocate.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "East County Californian"
+    area: "East County"
+    feed_url: "https://eccalifornian.com/feed/"
+    status: active
+
+  - name: "Chula Vista Star-News"
+    area: "South Bay"
+    feed_url: "https://www.thestarnews.com/feed/"
+    status: active
+
+  - name: "Border Report"
+    area: "San Diego"
+    feed_url: "https://www.borderreport.com/feed/"
+    status: active
+    filter: local

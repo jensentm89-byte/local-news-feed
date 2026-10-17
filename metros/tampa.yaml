@@ -1,0 +1,126 @@
+# Tampa–St. Petersburg, FL. See jacksonville.yaml for the file format.
+
+name: "Tampa–St. Petersburg, FL"
+aliases:
+  - "Hernando"
+  - "Hillsborough"
+  - "Pasco"
+  - "Pinellas"
+  - "Tampa Bay"
+  - "Hillsborough County"
+  - "Pinellas County"
+  - "Pasco County"
+  - "Hernando County"
+  - "St. Petersburg"
+  - "Clearwater"
+  - "Largo"
+  - "Brandon"
+  - "Plant City"
+  - "Wesley Chapel"
+  - "Riverview"
+  - "Lakeland"
+  - "Bay Area"
+  - "Gulf Coast"
+
+areas: ["Tampa", "St. Petersburg & Pinellas", "Pasco", "Hillsborough Suburbs"]
+states: ["Florida"]
+local_terms: ["Buccaneers", "Bucs", "Rays", "Lightning", "Rowdies", "USF", "Tampa International", "TIA", "HART", "PSTA", "Castor", "Welch", "DeSantis", "Ybor", "Hyde Park", "Seminole Heights", "Channelside", "Davis Islands", "Westshore", "Carrollwood", "New Tampa", "Temple Terrace", "Town 'n' Country", "Gulfport", "Dunedin", "Tarpon Springs", "Pinellas Park", "Seminole", "Safety Harbor", "Oldsmar", "Lutz", "Land O' Lakes", "Zephyrhills", "New Port Richey", "Port Richey", "Dade City", "Apollo Beach", "Ruskin", "Sun City Center", "Valrico", "Mango", "Egypt Lake", "Bayshore", "Sunshine Skyway", "Howard Frankland", "Courtney Campbell"]
+
+sources:
+  - name: "Tampa Bay Times"
+    area: "Tampa"
+    status: link_only
+    homepage: "https://www.tampabay.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "WFLA"
+    area: "Tampa"
+    feed_url: "https://www.wfla.com/feed/"
+    status: active
+
+  - name: "WTSP 10 Tampa Bay"
+    area: "Tampa"
+    feed_url: "https://www.wtsp.com/feeds/syndication/rss/news"
+    status: active
+    filter: local
+
+  - name: "FOX 13 Tampa Bay"
+    area: "Tampa"
+    feed_url: "https://www.fox13news.com/rss.xml"
+    status: active
+
+  - name: "ABC Action News"
+    area: "Tampa"
+    status: link_only
+    homepage: "https://www.abcactionnews.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Creative Loafing Tampa Bay"
+    area: "Tampa"
+    feed_url: "https://www.cltampa.com/feed/"
+    status: active
+
+  - name: "Tampa Free Press"
+    area: "Tampa"
+    feed_url: "https://www.tampafp.com/feed/"
+    status: active
+    filter: local
+
+  - name: "WUSF"
+    area: "Tampa"
+    status: link_only
+    homepage: "https://www.wusf.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Tampa Magazine"
+    area: "Tampa"
+    feed_url: "https://tampamagazines.com/feed/"
+    status: active
+
+  - name: "Tampa Bay Newspapers"
+    area: "Tampa"
+    status: link_only
+    homepage: "https://www.tbnweekly.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Osprey Observer"
+    area: "Hillsborough Suburbs"
+    feed_url: "https://www.ospreyobserver.com/feed/"
+    status: active
+
+  - name: "Plant City Observer"
+    area: "Hillsborough Suburbs"
+    feed_url: "https://www.plantcityobserver.com/feed/"
+    status: active
+
+  - name: "The Laker / Lutz News"
+    area: "Pasco"
+    feed_url: "https://lakerlutznews.com/feed"
+    status: active
+
+  - name: "Florida Courier"
+    area: "Tampa"
+    status: link_only
+    homepage: "https://www.flcourier.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The Weekly Challenger"
+    area: "St. Petersburg & Pinellas"
+    status: link_only
+    homepage: "https://theweeklychallenger.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "La Gaceta"
+    area: "Tampa"
+    feed_url: "https://lagacetanewspaper.com/feed/"
+    status: active
+
+  - name: "St. Pete Catalyst"
+    area: "St. Petersburg & Pinellas"
+    feed_url: "https://stpetecatalyst.com/feed/"
+    status: active
+
+  - name: "Bay Soundings"
+    area: "St. Petersburg & Pinellas"
+    feed_url: "https://baysoundings.com/feed/"
+    status: active

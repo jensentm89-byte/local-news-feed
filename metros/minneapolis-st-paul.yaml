@@ -1,0 +1,165 @@
+# Minneapolis–St. Paul, MN. See jacksonville.yaml for the file format.
+
+name: "Minneapolis–St. Paul, MN"
+aliases:
+  - "Anoka"
+  - "Carver"
+  - "Chisago"
+  - "Dakota"
+  - "Hennepin"
+  - "Isanti"
+  - "Le Sueur"
+  - "Mille Lacs"
+  - "Pierce"
+  - "Ramsey"
+  - "Scott"
+  - "Sherburne"
+  - "St. Croix"
+  - "Washington"
+  - "Wright"
+  - "Twin Cities"
+  - "Hennepin County"
+  - "Ramsey County"
+  - "Dakota County"
+  - "Anoka County"
+  - "Washington County"
+  - "Scott County"
+  - "Carver County"
+  - "Wright County"
+  - "Bloomington"
+  - "Plymouth"
+  - "St. Cloud"
+  - "Edina"
+  - "Eden Prairie"
+  - "Minnetonka"
+  - "Maple Grove"
+  - "Woodbury"
+  - "Burnsville"
+  - "Eagan"
+  - "Lakeville"
+  - "Stillwater"
+  - "Hudson WI"
+  - "River Falls"
+
+areas: ["Minneapolis", "St. Paul", "Suburbs", "Western Wisconsin"]
+states: ["Minnesota", "Wisconsin"]
+local_terms: ["Vikings", "Twins", "Timberwolves", "Wild", "Lynx", "Gophers", "University of Minnesota", "Metro Transit", "MnDOT", "Frey", "Her", "Walz", "Mall of America", "MSP Airport", "Uptown", "Northeast Minneapolis", "Nokomis", "Powderhorn", "Phillips", "Longfellow", "North Minneapolis", "Highland Park", "Summit Hill", "Como", "Frogtown", "Rondo", "West Side", "Lake Street", "Roseville", "Maplewood", "Shoreview", "Blaine", "Coon Rapids", "Fridley", "Brooklyn Park", "Brooklyn Center", "Richfield", "St. Louis Park", "Hopkins", "Golden Valley", "Shakopee", "Prior Lake", "Chaska", "Hastings", "Oakdale", "White Bear Lake", "Forest Lake", "Cottage Grove", "Apple Valley", "Rosemount"]
+
+sources:
+  - name: "Star Tribune"
+    area: "Minneapolis"
+    feed_url: "https://www.startribune.com/rss"
+    status: active
+
+  - name: "MinnPost"
+    area: "Minneapolis"
+    feed_url: "https://www.minnpost.com/feed/"
+    status: active
+
+  - name: "MPR News"
+    area: "Minneapolis"
+    feed_url: "https://www.mprnews.org/feed/homepage"
+    status: active
+
+  - name: "Sahan Journal"
+    area: "Minneapolis"
+    feed_url: "https://sahanjournal.com/feed/"
+    status: active
+
+  - name: "Racket"
+    area: "Minneapolis"
+    feed_url: "https://racketmn.com/feed"
+    status: active
+
+  - name: "KARE 11"
+    area: "Minneapolis"
+    feed_url: "https://www.kare11.com/feeds/syndication/rss/news"
+    status: active
+    filter: local
+
+  - name: "KSTP"
+    area: "Minneapolis"
+    feed_url: "https://kstp.com/feed/"
+    status: active
+
+  - name: "WCCO"
+    area: "Minneapolis"
+    status: link_only
+    homepage: "https://www.cbsnews.com/minnesota/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "FOX 9"
+    area: "Minneapolis"
+    feed_url: "https://www.fox9.com/rss.xml"
+    status: active
+
+  - name: "Minnesota Spokesman-Recorder"
+    area: "Minneapolis"
+    feed_url: "https://spokesman-recorder.com/feed/"
+    status: active
+
+  - name: "Mpls.St.Paul Magazine"
+    area: "Minneapolis"
+    feed_url: "https://mspmag.com/api/rss/content.rss"
+    status: active
+
+  - name: "Twin Cities Business"
+    area: "Minneapolis"
+    feed_url: "https://tcbmag.com/feed/"
+    status: active
+
+  - name: "Minnesota Daily"
+    area: "Minneapolis"
+    feed_url: "https://mndaily.com/feed/"
+    status: active
+
+  - name: "Park Bugle"
+    area: "Minneapolis"
+    feed_url: "https://parkbugle.org/feed/"
+    status: active
+
+  - name: "Longfellow Nokomis Messenger"
+    area: "Minneapolis"
+    status: link_only
+    homepage: "https://www.longfellownokomismessenger.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Pioneer Press"
+    area: "St. Paul"
+    status: link_only
+    homepage: "https://www.twincities.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Hmong Times"
+    area: "St. Paul"
+    feed_url: "https://hmongtimes.com/feed/"
+    status: active
+
+  - name: "Sun Newspapers / Hometown Source"
+    area: "Suburbs"
+    status: link_only
+    homepage: "https://www.hometownsource.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Stillwater Gazette"
+    area: "Suburbs"
+    feed_url: "http://www.hometownsource.com/search/?f=rss&t=article&c=stillwater_gazette&l=50&s=start_time&sd=desc"
+    status: active
+
+  - name: "White Bear Press"
+    area: "Suburbs"
+    feed_url: "https://www.presspubs.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "Hudson Star-Observer"
+    area: "Western Wisconsin"
+    feed_url: "https://www.hudsonstarobserver.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "River Falls Journal"
+    area: "Western Wisconsin"
+    feed_url: "https://www.riverfallsjournal.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local

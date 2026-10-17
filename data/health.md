@@ -1,8 +1,8 @@
 # Source health
 
-Generated 2026-10-17 03:56Z.
+Generated 2026-10-17 04:53Z.
 
-Active feeds: 311 · link-only: 149 · paused: 1
+Active feeds: 382 · link-only: 171 · paused: 1
 
 ## Atlanta, GA
 
@@ -10,8 +10,7 @@ Active feeds: 311 · link-only: 149 · paused: 1
 
 ## Boston, MA
 
-- **no stories yet** Gloucester Daily Times
-- **no stories yet** Daily News of Newburyport
+- **silent** Gloucester Daily Times: newest story 10 days old
 
 ## Chicago, IL
 
@@ -20,7 +19,10 @@ Active feeds: 311 · link-only: 149 · paused: 1
 ## Dallas–Fort Worth, TX
 
 - **silent** Dallas Free Press: newest story 14 days old
-- **no stories yet** Denton Record-Chronicle
+
+## Denver, CO
+
+- **failing** Castle Rock News-Press: 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Jacksonville, FL
 
@@ -31,12 +33,17 @@ Active feeds: 311 · link-only: 149 · paused: 1
 
 - **silent** Crosstown: newest story 18 days old
 
+## Minneapolis–St. Paul, MN
+
+- **silent** Park Bugle: newest story 15 days old
+- **silent** Hmong Times: newest story 16 days old
+
 ## New York, NY
 
 - **no stories yet** Queens Post
 - **no stories yet** Astoria Post
 - **silent** Norwood News: newest story 17 days old
 
-## Riverside–San Bernardino, CA
+## Tampa–St. Petersburg, FL
 
-- **no stories yet** Chino Champion
+- **silent** La Gaceta: newest story 14 days old

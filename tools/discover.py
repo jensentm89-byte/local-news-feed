@@ -63,6 +63,16 @@ STATE_NAMES = {
 LINK_TAG_RE = re.compile(r"<link\s[^>]*>", re.I)
 COMMON_PATHS = ["/feed/", "/feed", "/rss", "/rss.xml", "/index.rss", "/?rss=y"]
 PLATFORM_CATEGORIES = ["news/local", "local", "news"]
+# Feed paths used by the common TV-station website platforms (Arc, TEGNA, Nexstar, Fox, NBC).
+STATION_PATHS = [
+    "/arc/outboundfeeds/rss/category/news/local/?outputType=xml",
+    "/feeds/syndication/rss/news/local",
+    "/news/local-news/feed/",
+    "/news/local/feed/",
+    "/rss/category/news",
+    "/?rss=y",
+    "/arc/outboundfeeds/rss/?outputType=xml",
+]
 PLATFORM_URL = "{base}/search/?f=rss&t=article&c={cat}&l=50&s=start_time&sd=desc"
 RECENT_DATE_PATTERNS = [
     r'datetime=["\']?{y}-{m}-', r"/{y}/{m}/", r'datePublished["\']?\s*:\s*["\']{y}-{m}',
@@ -170,6 +180,15 @@ def _probe_outlet(outlet, regexes):
         if info["reason"] == "robots.txt disallows" and kind == "given":
             notes.append("feed disallowed by robots.txt")
     if "feed" not in result:
+        for path in STATION_PATHS:  # TV-station platforms; these mix national news, so always filter
+            info = check_feed(root + path, regexes)
+            transient = transient or info.get("transient", False)
+            if info["ok"]:
+                result.update(feed_url=root + path, feed=info, how=f"station:{path[:30]}")
+                break
+            if not info["ok"] and "robots" in info["reason"]:
+                break
+    if "feed" not in result:
         for cat in PLATFORM_CATEGORIES:  # TownNews/BLOX sites share this search-feed pattern
             url = PLATFORM_URL.format(base=root, cat=cat)
             info = check_feed(url, regexes)
@@ -182,7 +201,7 @@ def _probe_outlet(outlet, regexes):
     if "feed" in result:
         feed = result["feed"]
         result["status"] = "active"
-        if feed["elsewhere_share"] >= ELSEWHERE_SHARE_FOR_FILTER or result["how"].startswith("platform"):
+        if feed["elsewhere_share"] >= ELSEWHERE_SHARE_FOR_FILTER or result["how"].startswith(("platform", "station")):
             result["filter"] = True
         if feed["local_share"] < 0.1 and not outlet.get("hyperlocal"):
             notes.append(f"few local terms ({feed['local_share']:.0%}) - check it is local")

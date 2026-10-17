@@ -108,9 +108,9 @@ sources:
 
   - name: "KIRO 7"
     area: "Seattle"
-    status: link_only
-    homepage: "https://www.kiro7.com/"
-    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+    feed_url: "https://www.kiro7.com/arc/outboundfeeds/rss/category/news/local/?outputType=xml"
+    status: active
+    filter: local
 
   - name: "FOX 13 Seattle"
     area: "Seattle"

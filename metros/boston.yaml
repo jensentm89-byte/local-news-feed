@@ -67,9 +67,9 @@ sources:
 
   - name: "Boston 25 News"
     area: "Boston"
-    status: link_only
-    homepage: "https://www.boston25news.com/"
-    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+    feed_url: "https://www.boston25news.com/arc/outboundfeeds/rss/category/news/local/?outputType=xml"
+    status: active
+    filter: local
 
   - name: "CBS Boston"
     area: "Boston"

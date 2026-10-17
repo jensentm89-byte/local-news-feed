@@ -1,0 +1,114 @@
+# Orlando, FL. See jacksonville.yaml for the file format.
+
+name: "Orlando, FL"
+aliases:
+  - "Lake"
+  - "Orange"
+  - "Osceola"
+  - "Seminole"
+  - "Central Florida"
+  - "Orange County"
+  - "Seminole County"
+  - "Osceola County"
+  - "Lake County"
+  - "Kissimmee"
+  - "Sanford"
+  - "Winter Park"
+  - "Apopka"
+  - "Oviedo"
+  - "Altamonte Springs"
+  - "Clermont"
+  - "Winter Garden"
+  - "Ocoee"
+  - "Lake Mary"
+  - "Longwood"
+  - "Casselberry"
+  - "Maitland"
+  - "Mount Dora"
+  - "Leesburg"
+  - "St. Cloud"
+  - "Disney"
+  - "Orlando area"
+
+areas: ["Orlando", "Seminole County", "Lake County", "Osceola County"]
+states: ["Florida"]
+local_terms: ["Magic", "Orlando Magic", "Orlando City", "Pride", "UCF", "Knights", "Dyer", "Demings", "Orlando International", "MCO", "SunRail", "LYNX", "Lynx", "Orange County Public Schools", "OCPS", "Disney World", "Walt Disney World", "Universal Orlando", "SeaWorld", "Epcot", "Magic Kingdom", "International Drive", "I-Drive", "Lake Eola", "Thornton Park", "College Park", "Mills 50", "Parramore", "Pine Hills", "Lake Nona", "Horizon West", "Celebration", "Windermere", "Dr. Phillips", "Hunters Creek", "Poinciana", "Daytona"]
+
+sources:
+  - name: "Orlando Sentinel"
+    area: "Orlando"
+    status: link_only
+    homepage: "https://www.orlandosentinel.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "WESH 2"
+    area: "Orlando"
+    status: link_only
+    homepage: "https://www.wesh.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "WFTV Channel 9"
+    area: "Orlando"
+    feed_url: "https://www.wftv.com/arc/outboundfeeds/rss/category/news/local/?outputType=xml"
+    status: active
+    filter: local
+
+  - name: "WKMG ClickOrlando"
+    area: "Orlando"
+    feed_url: "https://www.clickorlando.com/arc/outboundfeeds/rss/category/news/local/?outputType=xml"
+    status: active
+    filter: local
+
+  - name: "FOX 35 Orlando"
+    area: "Orlando"
+    feed_url: "https://www.fox35orlando.com/rss.xml"
+    status: active
+
+  - name: "Orlando Weekly"
+    area: "Orlando"
+    feed_url: "https://www.orlandoweekly.com/feed/"
+    status: active
+
+  - name: "Orlando Magazine"
+    area: "Orlando"
+    feed_url: "https://www.orlandomagazine.com/feed/"
+    status: active
+
+  - name: "WMFE"
+    area: "Orlando"
+    status: link_only
+    homepage: "https://www.wmfe.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Florida Courier Orlando"
+    area: "Orlando"
+    feed_url: "https://flcourier.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "Winter Park Voice"
+    area: "Orlando"
+    feed_url: "https://winterparkvoice.com/feed/"
+    status: active
+
+  - name: "Observer Media Group (Winter Garden / West Orange Times)"
+    area: "Orlando"
+    feed_url: "https://www.orangeobserver.com/rss/headlines/all/"
+    status: active
+
+  - name: "Sanford Herald"
+    area: "Seminole County"
+    status: link_only
+    homepage: "https://www.thesanfordherald.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Osceola News-Gazette"
+    area: "Osceola County"
+    feed_url: "https://www.aroundosceola.com/rss.xml"
+    status: active
+
+  - name: "Daily Commercial (Leesburg)"
+    area: "Lake County"
+    status: link_only
+    homepage: "https://www.dailycommercial.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."

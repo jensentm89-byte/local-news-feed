@@ -2,7 +2,7 @@
 
 A Drudge-style headline aggregator for local news. Pick your metro area and see
 the latest headlines from its local outlets, linking out to the original stories.
-Only headlines, short excerpts and links are kept; the stories stay on the outlets' sites.
+Only headlines, links, outlet names and times are stored or shown. No story text or excerpts are kept; the stories stay on the outlets' sites.
 
 **Status:** Phase 2 — Jacksonville plus the 10 largest US metros: New York, Los Angeles, Chicago, Dallas–Fort Worth, Houston, Washington DC, Philadelphia, Atlanta, Miami and Phoenix.
 
@@ -10,7 +10,7 @@ Only headlines, short excerpts and links are kept; the stories stay on the outle
 
 - `metros/<metro>.yaml` — one file per metro: name, search aliases, areas and its news sources.
 - `fetch.py` — reads every metro file, pulls each source's RSS feed, and writes
-  `data/articles/<metro>.jsonl` (full history) and `docs/data/<metro>.json` (last 14 days),
+  `data/articles/<metro>.jsonl` (30 days of history) and `docs/data/<metro>.json` (last 14 days),
   plus `docs/metros.json` (the picker/search index).
 - `tools/metro_list.py` — builds `metros/top50.json` (the 50 largest US metros, from Census data).
 - `tools/discover.py` — vets candidate outlets for a metro (finds feeds, checks robots/freshness/duplicates, suggests `filter: local`) and drafts the metro file. Candidate lists live in `candidates/`.
