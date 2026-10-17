@@ -1,0 +1,122 @@
+# Memphis, TN. See jacksonville.yaml for the file format.
+
+name: "Memphis, TN"
+aliases:
+  - "Benton"
+  - "Crittenden"
+  - "DeSoto"
+  - "Fayette"
+  - "Marshall"
+  - "Shelby"
+  - "Tate"
+  - "Tipton"
+  - "Tunica"
+  - "Shelby County"
+  - "Fayette County TN"
+  - "Tipton County"
+  - "DeSoto County"
+  - "Crittenden County"
+  - "Tate County"
+  - "Marshall County MS"
+  - "Tunica County"
+  - "Southaven"
+  - "Olive Branch"
+  - "Horn Lake"
+  - "Hernando"
+  - "Germantown"
+  - "Collierville"
+  - "Bartlett"
+  - "Cordova"
+  - "Millington"
+  - "Arlington"
+  - "Lakeland"
+  - "Oakland"
+  - "West Memphis"
+  - "Marion"
+  - "Bluff City"
+  - "Home of the Blues"
+  - "Memphis Metro"
+  - "Mid-South"
+  - "Midsouth"
+
+areas: ["Memphis", "DeSoto County & North Mississippi", "West Memphis & Arkansas"]
+states: ["Arkansas", "Mississippi", "Tennessee"]
+local_terms: ["Grizzlies", "Tigers", "Memphis Tigers", "University of Memphis", "Redbirds", "901 FC", "Memphis 901", "Young", "Paul Young", "Harris", "Bill Lee", "Gov. Lee", "MATA", "Memphis International", "FedEx", "FedExForum", "Liberty Bowl", "AutoZone Park", "Beale Street", "Graceland", "Elvis", "Sun Studio", "Stax", "Orpheum", "Overton Park", "Cooper-Young", "Midtown", "Binghampton", "Orange Mound", "Whitehaven", "Frayser", "Raleigh", "Hickory Hill", "Cordova", "Harbor Town", "Mud Island", "Riverfront", "Mississippi River", "I-40", "I-240", "I-55", "I-269", "Hernando de Soto Bridge", "Memphis-Arkansas Bridge", "MLGW", "Shelby County Schools", "SCS", "Memphis Police", "MPD", "Shelby County Sheriff", "SCSO", "Methodist Le Bonheur", "Regional One", "St. Jude", "Baptist Memorial", "AutoZone", "International Paper", "ServiceMaster", "Mud Island River Park", "Pyramid", "Bass Pro", "National Civil Rights Museum", "Lorraine Motel"]
+
+sources:
+  - name: "The Commercial Appeal"
+    area: "Memphis"
+    status: link_only
+    homepage: "https://www.commercialappeal.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The Daily Memphian"
+    area: "Memphis"
+    feed_url: "https://dailymemphian.com/feed/"
+    status: active
+
+  - name: "MLK50: Justice Through Journalism"
+    area: "Memphis"
+    feed_url: "https://mlk50.com/feed/"
+    status: active
+
+  - name: "Memphis Flyer"
+    area: "Memphis"
+    feed_url: "https://www.memphisflyer.com/feed/"
+    status: active
+
+  - name: "WMC Action News 5"
+    area: "Memphis"
+    feed_url: "https://www.actionnews5.com/arc/outboundfeeds/rss/?outputType=xml"
+    status: active
+    filter: local
+
+  - name: "WREG NewsChannel 3"
+    area: "Memphis"
+    feed_url: "https://wreg.com/feed/"
+    status: active
+
+  - name: "FOX13 Memphis"
+    area: "Memphis"
+    feed_url: "https://www.fox13memphis.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "Local 24"
+    area: "Memphis"
+    feed_url: "https://www.localmemphis.com/feeds/syndication/rss/news"
+    status: active
+    filter: local
+
+  - name: "Memphis Magazine"
+    area: "Memphis"
+    feed_url: "https://memphismagazine.com/api/rss/content.rss"
+    status: active
+
+  - name: "WKNO"
+    area: "Memphis"
+    status: link_only
+    homepage: "https://wkno.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "High Ground News"
+    area: "Memphis"
+    feed_url: "https://www.highgroundnews.com/feed/"
+    status: active
+    filter: local
+
+  - name: "DeSoto Times-Tribune"
+    area: "DeSoto County & North Mississippi"
+    feed_url: "https://www.desototimes.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "DeSoto County News"
+    area: "DeSoto County & North Mississippi"
+    feed_url: "https://desotocountynews.com/feed/"
+    status: active
+
+  - name: "The Evening Times (West Memphis)"
+    area: "West Memphis & Arkansas"
+    feed_url: "http://www.jonesborosun.com/search/?f=rss&t=article&c=theeveningtimes&l=50&s=start_time&sd=desc"
+    status: active

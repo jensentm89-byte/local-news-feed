@@ -1,0 +1,108 @@
+# Birmingham, AL. See jacksonville.yaml for the file format.
+
+name: "Birmingham, AL"
+aliases:
+  - "Bibb"
+  - "Blount"
+  - "Chilton"
+  - "Jefferson"
+  - "Shelby"
+  - "St. Clair"
+  - "Walker"
+  - "Jefferson County"
+  - "Shelby County"
+  - "St. Clair County"
+  - "Blount County"
+  - "Walker County"
+  - "Bibb County"
+  - "Chilton County"
+  - "Hoover"
+  - "Vestavia Hills"
+  - "Homewood"
+  - "Mountain Brook"
+  - "Bessemer"
+  - "Alabaster"
+  - "Pelham"
+  - "Trussville"
+  - "Gardendale"
+  - "Fultondale"
+  - "Tarrant"
+  - "Irondale"
+  - "Leeds"
+  - "Pell City"
+  - "Jasper"
+  - "Oneonta"
+  - "Magic City"
+  - "Bham"
+  - "Birmingham metro"
+  - "Central Alabama"
+
+areas: ["Birmingham", "Shelby County", "Jefferson County Suburbs", "Walker & Blount Counties"]
+states: ["Alabama"]
+local_terms: ["Crimson Tide", "Alabama Crimson Tide", "Auburn", "UAB", "Blazers", "Barons", "Birmingham Legion", "Birmingham Stallions", "Stallions", "Woodfin", "Randall Woodfin", "Ivey", "Kay Ivey", "Tuberville", "Britt", "BJCTA", "MAX Transit", "Birmingham-Shuttlesworth", "BHM", "Protective Stadium", "Legacy Arena", "Regions Field", "Railroad Park", "Sloss Furnaces", "Vulcan", "Five Points South", "Southside", "Avondale", "Woodlawn", "Ensley", "Bessemer", "Lakeview", "Highland Park", "Forest Park", "Crestwood", "Cahaba", "Cahaba River", "Oak Mountain", "Red Mountain", "Ruffner Mountain", "Civil Rights Institute", "16th Street Baptist", "Kelly Ingram", "Regions Bank", "BBVA", "Protective Life", "Altec", "Southern Company", "Alabama Power", "UAB Hospital", "Children's of Alabama", "Grandview", "Brookwood", "St. Vincent's", "I-65", "I-20", "I-59", "I-459", "Highway 280", "Highway 31", "Birmingham Police", "BPD", "Jefferson County Sheriff", "JCSO", "Birmingham City Schools", "Jefferson County Schools", "Hoover City Schools"]
+
+sources:
+  - name: "AL.com / The Birmingham News"
+    area: "Birmingham"
+    feed_url: "https://www.al.com/arc/outboundfeeds/rss/?outputType=xml"
+    status: active
+    filter: local
+
+  - name: "Birmingham Watch"
+    area: "Birmingham"
+    feed_url: "https://birminghamwatch.org/feed/"
+    status: active
+
+  - name: "The Birmingham Times"
+    area: "Birmingham"
+    feed_url: "https://www.birminghamtimes.com/feed/"
+    status: active
+
+  - name: "WBHM"
+    area: "Birmingham"
+    status: link_only
+    homepage: "https://wbhm.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "WBRC FOX6"
+    area: "Birmingham"
+    feed_url: "https://www.wbrc.com/arc/outboundfeeds/rss/?outputType=xml"
+    status: active
+    filter: local
+
+  - name: "WVTM 13"
+    area: "Birmingham"
+    status: link_only
+    homepage: "https://www.wvtm13.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Bham Now"
+    area: "Birmingham"
+    feed_url: "https://bhamnow.com/feed"
+    status: active
+
+  - name: "The Alabama Gazette"
+    area: "Birmingham"
+    feed_url: "https://alabamagazette.com/rss"
+    status: active
+
+  - name: "Shelby County Reporter"
+    area: "Shelby County"
+    feed_url: "https://www.shelbycountyreporter.com/rss.xml"
+    status: active
+
+  - name: "Hoover Sun"
+    area: "Jefferson County Suburbs"
+    feed_url: "https://hooversun.com/api/rss/content.rss"
+    status: active
+
+  - name: "Trussville Tribune"
+    area: "Jefferson County Suburbs"
+    feed_url: "https://www.trussvilletribune.com/feed/"
+    status: active
+
+  - name: "The Daily Mountain Eagle (Jasper)"
+    area: "Walker & Blount Counties"
+    feed_url: "https://www.mountaineagle.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local

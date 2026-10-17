@@ -1,0 +1,107 @@
+# Salt Lake City, UT. See jacksonville.yaml for the file format.
+
+name: "Salt Lake City, UT"
+aliases:
+  - "Salt Lake"
+  - "Tooele"
+  - "Salt Lake County"
+  - "Summit County"
+  - "Tooele County"
+  - "Davis County"
+  - "West Valley City"
+  - "West Jordan"
+  - "Sandy"
+  - "Murray"
+  - "Taylorsville"
+  - "South Jordan"
+  - "Draper"
+  - "Holladay"
+  - "Cottonwood Heights"
+  - "Millcreek"
+  - "Midvale"
+  - "Herriman"
+  - "Riverton"
+  - "Bountiful"
+  - "Layton"
+  - "Park City"
+  - "Wasatch Front"
+  - "Beehive State"
+  - "SLC"
+
+areas: ["Salt Lake City", "Summit & Tooele Counties"]
+states: ["Utah"]
+local_terms: ["Jazz", "Utah Jazz", "Real Salt Lake", "RSL", "Utes", "University of Utah", "Utah State", "BYU", "Mammoth", "Utah Mammoth", "Grizzlies", "Bees", "Mendenhall", "Erin Mendenhall", "Cox", "Spencer Cox", "Utah Legislature", "UTA", "TRAX", "FrontRunner", "SLC Airport", "Delta Center", "Rice-Eccles", "America First Field", "Temple Square", "Capitol Hill", "Sugar House", "Avenues", "Marmalade", "Rose Park", "Glendale", "Poplar Grove", "Liberty Wells", "9th and 9th", "Downtown Salt Lake", "Gateway", "Great Salt Lake", "Wasatch", "Cottonwoods", "Little Cottonwood", "Big Cottonwood", "Alta", "Snowbird", "Brighton", "Solitude", "Deer Valley", "Park City Mountain", "Latter-day Saints", "LDS", "Church of Jesus Christ", "I-15", "I-80", "I-215", "Mountain View Corridor", "Bangerter", "Intermountain Health", "University of Utah Health", "Salt Lake City Police", "SLCPD", "Unified Police", "Salt Lake County Sheriff", "Utah Highway Patrol"]
+
+sources:
+  - name: "The Salt Lake Tribune"
+    area: "Salt Lake City"
+    feed_url: "https://www.sltrib.com/arc/outboundfeeds/rss/?outputType=xml"
+    status: active
+
+  - name: "Deseret News"
+    area: "Salt Lake City"
+    feed_url: "https://www.deseret.com/rss/latest.rss"
+    status: active
+    filter: local
+
+  - name: "KSL"
+    area: "Salt Lake City"
+    status: link_only
+    homepage: "https://www.ksl.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "KUER"
+    area: "Salt Lake City"
+    status: link_only
+    homepage: "https://www.kuer.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "FOX 13 Salt Lake City"
+    area: "Salt Lake City"
+    feed_url: "https://www.fox13now.com/index.rss"
+    status: active
+
+  - name: "ABC4"
+    area: "Salt Lake City"
+    feed_url: "https://www.abc4.com/feed/"
+    status: active
+
+  - name: "City Weekly"
+    area: "Salt Lake City"
+    feed_url: "https://www.cityweekly.net/rss.xml"
+    status: active
+
+  - name: "Salt Lake Magazine"
+    area: "Salt Lake City"
+    feed_url: "https://www.saltlakemagazine.com/feed/"
+    status: active
+
+  - name: "SLUG Magazine"
+    area: "Salt Lake City"
+    feed_url: "https://www.slugmag.com/feed/"
+    status: active
+
+  - name: "Utah Business"
+    area: "Salt Lake City"
+    feed_url: "https://www.utahbusiness.com/rss/latest.rss"
+    status: active
+
+  - name: "UtahPolicy"
+    area: "Salt Lake City"
+    feed_url: "https://utahpolicy.com/feed"
+    status: active
+
+  - name: "The Daily Utah Chronicle"
+    area: "Salt Lake City"
+    feed_url: "https://dailyutahchronicle.com/feed/"
+    status: active
+
+  - name: "The Park Record"
+    area: "Summit & Tooele Counties"
+    feed_url: "https://www.parkrecord.com/feed/"
+    status: active
+
+  - name: "Tooele Transcript Bulletin"
+    area: "Summit & Tooele Counties"
+    feed_url: "https://www.tooeleonline.com/feed/"
+    status: active

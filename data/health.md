@@ -1,12 +1,16 @@
 # Source health
 
-Generated 2026-10-17 13:15Z.
+Generated 2026-10-17 14:02Z.
 
-Active feeds: 536 · link-only: 249 · paused: 1
+Active feeds: 588 · link-only: 260 · paused: 1
 
 ## Atlanta, GA
 
 - **no stories yet** Reporter Newspapers
+
+## Birmingham, AL
+
+- **silent** The Alabama Gazette: newest story 17 days old
 
 ## Boston, MA
 
@@ -41,6 +45,15 @@ Active feeds: 536 · link-only: 249 · paused: 1
 ## Los Angeles, CA
 
 - **silent** Crosstown: newest story 18 days old
+
+## Louisville, KY
+
+- **no stories yet** Oldham Era
+- **no stories yet** Pioneer News (Bullitt County)
+
+## Memphis, TN
+
+- **no stories yet** DeSoto Times-Tribune
 
 ## Milwaukee, WI
 
@@ -80,6 +93,10 @@ Active feeds: 536 · link-only: 249 · paused: 1
 
 - **silent** Walter Magazine: newest story 14 days old
 
+## Richmond, VA
+
+- **no stories yet** Richmond Times-Dispatch
+
 ## Tampa–St. Petersburg, FL
 
-- **silent** La Gaceta: newest story 14 days old
+- **silent** La Gaceta: newest story 15 days old

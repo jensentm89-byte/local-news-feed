@@ -1,0 +1,122 @@
+# Louisville, KY. See jacksonville.yaml for the file format.
+
+name: "Louisville, KY"
+aliases:
+  - "Bullitt"
+  - "Clark"
+  - "Floyd"
+  - "Harrison"
+  - "Henry"
+  - "Jefferson"
+  - "Meade"
+  - "Nelson"
+  - "Oldham"
+  - "Shelby"
+  - "Spencer"
+  - "Washington"
+  - "Jefferson County"
+  - "Bullitt County"
+  - "Oldham County"
+  - "Shelby County KY"
+  - "Spencer County"
+  - "Henry County KY"
+  - "Meade County"
+  - "Clark County Indiana"
+  - "Floyd County Indiana"
+  - "Harrison County Indiana"
+  - "Washington County Indiana"
+  - "Jeffersonville"
+  - "New Albany"
+  - "Clarksville"
+  - "Shepherdsville"
+  - "La Grange"
+  - "Shelbyville"
+  - "Elizabethtown"
+  - "Radcliff"
+  - "St. Matthews"
+  - "Anchorage"
+  - "Jeffersontown"
+  - "Shively"
+  - "Okolona"
+  - "Fern Creek"
+  - "Louisville Metro"
+  - "Derby City"
+  - "Kentuckiana"
+  - "502"
+
+areas: ["Louisville", "Southern Indiana", "Surrounding Kentucky Counties"]
+states: ["Indiana", "Kentucky"]
+local_terms: ["Cardinals", "Louisville Cardinals", "UofL", "Louisville City FC", "Racing Louisville", "Bats", "Louisville Bats", "Churchill Downs", "Kentucky Derby", "Derby", "Oaks", "Greenberg", "Craig Greenberg", "Beshear", "Andy Beshear", "JCPS", "Jefferson County Public Schools", "LMPD", "Louisville Metro Police", "TARC", "SDF", "Louisville Muhammad Ali", "Muhammad Ali International", "Waterfront Park", "Big Four Bridge", "Ohio River", "Slugger Field", "KFC Yum Center", "L&N Wellness", "Highlands", "Germantown", "Butchertown", "NuLu", "Old Louisville", "Crescent Hill", "Shawnee", "Portland", "West End", "Smoketown", "Russell", "California", "Parkland", "Clifton", "Bardstown Road", "Frankfort Avenue", "Baxter Avenue", "UPS Worldport", "Worldport", "Humana", "Brown-Forman", "Papa John's", "Norton", "Baptist Health", "UofL Health", "I-64", "I-65", "I-71", "Gene Snyder", "Watterson", "Snyder Freeway", "Ohio River Bridges"]
+
+sources:
+  - name: "The Courier Journal"
+    area: "Louisville"
+    status: link_only
+    homepage: "https://www.courier-journal.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "WFPL / Louisville Public Media"
+    area: "Louisville"
+    feed_url: "https://www.lpm.org/news.rss"
+    status: active
+
+  - name: "LEO Weekly"
+    area: "Louisville"
+    feed_url: "https://leoweekly.com/feed/"
+    status: active
+
+  - name: "WHAS11"
+    area: "Louisville"
+    feed_url: "https://www.whas11.com/feeds/syndication/rss/news"
+    status: active
+    filter: local
+
+  - name: "WAVE 3 News"
+    area: "Louisville"
+    feed_url: "https://www.wave3.com/arc/outboundfeeds/rss/?outputType=xml"
+    status: active
+    filter: local
+
+  - name: "WLKY"
+    area: "Louisville"
+    status: link_only
+    homepage: "https://www.wlky.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "WDRB"
+    area: "Louisville"
+    status: link_only
+    homepage: "https://www.wdrb.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The Voice-Tribune"
+    area: "Louisville"
+    feed_url: "https://www.voice-tribune.com/blog-feed.xml"
+    status: active
+
+  - name: "The Louisville Cardinal"
+    area: "Louisville"
+    feed_url: "https://www.louisvillecardinal.com/feed/"
+    status: active
+
+  - name: "Oldham Era"
+    area: "Surrounding Kentucky Counties"
+    feed_url: "http://www.pmg-ky1.com/search/?f=rss&t=article&c=oldham_era&l=50&s=start_time&sd=desc"
+    status: active
+
+  - name: "Sentinel-News (Shelbyville)"
+    area: "Surrounding Kentucky Counties"
+    status: link_only
+    homepage: "https://www.sentinelnews.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Pioneer News (Bullitt County)"
+    area: "Surrounding Kentucky Counties"
+    feed_url: "http://www.pmg-ky1.com/search/?f=rss&t=article&c=pioneer_news&l=50&s=start_time&sd=desc"
+    status: active
+
+  - name: "The News and Tribune (Jeffersonville)"
+    area: "Southern Indiana"
+    feed_url: "https://www.newsandtribune.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local

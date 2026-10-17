@@ -1,0 +1,105 @@
+# Richmond, VA. See jacksonville.yaml for the file format.
+
+name: "Richmond, VA"
+aliases:
+  - "Amelia"
+  - "Charles City"
+  - "Chesterfield"
+  - "Colonial Heights city"
+  - "Dinwiddie"
+  - "Goochland"
+  - "Hanover"
+  - "Henrico"
+  - "Hopewell city"
+  - "King William"
+  - "King and Queen"
+  - "New Kent"
+  - "Petersburg city"
+  - "Powhatan"
+  - "Prince George"
+  - "Richmond city"
+  - "Sussex"
+  - "Henrico County"
+  - "Chesterfield County"
+  - "Hanover County"
+  - "Goochland County"
+  - "Powhatan County"
+  - "New Kent County"
+  - "Petersburg"
+  - "Colonial Heights"
+  - "Hopewell"
+  - "Mechanicsville"
+  - "Glen Allen"
+  - "Midlothian"
+  - "Chester"
+  - "Ashland"
+  - "Short Pump"
+  - "Fan"
+  - "Church Hill"
+  - "Jackson Ward"
+  - "Carytown"
+  - "Scott's Addition"
+  - "Manchester"
+  - "Shockoe"
+  - "Northside"
+  - "RVA"
+  - "Capital of the Confederacy"
+  - "River City"
+
+areas: ["Richmond", "Henrico & Hanover"]
+states: ["Virginia"]
+local_terms: ["Squirrels", "Flying Squirrels", "VCU", "Rams", "Spiders", "University of Richmond", "Virginia Union", "Stoney", "Levar Stoney", "Avula", "Danny Avula", "Youngkin", "Spanberger", "GRTC", "Pulse", "RIC", "Richmond International", "Richmond Raceway", "Altria Theater", "The Diamond", "Brown's Island", "Belle Isle", "James River", "Hollywood Cemetery", "Maymont", "Lewis Ginter", "VMFA", "Capitol Square", "Virginia General Assembly", "General Assembly", "Capital One", "Dominion Energy", "Altria", "Markel", "CarMax", "VCU Health", "Bon Secours", "Henrico Doctors", "RPS", "Richmond Public Schools", "RPD", "Richmond Police", "Henrico Police", "Chesterfield Police", "I-95", "I-64", "I-295", "Powhite", "Downtown Expressway", "Boulevard", "Broad Street", "Hull Street", "West Broad", "Brook Road", "Nine Mile", "Fulton", "Highland Park", "Oregon Hill", "Randolph", "Museum District", "Bon Air", "Westover Hills", "Stratford Hills", "Brandermill", "Moseley", "Hanover Courthouse", "Rockville", "Mineral"]
+
+sources:
+  - name: "Richmond Times-Dispatch"
+    area: "Richmond"
+    feed_url: "https://richmond.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "VPM"
+    area: "Richmond"
+    status: link_only
+    homepage: "https://www.vpm.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Richmond Magazine"
+    area: "Richmond"
+    feed_url: "https://richmondmagazine.com/api/rss/content.rss"
+    status: active
+
+  - name: "Style Weekly"
+    area: "Richmond"
+    feed_url: "https://www.styleweekly.com/feed/"
+    status: active
+
+  - name: "Richmond BizSense"
+    area: "Richmond"
+    feed_url: "https://richmondbizsense.com/feed/"
+    status: active
+
+  - name: "WTVR CBS 6"
+    area: "Richmond"
+    feed_url: "https://www.wtvr.com/index.rss"
+    status: active
+
+  - name: "NBC12"
+    area: "Richmond"
+    feed_url: "https://www.nbc12.com/arc/outboundfeeds/rss/?outputType=xml"
+    status: active
+    filter: local
+
+  - name: "WRIC 8 News"
+    area: "Richmond"
+    feed_url: "https://www.wric.com/feed/"
+    status: active
+
+  - name: "Commonwealth Times (VCU)"
+    area: "Richmond"
+    feed_url: "https://commonwealthtimes.org/feed/"
+    status: active
+
+  - name: "The Henrico Citizen"
+    area: "Henrico & Hanover"
+    feed_url: "https://www.henricocitizen.com/latest/rss/"
+    status: active
