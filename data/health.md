@@ -1,8 +1,8 @@
 # Source health
 
-Generated 2026-10-17 14:55Z.
+Generated 2026-10-17 15:41Z.
 
-Active feeds: 673 · link-only: 299 · paused: 1
+Active feeds: 680 · link-only: 302 · paused: 1
 
 ## Atlanta, GA
 
@@ -29,10 +29,6 @@ Active feeds: 673 · link-only: 299 · paused: 1
 
 - **no stories yet** Journal-News (Hamilton)
 - **no stories yet** Middletown Journal
-
-## Columbus, OH
-
-- **no stories yet** Circleville Herald
 
 ## Dallas–Fort Worth, TX
 
@@ -108,7 +104,7 @@ Active feeds: 673 · link-only: 299 · paused: 1
 
 ## Raleigh, NC
 
-- **silent** Walter Magazine: newest story 14 days old
+- **silent** Walter Magazine: newest story 15 days old
 
 ## Richmond, VA
 

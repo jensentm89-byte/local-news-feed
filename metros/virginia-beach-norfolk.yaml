@@ -108,3 +108,9 @@ sources:
     area: "Norfolk & Virginia Beach"
     feed_url: "https://www.chesapeakebaymagazine.com/feed/"
     status: active
+
+  - name: "The Flat Hat"
+    area: "Williamsburg & Surrounding"
+    feed_url: "https://flathatnews.com/feed/"
+    status: active
+    filter: local

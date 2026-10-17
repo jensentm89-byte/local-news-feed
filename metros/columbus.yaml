@@ -163,3 +163,8 @@ sources:
     feed_url: "https://www.circlevilleherald.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
     status: active
     filter: local
+
+  - name: "Matter News"
+    area: "Columbus"
+    feed_url: "https://matternews.org/feed/"
+    status: active

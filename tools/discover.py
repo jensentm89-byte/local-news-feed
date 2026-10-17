@@ -306,6 +306,8 @@ def main():
                 r["feed"] = {k: v for k, v in r["feed"].items() if k != "links"}
         by_name = {r["name"]: r for r in fresh}
         results = [by_name.get(r["name"], r) for r in results]
+        known = {r["name"] for r in results}
+        results += [r for r in fresh if r["name"] not in known]  # outlets new since the last full run
         cache.write_text(json.dumps(results, indent=1, ensure_ascii=False), encoding="utf-8")
     else:
         with ThreadPoolExecutor(max_workers=args.workers) as pool:

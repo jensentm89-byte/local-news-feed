@@ -110,3 +110,14 @@ sources:
     status: link_only
     homepage: "https://www.thefranklintimes.com/"
     note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Raleigh Public Record"
+    area: "Raleigh"
+    status: link_only
+    homepage: "https://www.raleighpublicrecord.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Raleigh Magazine"
+    area: "Raleigh"
+    feed_url: "https://raleighmag.com/feed/"
+    status: active

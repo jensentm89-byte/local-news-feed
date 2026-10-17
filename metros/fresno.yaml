@@ -92,3 +92,19 @@ sources:
     status: link_only
     homepage: "https://www.kingsburgrecorder.com/"
     note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "SJV Water"
+    area: "Fresno"
+    feed_url: "https://sjvwater.org/feed/"
+    status: active
+
+  - name: "Mid Valley Times"
+    area: "Valley Towns"
+    feed_url: "https://midvalleytimes.com/feed/"
+    status: active
+
+  - name: "Kings River Life"
+    area: "Valley Towns"
+    feed_url: "https://kingsriverlife.com/feed/"
+    status: active
+    filter: local

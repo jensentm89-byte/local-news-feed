@@ -122,3 +122,21 @@ sources:
     status: link_only
     homepage: "https://www.lebanondemocrat.com/"
     note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Williamson Scene"
+    area: "Williamson County"
+    feed_url: "https://williamsonscene.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "Hendersonville Standard"
+    area: "Sumner & Wilson Counties"
+    status: link_only
+    homepage: "https://www.hendersonvillestandard.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Cheatham County Exchange"
+    area: "Nashville"
+    status: link_only
+    homepage: "https://www.cheathamcountyexchange.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
