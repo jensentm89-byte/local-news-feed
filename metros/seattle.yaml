@@ -1,0 +1,167 @@
+# Seattle, WA. See jacksonville.yaml for the file format.
+
+name: "Seattle, WA"
+aliases:
+  - "King"
+  - "Pierce"
+  - "Snohomish"
+  - "King County"
+  - "Pierce County"
+  - "Snohomish County"
+  - "Bellevue"
+  - "Tacoma"
+  - "Everett"
+  - "Kent"
+  - "Renton"
+  - "Redmond"
+  - "Kirkland"
+  - "Federal Way"
+  - "Auburn"
+  - "Puyallup"
+  - "Lakewood"
+  - "Olympia"
+  - "Puget Sound"
+  - "Eastside"
+  - "Emerald City"
+
+areas: ["Seattle", "Tacoma"]
+states: ["Washington"]
+local_terms: ["Seahawks", "Mariners", "Kraken", "Sounders", "Storm", "Huskies", "UW", "Seattle Center", "Space Needle", "Capitol Hill", "Ballard", "Fremont", "Queen Anne", "West Seattle", "Beacon Hill", "Columbia City", "Georgetown", "South Lake Union", "Belltown", "Sea-Tac", "SeaTac", "Sound Transit", "Metro Transit", "WSDOT", "Link light rail", "I-5", "SR 520", "Harrell", "Wilson", "Ferguson", "Bainbridge", "Vashon", "Lynnwood", "Edmonds", "Bothell", "Issaquah", "Sammamish", "Mercer Island", "Burien", "Tukwila", "Bremerton", "Gig Harbor", "Bonney Lake", "Marysville", "Mukilteo"]
+
+sources:
+  - name: "The Seattle Times"
+    area: "Seattle"
+    feed_url: "https://www.seattletimes.com/feed/"
+    status: active
+    filter: local
+
+  - name: "Cascade PBS / Crosscut"
+    area: "Seattle"
+    feed_url: "https://www.cascadepbs.org/feed/"
+    status: active
+    filter: local
+
+  - name: "The Stranger"
+    area: "Seattle"
+    feed_url: "https://www.thestranger.com/feed/"
+    status: active
+
+  - name: "KUOW"
+    area: "Seattle"
+    status: link_only
+    homepage: "https://www.kuow.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Seattle Met"
+    area: "Seattle"
+    feed_url: "https://www.seattlemet.com/feed"
+    status: active
+
+  - name: "PubliCola"
+    area: "Seattle"
+    feed_url: "https://publicola.com/feed/"
+    status: active
+
+  - name: "The Urbanist"
+    area: "Seattle"
+    feed_url: "https://www.theurbanist.org/rss/"
+    status: active
+
+  - name: "Capitol Hill Seattle Blog"
+    area: "Seattle"
+    feed_url: "https://www.capitolhillseattle.com/feed/"
+    status: active
+
+  - name: "West Seattle Blog"
+    area: "Seattle"
+    feed_url: "https://westseattleblog.com/rss"
+    status: active
+
+  - name: "Seattle Medium"
+    area: "Seattle"
+    feed_url: "https://seattlemedium.com/feed/"
+    status: active
+    filter: local
+
+  - name: "Real Change"
+    area: "Seattle"
+    status: link_only
+    homepage: "https://www.realchangenews.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "International Examiner"
+    area: "Seattle"
+    feed_url: "https://iexaminer.org/feed/"
+    status: active
+    filter: local
+
+  - name: "Seattle Weekly"
+    area: "Seattle"
+    feed_url: "https://www.seattleweekly.com/feed/"
+    status: active
+
+  - name: "KING 5"
+    area: "Seattle"
+    feed_url: "https://www.king5.com/feeds/syndication/rss/news"
+    status: active
+    filter: local
+
+  - name: "KIRO 7"
+    area: "Seattle"
+    status: link_only
+    homepage: "https://www.kiro7.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "FOX 13 Seattle"
+    area: "Seattle"
+    feed_url: "https://www.fox13seattle.com/rss.xml"
+    status: active
+    filter: local
+
+  - name: "KNKX"
+    area: "Seattle"
+    status: link_only
+    homepage: "https://www.knkx.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "GeekWire"
+    area: "Seattle"
+    feed_url: "https://www.geekwire.com/feed/"
+    status: active
+
+  - name: "Bellevue Reporter"
+    area: "Seattle"
+    feed_url: "https://www.bellevuereporter.com/feed/"
+    status: active
+
+  - name: "Issaquah Reporter"
+    area: "Seattle"
+    feed_url: "https://www.issaquahreporter.com/feed/"
+    status: active
+
+  - name: "Kent Reporter"
+    area: "Seattle"
+    feed_url: "https://www.kentreporter.com/feed/"
+    status: active
+
+  - name: "Renton Reporter"
+    area: "Seattle"
+    feed_url: "https://www.rentonreporter.com/feed/"
+    status: active
+
+  - name: "The Daily Herald (Everett)"
+    area: "Seattle"
+    feed_url: "https://www.heraldnet.com/feed/"
+    status: active
+
+  - name: "My Edmonds News"
+    area: "Seattle"
+    status: link_only
+    homepage: "https://myedmondsnews.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The News Tribune (Tacoma)"
+    area: "Tacoma"
+    status: link_only
+    homepage: "https://www.thenewstribune.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."

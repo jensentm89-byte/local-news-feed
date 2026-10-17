@@ -1,0 +1,183 @@
+metro: boston
+areas:
+- Boston
+- Suburbs
+- Southern NH
+aliases:
+- Cambridge
+- Somerville
+- Quincy
+- Newton
+- Brookline
+- Lowell
+- Lynn
+- Salem
+- Cape Ann
+- North Shore
+- South Shore
+- MetroWest
+- Portsmouth NH
+- Seacoast
+- Greater Boston
+local_terms:
+- Red Sox
+- Celtics
+- Bruins
+- Patriots
+- Fenway
+- MBTA
+- Logan Airport
+- Wu
+- Healey
+- Harvard
+- MIT
+- Northeastern
+- Dorchester
+- Roxbury
+- Southie
+- Back Bay
+- Jamaica Plain
+- Charlestown
+- East Boston
+- Mattapan
+- Allston
+- Beacon Hill
+- Revere
+- Chelsea
+- Medford
+- Malden
+- Framingham
+- Waltham
+- Braintree
+- Brockton
+- Haverhill
+- Lawrence
+- Peabody
+- Gloucester
+- Newburyport
+- Nashua
+- Derry
+- Dover NH
+- Hampton
+outlets:
+- name: Boston Globe
+  area: Boston
+  homepage: https://www.bostonglobe.com/
+- name: Boston Herald
+  area: Boston
+  homepage: https://www.bostonherald.com/
+- name: WBUR
+  area: Boston
+  homepage: https://www.wbur.org/
+- name: GBH News
+  area: Boston
+  homepage: https://www.wgbh.org/news
+- name: NBC Boston
+  area: Boston
+  homepage: https://www.nbcboston.com/
+  feed_url: https://www.nbcboston.com/news/local/feed/
+- name: WCVB
+  area: Boston
+  homepage: https://www.wcvb.com/
+- name: Boston 25 News
+  area: Boston
+  homepage: https://www.boston25news.com/
+- name: CBS Boston
+  area: Boston
+  homepage: https://www.cbsnews.com/boston/
+- name: Universal Hub
+  area: Boston
+  homepage: https://www.universalhub.com/
+- name: Boston Magazine
+  area: Boston
+  homepage: https://www.bostonmagazine.com/
+- name: Boston.com
+  area: Boston
+  homepage: https://www.boston.com/
+- name: Bay State Banner
+  area: Boston
+  homepage: https://baystatebanner.com/
+- name: Dorchester Reporter
+  area: Boston
+  homepage: https://www.dotnews.com/
+- name: Cambridge Day
+  area: Boston
+  homepage: https://www.cambridgeday.com/
+- name: Streetsblog Mass
+  area: Boston
+  homepage: https://mass.streetsblog.org/
+- name: Banker & Tradesman
+  area: Boston
+  homepage: https://www.bankerandtradesman.com/
+- name: Dig Boston
+  area: Boston
+  homepage: https://digboston.com/
+- name: Jamaica Plain Gazette
+  area: Boston
+  homepage: https://www.jamaicaplaingazette.com/
+- name: East Boston Times-Free Press
+  area: Boston
+  homepage: https://eastiesnews.com/
+- name: Boston Spirit
+  area: Boston
+  homepage: https://www.bostonspirit.com/
+- name: The Harvard Crimson
+  area: Boston
+  homepage: https://www.thecrimson.com/
+- name: Revere Journal
+  area: Suburbs
+  homepage: https://reverejournal.com/
+- name: Lowell Sun
+  area: Suburbs
+  homepage: https://www.lowellsun.com/
+- name: The Salem News
+  area: Suburbs
+  homepage: https://www.salemnews.com/
+- name: Eagle-Tribune
+  area: Suburbs
+  homepage: https://www.eagletribune.com/
+- name: The Patriot Ledger
+  area: Suburbs
+  homepage: https://www.patriotledger.com/
+- name: Brockton Enterprise
+  area: Suburbs
+  homepage: https://www.enterprisenews.com/
+- name: MetroWest Daily News
+  area: Suburbs
+  homepage: https://www.metrowestdailynews.com/
+- name: Gloucester Daily Times
+  area: Suburbs
+  homepage: https://www.gloucestertimes.com/
+- name: Daily News of Newburyport
+  area: Suburbs
+  homepage: https://www.newburyportnews.com/
+- name: Cape Ann Beacon
+  area: Suburbs
+  homepage: https://www.capeannbeacon.com/
+- name: Wicked Local
+  area: Suburbs
+  homepage: https://www.wickedlocal.com/
+- name: Somerville Times
+  area: Suburbs
+  homepage: https://www.thesomervilletimes.com/
+- name: Scout Somerville
+  area: Suburbs
+  homepage: https://scoutsomerville.com/
+- name: Seacoastonline
+  area: Southern NH
+  homepage: https://www.seacoastonline.com/
+- name: Foster's Daily Democrat
+  area: Southern NH
+  homepage: https://www.fosters.com/
+- name: InDepthNH
+  area: Southern NH
+  homepage: https://indepthnh.org/
+  statewide: true
+- name: MassLive
+  area: Boston
+  homepage: https://www.masslive.com/
+  statewide: true
+- name: CommonWealth Beacon
+  area: Boston
+  homepage: https://commonwealthbeacon.org/
+  statewide: true

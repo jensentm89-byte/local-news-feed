@@ -1,0 +1,201 @@
+# Boston, MA. See jacksonville.yaml for the file format.
+
+name: "Boston, MA"
+aliases:
+  - "Essex"
+  - "Middlesex"
+  - "Norfolk"
+  - "Plymouth"
+  - "Rockingham"
+  - "Strafford"
+  - "Suffolk"
+  - "Cambridge"
+  - "Somerville"
+  - "Quincy"
+  - "Newton"
+  - "Brookline"
+  - "Lowell"
+  - "Lynn"
+  - "Salem"
+  - "Cape Ann"
+  - "North Shore"
+  - "South Shore"
+  - "MetroWest"
+  - "Portsmouth NH"
+  - "Seacoast"
+  - "Greater Boston"
+
+areas: ["Boston", "Suburbs", "Southern NH"]
+states: ["Massachusetts", "New Hampshire"]
+local_terms: ["Red Sox", "Celtics", "Bruins", "Patriots", "Fenway", "MBTA", "Logan Airport", "Wu", "Healey", "Harvard", "MIT", "Northeastern", "Dorchester", "Roxbury", "Southie", "Back Bay", "Jamaica Plain", "Charlestown", "East Boston", "Mattapan", "Allston", "Beacon Hill", "Revere", "Chelsea", "Medford", "Malden", "Framingham", "Waltham", "Braintree", "Brockton", "Haverhill", "Lawrence", "Peabody", "Gloucester", "Newburyport", "Nashua", "Derry", "Dover NH", "Hampton"]
+
+sources:
+  - name: "Boston Globe"
+    area: "Boston"
+    status: link_only
+    homepage: "https://www.bostonglobe.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Boston Herald"
+    area: "Boston"
+    status: link_only
+    homepage: "https://www.bostonherald.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "WBUR"
+    area: "Boston"
+    feed_url: "https://rss.wbur.org/wbur/rss"
+    status: active
+    filter: local
+
+  - name: "GBH News"
+    area: "Boston"
+    feed_url: "https://www.wgbh.org/news.rss"
+    status: active
+    filter: local
+
+  - name: "NBC Boston"
+    area: "Boston"
+    feed_url: "https://www.nbcboston.com/news/local/feed/"
+    status: active
+
+  - name: "WCVB"
+    area: "Boston"
+    status: link_only
+    homepage: "https://www.wcvb.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Boston 25 News"
+    area: "Boston"
+    status: link_only
+    homepage: "https://www.boston25news.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "CBS Boston"
+    area: "Boston"
+    status: link_only
+    homepage: "https://www.cbsnews.com/boston/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Universal Hub"
+    area: "Boston"
+    feed_url: "https://www.universalhub.com/rss.xml"
+    status: active
+
+  - name: "Boston Magazine"
+    area: "Boston"
+    feed_url: "https://www.bostonmagazine.com/feed/"
+    status: active
+
+  - name: "Boston.com"
+    area: "Boston"
+    feed_url: "https://www.boston.com/feed/"
+    status: active
+
+  - name: "Bay State Banner"
+    area: "Boston"
+    status: link_only
+    homepage: "https://baystatebanner.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Dorchester Reporter"
+    area: "Boston"
+    feed_url: "https://www.dotnews.com/feed/"
+    status: active
+
+  - name: "Cambridge Day"
+    area: "Boston"
+    feed_url: "https://www.cambridgeday.com/feed/"
+    status: active
+
+  - name: "Streetsblog Mass"
+    area: "Boston"
+    feed_url: "https://mass.streetsblog.org/feed/"
+    status: active
+
+  - name: "Banker & Tradesman"
+    area: "Boston"
+    feed_url: "https://bankerandtradesman.com/feed/"
+    status: active
+    filter: local
+
+  - name: "Jamaica Plain Gazette"
+    area: "Boston"
+    feed_url: "https://jamaicaplaingazette.com/feed/"
+    status: active
+
+  - name: "Revere Journal"
+    area: "Suburbs"
+    feed_url: "https://reverejournal.com/feed/"
+    status: active
+
+  - name: "Lowell Sun"
+    area: "Suburbs"
+    status: link_only
+    homepage: "https://www.lowellsun.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The Salem News"
+    area: "Suburbs"
+    feed_url: "https://www.salemnews.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "Eagle-Tribune"
+    area: "Suburbs"
+    feed_url: "https://www.eagletribune.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "The Patriot Ledger"
+    area: "Suburbs"
+    status: link_only
+    homepage: "https://www.patriotledger.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Brockton Enterprise"
+    area: "Suburbs"
+    status: link_only
+    homepage: "https://www.enterprisenews.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "MetroWest Daily News"
+    area: "Suburbs"
+    status: link_only
+    homepage: "https://www.metrowestdailynews.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Gloucester Daily Times"
+    area: "Suburbs"
+    feed_url: "https://www.gloucestertimes.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "Daily News of Newburyport"
+    area: "Suburbs"
+    feed_url: "https://www.newburyportnews.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "Wicked Local"
+    area: "Suburbs"
+    status: link_only
+    homepage: "https://www.wickedlocal.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Somerville Times"
+    area: "Suburbs"
+    feed_url: "https://www.thesomervilletimes.com/feed"
+    status: active
+
+  - name: "Seacoastonline"
+    area: "Southern NH"
+    status: link_only
+    homepage: "https://www.seacoastonline.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Foster's Daily Democrat"
+    area: "Southern NH"
+    status: link_only
+    homepage: "https://www.fosters.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."

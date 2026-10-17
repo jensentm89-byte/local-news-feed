@@ -1,12 +1,17 @@
 # Source health
 
-Generated 2026-10-17 02:59Z.
+Generated 2026-10-17 03:56Z.
 
-Active feeds: 231 · link-only: 96 · paused: 1
+Active feeds: 311 · link-only: 149 · paused: 1
 
 ## Atlanta, GA
 
 - **no stories yet** Reporter Newspapers
+
+## Boston, MA
+
+- **no stories yet** Gloucester Daily Times
+- **no stories yet** Daily News of Newburyport
 
 ## Chicago, IL
 
@@ -31,3 +36,7 @@ Active feeds: 231 · link-only: 96 · paused: 1
 - **no stories yet** Queens Post
 - **no stories yet** Astoria Post
 - **silent** Norwood News: newest story 17 days old
+
+## Riverside–San Bernardino, CA
+
+- **no stories yet** Chino Champion

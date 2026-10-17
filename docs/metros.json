@@ -21,6 +21,39 @@
       ]
     },
     {
+      "id": "boston",
+      "name": "Boston, MA",
+      "aliases": [
+        "Essex",
+        "Middlesex",
+        "Norfolk",
+        "Plymouth",
+        "Rockingham",
+        "Strafford",
+        "Suffolk",
+        "Cambridge",
+        "Somerville",
+        "Quincy",
+        "Newton",
+        "Brookline",
+        "Lowell",
+        "Lynn",
+        "Salem",
+        "Cape Ann",
+        "North Shore",
+        "South Shore",
+        "MetroWest",
+        "Portsmouth NH",
+        "Seacoast",
+        "Greater Boston"
+      ],
+      "areas": [
+        "Boston",
+        "Suburbs",
+        "Southern NH"
+      ]
+    },
+    {
       "id": "chicago",
       "name": "Chicago, IL",
       "aliases": [
@@ -62,6 +95,44 @@
         "Dallas",
         "Fort Worth",
         "Region-wide"
+      ]
+    },
+    {
+      "id": "detroit",
+      "name": "Detroit, MI",
+      "aliases": [
+        "Lapeer",
+        "Livingston",
+        "Macomb",
+        "Oakland",
+        "St. Clair",
+        "Wayne",
+        "Metro Detroit",
+        "Wayne County",
+        "Oakland County",
+        "Macomb County",
+        "Livingston County",
+        "St. Clair County",
+        "Lapeer County",
+        "Dearborn",
+        "Warren",
+        "Sterling Heights",
+        "Troy",
+        "Southfield",
+        "Farmington Hills",
+        "Royal Oak",
+        "Pontiac",
+        "Livonia",
+        "Ann Arbor",
+        "Grosse Pointe",
+        "Downriver",
+        "Motor City"
+      ],
+      "areas": [
+        "Detroit",
+        "Oakland County",
+        "Macomb & Wayne Suburbs",
+        "Outer Suburbs"
       ]
     },
     {
@@ -224,6 +295,104 @@
       ],
       "areas": [
         "Phoenix"
+      ]
+    },
+    {
+      "id": "riverside-san-bernardino",
+      "name": "Riverside–San Bernardino, CA",
+      "aliases": [
+        "Riverside",
+        "San Bernardino",
+        "Inland Empire",
+        "Ontario",
+        "Fontana",
+        "Corona",
+        "Temecula",
+        "Murrieta",
+        "Redlands",
+        "Palm Springs",
+        "Palm Desert",
+        "Indio",
+        "Victorville",
+        "Hesperia",
+        "Apple Valley",
+        "Chino",
+        "Rancho Cucamonga",
+        "Moreno Valley",
+        "Hemet",
+        "Coachella Valley",
+        "High Desert"
+      ],
+      "areas": [
+        "Inland Empire",
+        "Coachella Valley",
+        "High Desert"
+      ]
+    },
+    {
+      "id": "san-francisco",
+      "name": "San Francisco–Oakland, CA",
+      "aliases": [
+        "Alameda",
+        "Contra Costa",
+        "Marin",
+        "San Francisco",
+        "San Mateo",
+        "Bay Area",
+        "SF",
+        "Oakland",
+        "Berkeley",
+        "Fremont",
+        "Hayward",
+        "Richmond",
+        "Walnut Creek",
+        "Concord",
+        "Daly City",
+        "Redwood City",
+        "San Rafael",
+        "Alameda County",
+        "San Mateo County",
+        "Silicon Valley",
+        "Peninsula",
+        "East Bay",
+        "North Bay"
+      ],
+      "areas": [
+        "San Francisco",
+        "East Bay",
+        "Peninsula",
+        "North Bay"
+      ]
+    },
+    {
+      "id": "seattle",
+      "name": "Seattle, WA",
+      "aliases": [
+        "King",
+        "Pierce",
+        "Snohomish",
+        "King County",
+        "Pierce County",
+        "Snohomish County",
+        "Bellevue",
+        "Tacoma",
+        "Everett",
+        "Kent",
+        "Renton",
+        "Redmond",
+        "Kirkland",
+        "Federal Way",
+        "Auburn",
+        "Puyallup",
+        "Lakewood",
+        "Olympia",
+        "Puget Sound",
+        "Eastside",
+        "Emerald City"
+      ],
+      "areas": [
+        "Seattle",
+        "Tacoma"
       ]
     },
     {

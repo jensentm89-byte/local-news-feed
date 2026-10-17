@@ -27,6 +27,7 @@ Candidates file format:
 Usage:
     python tools/discover.py candidates/boston.yaml            # report only
     python tools/discover.py candidates/boston.yaml --write    # also write metros/boston.yaml
+    python tools/discover.py candidates/boston.yaml --from-results --write   # reuse the last probe
 """
 
 import argparse
@@ -73,6 +74,11 @@ LOCAL_SHARE_FOR_PLATFORM = 0.3  # a platform feed must have at least this share 
 ELSEWHERE_SHARE_FOR_FILTER = 0.15  # suggest filter: local above this share of off-topic stories
 
 
+def _is_transient(exc):
+    text = f"{type(exc).__name__} {exc}"
+    return any(s in text for s in ("429", "Too Many", "timed out", "IncompleteRead", "reset by peer", "503"))
+
+
 def check_feed(url, regexes):
     """Return a dict describing the feed at url, or {"ok": False, "reason": ...}."""
     try:
@@ -80,7 +86,7 @@ def check_feed(url, regexes):
             return {"ok": False, "reason": "robots.txt disallows"}
         parsed = feedparser.parse(fetch.http_get(url))
     except Exception as exc:  # noqa: BLE001
-        return {"ok": False, "reason": f"{type(exc).__name__}: {str(exc)[:60]}"}
+        return {"ok": False, "reason": f"{type(exc).__name__}: {str(exc)[:60]}", "transient": _is_transient(exc)}
     entries = parsed.entries
     if len(entries) < MIN_ENTRIES:
         return {"ok": False, "reason": f"only {len(entries)} entries"}
@@ -136,6 +142,16 @@ def activity_check(homepage):
 
 
 def probe_outlet(outlet, regexes):
+    """Find the best feed for one outlet; retry once after a pause if a rate limit got in the way."""
+    result = _probe_outlet(outlet, regexes)
+    if result["status"] in ("link_only", "unconfirmed") and result.get("transient"):
+        time.sleep(20)
+        result = _probe_outlet(outlet, regexes)
+    result.pop("transient", None)
+    return result
+
+
+def _probe_outlet(outlet, regexes):
     """Find the best feed for one outlet. Returns a result dict."""
     result = {"name": outlet["name"], "area": outlet["area"], "homepage": outlet["homepage"]}
     notes = []
@@ -144,8 +160,10 @@ def probe_outlet(outlet, regexes):
         tried.append(("given", outlet["feed_url"]))
     tried += [("discovered", u) for u in autodiscover_urls(outlet["homepage"]) if u != outlet.get("feed_url")]
     root = f"{urlparse(outlet['homepage']).scheme}://{urlparse(outlet['homepage']).netloc}"
+    transient = False
     for kind, url in tried:
         info = check_feed(url, regexes)
+        transient = transient or info.get("transient", False)
         if info["ok"]:
             result.update(feed_url=url, feed=info, how=kind)
             break
@@ -155,6 +173,7 @@ def probe_outlet(outlet, regexes):
         for cat in PLATFORM_CATEGORIES:  # TownNews/BLOX sites share this search-feed pattern
             url = PLATFORM_URL.format(base=root, cat=cat)
             info = check_feed(url, regexes)
+            transient = transient or info.get("transient", False)
             if info["ok"] and info["local_share"] >= LOCAL_SHARE_FOR_PLATFORM:
                 result.update(feed_url=url, feed=info, how=f"platform:{cat}")
                 break
@@ -172,6 +191,7 @@ def probe_outlet(outlet, regexes):
         result["status"] = "link_only" if status == "active" else "unconfirmed"
         notes.append(detail)
     result["notes"] = notes
+    result["transient"] = transient
     return result
 
 
@@ -242,7 +262,10 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("candidates", type=Path)
     parser.add_argument("--write", action="store_true", help="write metros/<id>.yaml from the vetted outlets")
-    parser.add_argument("--workers", type=int, default=6)
+    parser.add_argument("--workers", type=int, default=12)
+    parser.add_argument("--only", help="comma-separated outlet names to re-probe; merged into the cached results")
+    parser.add_argument("--from-results", action="store_true",
+                        help="skip probing; reuse candidates/.results/<metro>.json from the last run")
     args = parser.parse_args()
 
     cfg = yaml.safe_load(args.candidates.read_text(encoding="utf-8"))
@@ -251,9 +274,29 @@ def main():
     outlets = [o for o in cfg["outlets"] if not o.get("statewide")]
     skipped = [o["name"] for o in cfg["outlets"] if o.get("statewide")]
 
-    with ThreadPoolExecutor(max_workers=args.workers) as pool:
-        results = list(pool.map(lambda o: probe_outlet(o, regexes), outlets))
-    mark_duplicates(results)
+    cache = ROOT / "candidates" / ".results" / f"{cfg['metro']}.json"
+    if args.from_results:
+        results = json.loads(cache.read_text(encoding="utf-8"))
+    elif args.only:
+        names = set(args.only.split(","))
+        results = json.loads(cache.read_text(encoding="utf-8"))
+        with ThreadPoolExecutor(max_workers=args.workers) as pool:
+            fresh = list(pool.map(lambda o: probe_outlet(o, regexes), [o for o in outlets if o["name"] in names]))
+        for r in fresh:
+            if "feed" in r:
+                r["feed"] = {k: v for k, v in r["feed"].items() if k != "links"}
+        by_name = {r["name"]: r for r in fresh}
+        results = [by_name.get(r["name"], r) for r in results]
+        cache.write_text(json.dumps(results, indent=1, ensure_ascii=False), encoding="utf-8")
+    else:
+        with ThreadPoolExecutor(max_workers=args.workers) as pool:
+            results = list(pool.map(lambda o: probe_outlet(o, regexes), outlets))
+        mark_duplicates(results)
+        cache.parent.mkdir(parents=True, exist_ok=True)
+        for r in results:  # sets are not JSON; keep only what the report needs
+            if "feed" in r:
+                r["feed"] = {k: v for k, v in r["feed"].items() if k != "links"}
+        cache.write_text(json.dumps(results, indent=1, ensure_ascii=False), encoding="utf-8")
 
     order = {"active": 0, "link_only": 1, "duplicate": 2, "unconfirmed": 3}
     for r in sorted(results, key=lambda r: (order[r["status"]], r["area"], r["name"])):

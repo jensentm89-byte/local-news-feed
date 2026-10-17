@@ -1,0 +1,155 @@
+# Riverside–San Bernardino, CA. See jacksonville.yaml for the file format.
+
+name: "Riverside–San Bernardino, CA"
+aliases:
+  - "Riverside"
+  - "San Bernardino"
+  - "Inland Empire"
+  - "Ontario"
+  - "Fontana"
+  - "Corona"
+  - "Temecula"
+  - "Murrieta"
+  - "Redlands"
+  - "Palm Springs"
+  - "Palm Desert"
+  - "Indio"
+  - "Victorville"
+  - "Hesperia"
+  - "Apple Valley"
+  - "Chino"
+  - "Rancho Cucamonga"
+  - "Moreno Valley"
+  - "Hemet"
+  - "Coachella Valley"
+  - "High Desert"
+
+areas: ["Inland Empire", "Coachella Valley", "High Desert"]
+states: ["California"]
+local_terms: ["UCR", "Cal State San Bernardino", "Loma Linda", "Inland Empire 66ers", "Ontario Airport", "Caltrans", "Edison", "Cal Fire", "SBCSD", "RSO", "Ontario International", "Eastvale", "Jurupa Valley", "Menifee", "Perris", "Lake Elsinore", "Yucaipa", "Highland", "Colton", "Rialto", "Upland", "Chino Hills", "Yucca Valley", "Twentynine Palms", "Barstow", "Big Bear", "Lake Arrowhead", "Idyllwild", "Cathedral City", "Desert Hot Springs", "La Quinta", "Rancho Mirage", "Blythe"]
+
+sources:
+  - name: "The Press-Enterprise"
+    area: "Inland Empire"
+    status: link_only
+    homepage: "https://www.pe.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "San Bernardino Sun"
+    area: "Inland Empire"
+    status: link_only
+    homepage: "https://www.sbsun.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Inland Valley Daily Bulletin"
+    area: "Inland Empire"
+    status: link_only
+    homepage: "https://www.dailybulletin.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Redlands Daily Facts"
+    area: "Inland Empire"
+    status: link_only
+    homepage: "https://www.redlandsdailyfacts.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Black Voice News"
+    area: "Inland Empire"
+    status: link_only
+    homepage: "https://blackvoicenews.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Fontana Herald News"
+    area: "Inland Empire"
+    feed_url: "https://www.fontanaheraldnews.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "Chino Champion"
+    area: "Inland Empire"
+    feed_url: "https://www.championnewspapers.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "Valley News (Temecula)"
+    area: "Inland Empire"
+    feed_url: "https://myvalleynews.com/feed/"
+    status: active
+
+  - name: "Riverside Record"
+    area: "Inland Empire"
+    feed_url: "https://riversiderecord.org/feed/"
+    status: active
+
+  - name: "Inland Empire Community News"
+    area: "Inland Empire"
+    feed_url: "https://iecn.com/feed/"
+    status: active
+
+  - name: "Idyllwild Town Crier"
+    area: "Inland Empire"
+    feed_url: "https://idyllwildtowncrier.com/feed/"
+    status: active
+
+  - name: "KTLA Inland Empire"
+    area: "Inland Empire"
+    feed_url: "https://ktla.com/feed/"
+    status: active
+    filter: local
+
+  - name: "Highlander (UCR)"
+    area: "Inland Empire"
+    feed_url: "https://www.highlandernews.org/feed/"
+    status: active
+    filter: local
+
+  - name: "The Desert Sun"
+    area: "Coachella Valley"
+    status: link_only
+    homepage: "https://www.desertsun.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Coachella Valley Independent"
+    area: "Coachella Valley"
+    feed_url: "https://cvindependent.com/feed/"
+    status: active
+
+  - name: "KESQ News Channel 3"
+    area: "Coachella Valley"
+    feed_url: "https://kesq.com/feed/"
+    status: active
+    filter: local
+
+  - name: "Palm Springs Life"
+    area: "Coachella Valley"
+    feed_url: "https://www.palmspringslife.com/feed/"
+    status: active
+
+  - name: "Coachella Valley Weekly"
+    area: "Coachella Valley"
+    feed_url: "https://www.crescentavalleyweekly.com/feed/"
+    status: active
+
+  - name: "Hi-Desert Star"
+    area: "High Desert"
+    feed_url: "https://www.hidesertstar.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "Victorville Daily Press"
+    area: "High Desert"
+    status: link_only
+    homepage: "https://www.vvdailypress.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Big Bear Grizzly"
+    area: "High Desert"
+    feed_url: "https://www.bigbeargrizzly.net/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "Mountain News"
+    area: "High Desert"
+    feed_url: "https://www.mountain-news.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local

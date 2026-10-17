@@ -1,0 +1,185 @@
+# San Francisco–Oakland, CA. See jacksonville.yaml for the file format.
+
+name: "San Francisco–Oakland, CA"
+aliases:
+  - "Alameda"
+  - "Contra Costa"
+  - "Marin"
+  - "San Francisco"
+  - "San Mateo"
+  - "Bay Area"
+  - "SF"
+  - "Oakland"
+  - "Berkeley"
+  - "Fremont"
+  - "Hayward"
+  - "Richmond"
+  - "Walnut Creek"
+  - "Concord"
+  - "Daly City"
+  - "Redwood City"
+  - "San Rafael"
+  - "Alameda County"
+  - "San Mateo County"
+  - "Silicon Valley"
+  - "Peninsula"
+  - "East Bay"
+  - "North Bay"
+
+areas: ["San Francisco", "East Bay", "Peninsula", "North Bay"]
+states: ["California"]
+local_terms: ["Giants", "Warriors", "49ers", "A's", "Golden State Warriors", "BART", "Muni", "Caltrans", "Cal", "Stanford", "Lurie", "Barbara Lee", "Newsom", "Mission District", "Tenderloin", "SoMa", "Castro", "Sunset District", "Richmond District", "Bayview", "Dogpatch", "Presidio", "Ferry Building", "Bay Bridge", "Golden Gate", "Oracle Park", "Chase Center", "SFO", "Sausalito", "Mill Valley", "Novato", "Pleasanton", "Livermore", "Dublin", "San Leandro", "Vallejo", "Antioch", "Pittsburg", "Brentwood", "Half Moon Bay", "Pacifica", "South San Francisco", "Burlingame", "Menlo Park"]
+
+sources:
+  - name: "San Francisco Chronicle"
+    area: "San Francisco"
+    status: link_only
+    homepage: "https://www.sfchronicle.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "SFGATE"
+    area: "San Francisco"
+    status: link_only
+    homepage: "https://www.sfgate.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The San Francisco Standard"
+    area: "San Francisco"
+    feed_url: "https://sfstandard.com/feed/"
+    status: active
+
+  - name: "Mission Local"
+    area: "San Francisco"
+    feed_url: "https://missionlocal.org/feed/"
+    status: active
+
+  - name: "48 Hills"
+    area: "San Francisco"
+    feed_url: "https://48hills.org/feed/"
+    status: active
+    filter: local
+
+  - name: "SF Public Press"
+    area: "San Francisco"
+    feed_url: "https://www.sfpublicpress.org/feed/"
+    status: active
+
+  - name: "Bay Area Reporter"
+    area: "San Francisco"
+    status: link_only
+    homepage: "https://www.ebar.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Hoodline"
+    area: "San Francisco"
+    feed_url: "https://hoodline.com/rss.xml"
+    status: active
+    filter: local
+
+  - name: "Bay City News"
+    area: "San Francisco"
+    feed_url: "https://localnewsmatters.org/feed/"
+    status: active
+
+  - name: "KTVU Fox 2"
+    area: "San Francisco"
+    feed_url: "https://www.ktvu.com/rss.xml"
+    status: active
+
+  - name: "KRON4"
+    area: "San Francisco"
+    feed_url: "https://www.kron4.com/feed/"
+    status: active
+
+  - name: "NBC Bay Area"
+    area: "San Francisco"
+    feed_url: "https://www.nbcbayarea.com/?rss=y"
+    status: active
+
+  - name: "ABC7 News Bay Area"
+    area: "San Francisco"
+    status: link_only
+    homepage: "https://abc7news.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "CBS News Bay Area"
+    area: "San Francisco"
+    status: link_only
+    homepage: "https://www.cbsnews.com/sanfrancisco/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Streetsblog San Francisco"
+    area: "San Francisco"
+    feed_url: "https://sf.streetsblog.org/feed/"
+    status: active
+    filter: local
+
+  - name: "The Oaklandside"
+    area: "East Bay"
+    feed_url: "https://oaklandside.org/feed/"
+    status: active
+
+  - name: "Berkeleyside"
+    area: "East Bay"
+    feed_url: "https://www.berkeleyside.org/feed"
+    status: active
+
+  - name: "Richmondside"
+    area: "East Bay"
+    feed_url: "https://richmondside.org/feed/"
+    status: active
+
+  - name: "East Bay Times"
+    area: "East Bay"
+    status: link_only
+    homepage: "https://www.eastbaytimes.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "East Bay Express"
+    area: "East Bay"
+    feed_url: "https://www.eastbayexpress.com/feed/"
+    status: active
+
+  - name: "Oakland Post"
+    area: "East Bay"
+    feed_url: "https://oaklandpostonline.com/feed/"
+    status: active
+
+  - name: "Berkeley Scanner"
+    area: "East Bay"
+    feed_url: "https://www.berkeleyscanner.com/rss/"
+    status: active
+
+  - name: "The Mercury News"
+    area: "Peninsula"
+    status: link_only
+    homepage: "https://www.mercurynews.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Half Moon Bay Review"
+    area: "Peninsula"
+    status: link_only
+    homepage: "https://www.hmbreview.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The Almanac"
+    area: "Peninsula"
+    feed_url: "https://www.almanacnews.com/feed/"
+    status: active
+
+  - name: "Palo Alto Online"
+    area: "Peninsula"
+    feed_url: "https://www.paloaltoonline.com/feed/"
+    status: active
+
+  - name: "Marin Independent Journal"
+    area: "North Bay"
+    status: link_only
+    homepage: "https://www.marinij.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Pacific Sun"
+    area: "North Bay"
+    feed_url: "https://pacificsun.com/feed/"
+    status: active
+    filter: local

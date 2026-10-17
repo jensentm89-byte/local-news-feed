@@ -1,0 +1,194 @@
+# Detroit, MI. See jacksonville.yaml for the file format.
+
+name: "Detroit, MI"
+aliases:
+  - "Lapeer"
+  - "Livingston"
+  - "Macomb"
+  - "Oakland"
+  - "St. Clair"
+  - "Wayne"
+  - "Metro Detroit"
+  - "Wayne County"
+  - "Oakland County"
+  - "Macomb County"
+  - "Livingston County"
+  - "St. Clair County"
+  - "Lapeer County"
+  - "Dearborn"
+  - "Warren"
+  - "Sterling Heights"
+  - "Troy"
+  - "Southfield"
+  - "Farmington Hills"
+  - "Royal Oak"
+  - "Pontiac"
+  - "Livonia"
+  - "Ann Arbor"
+  - "Grosse Pointe"
+  - "Downriver"
+  - "Motor City"
+
+areas: ["Detroit", "Oakland County", "Macomb & Wayne Suburbs", "Outer Suburbs"]
+states: ["Michigan"]
+local_terms: ["Lions", "Tigers", "Pistons", "Red Wings", "Detroit Lions", "Detroit Tigers", "Detroit Pistons", "Duggan", "Whitmer", "DDOT", "DTE", "Wayne State", "Michigan State", "University of Michigan", "Eastern Market", "Midtown", "Corktown", "Greektown", "Belle Isle", "Metro Airport", "Southwest Detroit", "Hamtramck", "Ferndale", "Birmingham", "Bloomfield", "Clinton Township", "Shelby Township", "Rochester Hills", "Novi", "Canton", "Westland", "Taylor", "Wyandotte", "Monroe", "Port Huron", "Brighton", "Howell", "Auburn Hills", "Oak Park", "Madison Heights", "St. Clair Shores"]
+
+sources:
+  - name: "Detroit Free Press"
+    area: "Detroit"
+    status: link_only
+    homepage: "https://www.freep.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The Detroit News"
+    area: "Detroit"
+    status: link_only
+    homepage: "https://www.detroitnews.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Outlier Media"
+    area: "Detroit"
+    feed_url: "https://outliermedia.org/feed/"
+    status: active
+
+  - name: "BridgeDetroit"
+    area: "Detroit"
+    feed_url: "https://www.bridgedetroit.com/feed/"
+    status: active
+
+  - name: "Detroit Metro Times"
+    area: "Detroit"
+    status: link_only
+    homepage: "https://www.metrotimes.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "WDET"
+    area: "Detroit"
+    feed_url: "https://wdet.org/feed/"
+    status: active
+
+  - name: "Michigan Chronicle"
+    area: "Detroit"
+    status: link_only
+    homepage: "https://michiganchronicle.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Hour Detroit"
+    area: "Detroit"
+    feed_url: "https://www.hourdetroit.com/feed/"
+    status: active
+
+  - name: "Deadline Detroit"
+    area: "Detroit"
+    status: link_only
+    homepage: "https://www.deadlinedetroit.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Planet Detroit"
+    area: "Detroit"
+    status: link_only
+    homepage: "https://planetdetroit.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Model D"
+    area: "Detroit"
+    feed_url: "https://www.modeldmedia.com/feed/"
+    status: active
+
+  - name: "WXYZ Channel 7"
+    area: "Detroit"
+    feed_url: "https://www.wxyz.com/index.rss"
+    status: active
+
+  - name: "WDIV Local 4"
+    area: "Detroit"
+    status: link_only
+    homepage: "https://www.clickondetroit.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "FOX 2 Detroit"
+    area: "Detroit"
+    feed_url: "https://www.fox2detroit.com/rss.xml"
+    status: active
+
+  - name: "CBS Detroit"
+    area: "Detroit"
+    status: link_only
+    homepage: "https://www.cbsnews.com/detroit/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "WWJ Newsradio 950"
+    area: "Detroit"
+    feed_url: "https://www.audacy.com/feeds/wwjnewsradio.rss"
+    status: active
+    filter: local
+
+  - name: "Crain's Detroit Business"
+    area: "Detroit"
+    status: link_only
+    homepage: "https://www.crainsdetroit.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The Oakland Press"
+    area: "Oakland County"
+    status: link_only
+    homepage: "https://www.theoaklandpress.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Hometown Life"
+    area: "Oakland County"
+    status: link_only
+    homepage: "https://www.hometownlife.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Royal Oak Tribune / Daily Tribune"
+    area: "Oakland County"
+    status: link_only
+    homepage: "https://www.dailytribune.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The Macomb Daily"
+    area: "Macomb & Wayne Suburbs"
+    status: link_only
+    homepage: "https://www.macombdaily.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The Arab American News"
+    area: "Macomb & Wayne Suburbs"
+    feed_url: "https://arabamericannews.com/feed/"
+    status: active
+
+  - name: "Press & Guide (Dearborn)"
+    area: "Macomb & Wayne Suburbs"
+    status: link_only
+    homepage: "https://www.dearbornpressandguide.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Grosse Pointe News"
+    area: "Macomb & Wayne Suburbs"
+    feed_url: "https://grossepointenews.com/feed/"
+    status: active
+
+  - name: "The News-Herald (Downriver)"
+    area: "Macomb & Wayne Suburbs"
+    status: link_only
+    homepage: "https://www.thenewsherald.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Monroe News"
+    area: "Outer Suburbs"
+    status: link_only
+    homepage: "https://www.monroenews.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Livingston Daily"
+    area: "Outer Suburbs"
+    status: link_only
+    homepage: "https://www.livingstondaily.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Times Herald (Port Huron)"
+    area: "Outer Suburbs"
+    status: link_only
+    homepage: "https://www.thetimesherald.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
