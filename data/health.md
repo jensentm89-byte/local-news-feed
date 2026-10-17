@@ -1,8 +1,8 @@
 # Source health
 
-Generated 2026-10-17 14:02Z.
+Generated 2026-10-17 14:38Z.
 
-Active feeds: 588 · link-only: 260 · paused: 1
+Active feeds: 610 · link-only: 277 · paused: 1
 
 ## Atlanta, GA
 
@@ -32,6 +32,10 @@ Active feeds: 588 · link-only: 260 · paused: 1
 ## Dallas–Fort Worth, TX
 
 - **silent** Dallas Free Press: newest story 14 days old
+
+## Hartford, CT
+
+- **no stories yet** Bristol Press
 
 ## Indianapolis, IN
 
@@ -78,7 +82,7 @@ Active feeds: 588 · link-only: 260 · paused: 1
 
 - **no stories yet** The City Sentinel
 - **silent** Oklahoma Magazine: newest story 18 days old
-- **silent** Edmond Life & Leisure: newest story 15 days old
+- **silent** Edmond Life & Leisure: newest story 16 days old
 - **no stories yet** The Oklahoma Daily (OU)
 
 ## Philadelphia, PA

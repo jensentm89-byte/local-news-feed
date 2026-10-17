@@ -1,0 +1,94 @@
+# Fresno, CA. See jacksonville.yaml for the file format.
+
+name: "Fresno, CA"
+aliases:
+  - "Fresno"
+  - "Madera"
+  - "Fresno County"
+  - "Central Valley"
+  - "San Joaquin Valley"
+  - "Clovis"
+  - "Sanger"
+  - "Selma"
+  - "Reedley"
+  - "Kingsburg"
+  - "Fowler"
+  - "Parlier"
+  - "Coalinga"
+  - "Huron"
+  - "Mendota"
+  - "Orange Cove"
+  - "Kerman"
+  - "Firebaugh"
+  - "Tulare"
+  - "Visalia"
+  - "Merced"
+  - "Sierra Nevada"
+  - "Valley"
+
+areas: ["Fresno", "Valley Towns"]
+states: ["California"]
+local_terms: ["Bulldogs", "Fresno State", "Grizzlies", "Fresno Grizzlies", "Fresno FC", "Jerry Dyer", "Dyer", "Newsom", "Fresno Unified", "FUSD", "Clovis Unified", "FAX", "Fresno Yosemite International", "FAT", "Chukchansi Park", "Save Mart Center", "Tower District", "Fulton Mall", "Chinatown", "Old Fig Garden", "Fig Garden", "Woodward Park", "Shaver Lake", "Sierra National Forest", "Kings Canyon", "Yosemite", "Highway 99", "Highway 41", "Highway 180", "Highway 168", "Friant", "Dinuba", "Tulare County", "Kings County", "Community Medical Centers", "Saint Agnes", "Valley Children's", "UCSF Fresno", "Fresno Police", "Fresno County Sheriff", "Fresno Fire", "Fresno City Council", "Fresno County Board of Supervisors", "SJV", "Valley fever", "almonds", "raisins", "Cal Fire", "Fresno Fire Department"]
+
+sources:
+  - name: "The Fresno Bee"
+    area: "Fresno"
+    status: link_only
+    homepage: "https://www.fresnobee.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "GV Wire"
+    area: "Fresno"
+    status: link_only
+    homepage: "https://gvwire.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "KVPR"
+    area: "Fresno"
+    status: link_only
+    homepage: "https://www.kvpr.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Fresnoland"
+    area: "Fresno"
+    feed_url: "https://fresnoland.org/feed/"
+    status: active
+
+  - name: "abc30 Action News"
+    area: "Fresno"
+    feed_url: "https://abc30.com/feed/"
+    status: active
+    filter: local
+
+  - name: "KSEE24 / YourCentralValley"
+    area: "Fresno"
+    feed_url: "https://www.yourcentralvalley.com/feed/"
+    status: active
+
+  - name: "The Business Journal (Fresno)"
+    area: "Fresno"
+    feed_url: "https://thebusinessjournal.com/feed/"
+    status: active
+
+  - name: "SJV Sun"
+    area: "Fresno"
+    feed_url: "https://sjvsun.com/feed/"
+    status: active
+
+  - name: "Radio Bilingüe"
+    area: "Fresno"
+    status: link_only
+    homepage: "https://radiobilingue.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Selma Enterprise"
+    area: "Valley Towns"
+    status: link_only
+    homepage: "https://www.selmaenterprise.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Kingsburg Recorder"
+    area: "Valley Towns"
+    status: link_only
+    homepage: "https://www.kingsburgrecorder.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."

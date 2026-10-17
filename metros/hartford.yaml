@@ -1,0 +1,122 @@
+# Hartford, CT. See jacksonville.yaml for the file format.
+
+name: "Hartford, CT"
+aliases:
+  - "Capitol Planning Region"
+  - "Lower Connecticut River Valley Planning Region"
+  - "Hartford County"
+  - "Tolland County"
+  - "Middlesex County"
+  - "West Hartford"
+  - "East Hartford"
+  - "New Britain"
+  - "Bristol"
+  - "Manchester"
+  - "Glastonbury"
+  - "Wethersfield"
+  - "Newington"
+  - "Middletown"
+  - "Enfield"
+  - "Windsor"
+  - "Farmington"
+  - "Avon"
+  - "Simsbury"
+  - "Rocky Hill"
+  - "South Windsor"
+  - "Vernon"
+  - "Storrs"
+  - "Mansfield"
+  - "Greater Hartford"
+  - "Insurance Capital"
+  - "Nutmeg State"
+  - "Capital Region"
+
+areas: ["Hartford", "New Britain & Central Connecticut", "Connecticut"]
+states: ["Connecticut"]
+local_terms: ["UConn", "Huskies", "Hartford Wolf Pack", "Wolf Pack", "Yard Goats", "Hartford Yard Goats", "Hartford Athletic", "Hartford Hawks", "Trinity College", "Wesleyan", "Central Connecticut", "CCSU", "Bronin", "Luke Bronin", "Arunan Arulampalam", "Lamont", "Ned Lamont", "Murphy", "Blumenthal", "CTtransit", "CTfastrak", "Bradley", "Bradley International", "Hartford Healthcare", "Saint Francis", "Connecticut Children's", "Hartford HealthCare", "Travelers", "Aetna", "The Hartford", "Cigna", "Stanley Black & Decker", "Pratt & Whitney", "Colt", "Mark Twain House", "Bushnell", "XL Center", "PeoplesBank Park", "Dunkin' Park", "Riverfront", "Bushnell Park", "State Capitol", "Connecticut General Assembly", "Legislative Office Building", "Frog Hollow", "Asylum Hill", "Parkville", "Barry Square", "South End", "Blue Hills", "Upper Albany", "Sheldon-Charter Oak", "Elizabeth Park", "I-84", "I-91", "Route 2", "Route 9", "Route 15", "Merritt", "Charter Oak Bridge", "Founders Bridge", "Connecticut River", "Hartford Police", "HPD", "Hartford Public Schools", "CREC", "Connecticut State Police", "CT State Police", "Capitol Region Education Council"]
+
+sources:
+  - name: "Hartford Courant"
+    area: "Hartford"
+    status: link_only
+    homepage: "https://www.courant.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The CT Mirror"
+    area: "Hartford"
+    feed_url: "https://ctmirror.org/feed/"
+    status: active
+
+  - name: "Connecticut Public"
+    area: "Hartford"
+    status: link_only
+    homepage: "https://www.ctpublic.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "WFSB Channel 3"
+    area: "Hartford"
+    feed_url: "https://www.wfsb.com/arc/outboundfeeds/rss/?outputType=xml"
+    status: active
+    filter: local
+
+  - name: "NBC Connecticut"
+    area: "Hartford"
+    feed_url: "https://www.nbcconnecticut.com/?rss=y"
+    status: active
+
+  - name: "FOX61"
+    area: "Hartford"
+    feed_url: "https://www.fox61.com/feeds/syndication/rss/news"
+    status: active
+    filter: local
+
+  - name: "WTNH"
+    area: "Hartford"
+    feed_url: "https://www.wtnh.com/feed/"
+    status: active
+
+  - name: "Hartford Business Journal"
+    area: "Hartford"
+    feed_url: "https://hartfordbusiness.com/feed/"
+    status: active
+
+  - name: "CT Insider"
+    area: "Hartford"
+    status: link_only
+    homepage: "https://www.ctinsider.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "We-Ha"
+    area: "Hartford"
+    feed_url: "https://we-ha.com/feed/"
+    status: active
+
+  - name: "West Hartford News"
+    area: "Hartford"
+    status: link_only
+    homepage: "https://www.westhartfordnews.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Journal Inquirer"
+    area: "Connecticut"
+    status: link_only
+    homepage: "https://www.journalinquirer.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The Middletown Press"
+    area: "Connecticut"
+    status: link_only
+    homepage: "https://www.middletownpress.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Bristol Press"
+    area: "New Britain & Central Connecticut"
+    feed_url: "https://www.bristolpress.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "New Britain Herald"
+    area: "New Britain & Central Connecticut"
+    feed_url: "https://www.newbritainherald.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local

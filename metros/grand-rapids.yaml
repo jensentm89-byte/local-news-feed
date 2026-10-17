@@ -1,0 +1,110 @@
+# Grand Rapids, MI. See jacksonville.yaml for the file format.
+
+name: "Grand Rapids, MI"
+aliases:
+  - "Barry"
+  - "Ionia"
+  - "Kent"
+  - "Montcalm"
+  - "Ottawa"
+  - "Kent County"
+  - "Ottawa County"
+  - "Barry County"
+  - "Montcalm County"
+  - "Ionia County"
+  - "Wyoming"
+  - "Kentwood"
+  - "Walker"
+  - "Grandville"
+  - "Holland"
+  - "Grand Haven"
+  - "Zeeland"
+  - "Rockford"
+  - "Cedar Springs"
+  - "Hudsonville"
+  - "Jenison"
+  - "Byron Center"
+  - "Caledonia"
+  - "Greenville"
+  - "Hastings"
+  - "West Michigan"
+  - "GR"
+  - "River City"
+  - "Beer City"
+
+areas: ["Grand Rapids", "Ottawa County (Holland & Grand Haven)", "Barry, Ionia & Montcalm Counties"]
+states: ["Michigan"]
+local_terms: ["Griffins", "Grand Rapids Griffins", "Drive", "Grand Rapids Drive", "Whitecaps", "West Michigan Whitecaps", "Hope", "Calvin", "GVSU", "Grand Valley", "Aquinas", "Davenport", "Cornerstone", "Ferris State", "Bliss", "Rosalynn Bliss", "Whitmer", "Rapid", "The Rapid", "Gerald R. Ford", "Ford International", "GRR", "Van Andel Arena", "Van Andel", "Meijer Gardens", "Frederik Meijer", "DeVos", "DeVos Place", "Amway", "Meijer", "Spectrum Health", "Corewell", "Trinity Health", "Mercy Health", "Rosa Parks Circle", "Monroe Center", "Heritage Hill", "Eastown", "Creston", "Belknap", "Midtown", "John Ball", "Millennium Park", "Grand River", "Lake Michigan", "Holland State Park", "Tulip Time", "ArtPrize", "Art Prize", "US-131", "M-6", "I-96", "I-196", "GRPS", "Grand Rapids Public Schools", "GRPD", "Kent County Sheriff", "Ottawa County Sheriff"]
+
+sources:
+  - name: "MLive Grand Rapids"
+    area: "Grand Rapids"
+    feed_url: "https://www.mlive.com/arc/outboundfeeds/rss/?outputType=xml"
+    status: active
+    filter: local
+
+  - name: "WOOD TV8"
+    area: "Grand Rapids"
+    feed_url: "https://www.woodtv.com/feed/"
+    status: active
+
+  - name: "WZZM 13"
+    area: "Grand Rapids"
+    feed_url: "https://www.wzzm13.com/feeds/syndication/rss/news"
+    status: active
+    filter: local
+
+  - name: "FOX 17 West Michigan"
+    area: "Grand Rapids"
+    feed_url: "https://www.fox17online.com/index.rss"
+    status: active
+
+  - name: "WGVU"
+    area: "Grand Rapids"
+    status: link_only
+    homepage: "https://www.wgvunews.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Rapid Growth Media"
+    area: "Grand Rapids"
+    feed_url: "https://www.rapidgrowthmedia.com/feed/"
+    status: active
+
+  - name: "Grand Rapids Magazine"
+    area: "Grand Rapids"
+    status: link_only
+    homepage: "https://www.grmag.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "MiBiz"
+    area: "Grand Rapids"
+    status: link_only
+    homepage: "https://mibiz.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The Rapidian"
+    area: "Grand Rapids"
+    feed_url: "https://therapidian.org/feed/"
+    status: active
+
+  - name: "The Holland Sentinel"
+    area: "Ottawa County (Holland & Grand Haven)"
+    status: link_only
+    homepage: "https://www.hollandsentinel.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Grand Haven Tribune"
+    area: "Ottawa County (Holland & Grand Haven)"
+    status: link_only
+    homepage: "https://www.grandhaventribune.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Hastings Banner"
+    area: "Barry, Ionia & Montcalm Counties"
+    feed_url: "https://www.hastingsbanner.com/feed/"
+    status: active
+
+  - name: "Greenville Daily News"
+    area: "Barry, Ionia & Montcalm Counties"
+    feed_url: "https://www.thedailynews.cc/feed/"
+    status: active
