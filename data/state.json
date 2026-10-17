@@ -3190,6 +3190,14 @@
       "headline": null,
       "url": "https://www.raleighpublicrecord.org/",
       "checked_at": "2026-10-17T15:41:19Z"
+    },
+    "nashville|The Tennessee Tribune": {
+      "name": "The Tennessee Tribune",
+      "area": "Nashville",
+      "homepage": "https://tntribune.com/",
+      "headline": null,
+      "url": "https://tntribune.com/",
+      "checked_at": "2026-10-17T15:41:34Z"
     }
   },
   "health": {
@@ -5314,9 +5322,8 @@
       "last_success": "2026-10-17T15:41:19Z"
     },
     "nashville|The Tennessee Tribune": {
-      "failures": 2,
-      "last_success": "2026-10-17T05:37:58Z",
-      "last_error": "PermissionError: robots.txt disallows this feed",
+      "failures": 0,
+      "last_success": "2026-10-17T15:41:34Z",
       "last_failure": "2026-10-17T15:41:19Z"
     },
     "nashville|Williamson Herald / Home Page": {

@@ -90,9 +90,9 @@ sources:
 
   - name: "The Tennessee Tribune"
     area: "Nashville"
-    feed_url: "https://tntribune.com/feed/"
-    status: active
-    filter: local
+    status: link_only
+    homepage: "https://tntribune.com/"
+    note: "Its robots.txt now disallows fetching the feed, so only the outlet name and link are shown."
 
   - name: "Williamson Herald / Home Page"
     area: "Williamson County"
