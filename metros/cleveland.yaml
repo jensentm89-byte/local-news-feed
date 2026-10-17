@@ -1,0 +1,139 @@
+# Cleveland, OH. See jacksonville.yaml for the file format.
+
+name: "Cleveland, OH"
+aliases:
+  - "Ashtabula"
+  - "Cuyahoga"
+  - "Geauga"
+  - "Lake"
+  - "Lorain"
+  - "Medina"
+  - "Cuyahoga County"
+  - "Lake County"
+  - "Lorain County"
+  - "Medina County Ohio"
+  - "Geauga County"
+  - "Lakewood"
+  - "Parma"
+  - "Euclid"
+  - "Cleveland Heights"
+  - "Shaker Heights"
+  - "Strongsville"
+  - "Brunswick"
+  - "Elyria"
+  - "Mentor"
+  - "Willoughby"
+  - "Painesville"
+  - "Westlake"
+  - "Rocky River"
+  - "North Olmsted"
+  - "Brook Park"
+  - "Solon"
+  - "Beachwood"
+  - "Garfield Heights"
+  - "Bedford"
+  - "Northeast Ohio"
+  - "NEO"
+  - "Cleveland.com"
+  - "The Land"
+  - "Forest City"
+
+areas: ["Cleveland", "West Side & Lorain County", "East Side & Lake County", "South & Medina County"]
+states: ["Ohio"]
+local_terms: ["Browns", "Guardians", "Cavaliers", "Cavs", "Monsters", "Crunch", "Cleveland State", "CSU", "Case Western", "Cleveland Clinic", "University Hospitals", "Bibb", "Justin Bibb", "Mike DeWine", "RTA", "GCRTA", "Hopkins", "Cleveland Hopkins", "FirstEnergy Stadium", "Huntington Bank Field", "Progressive Field", "Rocket Arena", "Rocket Mortgage FieldHouse", "Gateway", "Playhouse Square", "Ohio City", "Tremont", "Detroit-Shoreway", "Slavic Village", "Collinwood", "Glenville", "Hough", "University Circle", "Little Italy", "Edgewater", "Lake Erie", "Cuyahoga River", "Flats", "West Side Market", "Terminal Tower", "CMSD", "Cleveland Metropolitan School District", "CPD", "Cleveland Division of Police", "Cuyahoga County Sheriff"]
+
+sources:
+  - name: "Cleveland.com / The Plain Dealer"
+    area: "Cleveland"
+    feed_url: "https://www.cleveland.com/arc/outboundfeeds/rss/?outputType=xml"
+    status: active
+    filter: local
+
+  - name: "Signal Cleveland"
+    area: "Cleveland"
+    feed_url: "https://signalcleveland.org/feed/"
+    status: active
+
+  - name: "Cleveland Scene"
+    area: "Cleveland"
+    feed_url: "https://www.clevescene.com/feed/"
+    status: active
+
+  - name: "Ideastream Public Media"
+    area: "Cleveland"
+    status: link_only
+    homepage: "https://www.ideastream.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "WKYC"
+    area: "Cleveland"
+    feed_url: "https://www.wkyc.com/feeds/syndication/rss/news"
+    status: active
+    filter: local
+
+  - name: "News 5 Cleveland"
+    area: "Cleveland"
+    feed_url: "https://www.news5cleveland.com/index.rss"
+    status: active
+
+  - name: "FOX 8"
+    area: "Cleveland"
+    feed_url: "https://fox8.com/feed/"
+    status: active
+
+  - name: "WOIO Cleveland 19"
+    area: "Cleveland"
+    feed_url: "https://www.cleveland19.com/arc/outboundfeeds/rss/?outputType=xml"
+    status: active
+    filter: local
+
+  - name: "Cleveland Magazine"
+    area: "Cleveland"
+    status: link_only
+    homepage: "https://clevelandmagazine.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Cleveland Jewish News"
+    area: "Cleveland"
+    status: link_only
+    homepage: "https://www.clevelandjewishnews.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The Land"
+    area: "Cleveland"
+    feed_url: "https://thelandcle.org/feed/"
+    status: active
+
+  - name: "Crain's Cleveland Business"
+    area: "Cleveland"
+    feed_url: "https://www.crainscleveland.com/arc/outboundfeeds/rss/?outputType=xml"
+    status: active
+    filter: local
+
+  - name: "The Cleveland Heights Patch / Heights Observer"
+    area: "East Side & Lake County"
+    feed_url: "https://www.heightsobserver.org/feed/"
+    status: active
+
+  - name: "The News-Herald (Willoughby)"
+    area: "East Side & Lake County"
+    status: link_only
+    homepage: "https://www.news-herald.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Chronicle-Telegram (Elyria)"
+    area: "West Side & Lorain County"
+    feed_url: "https://chroniclet.com/rss/category/news"
+    status: active
+    filter: local
+
+  - name: "Lakewood Observer"
+    area: "West Side & Lorain County"
+    feed_url: "https://lakewoodobserver.com/feed/"
+    status: active
+
+  - name: "Medina Gazette"
+    area: "South & Medina County"
+    feed_url: "https://www.medina-gazette.com/rss/category/news"
+    status: active
+    filter: local

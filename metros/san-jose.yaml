@@ -1,0 +1,115 @@
+# San Jose, CA. See jacksonville.yaml for the file format.
+
+name: "San Jose, CA"
+aliases:
+  - "San Benito"
+  - "Santa Clara"
+  - "Santa Clara County"
+  - "San Benito County"
+  - "Silicon Valley"
+  - "South Bay"
+  - "Sunnyvale"
+  - "Mountain View"
+  - "Palo Alto"
+  - "Cupertino"
+  - "Milpitas"
+  - "Campbell"
+  - "Los Gatos"
+  - "Saratoga"
+  - "Los Altos"
+  - "Gilroy"
+  - "Morgan Hill"
+  - "Hollister"
+  - "Almaden"
+  - "Willow Glen"
+  - "Evergreen"
+
+areas: ["San Jose", "Silicon Valley Peninsula", "South County", "San Benito County"]
+states: ["California"]
+local_terms: ["Sharks", "49ers", "Earthquakes", "Giants", "Levi's Stadium", "SAP Center", "Stanford", "SJSU", "Spartans", "Santa Clara University", "Mahan", "Matt Mahan", "Newsom", "VTA", "Caltrans", "San Jose International", "SJC", "Mineta", "Diridon", "Downtown San Jose", "SoFA", "Japantown", "Little Saigon", "East Side", "Alum Rock", "Berryessa", "Cambrian", "Rose Garden", "Almaden Valley", "Blossom Valley", "Silver Creek", "Santa Teresa", "Coyote Valley", "Guadalupe River", "Lick Observatory", "Apple", "Google", "Nvidia", "Intel", "Cisco", "Adobe", "Meta", "Facebook", "Netflix", "Tesla", "Palo Alto", "Menlo Park", "East Palo Alto", "Alviso", "Lexington", "Los Altos Hills", "Monte Sereno", "Stanford University", "Moffett Field"]
+
+sources:
+  - name: "San Jose Spotlight"
+    area: "San Jose"
+    feed_url: "https://sanjosespotlight.com/feed/"
+    status: active
+
+  - name: "The Mercury News"
+    area: "San Jose"
+    status: link_only
+    homepage: "https://www.mercurynews.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "San Jose Inside"
+    area: "San Jose"
+    feed_url: "https://www.sanjoseinside.com/feed/"
+    status: active
+
+  - name: "Metro Silicon Valley"
+    area: "San Jose"
+    feed_url: "https://www.metrosiliconvalley.com/feed/"
+    status: active
+    filter: local
+
+  - name: "El Observador"
+    area: "San Jose"
+    feed_url: "https://el-observador.com/feed/"
+    status: active
+    filter: local
+
+  - name: "SV Voice"
+    area: "San Jose"
+    feed_url: "https://www.svvoice.com/feed/"
+    status: active
+
+  - name: "KQED Silicon Valley"
+    area: "San Jose"
+    feed_url: "https://ww2.kqed.org/news/feed/"
+    status: active
+
+  - name: "Palo Alto Online"
+    area: "Silicon Valley Peninsula"
+    feed_url: "https://www.paloaltoonline.com/feed/"
+    status: active
+
+  - name: "Mountain View Voice"
+    area: "Silicon Valley Peninsula"
+    feed_url: "https://www.mv-voice.com/feed/"
+    status: active
+
+  - name: "Los Altos Town Crier"
+    area: "Silicon Valley Peninsula"
+    feed_url: "https://www.losaltosonline.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "Palo Alto Daily Post"
+    area: "Silicon Valley Peninsula"
+    feed_url: "https://padailypost.com/feed/"
+    status: active
+
+  - name: "The Almanac"
+    area: "Silicon Valley Peninsula"
+    feed_url: "https://www.almanacnews.com/feed/"
+    status: active
+
+  - name: "Milpitas Beat"
+    area: "Silicon Valley Peninsula"
+    status: link_only
+    homepage: "https://www.milpitasbeat.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Gilroy Dispatch"
+    area: "South County"
+    feed_url: "https://gilroydispatch.com/feed/"
+    status: active
+
+  - name: "Morgan Hill Times"
+    area: "South County"
+    feed_url: "https://morganhilltimes.com/feed/"
+    status: active
+
+  - name: "BenitoLink"
+    area: "San Benito County"
+    feed_url: "https://benitolink.com/feed/"
+    status: active

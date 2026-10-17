@@ -1,0 +1,144 @@
+# Indianapolis, IN. See jacksonville.yaml for the file format.
+
+name: "Indianapolis, IN"
+aliases:
+  - "Boone"
+  - "Brown"
+  - "Hamilton"
+  - "Hancock"
+  - "Hendricks"
+  - "Johnson"
+  - "Madison"
+  - "Marion"
+  - "Morgan"
+  - "Shelby"
+  - "Tipton"
+  - "Marion County"
+  - "Hamilton County"
+  - "Hendricks County"
+  - "Johnson County"
+  - "Hancock County"
+  - "Boone County"
+  - "Morgan County"
+  - "Shelby County"
+  - "Madison County"
+  - "Brown County"
+  - "Putnam County"
+  - "Carmel"
+  - "Fishers"
+  - "Noblesville"
+  - "Westfield"
+  - "Zionsville"
+  - "Greenwood"
+  - "Franklin"
+  - "Plainfield"
+  - "Avon"
+  - "Brownsburg"
+  - "Greenfield"
+  - "Lebanon"
+  - "Anderson"
+  - "Mooresville"
+  - "Speedway"
+  - "Beech Grove"
+  - "Lawrence"
+  - "Crown Point"
+  - "Naptown"
+  - "Circle City"
+  - "Indy"
+
+areas: ["Indianapolis", "Surrounding Counties"]
+states: ["Indiana"]
+local_terms: ["Colts", "Pacers", "Fever", "Indians", "Indy Eleven", "Indy Fuel", "IUPUI", "IU Indy", "Butler", "Butler University", "Hogsett", "Braun", "Holcomb", "IndyGo", "Indianapolis Motor Speedway", "Brickyard", "Indy 500", "Lucas Oil Stadium", "Gainbridge Fieldhouse", "Victory Field", "Monument Circle", "Mass Ave", "Broad Ripple", "Fountain Square", "Irvington", "Haughville", "Eagle Creek", "White River", "Eskenazi", "IU Health", "Eli Lilly", "Lilly", "Indianapolis International", "IND", "I-65", "I-70", "I-465", "I-69", "Keystone", "Castleton", "Geist", "Brownsburg", "Ben Davis", "Lawrence Township", "Pike Township", "Warren Township", "Wayne Township", "Perry Township", "Decatur Township", "Washington Township", "IMPD", "IFD", "IPS", "Indianapolis Public Schools", "Marion County Sheriff"]
+
+sources:
+  - name: "The Indianapolis Star"
+    area: "Indianapolis"
+    status: link_only
+    homepage: "https://www.indystar.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Indianapolis Business Journal"
+    area: "Indianapolis"
+    status: link_only
+    homepage: "https://www.ibj.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "WFYI"
+    area: "Indianapolis"
+    status: link_only
+    homepage: "https://www.wfyi.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Mirror Indy"
+    area: "Indianapolis"
+    feed_url: "https://mirrorindy.org/feed/"
+    status: active
+
+  - name: "WTHR"
+    area: "Indianapolis"
+    feed_url: "https://www.wthr.com/feeds/syndication/rss/news"
+    status: active
+    filter: local
+
+  - name: "WISH-TV"
+    area: "Indianapolis"
+    feed_url: "https://www.wishtv.com/feed/"
+    status: active
+    filter: local
+
+  - name: "WRTV"
+    area: "Indianapolis"
+    feed_url: "https://www.wrtv.com/feed/"
+    status: active
+    filter: local
+
+  - name: "FOX59"
+    area: "Indianapolis"
+    feed_url: "https://fox59.com/feed/"
+    status: active
+
+  - name: "Indianapolis Recorder"
+    area: "Indianapolis"
+    status: link_only
+    homepage: "https://indianapolisrecorder.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Indianapolis Monthly"
+    area: "Indianapolis"
+    feed_url: "https://www.indianapolismonthly.com/feed/"
+    status: active
+
+  - name: "Indy Maven"
+    area: "Indianapolis"
+    feed_url: "https://indymaven.com/feed/"
+    status: active
+
+  - name: "NUVO"
+    area: "Indianapolis"
+    status: link_only
+    homepage: "https://www.nuvo.net/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The Daily Journal (Franklin)"
+    area: "Surrounding Counties"
+    status: link_only
+    homepage: "https://www.dailyjournal.net/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Greenfield Daily Reporter"
+    area: "Surrounding Counties"
+    feed_url: "https://www.greenfieldreporter.com/feed/"
+    status: active
+    filter: local
+
+  - name: "Shelbyville News"
+    area: "Surrounding Counties"
+    feed_url: "https://www.shelbynews.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "Anderson Herald Bulletin"
+    area: "Surrounding Counties"
+    feed_url: "https://www.heraldbulletin.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local

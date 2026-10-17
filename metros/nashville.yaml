@@ -1,0 +1,124 @@
+# Nashville, TN. See jacksonville.yaml for the file format.
+
+name: "Nashville, TN"
+aliases:
+  - "Cannon"
+  - "Cheatham"
+  - "Davidson"
+  - "Dickson"
+  - "Hickman"
+  - "Macon"
+  - "Maury"
+  - "Robertson"
+  - "Rutherford"
+  - "Smith"
+  - "Sumner"
+  - "Trousdale"
+  - "Williamson"
+  - "Wilson"
+  - "Davidson County"
+  - "Williamson County"
+  - "Rutherford County"
+  - "Sumner County"
+  - "Wilson County"
+  - "Maury County"
+  - "Robertson County"
+  - "Cheatham County"
+  - "Dickson County"
+  - "Trousdale County"
+  - "Franklin"
+  - "Brentwood"
+  - "Murfreesboro"
+  - "Hendersonville"
+  - "Gallatin"
+  - "Lebanon"
+  - "Mount Juliet"
+  - "Smyrna"
+  - "La Vergne"
+  - "Spring Hill"
+  - "Thompson's Station"
+  - "Nolensville"
+  - "Goodlettsville"
+  - "Springfield"
+  - "Columbia"
+  - "Music City"
+  - "Nashvegas"
+
+areas: ["Nashville", "Williamson County", "Rutherford County", "Sumner & Wilson Counties"]
+states: ["Tennessee"]
+local_terms: ["Titans", "Predators", "Preds", "Nashville SC", "Sounds", "Vanderbilt", "Vandy", "Belmont", "Tennessee State", "TSU", "Fisk", "MTSU", "O'Connell", "Freddie O'Connell", "Cooper", "Bill Lee", "Lee", "Metro Nashville", "Metro Council", "Metro Nashville Public Schools", "MNPS", "MNPD", "WeGo", "Nashville International", "BNA", "Nissan Stadium", "Geodis Park", "Bridgestone Arena", "Ryman", "Grand Ole Opry", "Opry", "Broadway", "Lower Broadway", "Music Row", "The Gulch", "East Nashville", "Germantown", "12 South", "Sylvan Park", "Green Hills", "Belle Meade", "Bellevue", "Antioch", "Donelson", "Hermitage", "Madison", "Inglewood", "Berry Hill", "Wedgewood-Houston", "Cumberland River", "I-40", "I-65", "I-24", "Briley Parkway", "Cheekwood", "Percy Priest", "Old Hickory", "Tennessean"]
+
+sources:
+  - name: "The Tennessean"
+    area: "Nashville"
+    status: link_only
+    homepage: "https://www.tennessean.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The Nashville Banner"
+    area: "Nashville"
+    feed_url: "https://nashvillebanner.com/feed/"
+    status: active
+
+  - name: "Nashville Scene"
+    area: "Nashville"
+    feed_url: "https://www.nashvillescene.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "WPLN"
+    area: "Nashville"
+    feed_url: "https://wpln.org/feed/"
+    status: active
+
+  - name: "NewsChannel 5"
+    area: "Nashville"
+    status: link_only
+    homepage: "https://www.newschannel5.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "WSMV 4"
+    area: "Nashville"
+    feed_url: "https://www.wsmv.com/arc/outboundfeeds/rss/?outputType=xml"
+    status: active
+    filter: local
+
+  - name: "WKRN News 2"
+    area: "Nashville"
+    feed_url: "https://www.wkrn.com/feed/"
+    status: active
+
+  - name: "The Tennessee Tribune"
+    area: "Nashville"
+    feed_url: "https://tntribune.com/feed/"
+    status: active
+    filter: local
+
+  - name: "Williamson Herald / Home Page"
+    area: "Williamson County"
+    status: link_only
+    homepage: "https://www.williamsonherald.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Daily News Journal (Murfreesboro)"
+    area: "Rutherford County"
+    status: link_only
+    homepage: "https://www.dnj.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Rutherford Source"
+    area: "Rutherford County"
+    status: link_only
+    homepage: "https://www.rutherfordsource.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Murfreesboro Pulse"
+    area: "Rutherford County"
+    feed_url: "https://boropulse.com/feed/"
+    status: active
+
+  - name: "Lebanon Democrat"
+    area: "Sumner & Wilson Counties"
+    status: link_only
+    homepage: "https://www.lebanondemocrat.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."

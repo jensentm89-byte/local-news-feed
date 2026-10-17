@@ -1,0 +1,165 @@
+# Columbus, OH. See jacksonville.yaml for the file format.
+
+name: "Columbus, OH"
+aliases:
+  - "Delaware"
+  - "Fairfield"
+  - "Franklin"
+  - "Hocking"
+  - "Licking"
+  - "Madison"
+  - "Morrow"
+  - "Perry"
+  - "Pickaway"
+  - "Union"
+  - "Franklin County"
+  - "Delaware County"
+  - "Licking County"
+  - "Fairfield County"
+  - "Madison County"
+  - "Union County"
+  - "Pickaway County"
+  - "Morrow County"
+  - "Hocking County"
+  - "Perry County"
+  - "Dublin"
+  - "Westerville"
+  - "Grove City"
+  - "Hilliard"
+  - "Reynoldsburg"
+  - "Gahanna"
+  - "Upper Arlington"
+  - "Worthington"
+  - "Bexley"
+  - "Whitehall"
+  - "New Albany"
+  - "Pickerington"
+  - "Newark"
+  - "Lancaster"
+  - "Marysville"
+  - "London"
+  - "Circleville"
+  - "Powell"
+  - "Lewis Center"
+  - "Pataskala"
+  - "Heath"
+  - "Hamilton Township"
+  - "Canal Winchester"
+  - "Groveport"
+  - "Obetz"
+  - "Clintonville"
+  - "Short North"
+  - "German Village"
+  - "Franklinton"
+  - "Victorian Village"
+  - "Italian Village"
+  - "Olde Towne East"
+  - "Linden"
+  - "Hilltop"
+  - "Weinland Park"
+  - "University District"
+  - "Brewery District"
+  - "Arena District"
+  - "Easton"
+  - "Polaris"
+
+areas: ["Columbus", "Suburbs", "Surrounding Counties"]
+states: ["Ohio"]
+local_terms: ["Buckeyes", "Ohio State", "OSU", "Blue Jackets", "Crew", "Clippers", "Columbus Crew", "Ohio Stadium", "Schottenstein Center", "Nationwide Arena", "Lower.com Field", "Huntington Park", "COTA", "CMH", "John Glenn", "Port Columbus", "Ginther", "Mike DeWine", "DeWine", "Statehouse", "Ohio Statehouse", "Scioto", "Olentangy", "I-71", "I-70", "I-270", "Columbus City Schools", "CCS", "Columbus Zoo", "Franklin County Sheriff", "CPD", "Columbus Police", "Columbus Division of Fire"]
+
+sources:
+  - name: "The Columbus Dispatch"
+    area: "Columbus"
+    status: link_only
+    homepage: "https://www.dispatch.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Columbus Underground"
+    area: "Columbus"
+    status: link_only
+    homepage: "https://www.columbusunderground.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "WOSU"
+    area: "Columbus"
+    status: link_only
+    homepage: "https://www.wosu.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "NBC4 WCMH"
+    area: "Columbus"
+    feed_url: "https://www.nbc4i.com/feed/"
+    status: active
+
+  - name: "10TV"
+    area: "Columbus"
+    feed_url: "https://www.10tv.com/feeds/syndication/rss/news"
+    status: active
+    filter: local
+
+  - name: "ABC 6 / FOX 28"
+    area: "Columbus"
+    status: link_only
+    homepage: "https://abc6onyourside.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Columbus Free Press"
+    area: "Columbus"
+    feed_url: "https://freepress.org/rss"
+    status: active
+    filter: local
+
+  - name: "614NOW"
+    area: "Columbus"
+    feed_url: "https://614now.com/feed"
+    status: active
+
+  - name: "Columbus Jewish News"
+    area: "Columbus"
+    status: link_only
+    homepage: "https://www.columbusjewishnews.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The Lantern (Ohio State)"
+    area: "Columbus"
+    feed_url: "https://www.thelantern.com/feed/"
+    status: active
+
+  - name: "Columbus Navigator"
+    area: "Columbus"
+    feed_url: "https://www.columbusnavigator.com/feed/"
+    status: active
+
+  - name: "ThisWeek Community News"
+    area: "Suburbs"
+    status: link_only
+    homepage: "https://www.dispatch.com/news/thisweek/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Delaware Gazette"
+    area: "Suburbs"
+    feed_url: "https://www.delgazette.com/feed/"
+    status: active
+
+  - name: "Newark Advocate"
+    area: "Surrounding Counties"
+    status: link_only
+    homepage: "https://www.newarkadvocate.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Lancaster Eagle-Gazette"
+    area: "Surrounding Counties"
+    status: link_only
+    homepage: "https://www.lancastereaglegazette.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Marysville Journal-Tribune"
+    area: "Surrounding Counties"
+    feed_url: "https://www.marysvillejt.com/feed/"
+    status: active
+
+  - name: "Circleville Herald"
+    area: "Surrounding Counties"
+    feed_url: "https://www.circlevilleherald.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
