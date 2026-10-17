@@ -1,0 +1,125 @@
+# Milwaukee, WI. See jacksonville.yaml for the file format.
+
+name: "Milwaukee, WI"
+aliases:
+  - "Milwaukee"
+  - "Ozaukee"
+  - "Washington"
+  - "Waukesha"
+  - "Milwaukee County"
+  - "Waukesha County"
+  - "Ozaukee County"
+  - "Washington County"
+  - "West Allis"
+  - "Wauwatosa"
+  - "Brookfield"
+  - "Racine"
+  - "Kenosha"
+  - "Menomonee Falls"
+  - "Oak Creek"
+  - "Greenfield"
+  - "Franklin"
+  - "Mequon"
+  - "Cedarburg"
+  - "Port Washington"
+  - "West Bend"
+  - "Hartford"
+  - "Brew City"
+  - "Cream City"
+  - "MKE"
+
+areas: ["Milwaukee", "Ozaukee & Washington Counties"]
+states: ["Wisconsin"]
+local_terms: ["Brewers", "Bucks", "Admirals", "Wave", "Milwaukee Brewers", "Milwaukee Bucks", "Marquette", "UWM", "Golden Eagles", "MATC", "Johnson", "Cavalier Johnson", "Crowley", "Chris Abele", "Evers", "Milwaukee County Transit", "MCTS", "The Hop", "Mitchell International", "MKE Airport", "Fiserv Forum", "American Family Field", "Miller Park", "Summerfest", "State Fair", "Lakefront", "Third Ward", "Bay View", "Riverwest", "Brady Street", "East Side", "Walker's Point", "Bronzeville", "Sherman Park", "Harambee", "Washington Heights", "Shorewood", "Whitefish Bay", "Fox Point", "Glendale", "Brown Deer", "Cudahy", "St. Francis", "South Milwaukee", "Hales Corners", "Greendale", "New Berlin", "Pewaukee", "Oconomowoc", "Menomonee River", "Milwaukee River", "Lake Michigan", "Harley-Davidson", "Northwestern Mutual", "Rockwell", "Miller", "Pabst", "Molson Coors", "MPS", "Milwaukee Public Schools", "MPD", "MFD"]
+
+sources:
+  - name: "Milwaukee Journal Sentinel"
+    area: "Milwaukee"
+    status: link_only
+    homepage: "https://www.jsonline.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Milwaukee Neighborhood News Service"
+    area: "Milwaukee"
+    feed_url: "https://milwaukeenns.org/feed/"
+    status: active
+
+  - name: "Urban Milwaukee"
+    area: "Milwaukee"
+    feed_url: "http://feeds.feedburner.com/UrbanMilwaukee"
+    status: active
+
+  - name: "WUWM"
+    area: "Milwaukee"
+    status: link_only
+    homepage: "https://www.wuwm.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Milwaukee Magazine"
+    area: "Milwaukee"
+    feed_url: "https://www.milwaukeemag.com/feed/"
+    status: active
+
+  - name: "Shepherd Express"
+    area: "Milwaukee"
+    feed_url: "https://shepherdexpress.com/api/rss/content.rss"
+    status: active
+
+  - name: "TMJ4"
+    area: "Milwaukee"
+    feed_url: "https://www.tmj4.com/index.rss"
+    status: active
+
+  - name: "WISN 12"
+    area: "Milwaukee"
+    status: link_only
+    homepage: "https://www.wisn.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "FOX6 Milwaukee"
+    area: "Milwaukee"
+    feed_url: "https://www.fox6now.com/rss.xml"
+    status: active
+
+  - name: "CBS 58"
+    area: "Milwaukee"
+    feed_url: "https://www.cbs58.com/rss"
+    status: active
+
+  - name: "BizTimes"
+    area: "Milwaukee"
+    feed_url: "https://biztimes.com/feed/"
+    status: active
+
+  - name: "Milwaukee Independent"
+    area: "Milwaukee"
+    feed_url: "https://www.milwaukeeindependent.com/feed/"
+    status: active
+
+  - name: "Milwaukee Community Journal"
+    area: "Milwaukee"
+    feed_url: "https://communityjournal.net/feed/"
+    status: active
+    filter: local
+
+  - name: "Milwaukee Record"
+    area: "Milwaukee"
+    feed_url: "https://milwaukeerecord.com/feed/"
+    status: active
+
+  - name: "OnMilwaukee"
+    area: "Milwaukee"
+    feed_url: "https://onmilwaukee.com/rss"
+    status: active
+
+  - name: "Ozaukee Press"
+    area: "Ozaukee & Washington Counties"
+    status: link_only
+    homepage: "https://www.ozaukeepress.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "West Bend Daily News"
+    area: "Ozaukee & Washington Counties"
+    feed_url: "https://www.gmtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local

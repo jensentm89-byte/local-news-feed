@@ -1,8 +1,8 @@
 # Source health
 
-Generated 2026-10-17 13:05Z.
+Generated 2026-10-17 13:15Z.
 
-Active feeds: 489 · link-only: 222 · paused: 1
+Active feeds: 536 · link-only: 249 · paused: 1
 
 ## Atlanta, GA
 
@@ -42,6 +42,10 @@ Active feeds: 489 · link-only: 222 · paused: 1
 
 - **silent** Crosstown: newest story 18 days old
 
+## Milwaukee, WI
+
+- **no stories yet** West Bend Daily News
+
 ## Minneapolis–St. Paul, MN
 
 - **silent** Park Bugle: newest story 15 days old
@@ -57,9 +61,24 @@ Active feeds: 489 · link-only: 222 · paused: 1
 - **no stories yet** Astoria Post
 - **silent** Norwood News: newest story 17 days old
 
+## Oklahoma City, OK
+
+- **no stories yet** The City Sentinel
+- **silent** Oklahoma Magazine: newest story 18 days old
+- **silent** Edmond Life & Leisure: newest story 15 days old
+- **no stories yet** The Oklahoma Daily (OU)
+
 ## Philadelphia, PA
 
 - **silent** Generocity Philly: newest story 10 days old
+
+## Providence, RI
+
+- **no stories yet** The Sun Chronicle (Attleboro)
+
+## Raleigh, NC
+
+- **silent** Walter Magazine: newest story 14 days old
 
 ## Tampa–St. Petersburg, FL
 

@@ -1,0 +1,110 @@
+# Virginia Beach–Norfolk, VA. See jacksonville.yaml for the file format.
+
+name: "Virginia Beach–Norfolk, VA"
+aliases:
+  - "Camden"
+  - "Chesapeake city"
+  - "Currituck"
+  - "Gates"
+  - "Gloucester"
+  - "Hampton city"
+  - "Isle of Wight"
+  - "James City"
+  - "Mathews"
+  - "Newport News city"
+  - "Norfolk city"
+  - "Poquoson city"
+  - "Portsmouth city"
+  - "Suffolk city"
+  - "Surry"
+  - "Virginia Beach city"
+  - "Williamsburg city"
+  - "York"
+  - "Hampton Roads"
+  - "Norfolk"
+  - "Virginia Beach"
+  - "Chesapeake"
+  - "Portsmouth"
+  - "Suffolk"
+  - "Newport News"
+  - "Hampton"
+  - "Williamsburg"
+  - "Yorktown"
+  - "Poquoson"
+  - "Smithfield"
+  - "James City County"
+  - "York County"
+  - "757"
+  - "Tidewater"
+
+areas: ["Norfolk & Virginia Beach", "Peninsula (Newport News, Hampton)", "Williamsburg & Surrounding", "Southside & Suffolk"]
+states: ["North Carolina", "Virginia"]
+local_terms: ["Navy", "Naval Station Norfolk", "Oceana", "Langley", "Fort Eustis", "Newport News Shipbuilding", "Huntington Ingalls", "Norfolk State", "ODU", "Old Dominion", "William & Mary", "Christopher Newport", "Hampton University", "Tide", "Norfolk Tides", "Admirals", "Norfolk Admirals", "Mermaids", "HRT", "VDOT", "Hampton Roads Bridge-Tunnel", "HRBT", "Midtown Tunnel", "Downtown Tunnel", "I-64", "I-264", "Va. Beach", "Oceanfront", "Ghent", "Ocean View", "Larchmont", "Chrysler Museum", "Nauticus", "Waterside", "MacArthur Center", "Town Center", "Colonial Williamsburg", "Busch Gardens", "Virginia Zoo", "Elizabeth River", "Lynnhaven", "Back Bay", "Great Bridge", "Deep Creek", "Wards Corner", "Denbigh", "Buckroe", "Phoebus", "Fort Monroe", "Gloucester Point", "Kiln Creek"]
+
+sources:
+  - name: "The Virginian-Pilot"
+    area: "Norfolk & Virginia Beach"
+    status: link_only
+    homepage: "https://www.pilotonline.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "WHRO"
+    area: "Norfolk & Virginia Beach"
+    status: link_only
+    homepage: "https://www.whro.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "13NewsNow"
+    area: "Norfolk & Virginia Beach"
+    feed_url: "https://www.13newsnow.com/feeds/syndication/rss/news"
+    status: active
+    filter: local
+
+  - name: "WAVY-TV"
+    area: "Norfolk & Virginia Beach"
+    feed_url: "https://www.wavy.com/feed/"
+    status: active
+
+  - name: "WTKR News 3"
+    area: "Norfolk & Virginia Beach"
+    feed_url: "https://www.wtkr.com/index.rss"
+    status: active
+
+  - name: "Inside Business"
+    area: "Norfolk & Virginia Beach"
+    status: link_only
+    homepage: "https://www.insidebiz.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Hampton Roads Magazine / Coastal Virginia Magazine"
+    area: "Norfolk & Virginia Beach"
+    status: link_only
+    homepage: "https://www.coastalvirginiamag.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Daily Press"
+    area: "Peninsula (Newport News, Hampton)"
+    status: link_only
+    homepage: "https://www.dailypress.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Virginia Gazette"
+    area: "Southside & Suffolk"
+    status: link_only
+    homepage: "https://www.vagazette.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Suffolk News-Herald"
+    area: "Williamsburg & Surrounding"
+    feed_url: "https://www.suffolknewsherald.com/rss.xml"
+    status: active
+
+  - name: "The Smithfield Times"
+    area: "Williamsburg & Surrounding"
+    feed_url: "https://www.smithfieldtimes.com/rss.xml"
+    status: active
+
+  - name: "Chesapeake Bay Magazine"
+    area: "Norfolk & Virginia Beach"
+    feed_url: "https://www.chesapeakebaymagazine.com/feed/"
+    status: active

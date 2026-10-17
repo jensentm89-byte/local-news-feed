@@ -1,0 +1,112 @@
+# Raleigh, NC. See jacksonville.yaml for the file format.
+
+name: "Raleigh, NC"
+aliases:
+  - "Franklin"
+  - "Johnston"
+  - "Wake"
+  - "Wake County"
+  - "Johnston County"
+  - "Franklin County"
+  - "Cary"
+  - "Apex"
+  - "Wake Forest"
+  - "Garner"
+  - "Holly Springs"
+  - "Fuquay-Varina"
+  - "Knightdale"
+  - "Morrisville"
+  - "Rolesville"
+  - "Wendell"
+  - "Zebulon"
+  - "Clayton"
+  - "Smithfield"
+  - "Triangle"
+  - "Research Triangle"
+  - "RTP"
+  - "Oak City"
+  - "City of Oaks"
+
+areas: ["Raleigh", "Wake County Suburbs", "Johnston & Franklin Counties"]
+states: ["North Carolina"]
+local_terms: ["Hurricanes", "Canes", "Wolfpack", "NC State", "North Carolina FC", "Courage", "Mudcats", "Raleigh Mayor", "Baldwin", "Stein", "Roy Cooper", "Josh Stein", "Wake County Schools", "WCPSS", "GoRaleigh", "GoTriangle", "RDU", "Raleigh-Durham", "Lenovo Center", "PNC Arena", "Carter-Finley", "Dix Park", "Dorothea Dix", "Fayetteville Street", "Glenwood South", "Cameron Village", "North Hills", "Five Points", "Oakwood", "Mordecai", "Boylan Heights", "Moore Square", "Warehouse District", "Hillsborough Street", "Crabtree", "Brier Creek", "Midtown Raleigh", "Falls Lake", "Neuse River", "I-40", "I-440", "I-540", "I-87", "Triangle Expressway", "State Capitol", "General Assembly", "WakeMed", "Rex Hospital", "UNC Rex", "Capital Area", "Raleigh Police", "RPD", "Wake County Sheriff"]
+
+sources:
+  - name: "The News & Observer"
+    area: "Raleigh"
+    status: link_only
+    homepage: "https://www.newsobserver.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "WRAL News"
+    area: "Raleigh"
+    status: link_only
+    homepage: "https://www.wral.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "WUNC"
+    area: "Raleigh"
+    status: link_only
+    homepage: "https://www.wunc.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "INDY Week"
+    area: "Raleigh"
+    feed_url: "https://indyweek.com/feed/"
+    status: active
+
+  - name: "ABC11"
+    area: "Raleigh"
+    feed_url: "https://abc11.com/feed/"
+    status: active
+    filter: local
+
+  - name: "CBS 17"
+    area: "Raleigh"
+    feed_url: "https://www.cbs17.com/feed/"
+    status: active
+
+  - name: "FOX 50"
+    area: "Raleigh"
+    feed_url: "https://www.foxcarolina.com/arc/outboundfeeds/rss/?outputType=xml"
+    status: active
+    filter: local
+
+  - name: "WRAL TechWire"
+    area: "Raleigh"
+    status: link_only
+    homepage: "https://wraltechwire.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Walter Magazine"
+    area: "Raleigh"
+    feed_url: "https://waltermagazine.com/feed/"
+    status: active
+
+  - name: "The Technician (NC State)"
+    area: "Raleigh"
+    feed_url: "https://technicianonline.com/feed/"
+    status: active
+
+  - name: "The Wake Weekly"
+    area: "Wake County Suburbs"
+    feed_url: "https://www.wakeweekly.com/rss.xml"
+    status: active
+
+  - name: "Apex Herald / Southwest Wake News"
+    area: "Wake County Suburbs"
+    status: link_only
+    homepage: "https://www.apexnc.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "Johnston County Report"
+    area: "Johnston & Franklin Counties"
+    status: link_only
+    homepage: "https://www.johnstonnow.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The Franklin Times"
+    area: "Johnston & Franklin Counties"
+    status: link_only
+    homepage: "https://www.thefranklintimes.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."

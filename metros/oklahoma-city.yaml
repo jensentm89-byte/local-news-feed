@@ -1,0 +1,119 @@
+# Oklahoma City, OK. See jacksonville.yaml for the file format.
+
+name: "Oklahoma City, OK"
+aliases:
+  - "Canadian"
+  - "Cleveland"
+  - "Grady"
+  - "Lincoln"
+  - "Logan"
+  - "McClain"
+  - "Oklahoma"
+  - "Oklahoma County"
+  - "Canadian County"
+  - "Cleveland County"
+  - "Grady County"
+  - "Logan County"
+  - "McClain County"
+  - "Lincoln County"
+  - "Edmond"
+  - "Norman"
+  - "Moore"
+  - "Midwest City"
+  - "Yukon"
+  - "Mustang"
+  - "Del City"
+  - "Bethany"
+  - "Choctaw"
+  - "Piedmont"
+  - "Guthrie"
+  - "Shawnee"
+  - "El Reno"
+  - "Newcastle"
+  - "Purcell"
+  - "OKC"
+  - "Oklahoma City metro"
+  - "Sooner State"
+
+areas: ["Oklahoma City", "Edmond & North", "Norman & South"]
+states: ["Oklahoma"]
+local_terms: ["Thunder", "OKC Thunder", "Sooners", "Oklahoma Sooners", "OU", "Oklahoma State", "Cowboys", "Energy FC", "Dodgers OKC", "Barons", "Blue", "Holt", "David Holt", "Stitt", "Kevin Stitt", "Gentner Drummond", "Drummond", "Walters", "Ryan Walters", "OKCPS", "Oklahoma City Public Schools", "EMBARK", "Will Rogers World Airport", "Will Rogers", "Paycom Center", "Chesapeake Energy Arena", "Bricktown", "Midtown", "Plaza District", "Paseo", "Automobile Alley", "Film Row", "Deep Deuce", "Uptown 23rd", "Classen", "Western Avenue", "Capitol Hill", "Stockyards City", "Scissortail Park", "Myriad Gardens", "Oklahoma River", "Lake Hefner", "Lake Overholser", "Lake Thunderbird", "Tinker", "Tinker Air Force Base", "Fort Reno", "Oklahoma Capitol", "State Capitol", "Oklahoma Legislature", "Oklahoma Health Center", "OU Health", "Integris", "SSM Health", "I-35", "I-40", "I-44", "Kilpatrick Turnpike", "Turner Turnpike", "OKCPD", "OCSO", "Oklahoma Highway Patrol", "OHP", "Devon Energy", "Continental Resources", "Love's", "Hobby Lobby", "Sonic"]
+
+sources:
+  - name: "The Oklahoman"
+    area: "Oklahoma City"
+    status: link_only
+    homepage: "https://www.oklahoman.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "KGOU"
+    area: "Oklahoma City"
+    status: link_only
+    homepage: "https://www.kgou.org/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "KOCO 5"
+    area: "Oklahoma City"
+    status: link_only
+    homepage: "https://www.koco.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "KFOR 4"
+    area: "Oklahoma City"
+    feed_url: "https://kfor.com/feed/"
+    status: active
+
+  - name: "News 9"
+    area: "Oklahoma City"
+    feed_url: "https://www.news9.com/index.rss"
+    status: active
+    filter: local
+
+  - name: "Oklahoma Gazette"
+    area: "Oklahoma City"
+    feed_url: "https://www.okgazette.com/feed/"
+    status: active
+
+  - name: "The City Sentinel"
+    area: "Oklahoma City"
+    feed_url: "https://www.city-sentinel.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
+
+  - name: "The Journal Record"
+    area: "Oklahoma City"
+    feed_url: "https://journalrecord.com/feed"
+    status: active
+
+  - name: "The Black Wall Street Times"
+    area: "Oklahoma City"
+    feed_url: "https://theblackwallsttimes.com/feed/"
+    status: active
+    filter: local
+
+  - name: "405 Magazine"
+    area: "Oklahoma City"
+    feed_url: "https://www.405magazine.com/feed/"
+    status: active
+
+  - name: "Oklahoma Magazine"
+    area: "Oklahoma City"
+    feed_url: "https://okmag.com/feed/"
+    status: active
+
+  - name: "Edmond Life & Leisure"
+    area: "Edmond & North"
+    feed_url: "https://www.edmondoutlook.com/feed/"
+    status: active
+
+  - name: "The Norman Transcript"
+    area: "Norman & South"
+    status: link_only
+    homepage: "https://www.normantranscript.com/"
+    note: "No usable open feed (not found, or blocked by robots.txt / the site), so only the outlet name and link are shown."
+
+  - name: "The Oklahoma Daily (OU)"
+    area: "Norman & South"
+    feed_url: "https://www.oudaily.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    status: active
+    filter: local
