@@ -1,6 +1,6 @@
 # Source health
 
-Generated 2026-10-17 21:49Z.
+Generated 2026-10-18 14:08Z.
 
 Active feeds: 679 · link-only: 303 · paused: 1
 
@@ -10,16 +10,17 @@ Active feeds: 679 · link-only: 303 · paused: 1
 
 ## Birmingham, AL
 
-- **silent** The Alabama Gazette: newest story 17 days old
+- **silent** The Alabama Gazette: newest story 18 days old
 
 ## Boston, MA
 
-- **silent** Gloucester Daily Times: newest story 11 days old
+- **failing** Gloucester Daily Times: 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Charlotte, NC
 
 - **silent** Mooresville Tribune: newest story 21 days old
-- **failing** Lancaster News: 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** Independent Tribune (Concord): 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** Lancaster News: 4 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Chicago, IL
 
@@ -33,6 +34,10 @@ Active feeds: 679 · link-only: 303 · paused: 1
 
 - **silent** Dallas Free Press: newest story 15 days old
 
+## Indianapolis, IN
+
+- **failing** Anderson Herald Bulletin: 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+
 ## Jacksonville, FL
 
 - **silent** WJCT News: newest story 12 days old
@@ -44,17 +49,17 @@ Active feeds: 679 · link-only: 303 · paused: 1
 
 ## Louisville, KY
 
-- **no stories yet** Oldham Era
-- **no stories yet** Pioneer News (Bullitt County)
+- **failing** Oldham Era: 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Minneapolis–St. Paul, MN
 
 - **silent** Park Bugle: newest story 16 days old
 - **silent** Hmong Times: newest story 17 days old
+- **failing** White Bear Press: 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Nashville, TN
 
-- **silent** Murfreesboro Pulse: newest story 15 days old
+- **silent** Murfreesboro Pulse: newest story 16 days old
 
 ## New York, NY
 
@@ -66,19 +71,23 @@ Active feeds: 679 · link-only: 303 · paused: 1
 
 - **silent** Oklahoma Magazine: newest story 19 days old
 - **silent** Edmond Life & Leisure: newest story 16 days old
-- **no stories yet** The Oklahoma Daily (OU)
+
+## Orlando, FL
+
+- **failing** Florida Courier Orlando: 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Philadelphia, PA
 
-- **silent** Generocity Philly: newest story 10 days old
+- **silent** Generocity Philly: newest story 11 days old
 
 ## Portland, OR
 
-- **silent** Southeast Examiner: newest story 15 days old
+- **silent** Portland Observer: newest story 10 days old
+- **silent** Southeast Examiner: newest story 16 days old
 
 ## Providence, RI
 
-- **no stories yet** The Sun Chronicle (Attleboro)
+- **failing** The Sun Chronicle (Attleboro): 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Raleigh, NC
 
@@ -86,8 +95,8 @@ Active feeds: 679 · link-only: 303 · paused: 1
 
 ## Riverside–San Bernardino, CA
 
-- **failing** Mountain News: 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** Mountain News: 4 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Tampa–St. Petersburg, FL
 
-- **silent** La Gaceta: newest story 15 days old
+- **silent** La Gaceta: newest story 16 days old
