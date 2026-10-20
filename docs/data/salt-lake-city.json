@@ -1,11 +1,511 @@
 {
-  "generated_at": "2026-10-20T15:13:28Z",
+  "generated_at": "2026-10-20T22:44:13Z",
   "name": "Salt Lake City, UT",
   "areas": [
     "Salt Lake City",
     "Summit & Tooele Counties"
   ],
   "articles": [
+    {
+      "headline": "Artemis II astronaut honors Northrop Grumman team for contribution to historic mission",
+      "link": "https://www.utahbusiness.com/press-releases/2026/10/20/artemis-ii-astronaut-honors-northrop-grumman-team-contribution-historic-mission/",
+      "published": "2026-10-20T22:35:02Z",
+      "source": "Utah Business",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:51Z",
+      "category": "Other"
+    },
+    {
+      "headline": "‘We’re much more prepared’: Alex Jensen discusses his rebuilding effort at Utah at Big 12 media days",
+      "link": "https://www.deseret.com/sports/2026/10/20/alex-jensen-utah-basketball-rebuild-big-12-media-days-2026/",
+      "published": "2026-10-20T22:31:20Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:47Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Utah’s employment: September 2026",
+      "link": "https://www.utahbusiness.com/press-releases/2026/10/20/utah-employment-september-2026-payroll-employment-increased-economy/",
+      "published": "2026-10-20T22:25:26Z",
+      "source": "Utah Business",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:51Z",
+      "category": "Other"
+    },
+    {
+      "headline": "'It's empowering' Ivins kids work to revitalize park after fire",
+      "link": "https://www.abc4.com/news/ivins-kids-park-proposal/",
+      "published": "2026-10-20T22:19:51Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:50Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Obituary: Russ Bishop",
+      "link": "https://www.parkrecord.com/2026/10/20/obituary-russ-bishop/",
+      "published": "2026-10-20T22:15:00Z",
+      "source": "The Park Record",
+      "area": "Summit & Tooele Counties",
+      "fetched_at": "2026-10-20T22:42:53Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Charity golf event raises $1M for Utah children and literacy initiatives",
+      "link": "https://www.utahbusiness.com/press-releases/2026/10/20/utah-community-builders-charity-golf-event-1-million-literacy-children-initiatives/",
+      "published": "2026-10-20T22:14:59Z",
+      "source": "Utah Business",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:51Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "Pumpkins for canned food: Southern Utah funeral home hosts donation drive",
+      "link": "https://www.abc4.com/news/southern-utah/funeral-home-donation-drive/",
+      "published": "2026-10-20T22:11:22Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:50Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "University of Utah, PNC Bank unveil PNC Terrace at Rice-Eccles Stadium",
+      "link": "https://www.utahbusiness.com/press-releases/2026/10/20/university-of-utah-pnc-bank-unveil-pnc-terrace-rice-eccles-stadium/",
+      "published": "2026-10-20T22:08:31Z",
+      "source": "Utah Business",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:51Z",
+      "category": "Education"
+    },
+    {
+      "headline": "The Utah Jazz have the pieces to build a contender. Can they afford them all?",
+      "link": "https://www.deseret.com/sports/2026/10/20/the-utah-jazz-have-the-pieces-to-build-a-contender-can-they-afford-them-all/",
+      "published": "2026-10-20T22:07:03Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:47Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Woman charged after allegedly trying to stab 11-year-old son",
+      "link": "https://www.abc4.com/news/crimes-against-children/woman-charged-stab-child/",
+      "published": "2026-10-20T21:54:16Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:50Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Charges dropped against former Salt Lake City Police officer accused of sexual assault",
+      "link": "https://www.abc4.com/news/crime/charges-dropped-slcpd-officer-sexual-assault/",
+      "published": "2026-10-20T21:48:12Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:50Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Ballet West hosts blood drive featuring actor portraying Dracula",
+      "link": "https://www.abc4.com/news/wasatch-front/ballet-west-dracula-blood-drive/",
+      "published": "2026-10-20T21:45:13Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:50Z",
+      "category": "Health"
+    },
+    {
+      "headline": "Once a go, Roy referendum on property tax increase removed from ballot",
+      "link": "https://www.fox13now.com/news/local-news/weber-county/once-a-go-roy-referendum-on-property-tax-increase-removed-from-ballot",
+      "published": "2026-10-20T21:44:20Z",
+      "source": "FOX 13 Salt Lake City",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:48Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Jaxon Kohler receives injunction, will remain eligible for BYU",
+      "link": "https://www.deseret.com/sports/2026/10/20/jaxon-kohler-receives-injunction-remains-eligible-byu-basketball/",
+      "published": "2026-10-20T21:23:51Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:47Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Trump awards Utahn Nick Shirley $10,000 check under new anti-fraud reward program",
+      "link": "https://www.deseret.com/politics/2026/10/20/president-trump-awards-utahn-nick-shirley-ten-thousand-dollar-check-under-new-anti-fraud-reward-program/",
+      "published": "2026-10-20T21:12:13Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:47Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Orem to host IRONMAN triathlon return to Utah",
+      "link": "https://www.fox13now.com/news/local-news/utah-county/orem-to-host-ironman-triathlon-return-to-utah",
+      "published": "2026-10-20T21:11:35Z",
+      "source": "FOX 13 Salt Lake City",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:48Z",
+      "category": "Other"
+    },
+    {
+      "headline": "NHL plane returns to Salt Lake City after mid-flight medical episode",
+      "link": "https://www.deseret.com/sports/2026/10/20/pittsburgh-penguins-ben-kindel-hospitalized-in-salt-lake-city/",
+      "published": "2026-10-20T21:10:20Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:47Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Park City receives open-records request from law firm seeking information about Bonanza Park development",
+      "link": "https://www.parkrecord.com/2026/10/20/park-city-receives-open-records-request-from-law-firm-seeking-information-about-bonanza-park-development/",
+      "published": "2026-10-20T21:00:00Z",
+      "source": "The Park Record",
+      "area": "Summit & Tooele Counties",
+      "fetched_at": "2026-10-20T22:42:53Z",
+      "category": "Development & Housing"
+    },
+    {
+      "headline": "Here are the best and worst McDonald’s in America — and the reviews don’t hold back",
+      "link": "https://www.abc4.com/utah-food/best-worst-mcdonalds-us/",
+      "published": "2026-10-20T20:52:14Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:50Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Christina Applegate’s MS diagnosis shaped 5 years of her life. Now it’s been reversed",
+      "link": "https://www.deseret.com/entertainment/2026/10/20/christina-applegate-says-she-was-misdiagnosed-with-ms/",
+      "published": "2026-10-20T20:51:21Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:47Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "High Valley Transit is building The Bob a better road",
+      "link": "https://www.parkrecord.com/2026/10/20/high-valley-transit-is-building-the-bob-a-better-road/",
+      "published": "2026-10-20T20:45:00Z",
+      "source": "The Park Record",
+      "area": "Summit & Tooele Counties",
+      "fetched_at": "2026-10-20T22:42:53Z",
+      "category": "Traffic & Transit"
+    },
+    {
+      "headline": "Opportunities for connection abound at the Wasatch County Senior Center",
+      "link": "https://www.parkrecord.com/2026/10/20/opportunities-for-connection-abound-at-the-wasatch-county-senior-center/",
+      "published": "2026-10-20T20:30:00Z",
+      "source": "The Park Record",
+      "area": "Summit & Tooele Counties",
+      "fetched_at": "2026-10-20T22:42:53Z",
+      "category": "Other"
+    },
+    {
+      "headline": "WATCH: Wyoming sheriff's deputy narrowly avoids hitting child on e-scooter",
+      "link": "https://www.abc4.com/news/wyoming/wyoming-deputy-avoids-hitting-child-scooter/",
+      "published": "2026-10-20T20:18:53Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:50Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Park City Fire District chipping program plans record expansion after two-decade run",
+      "link": "https://www.parkrecord.com/2026/10/20/park-city-fire-district-chipping-program-plans-record-expansion-after-two-decade-run/",
+      "published": "2026-10-20T20:15:00Z",
+      "source": "The Park Record",
+      "area": "Summit & Tooele Counties",
+      "fetched_at": "2026-10-20T22:42:53Z",
+      "category": "Education"
+    },
+    {
+      "headline": "Secretary of Education discusses Trump administration K-12 priorities at first stop of speaking tour at SLC charter school",
+      "link": "https://www.abc4.com/news/education/secretary-education-linda-mcmahon-salt-lake-city-school/",
+      "published": "2026-10-20T20:11:40Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:50Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Fourth District Court judge has yet to formally weigh in on Independence disincorporation",
+      "link": "https://www.parkrecord.com/2026/10/20/fourth-district-court-judge-has-yet-to-formally-weigh-in-on-independence-disincorporation/",
+      "published": "2026-10-20T20:00:00Z",
+      "source": "The Park Record",
+      "area": "Summit & Tooele Counties",
+      "fetched_at": "2026-10-20T22:42:53Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Who could be Utah’s guest picker for ‘College GameDay’?",
+      "link": "https://www.deseret.com/sports/2026/10/20/utah-utes-potential-college-gameday-guest-picker/",
+      "published": "2026-10-20T19:49:55Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:47Z",
+      "category": "Education",
+      "local": true
+    },
+    {
+      "headline": "Utah weather: Periods of heavy rain and a few thunderstorms arrive Wednesday through Friday across Utah",
+      "link": "https://www.abc4.com/utah-weather/periods-heavy-rain-thunderstorms-across-utah/",
+      "published": "2026-10-20T19:45:23Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:50Z",
+      "category": "Weather"
+    },
+    {
+      "headline": "Woodward kids skateboarding competition crowns its inaugural kings and queens",
+      "link": "https://www.parkrecord.com/2026/10/20/woodward-kids-skateboarding-competition-crowns-its-inaugural-kings-and-queens/",
+      "published": "2026-10-20T19:45:00Z",
+      "source": "The Park Record",
+      "area": "Summit & Tooele Counties",
+      "fetched_at": "2026-10-20T22:42:53Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Here’s how to prepare for the Wasatch Highlands preliminary municipality public hearing next week",
+      "link": "https://www.parkrecord.com/2026/10/20/heres-how-to-prepare-for-the-wasatch-highlands-preliminary-municipality-public-hearing-next-week/",
+      "published": "2026-10-20T19:45:00Z",
+      "source": "The Park Record",
+      "area": "Summit & Tooele Counties",
+      "fetched_at": "2026-10-20T22:42:53Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Woman accused of accessing pornography immediately ahead of deadly Juab County crash",
+      "link": "https://www.fox13now.com/news/local-news/central-utah/woman-accused-of-accessing-porn-immediately-ahead-of-deadly-juab-county-crash",
+      "published": "2026-10-20T19:43:22Z",
+      "source": "FOX 13 Salt Lake City",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:48Z",
+      "category": "Traffic & Transit"
+    },
+    {
+      "headline": "Artificial fish habitats at Jordanelle Reservoir help supplement the ecosystem’s vegetation loss",
+      "link": "https://www.parkrecord.com/2026/10/20/artificial-fish-habitats-at-jordanelle-reservoir-help-supplement-the-ecosystems-vegetation-loss/",
+      "published": "2026-10-20T19:30:00Z",
+      "source": "The Park Record",
+      "area": "Summit & Tooele Counties",
+      "fetched_at": "2026-10-20T22:42:53Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Big 12 commissioner talks conference momentum, BYU-Notre Dame and Protect College Sports Act",
+      "link": "https://www.deseret.com/sports/2026/10/20/big-12-commissioner-talks-conference-momentum-byu-notre-dame-and-protect-college-sports-act/",
+      "published": "2026-10-20T19:26:41Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:47Z",
+      "category": "Education",
+      "local": true
+    },
+    {
+      "headline": "Dale Joseph Bevan Sr.",
+      "link": "https://www.tooeleonline.com/articles/obits/dale-joseph-bevan-sr/",
+      "published": "2026-10-20T19:18:14Z",
+      "source": "Tooele Transcript Bulletin",
+      "area": "Summit & Tooele Counties",
+      "fetched_at": "2026-10-20T22:42:54Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Aviation expects a hiring boom. AI could change the jobs behind it",
+      "link": "https://www.deseret.com/u-s-world/2026/10/20/airbus-announces-244-million-new-workers-needed-in-aviation-over-next-two-decades/",
+      "published": "2026-10-20T19:18:09Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:47Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Kouri Richins, concerned about conflicts of interest, granted new attorney in financial case",
+      "link": "https://www.parkrecord.com/2026/10/20/kouri-richins-concerned-about-conflicts-of-interest-granted-new-attorney-in-financial-case/",
+      "published": "2026-10-20T19:10:00Z",
+      "source": "The Park Record",
+      "area": "Summit & Tooele Counties",
+      "fetched_at": "2026-10-20T22:42:53Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Woman caused deadly crash on I-15 while using phone to view pornography, charges say",
+      "link": "https://www.abc4.com/news/crime/woman-deadly-crash-phone-charges/",
+      "published": "2026-10-20T18:50:29Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:50Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Pro dancer suspended ahead of ‘Dancing with the Stars’ Dedication Night",
+      "link": "https://www.deseret.com/entertainment/2026/10/20/dancing-with-the-stars-dedication-night-preview/",
+      "published": "2026-10-20T18:27:25Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:47Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Bachmeier’s fuel to beat Irish reflects the nature of today’s recruiting game",
+      "link": "https://www.deseret.com/sports/2026/10/20/bear-bachmeier-notre-dame-disrespected/",
+      "published": "2026-10-20T18:12:00Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:47Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Two pedestrians hospitalized after being hit by truck in West Valley City",
+      "link": "https://www.abc4.com/news/traffic/two-pedestrians-hospitalized-truck-west-valley-city/",
+      "published": "2026-10-20T17:44:05Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:50Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Analysis: ‘College GameDay’ got really religious in Provo. Was it respectful?",
+      "link": "https://www.deseret.com/faith/2026/10/20/pat-mcafee-talks-latter-day-saints-byu-utah-college-gameday/",
+      "published": "2026-10-20T17:26:53Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:47Z",
+      "category": "Education",
+      "local": true
+    },
+    {
+      "headline": "Utah sues popular prediction market platform",
+      "link": "https://www.deseret.com/utah/2026/10/20/utah-sues-kalshi-prediction-market-sports-betting-online-gambling/",
+      "published": "2026-10-20T17:23:10Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:47Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Is the U.S. doing enough to help Ukraine? ‘No,’ Utah senator says",
+      "link": "https://www.deseret.com/u-s-world/2026/10/20/is-the-us-doing-enough-to-help-ukraine-no-utah-senator-says/",
+      "published": "2026-10-20T17:12:31Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:47Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "What is Utah's most mispronounced word? We have the data",
+      "link": "https://www.abc4.com/news/local-news/utah-most-mispronounced-word/",
+      "published": "2026-10-20T16:51:19Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:50Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Philadelphia Eagles face backlash for handling of Jalen Hurts blood clotting issue",
+      "link": "https://www.abc4.com/news/national/philadelphia-eagles-backlash-jalen-hurts-blood-clotting-issue/",
+      "published": "2026-10-20T16:32:08Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:50Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Farmers to get one-time payments from $8 billion program, Trump says: What to know",
+      "link": "https://www.abc4.com/news/national/farmers-one-time-payment-8-billion-program-trump/",
+      "published": "2026-10-20T16:27:56Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:50Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Firefighters find safe filled with priceless family heirlooms in wildfire rubble",
+      "link": "https://www.abc4.com/news/national/firefighters-safe-priceless-heirlooms-wildfire-rubble/",
+      "published": "2026-10-20T16:26:41Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:50Z",
+      "category": "Weather"
+    },
+    {
+      "headline": "Utah can restore housing affordability with smaller lots, ADUs and modular homes.",
+      "link": "https://www.cityweekly.net/opinion/utah-can-restore-housing-affordability-with-smaller-lots-adus-and-modular-homes-28516ce0",
+      "published": "2026-10-20T16:00:00Z",
+      "source": "City Weekly",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:49Z",
+      "category": "Development & Housing"
+    },
+    {
+      "headline": "Proposed amendments to the Utah Constitution",
+      "link": "https://dailyutahchronicle.com/2026/10/20/utahs-proposed-constitutional-amendments/",
+      "published": "2026-10-20T15:43:11Z",
+      "source": "The Daily Utah Chronicle",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:53Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Buzz of the Week: Do you feel like you have a political home in Utah?",
+      "link": "https://www.sltrib.com/news/politics/2026/10/20/do-you-feel-like-you-have/",
+      "published": "2026-10-20T15:37:49Z",
+      "source": "The Salt Lake Tribune",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:46Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Bagley Cartoon: A New Hope",
+      "link": "https://www.sltrib.com/opinion/bagley/2026/10/20/bagley-cartoon-new-hope/",
+      "published": "2026-10-20T15:27:45Z",
+      "source": "The Salt Lake Tribune",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:46Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Author Wendy Barnhart steps into a new genre with upcoming novel",
+      "link": "https://dailyutahchronicle.com/2026/10/20/author-wendy-barnhart-steps-into-a-new-genre-with-upcoming-novel/",
+      "published": "2026-10-20T15:24:23Z",
+      "source": "The Daily Utah Chronicle",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:53Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Utah sues Kalshi, saying it’s ‘the manager of a back-alley gambling den’",
+      "link": "https://www.sltrib.com/news/2026/10/20/utah-sues-kalshi-brazen-pattern/",
+      "published": "2026-10-20T15:21:27Z",
+      "source": "The Salt Lake Tribune",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:46Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Giant Pumpkin Growers Win Big in Utah",
+      "link": "https://www.saltlakemagazine.com/giant-pumpkin-growers-win-big-in-utah/",
+      "published": "2026-10-20T15:00:00Z",
+      "source": "Salt Lake Magazine",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:49Z",
+      "category": "Other"
+    },
     {
       "headline": "New OJ Simpson revelation an 'interesting postscript': Attorney",
       "link": "https://www.abc4.com/news/national/new-oj-simpson-revelation-an-interesting-postscript-attorney/",
@@ -551,6 +1051,16 @@
       "category": "Government & Politics"
     },
     {
+      "headline": "Sen. Lee defends Trump DOJ after Utah Lt. Gov. calls federal government ‘threat’ to elections",
+      "link": "https://www.deseret.com/politics/2026/10/19/senator-mike-lee-responds-to-utah-lieutenant-governor-deidre-henderson-calling-trump-administration-a-threat-to-elections/",
+      "published": "2026-10-19T21:13:09Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:47Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
       "headline": "Utah weather: Mostly cloudy and warm start this week, but wetter and cooler conditions arrive late this week",
       "link": "https://www.abc4.com/utah-weather/mostly-cloudy-warm-start-wetter-conditions-late-week/",
       "published": "2026-10-19T20:34:00Z",
@@ -587,6 +1097,16 @@
       "category": "Crime & Safety"
     },
     {
+      "headline": "Sego Leadership receives $2.5 million grant for social awareness campaign",
+      "link": "https://www.deseret.com/utah/2026/10/19/sego-leadership-receives-grant-for-social-awareness-campaign/",
+      "published": "2026-10-19T20:12:19Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:47Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
       "headline": "Sheriff’s Report: Man arrested after fleeing from traffic stop, damaging patrol cars",
       "link": "https://www.parkrecord.com/2026/10/19/sheriffs-report-man-arrested-after-fleeing-from-traffic-stop-damaging-patrol-cars/",
       "published": "2026-10-19T20:09:10Z",
@@ -594,6 +1114,16 @@
       "area": "Summit & Tooele Counties",
       "fetched_at": "2026-10-20T15:11:58Z",
       "category": "Crime & Safety"
+    },
+    {
+      "headline": "Utah-Houston is college football’s most expensive ticket this week as ‘College GameDay’ stays in Utah",
+      "link": "https://www.deseret.com/sports/2026/10/19/utah-houston-is-college-footballs-most-expensive-ticket-this-week-as-college-gameday-stays-in-utah/",
+      "published": "2026-10-19T19:45:16Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:47Z",
+      "category": "Education",
+      "local": true
     },
     {
       "headline": "14th annual Warm Bodies, Warm Souls clothing drive kicks off today",
@@ -612,6 +1142,16 @@
       "area": "Salt Lake City",
       "fetched_at": "2026-10-20T15:11:54Z",
       "category": "Traffic & Transit"
+    },
+    {
+      "headline": "Baylor study examines NIL’s impact on student-athletes’ faith",
+      "link": "https://www.deseret.com/faith/2026/10/19/how-does-name-image-likeness-affect-student-athletes-faith/",
+      "published": "2026-10-19T19:07:37Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-20T22:42:47Z",
+      "category": "Education",
+      "local": true
     },
     {
       "headline": "Man arrested at gunpoint after throwing large rocks at cars on US-6",
