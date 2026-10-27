@@ -1,11 +1,535 @@
 {
-  "generated_at": "2026-10-26T23:25:53Z",
+  "generated_at": "2026-10-27T16:00:06Z",
   "name": "Salt Lake City, UT",
   "areas": [
     "Salt Lake City",
     "Summit & Tooele Counties"
   ],
   "articles": [
+    {
+      "headline": "Liberty Park's reimagined Rotary Play Park opens for children of all abilities to enjoy",
+      "link": "https://www.abc4.com/news/wasatch-front/liberty-park-rotary-play-park-reopening/",
+      "published": "2026-10-27T15:50:02Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:16Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "TRAFFIC ALERT: Heavy delays in Saratoga Springs after crash on Cory Wride Highway",
+      "link": "https://www.abc4.com/news/traffic/heavy-delays-saratoga-springs-crash-cory-wride/",
+      "published": "2026-10-27T15:45:18Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:16Z",
+      "category": "Traffic & Transit"
+    },
+    {
+      "headline": "Buzz of the Week: If Utah stopped changing clocks, which time should it keep?",
+      "link": "https://www.sltrib.com/news/2026/10/27/daylight-saving-time-utah-which/",
+      "published": "2026-10-27T15:34:33Z",
+      "source": "The Salt Lake Tribune",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:11Z",
+      "category": "Other"
+    },
+    {
+      "headline": "509 Utahns told us their hopes and concerns for Great Salt Lake. Do you feel the same?",
+      "link": "https://dailyutahchronicle.com/2026/10/27/utahns-hopes-and-concerns-great-salt-lake/",
+      "published": "2026-10-27T15:31:09Z",
+      "source": "The Daily Utah Chronicle",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:22Z",
+      "category": "Health"
+    },
+    {
+      "headline": "Ben McAdams talks AI, affordability and the future of Utah at campus Q&A",
+      "link": "https://dailyutahchronicle.com/2026/10/27/ben-mcadams-talks-ai-affordability-and-the-future-of-utah-at-campus-qa/",
+      "published": "2026-10-27T15:26:48Z",
+      "source": "The Daily Utah Chronicle",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:22Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Bagley Cartoon: Game Day",
+      "link": "https://www.sltrib.com/opinion/bagley/2026/10/27/bagley-cartoon-game-day/",
+      "published": "2026-10-27T15:25:01Z",
+      "source": "The Salt Lake Tribune",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:11Z",
+      "category": "Other"
+    },
+    {
+      "headline": "The North Face announces US Ski & Snowboard fall collection",
+      "link": "https://www.parkrecord.com/2026/10/27/the-north-face-announces-us-ski-snowboard-fall-collection/",
+      "published": "2026-10-27T15:19:08Z",
+      "source": "The Park Record",
+      "area": "Summit & Tooele Counties",
+      "fetched_at": "2026-10-27T15:58:21Z",
+      "category": "Weather"
+    },
+    {
+      "headline": "BYU-led team releases a new global food pyramid",
+      "link": "https://www.abc4.com/news/science/byu-new-global-food-pyramid/",
+      "published": "2026-10-27T14:53:34Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:16Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Work to be done before Utes, Cougars can set sights on epic 'Holy War' matchup",
+      "link": "https://www.fox13now.com/sports/work-to-be-done-before-utes-cougars-can-set-sights-on-epic-holy-war-matchup",
+      "published": "2026-10-27T14:50:06Z",
+      "source": "FOX 13 Salt Lake City",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:13Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Days will get way shorter in November: How much daylight we'll lose",
+      "link": "https://www.abc4.com/news/national/days-will-get-way-shorter-in-november-how-much-daylight-well-lose/",
+      "published": "2026-10-27T14:26:53Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:16Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Taylor Swift, Lyle Lovett and more inducted into Nashville Songwriters Hall of Fame",
+      "link": "https://www.abc4.com/news/national/taylor-swift-lyle-lovett-nashville-songwriters-hall-of-fame/",
+      "published": "2026-10-27T14:16:29Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:16Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Claude AI reportedly bypassed paywall to access Georgia voter data",
+      "link": "https://www.abc4.com/news/national/claude-ai-reportedly-bypassed-paywall-to-access-georgia-voter-data/",
+      "published": "2026-10-27T14:04:13Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:16Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "FTC, 20 states sue Dollar General, claiming customers overcharged",
+      "link": "https://www.abc4.com/news/national/ftc-20-states-sue-dollar-general/",
+      "published": "2026-10-27T13:44:22Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:16Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Utah weather: Mostly dry start to the week with wet weather returning ahead of Halloween weekend",
+      "link": "https://www.abc4.com/utah-weather/dry-start-to-week-wet-weather-halloween-weekend/",
+      "published": "2026-10-27T13:37:02Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:16Z",
+      "category": "Weather"
+    },
+    {
+      "headline": "Lauri Markkanen and Jaren Jackson Jr. exit early with injuries against Grizzlies",
+      "link": "https://www.fox13now.com/sports/utah-jazz/lauri-markkanen-and-jaren-jackson-jr-exit-early-with-injuries-against-grizzlies",
+      "published": "2026-10-27T12:06:12Z",
+      "source": "FOX 13 Salt Lake City",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:13Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Voices: I’m a teacher learning how to treat gunshot wounds. I’m begging for a different reality.",
+      "link": "https://www.sltrib.com/opinion/commentary/2026/10/27/voices-im-teacher-why-am-i/",
+      "published": "2026-10-27T12:05:00Z",
+      "source": "The Salt Lake Tribune",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:11Z",
+      "category": "Education"
+    },
+    {
+      "headline": "Opinion: The despicable Ramaswamy ad is the culmination of the cruelty that motivates Trump and MAGA",
+      "link": "https://www.sltrib.com/opinion/commentary/2026/10/27/opinion-despicable-doesnt-begin/",
+      "published": "2026-10-27T12:01:00Z",
+      "source": "The Salt Lake Tribune",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:11Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Letter: Mike Lee and Deidre Henderson are both Republicans — but the similarity ends there",
+      "link": "https://www.sltrib.com/opinion/letters/2026/10/27/letter-mike-lee-deidre-henderson/",
+      "published": "2026-10-27T12:00:01Z",
+      "source": "The Salt Lake Tribune",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:11Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Gordon Monson: Pat McAfee says he hates Utah. Here’s the best way for Utah to respond.",
+      "link": "https://www.sltrib.com/sports/2026/10/27/utah-chill-pat-mcafees-criticism/",
+      "published": "2026-10-27T12:00:01Z",
+      "source": "The Salt Lake Tribune",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:11Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Where’d all the trick-or-treaters go? The Tribune’s Andy Larsen investigates.",
+      "link": "https://www.sltrib.com/news/2026/10/27/whered-all-trick-or-treaters-go/",
+      "published": "2026-10-27T12:00:01Z",
+      "source": "The Salt Lake Tribune",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:11Z",
+      "category": "Other"
+    },
+    {
+      "headline": "‘Tremendous and growing appetite for change’: Why some think this Democrat might have an unexpectedly strong showing in northern Utah",
+      "link": "https://www.sltrib.com/news/politics/2026/10/27/could-democrat-peter-crosby/",
+      "published": "2026-10-27T12:00:01Z",
+      "source": "The Salt Lake Tribune",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:11Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Letter: Weren’t we promised oil from a country other than Russia not so long ago?",
+      "link": "https://www.sltrib.com/opinion/letters/2026/10/27/letter-werent-we-promised-oil/",
+      "published": "2026-10-27T12:00:01Z",
+      "source": "The Salt Lake Tribune",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:11Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Bishops accuse White House of manipulation over prayer video with Trump",
+      "link": "https://www.sltrib.com/religion/2026/10/27/catholic-bishops-are-steamed-over/",
+      "published": "2026-10-27T12:00:01Z",
+      "source": "The Salt Lake Tribune",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:11Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Carlos Boozer wanted his son in Utah. Here’s why he still likes the Jazz’s Darryn Peterson pick.",
+      "link": "https://www.sltrib.com/sports/jazz/2026/10/27/carlos-boozer-hoped-jazz-would/",
+      "published": "2026-10-27T12:00:01Z",
+      "source": "The Salt Lake Tribune",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:11Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Letter: Trump has abandoned our ally — Ukraine — and is aiding our enemy. Vote, indeed, as if he were on the ballot.",
+      "link": "https://www.sltrib.com/opinion/letters/2026/10/27/letter-trump-has-abandoned-our/",
+      "published": "2026-10-27T12:00:01Z",
+      "source": "The Salt Lake Tribune",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:11Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "This Utah mall soon may vanish — mostly",
+      "link": "https://www.sltrib.com/news/2026/10/27/much-provo-towne-centre-mall-be/",
+      "published": "2026-10-27T12:00:01Z",
+      "source": "The Salt Lake Tribune",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:11Z",
+      "category": "Other"
+    },
+    {
+      "headline": "UVU has hired a new chief safety officer in response to the Charlie Kirk shooting. You might recognize him.",
+      "link": "https://www.sltrib.com/news/education/2026/10/27/michael-rapich-named-uvus-chief/",
+      "published": "2026-10-27T12:00:01Z",
+      "source": "The Salt Lake Tribune",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:11Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "A southern Utah county was the first to hit pause on new data centers. Now it’s tightening the rules.",
+      "link": "https://www.sltrib.com/news/2026/10/27/iron-county-adopts-new-rules-data/",
+      "published": "2026-10-27T12:00:01Z",
+      "source": "The Salt Lake Tribune",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:11Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Some Salt Lake City school board members rebuke $34 million plan for closed elementary school",
+      "link": "https://www.sltrib.com/news/education/2026/10/27/career-center-has-slc-school-board/",
+      "published": "2026-10-27T12:00:00Z",
+      "source": "The Salt Lake Tribune",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:11Z",
+      "category": "Education"
+    },
+    {
+      "headline": "She accused an exclusive Utah ski and golf club of ‘unequal treatment.’ Then, she and her husband were forced out, a lawsuit alleges.",
+      "link": "https://www.sltrib.com/news/2026/10/27/couple-sues-wasatch-peaks-ranch/",
+      "published": "2026-10-27T12:00:00Z",
+      "source": "The Salt Lake Tribune",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:11Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Audit of impact fees uncovers surprising news about Utah home prices",
+      "link": "https://www.sltrib.com/news/2026/10/27/utah-impact-fees-audit-finds/",
+      "published": "2026-10-27T12:00:00Z",
+      "source": "The Salt Lake Tribune",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:11Z",
+      "category": "Development & Housing"
+    },
+    {
+      "headline": "Don’t give up on buying your first home, Utahns advised",
+      "link": "https://www.deseret.com/utah/2026/10/27/homeownership-rates-among-young-utahns-still-high-but-declining/",
+      "published": "2026-10-27T10:00:01Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:12Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Utah voters still favor Republicans in midterms even with Trump approval underwater",
+      "link": "https://www.deseret.com/politics/2026/10/27/voters-confidence-trump-approval-iran-war-midterms/",
+      "published": "2026-10-27T10:00:00Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:12Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Big 12 power rankings: Utah answers the bell and silences doubters, while upsets shake up rankings",
+      "link": "https://www.deseret.com/sports/2026/10/27/big-12-power-rankings-2026-season-after-week-8-utah-byu/",
+      "published": "2026-10-27T10:00:00Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:12Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "They couldn’t bring Landon back. But they could show how much he mattered",
+      "link": "https://www.deseret.com/family/2026/10/27/how-comfort-someone-dies-unexpectedly-community-love-holds-family-together-red-ribbons/",
+      "published": "2026-10-27T10:00:00Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:12Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "The good and bad of Sunday’s outdoor NHL game — and what Utah can learn from it",
+      "link": "https://www.deseret.com/sports/2026/10/26/2027-winter-classic-2026-heritage-classic-utah-mammoth-colorado-avalanche/",
+      "published": "2026-10-27T05:23:04Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:12Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Jackson, Markkanen injured in Jazz loss to Memphis",
+      "link": "https://www.abc4.com/sports/jackson-markkanen-injured-in-jazz-loss-to-memphis/",
+      "published": "2026-10-27T05:23:02Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:16Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "BYU will try to bounce back against Arizona State",
+      "link": "https://www.abc4.com/sports/byu-will-try-to-bounce-back-against-arizona-state/",
+      "published": "2026-10-27T05:09:59Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:16Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "2 Jazz stars sustain injuries — and 2 other takeaways from Utah’s loss to Memphis Grizzlies",
+      "link": "https://www.deseret.com/sports/2026/10/26/utah-jazz-lose-110-105-to-memphis-grizzlies-markkanen-jackson-injured/",
+      "published": "2026-10-27T05:01:31Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:12Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "‘Your vocals are insane,’ Kelly Clarkson tells Utah singer on ‘The Voice’",
+      "link": "https://www.deseret.com/entertainment/2026/10/26/the-voice-battle-round-cade-mower-defeats-brayden-howell/",
+      "published": "2026-10-27T04:48:56Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:12Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Mother reunited with 2-month-old baby after ICE detention; father remains in custody: Attorney speaks out",
+      "link": "https://www.abc4.com/news/wasatch-front/mother-reunited-with-baby-ice-detention-attorney/",
+      "published": "2026-10-27T04:40:12Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:16Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Saddle up: Hundreds ride in Antelope Island State Park's Bison Roundup",
+      "link": "https://www.abc4.com/animals/utah-wildlife/antelope-island-state-parks-bison-roundup/",
+      "published": "2026-10-27T03:22:50Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:16Z",
+      "category": "Other"
+    },
+    {
+      "headline": "UVU appoints Colonel Michael Rapich as first Chief Safety Officer",
+      "link": "https://utahpolicy.com/news-release/78493-uvu-appoints-colonel-michael-rapich-as-first-chief-safety-officer",
+      "published": "2026-10-27T02:58:44Z",
+      "source": "UtahPolicy",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:18Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "'A great thing to do': Retired NASA astronaut speaks at 'Liftoff: Red Rock to Red Planet' event",
+      "link": "https://www.abc4.com/news/southern-utah/retired-nasa-astronaut-speaks-utah-tech/",
+      "published": "2026-10-27T02:55:00Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:16Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "2026 Parry’s Power Guide: Predicting Week 2 of the high school football playoffs",
+      "link": "https://www.deseret.com/sports/2026/10/26/high-school-football-parrys-power-guide-playoffs-week-2/",
+      "published": "2026-10-27T02:43:56Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:12Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Inaugural Park City Film Festival wraps with ‘The Last Critic’",
+      "link": "https://www.parkrecord.com/2026/10/26/inaugural-park-city-film-festival-wraps-with-the-last-critic/",
+      "published": "2026-10-27T02:28:31Z",
+      "source": "The Park Record",
+      "area": "Summit & Tooele Counties",
+      "fetched_at": "2026-10-27T15:58:21Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "2 people extricated with serious injuries after vehicle rolls off of I-15",
+      "link": "https://www.abc4.com/news/southern-utah/2-people-injured-extricated-rollover/",
+      "published": "2026-10-27T02:16:33Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:16Z",
+      "category": "Traffic & Transit"
+    },
+    {
+      "headline": "Dog rescued after house fire sparks in Herriman",
+      "link": "https://www.abc4.com/news/wasatch-front/dog-rescued-house-fire-herriman/",
+      "published": "2026-10-27T01:59:09Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:16Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Pat McAfee calls College GameDay visit to University of Utah 'uncomfortable'",
+      "link": "https://www.abc4.com/news/local-news/pat-mcafee-college-gameday-uofu-uncomfortable/",
+      "published": "2026-10-27T01:54:51Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:16Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "Beyond the ice: Utah Mammoth training facility helps boost local business",
+      "link": "https://www.fox13now.com/news/local-news/salt-lake-county/beyond-the-ice-utah-mammoth-training-facility-helps-boost-local-business",
+      "published": "2026-10-27T01:50:17Z",
+      "source": "FOX 13 Salt Lake City",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:13Z",
+      "category": "Business"
+    },
+    {
+      "headline": "Up and down Kilimanjaro in 12 hours? Utah mountain biker takes on the challenge",
+      "link": "https://www.deseret.com/lifestyle/2026/10/26/utah-mountain-biker-hannah-otto-ascend-mount-kilimanjaro-world-bicycle-relief/",
+      "published": "2026-10-27T01:25:38Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:12Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Opinion: BYU football fans, we need a healthier perspective",
+      "link": "https://www.deseret.com/opinion/2026/10/26/getting-off-the-rollercoaster/",
+      "published": "2026-10-27T01:10:46Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:12Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Motorcyclist killed after crash on State St.",
+      "link": "https://www.abc4.com/news/traffic/state-st-closed-murray-crash/",
+      "published": "2026-10-27T00:12:45Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:16Z",
+      "category": "Traffic & Transit"
+    },
+    {
+      "headline": "What’s got McAfee so fired up about the University of Utah?",
+      "link": "https://www.deseret.com/sports/2026/10/26/whats-got-mcafee-so-fired-up-about-the-university-of-utah/",
+      "published": "2026-10-27T00:12:09Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:12Z",
+      "category": "Education",
+      "local": true
+    },
+    {
+      "headline": "Utah couple pleads guilty to helping suspected undocumented immigrant escape ICE custody",
+      "link": "https://www.abc4.com/news/crime/utah-couple-pleads-guilty-ice-escape/",
+      "published": "2026-10-26T23:51:39Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:16Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Discord Is Becoming Music’s New Front Row",
+      "link": "https://www.slugmag.com/music/interviews/music-interviews/discord-is-becoming-musics-new-front-row/",
+      "published": "2026-10-26T23:45:18Z",
+      "source": "SLUG Magazine",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:18Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "School bus accident in Farr West prompts investigation, school district confirms",
+      "link": "https://www.abc4.com/news/traffic/school-bus-veers-off-road-farr-west-accident/",
+      "published": "2026-10-26T23:45:08Z",
+      "source": "ABC4",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:16Z",
+      "category": "Traffic & Transit"
+    },
     {
       "headline": "Weber County man charged with alleged grooming, sexual abuse of 2 children",
       "link": "https://www.abc4.com/news/crimes-against-children/man-charged-grroming-sexual-abuse-children/",
@@ -423,6 +947,16 @@
       "area": "Salt Lake City",
       "fetched_at": "2026-10-26T23:24:03Z",
       "category": "Crime & Safety"
+    },
+    {
+      "headline": "BYU-Utah rivalry matchup will have a morning kickoff",
+      "link": "https://www.deseret.com/sports/2026/10/26/byu-utah-football-morning-kickoff-2026/",
+      "published": "2026-10-26T17:31:04Z",
+      "source": "Deseret News",
+      "area": "Salt Lake City",
+      "fetched_at": "2026-10-27T15:58:12Z",
+      "category": "Other",
+      "local": true
     },
     {
       "headline": "Meet Cosmo the Cougar and get a chance to win free food for a year at Spanish Fork Raising Cane's grand opening",
@@ -9528,69 +10062,6 @@
       "area": "Salt Lake City",
       "fetched_at": "2026-10-17T13:30:41Z",
       "category": "Government & Politics"
-    },
-    {
-      "headline": "Where to Eat in Provo",
-      "link": "https://www.saltlakemagazine.com/where-to-eat-in-provo/",
-      "published": "2026-10-13T15:00:00Z",
-      "source": "Salt Lake Magazine",
-      "area": "Salt Lake City",
-      "fetched_at": "2026-10-17T13:30:35Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Utah Clerks Push Back on Vote-by-Mail Myths Ahead of Midterms",
-      "link": "https://www.saltlakemagazine.com/utah-clerks-push-back-on-vote-by-mail-myths-ahead-of-midterms/",
-      "published": "2026-10-13T15:00:00Z",
-      "source": "Salt Lake Magazine",
-      "area": "Salt Lake City",
-      "fetched_at": "2026-10-17T13:30:35Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Congresswoman Maloy to host Regulatory Reform Summit on artificial intelligence",
-      "link": "https://utahpolicy.com/news-release/78449-congresswoman-maloy-to-host-regulatory-reform-summit-on-artificial-intelligence",
-      "published": "2026-10-13T14:48:17Z",
-      "source": "UtahPolicy",
-      "area": "Salt Lake City",
-      "fetched_at": "2026-10-17T13:30:39Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Three Utah colleges launch Wasatch South Regional Partnership",
-      "link": "https://utahpolicy.com/news-release/78445-three-utah-colleges-launch-wasatch-south-regional-partnership",
-      "published": "2026-10-13T14:45:42Z",
-      "source": "UtahPolicy",
-      "area": "Salt Lake City",
-      "fetched_at": "2026-10-17T13:30:39Z",
-      "category": "Education"
-    },
-    {
-      "headline": "Red Cross of Utah expands efforts to prepare communities before disasters",
-      "link": "https://utahpolicy.com/news-release/78440-red-cross-of-utah-expands-efforts-to-prepare-communities-before-disasters",
-      "published": "2026-10-13T12:45:25Z",
-      "source": "UtahPolicy",
-      "area": "Salt Lake City",
-      "fetched_at": "2026-10-17T13:30:39Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Registration now open for Utah Food Bank’s 21st annual Utah Human Race on Thanksgiving",
-      "link": "https://utahpolicy.com/news-release/78425-registration-nowopen-for-utah-food-banks-21st-annual-utah-human-race-on-thanksgiving",
-      "published": "2026-10-13T12:42:31Z",
-      "source": "UtahPolicy",
-      "area": "Salt Lake City",
-      "fetched_at": "2026-10-17T13:30:39Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Utah’s quality of life remains strong, but pressures continue to mount",
-      "link": "https://utahpolicy.com/news-release/78431-utahs-quality-of-life-remains-strong-but-pressures-continue-to-mount",
-      "published": "2026-10-13T12:34:15Z",
-      "source": "UtahPolicy",
-      "area": "Salt Lake City",
-      "fetched_at": "2026-10-17T13:30:39Z",
-      "category": "Other"
     }
   ],
   "link_only": [
