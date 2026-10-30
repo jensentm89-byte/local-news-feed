@@ -1,6 +1,6 @@
 # Source health
 
-Generated 2026-10-30 16:49Z.
+Generated 2026-10-30 23:18Z.
 
 Active feeds: 679 · link-only: 303 · paused: 1
 
@@ -9,10 +9,15 @@ Active feeds: 679 · link-only: 303 · paused: 1
 - **no stories yet** Reporter Newspapers
 - **silent** Henry Herald: newest story 11 days old
 - **silent** Gwinnett Citizen: newest story 13 days old
+- **failing** Rockdale Citizen: 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+
+## Baltimore, MD
+
+- **silent** Chesapeake Bay Magazine: newest story 10 days old
 
 ## Birmingham, AL
 
-- **failing** The Daily Mountain Eagle (Jasper): 7 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** The Daily Mountain Eagle (Jasper): 8 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Boston, MA
 
@@ -20,42 +25,35 @@ Active feeds: 679 · link-only: 303 · paused: 1
 
 ## Charlotte, NC
 
-- **failing** Mooresville Tribune: 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
-- **failing** Lancaster News: 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** Mooresville Tribune: 4 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** Lancaster News: 4 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Cincinnati, OH
 
-- **failing** Middletown Journal: 7 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** The News Record (UC): 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** Middletown Journal: 8 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Columbus, OH
 
-- **failing** Delaware Gazette: 26 runs in a row (PermissionError: robots.txt disallows this feed)
-- **silent** Circleville Herald: newest story 18 days old
+- **failing** Delaware Gazette: 27 runs in a row (PermissionError: robots.txt disallows this feed)
 
 ## Dallas–Fort Worth, TX
 
 - **silent** Plano Star Courier (Star Local Media): newest story 15 days old
-- **failing** Denton Record-Chronicle: 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
-
-## Denver, CO
-
-- **failing** Douglas County News-Press: 12 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** Denton Record-Chronicle: 4 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Grand Rapids, MI
 
-- **failing** The Rapidian: 21 runs in a row (HTTPError: HTTP Error 403: Forbidden)
-
-## Houston, TX
-
-- **failing** Houstonia: 6 runs in a row (PermissionError: robots.txt disallows this feed)
+- **failing** The Rapidian: 22 runs in a row (HTTPError: HTTP Error 403: Forbidden)
 
 ## Indianapolis, IN
 
-- **failing** Greenfield Daily Reporter: 26 runs in a row (PermissionError: robots.txt disallows this feed)
+- **failing** Greenfield Daily Reporter: 27 runs in a row (PermissionError: robots.txt disallows this feed)
+- **failing** Anderson Herald Bulletin: 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Jacksonville, FL
 
-- **silent** The Resident (Jax Beaches): newest story 27 days old
+- **silent** The Resident (Jax Beaches): newest story 28 days old
 
 ## Los Angeles, CA
 
@@ -63,18 +61,21 @@ Active feeds: 679 · link-only: 303 · paused: 1
 
 ## Louisville, KY
 
-- **failing** Oldham Era: 7 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
-- **failing** The News and Tribune (Jeffersonville): 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** Oldham Era: 8 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** The News and Tribune (Jeffersonville): 4 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Miami, FL
 
-- **silent** Fort Lauderdale Magazine: newest story 13 days old
+- **silent** Fort Lauderdale Magazine: newest story 14 days old
 
 ## Minneapolis–St. Paul, MN
 
-- **silent** Park Bugle: newest story 29 days old
 - **silent** Stillwater Gazette: newest story 17 days old
-- **failing** Hudson Star-Observer: 9 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** Hudson Star-Observer: 10 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+
+## Nashville, TN
+
+- **silent** Murfreesboro Pulse: newest story 10 days old
 
 ## New York, NY
 
@@ -88,16 +89,24 @@ Active feeds: 679 · link-only: 303 · paused: 1
 
 ## Orlando, FL
 
-- **failing** Florida Courier Orlando: 5 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** Florida Courier Orlando: 6 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Providence, RI
 
-- **silent** The Public's Radio: newest story 19 days old
-- **failing** The Sun Chronicle (Attleboro): 9 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **silent** The Public's Radio: newest story 20 days old
+- **no stories yet** The Sun Chronicle (Attleboro)
+
+## Riverside–San Bernardino, CA
+
+- **silent** Fontana Herald News: newest story 10 days old
+
+## Sacramento, CA
+
+- **failing** The Davis Enterprise: 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Salt Lake City, UT
 
-- **failing** Salt Lake Magazine: 6 runs in a row (PermissionError: robots.txt disallows this feed)
+- **failing** Salt Lake Magazine: 7 runs in a row (HTTPError: HTTP Error 403: Forbidden)
 
 ## Seattle, WA
 
@@ -107,6 +116,10 @@ Active feeds: 679 · link-only: 303 · paused: 1
 
 - **silent** La Gaceta: newest story 28 days old
 
+## Virginia Beach–Norfolk, VA
+
+- **silent** Chesapeake Bay Magazine: newest story 10 days old
+
 ## Washington, DC
 
-- **failing** The Afro: 15 runs in a row (HTTPError: HTTP Error 500: Internal Server Error)
+- **failing** The Afro: 16 runs in a row (HTTPError: HTTP Error 500: Internal Server Error)
