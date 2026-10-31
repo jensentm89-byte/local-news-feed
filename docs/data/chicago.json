@@ -1,11 +1,621 @@
 {
-  "generated_at": "2026-10-30T23:18:42Z",
+  "generated_at": "2026-10-31T15:50:53Z",
   "name": "Chicago, IL",
   "areas": [
     "Chicago",
     "Suburbs"
   ],
   "articles": [
+    {
+      "headline": "Blackhawks look to break Bruins' home win streak",
+      "link": "https://wgntv.com/sports/blackhawks/blackhawks-look-to-break-bruins-home-win-streak/",
+      "published": "2026-10-31T15:15:43Z",
+      "source": "WGN-TV",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:37Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Giants’ second-half fight not enough against defending 6A champs",
+      "link": "https://www.therecordnorthshore.org/2026/10/31/giants-second-half-fight-not-enough-against-defending-6a-champs/",
+      "published": "2026-10-31T15:03:42Z",
+      "source": "The Record North Shore",
+      "area": "Suburbs",
+      "fetched_at": "2026-10-31T15:45:42Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Chicago man faces 14 felony charges after Evanston police drug investigation",
+      "link": "https://evanstonroundtable.com/2026/10/31/chicago-man-faces-14-felony-charges-after-evanston-police-drug-investigation/",
+      "published": "2026-10-31T14:52:43Z",
+      "source": "Evanston RoundTable",
+      "area": "Suburbs",
+      "fetched_at": "2026-10-31T15:45:34Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Chicago man faces 14 felony drug and firearm charges",
+      "link": "https://evanstonnow.com/chicago-man-faces-14-felony-drug-and-firearm-charges/",
+      "published": "2026-10-31T14:23:01Z",
+      "source": "Evanston Now",
+      "area": "Suburbs",
+      "fetched_at": "2026-10-31T15:45:42Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "15-year-old boy among 2 critically wounded in Grand Boulevard shooting",
+      "link": "https://chicago.suntimes.com/crime/2026/10/31/15-year-old-among-2-critically-wounded-grand-boulevard",
+      "published": "2026-10-31T14:22:33Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:29Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Man shot and killed during fight inside Albany Park home",
+      "link": "https://chicago.suntimes.com/crime/2026/10/31/man-shot-killed-during-fight-albany-park",
+      "published": "2026-10-31T14:17:35Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:29Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Man killed after argument leads to shooting inside Northwest Side home",
+      "link": "https://wgntv.com/news/chicagocrime/man-killed-after-argument-leads-to-shooting-inside-northwest-side-home/",
+      "published": "2026-10-31T13:59:44Z",
+      "source": "WGN-TV",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:37Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "15-year-old critically injured in double shooting on Chicago's South Side",
+      "link": "https://www.fox32chicago.com/news/15-year-old-critically-injured-double-shooting-chicagos-south-side",
+      "published": "2026-10-31T13:50:35Z",
+      "source": "Fox 32 Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:36Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Josh Jordan, an extraordinary introvert, lifelong polymath and member of the HushLoudly team!",
+      "link": "https://wgnradio.com/wgn-plus/hush-loudly/josh-jordan-an-extraordinary-introvert-lifelong-polymath-and-member-of-the-hushloudly-team/",
+      "published": "2026-10-31T13:28:03Z",
+      "source": "WGN Radio",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:40Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Loyola advances with authority, gets York next",
+      "link": "https://www.therecordnorthshore.org/2026/10/31/loyola-advances-with-authority-gets-york-next/",
+      "published": "2026-10-31T13:25:08Z",
+      "source": "The Record North Shore",
+      "area": "Suburbs",
+      "fetched_at": "2026-10-31T15:45:42Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Jay-Z to Headline 2027 Super Bowl Halftime Show in Historic Career Milestone",
+      "link": "https://chicagocrusader.com/jay-z-to-headline-2027-super-bowl-halftime-show-in-historic-career-milestone/",
+      "published": "2026-10-31T13:25:02Z",
+      "source": "Chicago Crusader",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:34Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Gary Residents Have Until November 5 to Weigh In on Housing and Community Funding Changes",
+      "link": "https://chicagocrusader.com/gary-residents-have-until-november-5-to-weigh-in-on-housing-and-community-funding-changes/",
+      "published": "2026-10-31T13:22:00Z",
+      "source": "Chicago Crusader",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:34Z",
+      "category": "Development & Housing"
+    },
+    {
+      "headline": "Chicago Civil Rights Coalition Mobilizes to Protect Voters Ahead of November 3 Election",
+      "link": "https://chicagocrusader.com/chicago-civil-rights-coalition-mobilizes-to-protect-voters-ahead-of-november-3-election/",
+      "published": "2026-10-31T13:21:00Z",
+      "source": "Chicago Crusader",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:34Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Man shot in head during argument on Chicago's Northwest Side",
+      "link": "https://www.fox32chicago.com/news/man-shot-head-during-argument-chicagos-northwest-side",
+      "published": "2026-10-31T13:20:55Z",
+      "source": "Fox 32 Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:36Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "15-year-old boy injured in overnight shooting in Bronzeville",
+      "link": "https://wgntv.com/news/chicagocrime/15-year-old-boy-injured-in-overnight-shooting-in-bronzeville/",
+      "published": "2026-10-31T12:40:12Z",
+      "source": "WGN-TV",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:37Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "There's new guidance on menopause symptoms like hot flashes. What women need to know",
+      "link": "https://www.audacy.com/1010wins/news/health/acog-menopause-hot-flashes-688f1aaa07307c0bc046776df0bc6023",
+      "published": "2026-10-31T12:02:33Z",
+      "source": "WBBM Newsradio",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:39Z",
+      "category": "Health",
+      "local": true
+    },
+    {
+      "headline": "Eyes on Bears deal, data center regulation bill",
+      "link": "https://chicago.suntimes.com/columnists/2026/10/31/bears-stadium-illinois-indiana-data-centers-guardrails-rich-miller",
+      "published": "2026-10-31T11:00:00Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:29Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Narrative of cities failing under Black leadership are stereotypical, untrue",
+      "link": "https://chicago.suntimes.com/columnists/2026/10/31/black-mayors-cities-trump-crime-racism-brandon-johnson-marc-morial",
+      "published": "2026-10-31T11:00:00Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:29Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Does Chicago need a permanent festival site? Here's what you told us",
+      "link": "https://chicago.suntimes.com/chicago/2026/10/31/does-chicago-need-permanent-festival-site-what-you-told-us",
+      "published": "2026-10-31T11:00:00Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:29Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "How we photographed University of Chicago students rallying in wake of sexual assault reports",
+      "link": "https://chicago.suntimes.com/photography/2026/10/31/how-we-photographed-university-of-chicago-rally",
+      "published": "2026-10-31T11:00:00Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:29Z",
+      "category": "Education"
+    },
+    {
+      "headline": "Jeffery Simmons trade: Bears GM Ryan Poles pursues 'legendary stuff' as Super Bowl chase officially begins",
+      "link": "https://chicago.suntimes.com/bears/2026/10/31/jeffery-simmons-trade-bears-gm-ryan-poles-pursues-legendary-stuff-as-super-bowl-chase-officially-begins",
+      "published": "2026-10-31T11:00:00Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:29Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "Dear Abby: Beloved niece lacks respect for relatives' time",
+      "link": "https://chicago.suntimes.com/dear-abby/2026/10/31/dearabby-today-dear-abby-beloved-niece-lacks-respect-for-relatives-time",
+      "published": "2026-10-31T11:00:00Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:29Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Get vaccinated to protect yourself and others",
+      "link": "https://chicago.suntimes.com/letters-to-the-editor/2026/10/31/vaccinations-midterms-trump-summer-festivals-nurses-comed-data-centers-campus-sex-assaults-ctu",
+      "published": "2026-10-31T11:00:00Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:29Z",
+      "category": "Health"
+    },
+    {
+      "headline": "Seahawks boast the NFL's best receiver — the Bears must 'just try to contain him'",
+      "link": "https://chicago.suntimes.com/bears/2026/10/31/bears-seahawks-jaxon-smith-njigba-try-contain-monday-night-football-receiver-records-nfl",
+      "published": "2026-10-31T10:30:00Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:29Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "D65 proficiencies outpace statewide average",
+      "link": "https://evanstonnow.com/d65-proficiencies-outpace-statewide-average/",
+      "published": "2026-10-31T10:27:34Z",
+      "source": "Evanston Now",
+      "area": "Suburbs",
+      "fetched_at": "2026-10-31T15:45:42Z",
+      "category": "Education"
+    },
+    {
+      "headline": "It's been a scary season for ranked teams as Halloween arrives with intrigue for Top 25",
+      "link": "https://www.audacy.com/knss/sports/college-football-a28dbb958a84759eed7565ddd62b7139",
+      "published": "2026-10-31T10:10:07Z",
+      "source": "WBBM Newsradio",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:39Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Soggy spooks expected in Chicago area on Halloween: Here's the latest forecast",
+      "link": "https://www.nbcchicago.com/news/local/grab-your-umbrella-soggy-spooks-expected-in-chicago-area-on-halloween/4010074/",
+      "published": "2026-10-31T09:56:28Z",
+      "source": "NBC Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:36Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "Trunks plus treats makes tots happy",
+      "link": "https://evanstonnow.com/trunks-plus-treats-makes-tots-happy/",
+      "published": "2026-10-31T09:53:17Z",
+      "source": "Evanston Now",
+      "area": "Suburbs",
+      "fetched_at": "2026-10-31T15:45:42Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Chicago-area 2026 trick-or-treating times: When are the witching hours this year?",
+      "link": "https://www.nbcchicago.com/news/local/chicago-area-trick-or-treating-times-what-are-the-witching-hours-in-the-city-and-suburbs/4010062/",
+      "published": "2026-10-31T09:00:08Z",
+      "source": "NBC Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:36Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Pope Leo tells Villanova and Notre Dame basketball teams he is neutral. Prevost has other ideas",
+      "link": "https://www.audacy.com/knss/sports/vatican-pope-leo-villanova-notre-dame-college-basketball-3bb26f5b2b1bc2bd808b2dde13f585cb",
+      "published": "2026-10-31T07:37:03Z",
+      "source": "WBBM Newsradio",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:39Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Other women contacted police about previous incidents with Packers' Josh Jacobs after his arrest",
+      "link": "https://www.audacy.com/knss/sports/green-bay-packers-710ff54dde03c604b5d827daa450e4f6",
+      "published": "2026-10-31T05:51:49Z",
+      "source": "WBBM Newsradio",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:39Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Eshun Flowers' punt-block TD sparks Simeon to a 6A playoff win over Oak Lawn",
+      "link": "https://chicago.suntimes.com/high-school-football/2026/10/31/eshun-flowers-punt-block-td-sparks-simeon-to-a-6a-playoff-win-over-oak-lawn",
+      "published": "2026-10-31T05:48:10Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:29Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "Horoscope for Saturday, October 31, 2026",
+      "link": "https://chicago.suntimes.com/horoscopes/2026/10/31/horoscopes-today-saturday-october-31-2026",
+      "published": "2026-10-31T05:01:00Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:29Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Halloween at the McHenry Outdoor Theater: A spooky double feature of Scream and Halloween, plus holiday movie magic ahead",
+      "link": "https://wgnradio.com/on-the-map/halloween-at-the-mchenry-outdoor-theater-a-spooky-double-feature-of-scream-and-halloween-plus-holiday-movie-magic/",
+      "published": "2026-10-31T04:52:02Z",
+      "source": "WGN Radio",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:40Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Little-known Goode entertains the state in 88-84 playoff loss to Quincy played at two different fields",
+      "link": "https://chicago.suntimes.com/2026/10/30/little-known-goode-entertains-the-state-in-88-84-playoff-loss-to-quincy-played-at-two-different-fields",
+      "published": "2026-10-31T04:37:00Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:29Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "Chicago's best happenings: From the Haunted Halsted Halloween Fest to Rocky Horror",
+      "link": "https://wgnradio.com/on-the-map/chicagos-best-happenings-from-the-haunted-halstead-halloween-fest-to-rocky-horror/",
+      "published": "2026-10-31T04:22:15Z",
+      "source": "WGN Radio",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:40Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "How the Super 25 high school football teams fared in Week 11",
+      "link": "https://chicago.suntimes.com/high-school-football/2026/10/30/how-the-super-25-high-school-football-teams-fared-in-week-11",
+      "published": "2026-10-31T04:20:01Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:29Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "Intense, underrated Oklahoma State recruit TJ Lewis powers Bolingbrook past Lockport",
+      "link": "https://chicago.suntimes.com/high-school-football/2026/10/30/intense-underrated-oklahoma-state-recruit-tj-lewis-powers-bolingbrook-past-lockport",
+      "published": "2026-10-31T04:03:25Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:29Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Houdini’s centennial spotlight: A newly published essay and a fresh fight over when and how he died",
+      "link": "https://www.audacy.com/kcbsradio/entertainment/harry-houdini-magician-death-date-1fd6f1a0c31e7db127eaf0cf18987760",
+      "published": "2026-10-31T04:02:09Z",
+      "source": "WBBM Newsradio",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:39Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "A Slightly Spooky Halloween: All day and night at Navy Pier",
+      "link": "https://wgnradio.com/on-the-map/a-slightly-spooky-halloween-all-day-and-night-at-navy-pier/",
+      "published": "2026-10-31T03:44:28Z",
+      "source": "WGN Radio",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:40Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "‘Like a picture of resilience’: Some dogs rescued from Lemont home up for adoption",
+      "link": "https://wgntv.com/news/southwest-suburbs/lemont-dog-hoarding-rescue/",
+      "published": "2026-10-31T03:11:42Z",
+      "source": "WGN-TV",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:37Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Rookie Caleb Wilson blasts Bulls, self after blowout loss in Boston",
+      "link": "https://chicago.suntimes.com/bulls/2026/10/30/bulls-dismantled-boston-leading-rookie-caleb-wilson-speaking-out",
+      "published": "2026-10-31T03:00:16Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:29Z",
+      "category": "Other"
+    },
+    {
+      "headline": "District 65 parents threaten lawsuit over school closure plans",
+      "link": "https://evanstonroundtable.com/2026/10/30/district-65-parents-threaten-lawsuit/",
+      "published": "2026-10-31T02:01:10Z",
+      "source": "Evanston RoundTable",
+      "area": "Suburbs",
+      "fetched_at": "2026-10-31T15:45:34Z",
+      "category": "Education"
+    },
+    {
+      "headline": "Calling all trick-or-treaters",
+      "link": "https://evanstonroundtable.com/2026/10/30/calling-all-trick-or-treaters/",
+      "published": "2026-10-31T01:58:18Z",
+      "source": "Evanston RoundTable",
+      "area": "Suburbs",
+      "fetched_at": "2026-10-31T15:45:34Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Chicago's Most Haunted: Resurrection Mary, Bachelor’s Grove with Ghostlorist Ursula Bielski",
+      "link": "https://wgnradio.com/dave-plier/chicagos-most-haunted-resurrection-mary-bachelors-grove-with-ghostlorist-ursula-bielski/",
+      "published": "2026-10-31T01:48:42Z",
+      "source": "WGN Radio",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:40Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Stadium Club: Design firm explains benefits of a Bears stadium in Bridgeport",
+      "link": "https://wgnradio.com/the-stadium-club/stadium-club-design-firm-explains-benefits-of-a-bears-stadium-in-bridgeport/",
+      "published": "2026-10-31T01:47:08Z",
+      "source": "WGN Radio",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:40Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Selma Blair breaks silence on airplane arrest: ‘I am so sorry’",
+      "link": "https://www.fox32chicago.com/news/selma-blair-breaks-silence-airplane-arrest-i-am-so-sorry",
+      "published": "2026-10-31T01:41:10Z",
+      "source": "Fox 32 Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:36Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Evanston Community Cares to host a food and gift card drive on Nov. 7",
+      "link": "https://evanstonroundtable.com/2026/10/30/evanston-community-cares-to-host-a-food-and-gift-card-drive-on-nov-7/",
+      "published": "2026-10-31T01:28:34Z",
+      "source": "Evanston RoundTable",
+      "area": "Suburbs",
+      "fetched_at": "2026-10-31T15:45:34Z",
+      "category": "Education"
+    },
+    {
+      "headline": "Staff’s rankings for capital projects catches city finance committee’s attention",
+      "link": "https://evanstonroundtable.com/2026/10/30/staffs-rankings-for-capital-projects-catches-city-finance-committees-attention/",
+      "published": "2026-10-31T01:22:01Z",
+      "source": "Evanston RoundTable",
+      "area": "Suburbs",
+      "fetched_at": "2026-10-31T15:45:34Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Person of interest questioned in Chicago child abduction attempt, SUV theft",
+      "link": "https://www.fox32chicago.com/news/chicago-police-investigate-attempted-child-abduction-person-interest",
+      "published": "2026-10-31T01:19:41Z",
+      "source": "Fox 32 Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:36Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Focus group invites sent to White Sox fans as part of Justin Isbhia's South Loop stadium proposal",
+      "link": "https://chicago.suntimes.com/white-sox/2026/10/30/focus-group-invites-sent-to-white-sox-fans-as-part-of-justin-isbhias-south-loop-stadium-proposal",
+      "published": "2026-10-31T01:15:54Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:29Z",
+      "category": "Other"
+    },
+    {
+      "headline": "What's the most popular Halloween candy in Illinois?",
+      "link": "https://www.fox32chicago.com/news/whats-most-popular-halloween-candy-illinois",
+      "published": "2026-10-31T00:59:08Z",
+      "source": "Fox 32 Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:36Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "25,000 children's ceiling swings recalled over fall risk",
+      "link": "https://www.fox32chicago.com/news/25000-childrens-ceiling-swings-recalled-over-falling-risk",
+      "published": "2026-10-31T00:50:33Z",
+      "source": "Fox 32 Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:36Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "New faces at new places in high school boys basketball",
+      "link": "https://chicago.suntimes.com/high-school-sports/2026/10/30/new-faces-at-new-places-in-high-school-boys-basketball",
+      "published": "2026-10-31T00:49:06Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:29Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "Documents show Archer protester and political operative “Maria Martinez of Brighton Park” is actually Maria Moctezuma of Clearing",
+      "link": "https://chi.streetsblog.org/2026/10/30/archer-protester-and-political-operative-maria-martinez-of-brighton-park-is-actually-maria-moctezuma-of-clearing",
+      "published": "2026-10-31T00:41:25Z",
+      "source": "Streetsblog Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:39Z",
+      "category": "Traffic & Transit"
+    },
+    {
+      "headline": "Patrick Williams' contract status carries no weight with Bulls regime",
+      "link": "https://chicago.suntimes.com/bulls/2026/10/30/patrick-williams-contract-carries-no-weight-bulls-regime",
+      "published": "2026-10-31T00:31:15Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:29Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Lake View hospital kitchen reopens after license pulled for 'cockroach infestation,' other violations",
+      "link": "https://chicago.suntimes.com/health/2026/10/30/lake-view-hospital-kitchen-reopens-after-license-pulled-for-cockroach-infestation-other-violations",
+      "published": "2026-10-31T00:30:40Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:29Z",
+      "category": "Health"
+    },
+    {
+      "headline": "Inspired by Frank Lloyd Wright then wronged by neglect, South Park Terrace heads for auction",
+      "link": "https://chicago.suntimes.com/architecture-design/2026/10/30/frank-lloyd-wright-neglect-south-park-terrace-auction",
+      "published": "2026-10-31T00:15:19Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:29Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Artist’s Thayer Street Day of the Dead installation celebrates lives, legacies of lost loved ones",
+      "link": "https://evanstonroundtable.com/2026/10/30/artists-thayer-street-day-of-the-dead-installation-celebrates-lives-legacies-of-lost-loved-ones/",
+      "published": "2026-10-30T23:58:03Z",
+      "source": "Evanston RoundTable",
+      "area": "Suburbs",
+      "fetched_at": "2026-10-31T15:45:34Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Alders eye CIP cuts ahead of more budget talks",
+      "link": "https://evanstonnow.com/alders-eye-cip-cuts-ahead-of-more-budget-talks/",
+      "published": "2026-10-30T23:50:47Z",
+      "source": "Evanston Now",
+      "area": "Suburbs",
+      "fetched_at": "2026-10-31T15:45:42Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Tips on how to enjoy Halloween safely across Chicagoland",
+      "link": "https://wgntv.com/news/chicago-news/halloween-safety-tips/",
+      "published": "2026-10-30T23:45:17Z",
+      "source": "WGN-TV",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:37Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Former Muslim chaplain sues NU, claiming discrimination",
+      "link": "https://evanstonnow.com/former-muslim-chaplain-sues-nu-claiming-discrimination/",
+      "published": "2026-10-30T23:42:21Z",
+      "source": "Evanston Now",
+      "area": "Suburbs",
+      "fetched_at": "2026-10-31T15:45:42Z",
+      "category": "Education"
+    },
+    {
+      "headline": "Sky did Angel Reese a favor by dealing her to Dream",
+      "link": "https://chicago.suntimes.com/chicago-sky/2026/10/30/sky-did-angel-reese-a-favor-by-dealing-her-to-dream",
+      "published": "2026-10-30T23:41:43Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:29Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Candidates for South Side Board of Education Spots Split on Key Issues at Community Forum",
+      "link": "https://southsideweekly.com/candidates-for-south-side-board-of-education-spots-split-on-key-issues-at-community-forum/",
+      "published": "2026-10-30T23:30:17Z",
+      "source": "South Side Weekly",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:37Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Chicago weather: Spotty showers possible for Halloween trick-or-treating",
+      "link": "https://www.fox32chicago.com/weather/chicago-weather-spotty-showers-possible-halloween-trick-or-treating",
+      "published": "2026-10-30T23:18:42Z",
+      "source": "Fox 32 Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:36Z",
+      "category": "Weather",
+      "local": true
+    },
     {
       "headline": "White Sox face a new challenge this winter--improving a contender",
       "link": "https://chicago.suntimes.com/white-sox/2026/10/30/white-sox-face-a-new-challenge-this-winter-improving-a-contender",
@@ -63,6 +673,16 @@
       "area": "Chicago",
       "fetched_at": "2026-10-30T23:13:02Z",
       "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Newsroom Sound Check: 10/30/26",
+      "link": "https://wgnradio.com/lisa-dent/sound-check/newsroom-sound-check-10-30-26/",
+      "published": "2026-10-30T22:15:58Z",
+      "source": "WGN Radio",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:40Z",
+      "category": "Other",
       "local": true
     },
     {
@@ -661,6 +1281,15 @@
       "area": "Chicago",
       "fetched_at": "2026-10-30T23:13:07Z",
       "category": "Food & Events"
+    },
+    {
+      "headline": "D65 adds superintendent search session",
+      "link": "https://evanstonnow.com/d65-adds-superintendent-search-session/",
+      "published": "2026-10-30T17:11:00Z",
+      "source": "Evanston Now",
+      "area": "Suburbs",
+      "fetched_at": "2026-10-31T15:45:42Z",
+      "category": "Education"
     },
     {
       "headline": "Halas Intrigue podcast: The Bears' big trade",
@@ -1453,6 +2082,16 @@
       "category": "Education"
     },
     {
+      "headline": "Record $25K reward offered in killing of 6 dogs in Crete Township",
+      "link": "https://www.nbcchicago.com/news/local/record-25k-reward-offered-in-killing-of-6-dogs-in-crete-township/4010004/",
+      "published": "2026-10-30T08:44:10Z",
+      "source": "NBC Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:36Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
       "headline": "Illinois Lottery reveals fast new game, with prizes up to $2,500 a ‘pop'. Here's how it works",
       "link": "https://www.nbcchicago.com/news/local/illinois-lottery-launches-new-game/4009665/",
       "published": "2026-10-30T08:43:02Z",
@@ -1463,6 +2102,26 @@
       "local": true
     },
     {
+      "headline": "Armed suspects use sledgehammers to break into suburban gaming café, steal nearly $14K",
+      "link": "https://www.nbcchicago.com/news/local/armed-suspects-use-sledgehammers-to-break-into-suburban-gaming-cafe-steal-nearly-14k/4009997/",
+      "published": "2026-10-30T08:20:47Z",
+      "source": "NBC Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:36Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "How two suburban Taco Bell employees helped foil an alleged mass shooting plot",
+      "link": "https://www.nbcchicago.com/news/local/how-a-group-of-suburban-taco-bell-employees-helped-foil-an-alleged-mass-shooting-plot/4009985/",
+      "published": "2026-10-30T07:23:05Z",
+      "source": "NBC Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:36Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
       "headline": "Can Halloween scares actually be dangerous for your heart? What cardiologists say",
       "link": "https://www.nbcchicago.com/news/local/can-halloween-scares-actually-be-dangerous-for-your-heart-what-cardiologists-say/4009632/",
       "published": "2026-10-30T06:56:54Z",
@@ -1470,6 +2129,16 @@
       "area": "Chicago",
       "fetched_at": "2026-10-30T16:43:27Z",
       "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Therapy dog program helps stroke patients recover at suburban hospital",
+      "link": "https://www.nbcchicago.com/news/local/therapy-dog-program-helps-stroke-patients-recover-at-suburban-hospital/4009949/",
+      "published": "2026-10-30T05:54:28Z",
+      "source": "NBC Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-10-31T15:45:36Z",
+      "category": "Health",
       "local": true
     },
     {
@@ -21534,567 +22203,6 @@
       "area": "Suburbs",
       "fetched_at": "2026-10-17T21:44:15Z",
       "category": "Sports"
-    },
-    {
-      "headline": "Police seek driver wanted in connection with hit-and-run crash on Southwest Side",
-      "link": "https://wgntv.com/news/chicagocrime/police-seek-driver-wanted-in-connection-with-hit-and-run-crash-on-southwest-side/",
-      "published": "2026-10-17T15:44:57Z",
-      "source": "WGN-TV",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T21:44:19Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Kenya’s Ebola cases rise to 7, including health workers who cared for the first patient",
-      "link": "https://www.audacy.com/1010wins/news/health/kenya-ebola-congo-uganda-0ae2b2874ae114c2359df58282cf656d",
-      "published": "2026-10-17T15:43:27Z",
-      "source": "WBBM Newsradio",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T21:44:22Z",
-      "category": "Health",
-      "local": true
-    },
-    {
-      "headline": "HCDC to consider updated housing rehab expansion plan",
-      "link": "https://evanstonnow.com/hcdc-to-consider-updated-housing-rehab-expansion-plan/",
-      "published": "2026-10-17T15:33:00Z",
-      "source": "Evanston Now",
-      "area": "Suburbs",
-      "fetched_at": "2026-10-17T21:44:24Z",
-      "category": "Development & Housing"
-    },
-    {
-      "headline": "Pope Leo leaves Rome’s Gemelli hospital 4 days after lung cancer surgery",
-      "link": "https://chicago.suntimes.com/news/2026/10/17/pope-leo-leaves-romes-gemelli-hospital-4-days-after-lung-cancer-surgery",
-      "published": "2026-10-17T15:16:00Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T21:44:05Z",
-      "category": "Health"
-    },
-    {
-      "headline": "Evanston Symphony Orchestra sets ‘All That Jazz’ fundraiser Oct. 23 to support its community outreach programs",
-      "link": "https://evanstonroundtable.com/2026/10/17/evanston-symphony-orchestra-sets-all-that-jazz-fundraiser-oct-23-to-support-its-community-outreach-programs/",
-      "published": "2026-10-17T15:11:00Z",
-      "source": "Evanston RoundTable",
-      "area": "Suburbs",
-      "fetched_at": "2026-10-17T21:44:15Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Pedestrian killed after being struck by 2 cars in Sugar Grove",
-      "link": "https://wgntv.com/western-suburbs/pedestrian-killed-after-being-struck-by-2-cars-in-sugar-grove/",
-      "published": "2026-10-17T15:08:55Z",
-      "source": "WGN-TV",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T21:44:19Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Here’s How To Vote For Chicago’s School Board",
-      "link": "https://borderlessmag.org/2026/10/17/heres-how-to-vote-for-chicagos-school-board/",
-      "published": "2026-10-17T15:00:59Z",
-      "source": "Borderless Magazine",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T21:44:22Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Stars in action against the Blackhawks following shootout victory",
-      "link": "https://wgntv.com/sports/blackhawks/stars-in-action-against-the-blackhawks-following-shootout-victory/",
-      "published": "2026-10-17T14:43:09Z",
-      "source": "WGN-TV",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T21:44:19Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "4 men injured in Little Village drive-by shooting",
-      "link": "https://chicago.suntimes.com/crime/2026/10/17/4-men-injured-in-little-village-drive-by-shooting",
-      "published": "2026-10-17T13:34:15Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T21:44:05Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "A bitter Michigan Senate race rattles Jewish and Muslim voters already on edge over the war in Gaza",
-      "link": "https://www.audacy.com/1010wins/news/politics/rogers-elsayed-michigan-senate-muslim-trump-fa647a1ed81302344483d6aa79f5747f",
-      "published": "2026-10-17T13:31:58Z",
-      "source": "WBBM Newsradio",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T21:44:22Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Early voting to expand to all 50 Chicago wards Monday",
-      "link": "https://wgntv.com/politics-3/early-voting-to-expand-to-all-50-chicago-wards-monday/",
-      "published": "2026-10-17T13:25:55Z",
-      "source": "WGN-TV",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T21:44:19Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Hyundai recalls more than 94,000 vehicles over fire risk",
-      "link": "https://www.fox32chicago.com/news/hyundai-recall-fire-risk",
-      "published": "2026-10-17T13:22:10Z",
-      "source": "Fox 32 Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-10-18T14:02:40Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "FEMA Offers Indiana Homeowners Tips and Assistance to Reduce Future Storm Damage",
-      "link": "https://chicagocrusader.com/fema-offers-indiana-homeowners-tips-and-assistance-to-reduce-future-storm-damage/",
-      "published": "2026-10-17T12:22:37Z",
-      "source": "Chicago Crusader",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T13:01:44Z",
-      "category": "Weather"
-    },
-    {
-      "headline": "Chicago weather: Chilly temps to start the weekend, more sunshine later",
-      "link": "https://www.fox32chicago.com/weather/chicago-weather-chilly-temps-start-weekend-more-sunshine-later",
-      "published": "2026-10-17T12:10:34Z",
-      "source": "Fox 32 Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T13:01:46Z",
-      "category": "Weather",
-      "local": true
-    },
-    {
-      "headline": "4 injured in overnight drive-by shooting in Little Village",
-      "link": "https://wgntv.com/news/chicagocrime/4-injured-in-overnight-drive-by-shooting-in-little-village/",
-      "published": "2026-10-17T11:39:59Z",
-      "source": "WGN-TV",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T13:01:46Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Sunday starts a crucial 5-day test for Bears coach Ben Johnson and his QB",
-      "link": "https://chicago.suntimes.com/bears/2026/10/17/bears-falcons-ben-johnson-caleb-williams-5-day-test-coach-quarterback-nfl",
-      "published": "2026-10-17T11:25:00Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T13:01:38Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Chicago crime: 4 hurt in Little Village drive-by mass shooting, police say",
-      "link": "https://www.fox32chicago.com/news/little-village-mass-shooting-10-17",
-      "published": "2026-10-17T11:16:13Z",
-      "source": "Fox 32 Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T13:01:46Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Rising mortgage rates and home prices sidelining buyers but now is the time to purchase, report says",
-      "link": "https://chicago.suntimes.com/real-estate/2026/10/17/mortgage-rates-home-prices-sidelining-buyers-purchase-redfin-report",
-      "published": "2026-10-17T11:00:00Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T13:01:38Z",
-      "category": "Development & Housing"
-    },
-    {
-      "headline": "Which Chicago neighborhood feels like a small town? Here's what you told us",
-      "link": "https://chicago.suntimes.com/chicago/2026/10/17/chicago-neighborhood-feels-like-small-town-what-you-told-us",
-      "published": "2026-10-17T11:00:00Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T13:01:38Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Thrifting is for need, not for greed",
-      "link": "https://chicago.suntimes.com/letters-to-the-editor/2026/10/17/thrifting-affordability-race-sophie-cunningham-dijonai-carrington-death-penalty-flock-union-trump",
-      "published": "2026-10-17T11:00:00Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T13:01:38Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Hate comes for South Asians — again",
-      "link": "https://chicago.suntimes.com/columnists/2026/10/17/south-asian-hate-indians-hindu-temple-aurora-trump-alexandros-paporakis-rummana-hussain",
-      "published": "2026-10-17T11:00:00Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T13:01:38Z",
-      "category": "Other"
-    },
-    {
-      "headline": "How we photographed the Chicago Marathon",
-      "link": "https://chicago.suntimes.com/photography/2026/10/17/how-we-photographed-the-chicago-marathon",
-      "published": "2026-10-17T11:00:00Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T13:01:38Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Dear Abby: Daughter with grudges makes herself hard to love",
-      "link": "https://chicago.suntimes.com/dear-abby/2026/10/17/dearabby-today-dear-abby-daughter-with-grudges-makes-herself-hard-to-love",
-      "published": "2026-10-17T11:00:00Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T13:01:38Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Bears-Falcons: What To Watch For",
-      "link": "https://chicago.suntimes.com/bears/2026/10/17/bears-falcons-what-to-watch-for-sunday-ben-johnson-dandre-swift-tyson-bagent-caleb-williams-bijan-robinson-nfl",
-      "published": "2026-10-17T10:48:00Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T13:01:38Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Man dies after being hit by 2 vehicles in Sugar Grove",
-      "link": "https://www.nbcchicago.com/news/local/man-dies-after-being-hit-by-2-vehicles-in-sugar-grove/4003763/",
-      "published": "2026-10-17T10:34:04Z",
-      "source": "NBC Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T21:44:17Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Handful of competitive suburban races rev up November General Assembly elections",
-      "link": "https://chicago.suntimes.com/elections/2026/10/17/chicago-suburbs-elections-illinois-general-assembly-senate-house-darby-hills-republican-nabeela-syed-democrat",
-      "published": "2026-10-17T10:30:00Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T13:01:38Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Chicago civil rights leader Al Raby is memorialized with a street dedication",
-      "link": "https://chicago.suntimes.com/education/2026/10/17/chicago-public-schools-civil-rights-leader-al-raby-segregation-woodlawn-street-dedication",
-      "published": "2026-10-17T10:30:00Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T13:01:38Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Old Town School of Folk teacher Ted Johnson, who shared ‘magic’ of music with decades of students, has died",
-      "link": "https://www.wbez.org/obituary/2026/10/17/old-town-school-of-folk-teacher-ted-johnson-obituary-music-chicago-history",
-      "published": "2026-10-17T10:30:00Z",
-      "source": "WBEZ",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T13:01:39Z",
-      "category": "Education",
-      "local": true
-    },
-    {
-      "headline": "Thousands watch HS football at college stadium",
-      "link": "https://evanstonnow.com/thousands-watch-hs-football-at-college-stadium/",
-      "published": "2026-10-17T10:20:27Z",
-      "source": "Evanston Now",
-      "area": "Suburbs",
-      "fetched_at": "2026-10-17T13:01:52Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Indiana's 22-game win streak ends against Ohio State in one of six Top 25 showdowns",
-      "link": "https://www.audacy.com/knss/sports/college-football-af846a30c4d75e085ad8bdd7da9fd7b1",
-      "published": "2026-10-17T10:10:08Z",
-      "source": "WBBM Newsradio",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T21:44:22Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "UPDATE: Shelter-in-place advisory lifted in Joliet",
-      "link": "https://www.nbcchicago.com/news/local/residents-in-joliet-neighborhood-asked-to-shelter-in-place-as-police-serve-warrant/4003746/",
-      "published": "2026-10-17T09:33:24Z",
-      "source": "NBC Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T21:44:17Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "4 injured in Little Village shooting, Chicago police say",
-      "link": "https://www.nbcchicago.com/news/local/4-injured-in-little-village-shooting-chicago-police-say/4003721/",
-      "published": "2026-10-17T08:16:47Z",
-      "source": "NBC Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T21:44:17Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "City Colleges of Chicago faculty, staff preparing for Monday strike",
-      "link": "https://www.nbcchicago.com/news/local/city-colleges-of-chicago-faculty-staff-preparing-for-monday-strike/4003912/",
-      "published": "2026-10-17T08:01:01Z",
-      "source": "NBC Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-10-18T14:02:39Z",
-      "category": "Education",
-      "local": true
-    },
-    {
-      "headline": "Retail price impacts from the Iran war are uneven but add up for US households before midterms",
-      "link": "https://www.audacy.com/kdkaradio/news/business/inflation-iran-war-gasoline-airfare-groceries-diesel-shoes-839cad4e83990c95385558906dfa1f92",
-      "published": "2026-10-17T07:24:35Z",
-      "source": "WBBM Newsradio",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T13:01:49Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Little Village shooting victims were targeted outside church after packing meals",
-      "link": "https://www.nbcchicago.com/news/local/little-village-shooting-victims-were-targeted-outside-church-after-packing-meals/4003890/",
-      "published": "2026-10-17T06:08:50Z",
-      "source": "NBC Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-10-18T14:02:39Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Jake Nawrot and Jackson Travis help Hersey pile up more than 600 yards to beat Prospect",
-      "link": "https://chicago.suntimes.com/high-school-football/2026/10/17/hersey-football-jake-nawrot-prospect",
-      "published": "2026-10-17T05:05:48Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T13:01:38Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Horoscope for Saturday, October 17, 2026",
-      "link": "https://chicago.suntimes.com/horoscopes/2026/10/17/horoscopes-today-saturday-october-17-2026",
-      "published": "2026-10-17T05:01:00Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T13:01:38Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Republicans Gear Up For Lincoln Day Dinner",
-      "link": "https://www.journal-topics.com/articles/republicans-gear-up-for-lincoln-day-dinner/",
-      "published": "2026-10-17T05:00:53Z",
-      "source": "Journal & Topics (Des Plaines)",
-      "area": "Suburbs",
-      "fetched_at": "2026-10-17T13:01:55Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Iran war votes in Congress become a focal point for campaign ad attacks",
-      "link": "https://www.audacy.com/1010wins/news/politics/midterms-iran-war-campaign-ads-e3e355b7d32f0912cb88524531149925",
-      "published": "2026-10-17T04:05:34Z",
-      "source": "WBBM Newsradio",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T13:01:49Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "How the Super 25 high school football teams fared in Week 9",
-      "link": "https://chicago.suntimes.com/high-school-football/2026/10/16/high-school-football-super-25-scores-sun-times-chicago",
-      "published": "2026-10-17T04:03:03Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T04:52:31Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "4 Chicago area congressional offices receive suspicious letters amid wave of preelection threats",
-      "link": "https://chicago.suntimes.com/news/2026/10/16/schneider-quigleys-offices-receive-suspicious-letters-amid-pre-election-threats",
-      "published": "2026-10-17T03:58:00Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T04:52:31Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Mount Carmel beats top-ranked Loyola, begins living up to all the preseason hype",
-      "link": "https://chicago.suntimes.com/high-school-football/2026/10/16/mount-carmel-football-loyola",
-      "published": "2026-10-17T03:37:00Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T04:52:31Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Bulls guard Josh Giddey is preparing himself for the upcoming air show",
-      "link": "https://chicago.suntimes.com/bulls/2026/10/16/bulls-guard-josh-giddey-preparing-upcoming-air-show",
-      "published": "2026-10-17T03:20:39Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T04:52:31Z",
-      "category": "Other"
-    },
-    {
-      "headline": "IHSA places Lincoln-Way East High School on probation following 2 incidents",
-      "link": "https://www.nbcchicago.com/news/local/ihsa-places-lincoln-way-east-high-school-on-probation-following-2-incidents/4003812/",
-      "published": "2026-10-17T02:35:47Z",
-      "source": "NBC Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T21:44:17Z",
-      "category": "Education",
-      "local": true
-    },
-    {
-      "headline": "Water-contaminated gas at Chicago gas station leaves six customers with vehicle problems",
-      "link": "https://www.fox32chicago.com/news/water-gas-chicago-gas-station",
-      "published": "2026-10-17T02:15:03Z",
-      "source": "Fox 32 Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T04:52:35Z",
-      "local": true,
-      "category": "Other"
-    },
-    {
-      "headline": "FTC launches $9.8M payout to Walmart wire service customers targeted by scams",
-      "link": "https://www.fox32chicago.com/news/ftc-launches-9-8m-payout-walmart-wire-service-customers-targeted-scams",
-      "published": "2026-10-17T02:03:41Z",
-      "source": "Fox 32 Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T13:01:46Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Feeling brave? Here are 10 haunted houses to visit across the Chicago area",
-      "link": "https://www.nbcchicago.com/news/local/feeling-brave-here-are-10-haunted-houses-to-visit-across-the-chicago-area/4003801/",
-      "published": "2026-10-17T01:41:54Z",
-      "source": "NBC Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T21:44:17Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Serial Killer: The Original Exhibition, The Tao of Duff, The Living Canvas, and tailgating in Chicago",
-      "link": "https://wgnradio.com/on-the-map/serial-killer-the-original-exhibition-the-tao-of-duff-the-living-canvas-and-tailgating-in-chicago/",
-      "published": "2026-10-17T01:30:40Z",
-      "source": "WGN Radio",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T13:01:50Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Chicagoland US representatives sent suspicious letters",
-      "link": "https://wgntv.com/news/chicago-news/chicago-congressmen-suspicious-mail/",
-      "published": "2026-10-17T01:26:32Z",
-      "source": "WGN-TV",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T04:52:36Z",
-      "local": true,
-      "category": "Other"
-    },
-    {
-      "headline": "Southern Nazarene football player Tyler Ulrich dies after sustaining game injury",
-      "link": "https://www.fox32chicago.com/news/southern-nazarene-football-player-tyler-ulrich-dies-after-sustaining-game-injury",
-      "published": "2026-10-17T01:20:48Z",
-      "source": "Fox 32 Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-10-18T14:02:40Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Insufficient evidence that Chicago School Board candidate engaged in sexual misconduct, watchdog report finds",
-      "link": "https://www.wbez.org/education/2026/10/16/insufficient-evidence-that-chicago-school-board-candidate-engaged-in-sexual-misconduct-watchdog-report-finds",
-      "published": "2026-10-17T01:07:51Z",
-      "source": "WBEZ",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T04:52:31Z",
-      "local": true,
-      "category": "Education"
-    },
-    {
-      "headline": "Insufficient evidence that Chicago School Board candidate engaged in sexual misconduct, watchdog report finds",
-      "link": "https://chicago.suntimes.com/chicago-school-board/2026/10/16/insufficient-evidence-that-chicago-school-board-candidate-engaged-in-sexual-misconduct-watchdog-report-finds",
-      "published": "2026-10-17T01:06:53Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T04:52:31Z",
-      "category": "Education"
-    },
-    {
-      "headline": "Hobart police corporal accused of punching woman, beating her boyfriend in off-duty fight",
-      "link": "https://www.fox32chicago.com/news/fight-involving-hobart-police-officer-exclusive-interview",
-      "published": "2026-10-17T00:56:48Z",
-      "source": "Fox 32 Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T04:52:35Z",
-      "local": true,
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Six months after the Sky traded her away, Angel Reese is in the WNBA Finals",
-      "link": "https://chicago.suntimes.com/chicago-sky/2026/10/16/six-months-after-the-sky-traded-her-away-angel-reese-is-in-the-wnba-finals",
-      "published": "2026-10-17T00:44:00Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T04:52:31Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Nic Claxton expected to be only Bull not available to start season",
-      "link": "https://chicago.suntimes.com/bulls/2026/10/16/nic-claxton-chicago-bulls-tiago-splitter-zach-collins-tobe-awaka-isaac-okoro-leonard-miller-milwaukee-bucks",
-      "published": "2026-10-17T00:37:23Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T04:52:31Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Cash floods CPS School Board races, with big money groups outraising the Chicago Teachers Union 5 to 1",
-      "link": "https://chicago.suntimes.com/education/2026/10/16/cash-floods-cps-school-board-races-with-big-money-groups-outraising-the-chicago-teachers-union-5-to-1",
-      "published": "2026-10-17T00:01:02Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T04:52:31Z",
-      "category": "Education"
-    },
-    {
-      "headline": "'Handshake agreement' with ESPN brings college football closer to a 24-team playoff, AP source says",
-      "link": "https://www.audacy.com/knss/sports/college-football-playoff-expansion-53d57e6607082aebe4ded577c3ff310a",
-      "published": "2026-10-16T23:54:18Z",
-      "source": "WBBM Newsradio",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T01:11:39Z",
-      "local": true,
-      "category": "Sports"
-    },
-    {
-      "headline": "UChicago Community Shaken By Sexual Assault Report: ‘What Are We Going To Do About It?’",
-      "link": "https://blockclubchicago.org/2026/10/16/uchicago-community-shaken-by-sexual-assault-report-what-are-we-going-to-do-about-it/",
-      "published": "2026-10-16T23:45:20Z",
-      "source": "Block Club Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T04:52:31Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Chicago weather: Frosty start to the weekend before sunny, 70-degree weather returns",
-      "link": "https://www.fox32chicago.com/weather/chicago-weather-frosty-start-weekend-before-sunny-70-degree-weather-returns",
-      "published": "2026-10-16T23:37:03Z",
-      "source": "Fox 32 Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-10-17T04:52:35Z",
-      "local": true,
-      "category": "Weather"
     }
   ],
   "link_only": [
