@@ -1,10 +1,1206 @@
 {
-  "generated_at": "2026-11-04T00:20:04Z",
+  "generated_at": "2026-11-04T18:05:43Z",
   "name": "Atlanta, GA",
   "areas": [
     "Atlanta"
   ],
   "articles": [
+    {
+      "headline": "Update: Vehicle crashes into Magnolias Bar in Athens causing major damage to building",
+      "link": "https://roughdraftatlanta.com/2026/11/04/vehicle-crashes-magnolias-bar-athens/",
+      "published": "2026-11-04T17:54:12Z",
+      "source": "Rough Draft Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Traffic & Transit"
+    },
+    {
+      "headline": "Brookhaven parks and recreation centers available for reservation",
+      "link": "https://roughdraftatlanta.com/2026/11/04/brookhaven-resident-rental-discounts/",
+      "published": "2026-11-04T17:52:52Z",
+      "source": "Rough Draft Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Metro Atlanta city holding ‘fresh start’ amnesty program all through November",
+      "link": "https://www.wsbtv.com/news/local/dekalb-county/metro-atlanta-city-holding-fresh-start-amnesty-program-all-through-november/DLJ4YJIMGVERTGIGE2IQVBUFNU/",
+      "published": "2026-11-04T17:50:21Z",
+      "source": "WSB-TV",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "72-year-old man shot, killed by officer after threatening deputies: GBI",
+      "link": "https://www.wsbtv.com/news/georgia/72-year-old-man-shot-killed-by-officer-after-threatening-deputies-gbi/MLULCAA4ZFFWTCKB32T4Z3ZJ5I/",
+      "published": "2026-11-04T17:48:53Z",
+      "source": "WSB-TV",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "First Alert Weather Day: Heavy rain, gusty winds and strong storms possible today",
+      "link": "https://www.atlantanewsfirst.com/2026/11/04/first-alert-weather-day-scattered-rain-expected-throughout-day/",
+      "published": "2026-11-04T17:47:27Z",
+      "source": "Atlanta News First (WANF)",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "16-year-old shot, killed by police near Krispy Kreme parking lot",
+      "link": "https://www.wsbtv.com/news/local/henry-county/16-year-old-shot-killed-by-police-near-krispy-kreme-parking-lot/2CXPE3MWVBEARP65LNV3WY2XNE/",
+      "published": "2026-11-04T17:44:10Z",
+      "source": "WSB-TV",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Two Gwinnett grads part of Mercer University's Stamps Scholars class",
+      "link": "https://www.gwinnettdailypost.com/local/two-gwinnett-grads-part-of-mercer-universitys-stamps-scholars-class/article_997bcb4e-9bae-4c3e-879d-91f48f91e2bd.html",
+      "published": "2026-11-04T17:41:00Z",
+      "source": "Gwinnett Daily Post",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Education",
+      "local": true
+    },
+    {
+      "headline": "Every Color Matters Celebrates 10 Years of Cancer Support with Annual 5K",
+      "link": "https://www.atlantanewsfirst.com/2026/11/04/every-color-matters-celebrates-10-years-cancer-support-with-annual-5k/",
+      "published": "2026-11-04T17:39:05Z",
+      "source": "Atlanta News First (WANF)",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Health",
+      "local": true
+    },
+    {
+      "headline": "16-year-old shot, killed by Henry County police officer, GBI says",
+      "link": "https://www.atlantanewsfirst.com/2026/11/04/gbi-investigating-shooting-involving-officer-henry-county/",
+      "published": "2026-11-04T17:32:49Z",
+      "source": "Atlanta News First (WANF)",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Man, 46, dies after crashing into downtown Athens building",
+      "link": "https://www.fox5atlanta.com/news/police-incident-shuts-down-street-downtown-athens",
+      "published": "2026-11-04T17:32:42Z",
+      "source": "FOX 5 Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "A New Chelsea Market Venue Is Combining Stand-Up Comedy, Cocktails and Dining",
+      "link": "https://whatnow.com/new-york/restaurants/a-new-chelsea-market-venue-is-combining-stand-up-comedy-cocktails-and-dining/",
+      "published": "2026-11-04T17:30:01Z",
+      "source": "What Now Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:36Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "7-Eleven Is Bringing a Sweet-and-Spicy Surprise to Its Slurpee Menu",
+      "link": "https://whatnow.com/news/trending/7-eleven-is-bringing-a-sweet-and-spicy-surprise-to-its-slurpee-menu/",
+      "published": "2026-11-04T17:24:43Z",
+      "source": "What Now Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:36Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Heather Lindsey Empowers Everyday Professionals Through Stock Options Trading",
+      "link": "https://www.atlantanewsfirst.com/2026/11/04/heather-lindsey-empowers-everyday-professionals-through-stock-options-trading/",
+      "published": "2026-11-04T17:24:24Z",
+      "source": "Atlanta News First (WANF)",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Driver dies after crashing vehicle into popular Magnolias Bar in Athens, police say",
+      "link": "https://www.11alive.com/article/news/local/vehicle-causes-major-damage-after-crashing-into-popular-magnolias-bar-in-athens/85-ca38d154-9139-4cfd-950e-43ea482e17db",
+      "published": "2026-11-04T17:24:22Z",
+      "source": "11Alive",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Former judge arrested for unloading gun at Halloween trick-or-treaters, police say",
+      "link": "https://www.atlantanewsfirst.com/2026/11/04/former-judge-arrested-unloading-gun-halloween-trick-or-treaters-police-say/",
+      "published": "2026-11-04T17:24:19Z",
+      "source": "Atlanta News First (WANF)",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "100 Montaditos Plans New Restaurant on Hollywood Boulevard",
+      "link": "https://whatnow.com/miami/restaurants/100-montaditos-plans-new-restaurant-on-hollywood-boulevard/",
+      "published": "2026-11-04T17:23:18Z",
+      "source": "What Now Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:36Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Atlanta police report crime down overall by 13%, homicides continue trending lower",
+      "link": "https://www.wsbtv.com/news/local/atlanta/atlanta-police-report-crime-down-overall-by-13-homicides-continue-trending-lower/IJ4NQYJU6RBCZLGIPVJNQRJJDU/",
+      "published": "2026-11-04T17:21:52Z",
+      "source": "WSB-TV",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Storms moving through north Georgia today, low severe weather risk",
+      "link": "https://www.wsbtv.com/news/local/showers-storms-move-through-north-georgia-today/2ASPNLKPLZEPBKUISMWXIMJIPE/",
+      "published": "2026-11-04T17:21:48Z",
+      "source": "WSB-TV",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "When Black Women Lead",
+      "link": "https://www.theatlantavoice.com/politics/when-black-women-lead-b790b3d9",
+      "published": "2026-11-04T17:18:11Z",
+      "source": "The Atlanta Voice",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "1 killed after car smashes into historic downtown Athens building, causes partial collapse",
+      "link": "https://www.atlantanewsfirst.com/2026/11/04/car-smashes-into-historic-downtown-athens-building-causes-partial-collapse/",
+      "published": "2026-11-04T17:17:25Z",
+      "source": "Atlanta News First (WANF)",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Black women lead Democrats to unprecedented statewide sweep of Georgia’s executive branch",
+      "link": "https://www.atlantanewsfirst.com/2026/11/04/black-women-lead-democrats-unprecedented-statewide-sweep-georgias-executive-branch/",
+      "published": "2026-11-04T17:16:47Z",
+      "source": "Atlanta News First (WANF)",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "OPINION: When Georgia Power's equipment fails, who pays?",
+      "link": "https://www.forsythnews.com/opinion/letters-from-citizens/opinion-when-georgia-powers-equipment-fails-who-pays/",
+      "published": "2026-11-04T17:16:02Z",
+      "source": "Forsyth County News",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:39Z",
+      "category": "Other"
+    },
+    {
+      "headline": "IVF Patients, Doctors Navigate Fetal Personhood Laws’ Unknowns",
+      "link": "https://cobbcountycourier.com/2026/11/ivf-patients-doctors-navigate-fetal-personhood-laws-unknowns/",
+      "published": "2026-11-04T17:10:37Z",
+      "source": "Cobb County Courier",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:38Z",
+      "category": "Health"
+    },
+    {
+      "headline": "Stuck in Shelters for Months, Some Migrant Children Abandon Hopes of Staying in US",
+      "link": "https://cobbcountycourier.com/2026/11/stuck-in-shelters-for-months-some-migrant-children-abandon-hopes-of-staying-in-us/",
+      "published": "2026-11-04T17:10:35Z",
+      "source": "Cobb County Courier",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:38Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Fight at Griffin home ends with shots fired",
+      "link": "https://www.wsbtv.com/news/local/spalding-county/fight-griffin-home-ends-with-shots-fired/E54TTUIMMBEXBKEXZDI4WMYRPU/",
+      "published": "2026-11-04T17:08:57Z",
+      "source": "WSB-TV",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Gwinnett Stripers' 'Hooked on Books' reading program returns for 2027",
+      "link": "https://www.gwinnettdailypost.com/local/gwinnett-stripers-hooked-on-books-reading-program-returns-for-2027/article_65179aed-9462-41e7-b34f-24deb84ed212.html",
+      "published": "2026-11-04T17:07:00Z",
+      "source": "Gwinnett Daily Post",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Cedartown donkey shooting: Attorneys vow to continue fight",
+      "link": "https://www.fox5atlanta.com/news/cedartown-donkey-shooting-attorneys-vow-continue-fight",
+      "published": "2026-11-04T17:05:26Z",
+      "source": "FOX 5 Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Bottoms claims place in history as first Black woman elected to govern state",
+      "link": "https://www.forsythnews.com/news/politics/bottoms-claims-place-in-history-as-first-black-woman-elected-to-govern-state/",
+      "published": "2026-11-04T17:02:58Z",
+      "source": "Forsyth County News",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:39Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Georgia election 2026: Police investigate political arson after campaign signs burned",
+      "link": "https://www.wsbtv.com/news/local/dekalb-county/georgia-election-2026-police-investigate-political-arson-after-campaign-signs-burned/I4SOZFP7LFEV5FEIICIWZDU3XI/",
+      "published": "2026-11-04T17:01:52Z",
+      "source": "WSB-TV",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Keisha Lance Bottoms will be Georgia’s next governor in historic win",
+      "link": "https://cobbcountycourier.com/2026/11/keisha-lance-bottoms-will-be-georgias-next-governor-in-historic-win/",
+      "published": "2026-11-04T17:01:30Z",
+      "source": "Cobb County Courier",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:38Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Democrats flip statewide offices up and down the ballot in Georgia; state House is in play",
+      "link": "https://cobbcountycourier.com/2026/11/democrats-flip-statewide-offices-up-and-down-the-ballot-in-georgia-state-house-is-in-play/",
+      "published": "2026-11-04T17:01:24Z",
+      "source": "Cobb County Courier",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:38Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "ZipSauce Finds Location for Brick-and-Mortar in Clinton Township",
+      "link": "https://whatnow.com/detroit/restaurants/zipsauce-finds-location-for-brick-and-mortar-in-clinton-township/",
+      "published": "2026-11-04T17:00:45Z",
+      "source": "What Now Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:36Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "After Almost a Decade of Karaoke and Late Nights, Arden Arcade’s Favorite Dive Bar Is Gone",
+      "link": "https://whatnow.com/sacramento/restaurants/after-almost-a-decade-of-karaoke-and-late-nights-arden-arcades-favorite-dive-bar-is-gone/",
+      "published": "2026-11-04T16:55:54Z",
+      "source": "What Now Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:36Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Aging Untold: These are the skin cancer warning signs you may overlook as you age",
+      "link": "https://www.atlantanewsfirst.com/2026/11/04/aging-untold-these-are-skin-cancer-warning-signs-you-may-overlook-you-age/",
+      "published": "2026-11-04T16:55:12Z",
+      "source": "Atlanta News First (WANF)",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Health",
+      "local": true
+    },
+    {
+      "headline": "What Georgia’s New Constitutional Amendments Results Mean",
+      "link": "https://atlanta.capitalbnews.org/georgia-2026-midterms-constitutional-amendments/",
+      "published": "2026-11-04T16:55:00Z",
+      "source": "Capital B Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Acclaimed Artist Kevin WAK Williams Opens New Atlanta Exhibition",
+      "link": "https://www.atlantanewsfirst.com/2026/11/04/acclaimed-artist-kevin-wak-williams-opens-new-atlanta-exhibition/",
+      "published": "2026-11-04T16:54:55Z",
+      "source": "Atlanta News First (WANF)",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Miami-Born Hot Pilates Studio Brings ‘Hotter Results’ to SoHo",
+      "link": "https://whatnow.com/new-york/retail/miami-born-hot-pilates-studio-brings-hotter-results-to-soho/",
+      "published": "2026-11-04T16:51:37Z",
+      "source": "What Now Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:36Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Driver dies after crashing into historic building in downtown Athens",
+      "link": "https://www.wsbtv.com/news/local/active-police-investigation-downtown-athens/5S46TAB36RBHJD3PDT3QADHOSM/",
+      "published": "2026-11-04T16:39:42Z",
+      "source": "WSB-TV",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Ground stop issued at Atlanta airport because of thunderstorms",
+      "link": "https://www.atlantanewsfirst.com/2026/11/04/ground-stop-issued-atlanta-airport-because-thunderstorms/",
+      "published": "2026-11-04T16:37:26Z",
+      "source": "Atlanta News First (WANF)",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Justice Department’s interference before midterms was unsuccessful, unprofessional and unprecedented",
+      "link": "https://cobbcountycourier.com/2026/11/justice-departments-interference-before-midterms-was-unsuccessful-unprofessional-and-unprecedented/",
+      "published": "2026-11-04T16:35:53Z",
+      "source": "Cobb County Courier",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:38Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Private equity is buying up more methadone clinics – access to the lifesaving drug isn’t getting easier",
+      "link": "https://cobbcountycourier.com/2026/11/private-equity-is-buying-up-more-methadone-clinics-access-to-the-lifesaving-drug-isnt-getting-easier/",
+      "published": "2026-11-04T16:35:48Z",
+      "source": "Cobb County Courier",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:38Z",
+      "category": "Health"
+    },
+    {
+      "headline": "‘Epic’ blue wave helps Democrats take Congress in overwhelming rebuke to President Trump",
+      "link": "https://cobbcountycourier.com/2026/11/epic-blue-wave-helps-democrats-take-congress-in-overwhelming-rebuke-to-president-trump/",
+      "published": "2026-11-04T16:34:18Z",
+      "source": "Cobb County Courier",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:38Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Meals on Wheels Atlanta Brings ‘Hope in Full Bloom’ to The St. Regis",
+      "link": "https://www.atlantanewsfirst.com/2026/11/04/meals-wheels-atlanta-brings-hope-full-bloom-st-regis/",
+      "published": "2026-11-04T16:31:14Z",
+      "source": "Atlanta News First (WANF)",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Blue wave, Gold Dome: What’s next after Georgia Democrats’ historic night",
+      "link": "https://www.atlantanewsfirst.com/2026/11/04/blue-wave-divided-gold-dome-whats-next-after-georgia-democrats-historic-night/",
+      "published": "2026-11-04T16:22:39Z",
+      "source": "Atlanta News First (WANF)",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Georgia election results: How each county voted in Georgia governor, U.S. Senate, U.S. House races",
+      "link": "https://www.wsbtv.com/news/local/georgia-election-results-how-each-county-voted-georgia-governor-us-senate-races/GSVXG2FBI5AFTDJ6G3EKGQ32WA/",
+      "published": "2026-11-04T16:20:13Z",
+      "source": "WSB-TV",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Charges dropped against co-owner of My Sister’s Room in noise complaint case",
+      "link": "https://roughdraftatlanta.com/2026/11/04/msr-co-owner-charges-dropped/",
+      "published": "2026-11-04T16:19:11Z",
+      "source": "Rough Draft Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Business"
+    },
+    {
+      "headline": "Bentley Hudgins wins historic election as Georgia’s first transgender lawmaker",
+      "link": "https://roughdraftatlanta.com/2026/11/04/bentley-hudgins-georgia-history/",
+      "published": "2026-11-04T16:08:07Z",
+      "source": "Rough Draft Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Coastal Concepts Hospitality Opening Pizza Restaurant in Surfside Beach",
+      "link": "https://whatnow.com/charleston/restaurants/coastal-concepts-hospitality-opening-pizza-restaurant-in-surfside-beach/",
+      "published": "2026-11-04T16:00:34Z",
+      "source": "What Now Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:36Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Lauren Tate Baeza’s parting gift: the High Museum’s Nigeria galleries",
+      "link": "https://roughdraftatlanta.com/2026/11/04/lauren-tate-baezas-parting-gift-the-high-museums-nigeria-galleries/",
+      "published": "2026-11-04T16:00:00Z",
+      "source": "Rough Draft Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Mother arrested after 10-year-old found walking alone mile from home sues Georgia sheriff’s office",
+      "link": "https://www.wsbtv.com/news/local/atlanta/mother-arrested-after-10-year-old-found-walking-alone-mile-home-sues-georgia-sheriffs-office/NO6PCXBDLVB6PFYXLIMQAASPZ4/",
+      "published": "2026-11-04T15:53:14Z",
+      "source": "WSB-TV",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "A New Spanish and Portuguese Wine Bar Is Opening in Brooklyn’s Fort Greene",
+      "link": "https://whatnow.com/new-york/restaurants/a-new-spanish-and-portuguese-wine-bar-is-opening-in-brooklyns-fort-greene/",
+      "published": "2026-11-04T15:48:31Z",
+      "source": "What Now Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:36Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Love Life (and Pizza) Plans New Location in Addison",
+      "link": "https://whatnow.com/dallas/restaurants/love-life-and-pizza-plans-new-location-in-addison/",
+      "published": "2026-11-04T15:21:42Z",
+      "source": "What Now Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:36Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Luxe Nails to Bring Beauty Services to Rockfish Village in Fayetteville",
+      "link": "https://whatnow.com/charlotte/retail/luxe-nails-to-bring-beauty-services-to-rockfish-village-in-fayetteville/",
+      "published": "2026-11-04T15:18:47Z",
+      "source": "What Now Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:36Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Gov. Brian Kemp will not call special session on redistricting, governor’s powers",
+      "link": "https://www.wsbtv.com/news/local/gov-brian-kemp-will-not-call-special-session-before-he-leaves-office/5YWIT5DQHBDQTAWZ3RFI4P4EDI/",
+      "published": "2026-11-04T15:08:35Z",
+      "source": "WSB-TV",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Critical shortage of vets could threaten America’s food supply",
+      "link": "https://www.atlantanewsfirst.com/2026/11/04/critical-shortage-vets-could-threaten-americas-food-supply/",
+      "published": "2026-11-04T15:08:17Z",
+      "source": "Atlanta News First (WANF)",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Gov. Kemp rejects special redistricting session, congratulates Bottoms on win",
+      "link": "https://www.atlantanewsfirst.com/2026/11/04/gov-kemp-rejects-special-redistricting-session-congratulates-bottoms-win/",
+      "published": "2026-11-04T15:02:28Z",
+      "source": "Atlanta News First (WANF)",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "‘Metro Atlanta’s time has come:’ ARC launches major economic mobility initiative, Opportunity Rising",
+      "link": "https://saportareport.com/metro-atlantas-time-has-come-arc-launches-major-economic-mobility-initiative-opportunity-rising/uncategorized/delaneytarr/",
+      "published": "2026-11-04T15:00:00Z",
+      "source": "Saporta Report",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Traffic & Transit"
+    },
+    {
+      "headline": "Metro Atlanta ranks last for economic mobility. A new coalition wants to change that",
+      "link": "https://www.11alive.com/article/news/local/metro-atlanta-ranks-last-economic-mobility-new-coalition-wants-change/85-4caaafec-623f-4a00-b8d1-4184c7a091c7",
+      "published": "2026-11-04T15:00:00Z",
+      "source": "11Alive",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Pedestrian struck by vehicle in DeKalb County",
+      "link": "https://www.fox5atlanta.com/news/pedestrian-struck-vehicle-dekalb-county",
+      "published": "2026-11-04T14:18:24Z",
+      "source": "FOX 5 Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "These are the skin cancer warning signs you may overlook as you age",
+      "link": "https://www.atlantanewsfirst.com/2026/11/04/these-are-skin-cancer-warning-signs-you-may-overlook-you-age/",
+      "published": "2026-11-04T14:17:19Z",
+      "source": "Atlanta News First (WANF)",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Health",
+      "local": true
+    },
+    {
+      "headline": "Cosmic Baseball announces 2027 Takeover Tour stop at Gwinnett Field",
+      "link": "https://www.gwinnettdailypost.com/entertainment/cosmic-baseball-announces-2027-takeover-tour-stop-at-gwinnett-field/article_e86d262e-58ff-42a5-84cb-611b76959f4c.html",
+      "published": "2026-11-04T14:17:00Z",
+      "source": "Gwinnett Daily Post",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Atlanta Dream fall short of championship aspirations, but win big for the sport",
+      "link": "https://saportareport.com/atlanta-dream-fall-short-of-championship-aspirations-but-win-big-for-the-sport/uncategorized/mark-lannaman/",
+      "published": "2026-11-04T14:14:45Z",
+      "source": "Saporta Report",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "Why Georgia’s political shift is a lesson for the nation",
+      "link": "https://saportareport.com/why-georgias-political-shift-is-a-lesson-for-the-nation/columnists/guestcolumn/derek/",
+      "published": "2026-11-04T13:50:38Z",
+      "source": "Saporta Report",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Beyond Party Lines: Black Voters Explain Their Support for Rick Jackson",
+      "link": "https://www.theatlantavoice.com/politics/beyond-party-lines-black-voters-explain-their-support-for-rick-jackson-dec2f90c",
+      "published": "2026-11-04T13:48:16Z",
+      "source": "The Atlanta Voice",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Georgia makes history electing Keisha Lance Bottoms governor and reelecting Sen. Jon Ossoff",
+      "link": "https://www.atlantamagazine.com/news-culture-articles/georgia-makes-history-electing-keisha-lance-bottoms-governor-and-reelecting-sen-jon-ossoff/",
+      "published": "2026-11-04T13:44:36Z",
+      "source": "Atlanta Magazine",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:34Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Woman in critical condition after being shot multiple times, Atlanta police say",
+      "link": "https://www.atlantanewsfirst.com/2026/11/04/woman-critical-condition-after-being-shot-multiple-times-atlanta-police-say/",
+      "published": "2026-11-04T13:39:00Z",
+      "source": "Atlanta News First (WANF)",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Scholarship honoring Laken Riley announced at Georgia university",
+      "link": "https://www.wsbtv.com/news/local/scholarship-honoring-laken-riley-announced-georgia-university/GE6EA7SGF5DUXDKNZJASOVMYGI/",
+      "published": "2026-11-04T13:33:42Z",
+      "source": "WSB-TV",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Education",
+      "local": true
+    },
+    {
+      "headline": "City Council approves extending ban on new self-storage facilities into spring 2027",
+      "link": "https://www.wsbtv.com/news/local/atlanta/city-council-approves-extending-ban-new-self-storage-facilities-into-spring-2027/5NLXIGNJVNHBJAEGERTC3UEH3Y/",
+      "published": "2026-11-04T13:07:23Z",
+      "source": "WSB-TV",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Growth spurt on tap for Sandy Springs’ made-from-scratch downtown",
+      "link": "https://atlanta.urbanize.city/post/city-springs-sandy-springs-second-phase-made-scratch-downtown-images",
+      "published": "2026-11-04T13:05:59Z",
+      "source": "Urbanize Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:36Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Georgia's incoming attorney general vows impartial justice",
+      "link": "https://www.fox5atlanta.com/news/georgias-incoming-attorney-general-vows-impartial-justice",
+      "published": "2026-11-04T13:01:30Z",
+      "source": "FOX 5 Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Democrats in House poised to investigate the Trump Administration, taking up a long‑standing power GOP‑led Congress ignored for the past two years",
+      "link": "https://cobbcountycourier.com/2026/11/democrats-in-house-poised-to-investigate-the-trump-administration-taking-up-a-long-standing-power-gop-led-congress-ignored-for-the-past-two-years/",
+      "published": "2026-11-04T12:59:11Z",
+      "source": "Cobb County Courier",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:38Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "“My name is Aristo. Are you here to adopt me?”",
+      "link": "https://cobbcountycourier.com/2026/11/my-name-is-aristo-are-you-here-to-adopt-me/",
+      "published": "2026-11-04T12:53:19Z",
+      "source": "Cobb County Courier",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:38Z",
+      "category": "Other"
+    },
+    {
+      "headline": "“My name is Percy, and I’m in need of a loving home!”",
+      "link": "https://cobbcountycourier.com/2026/11/my-name-is-percy-and-im-in-need-of-a-loving-home-2/",
+      "published": "2026-11-04T12:53:16Z",
+      "source": "Cobb County Courier",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:38Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Jackknifed tractor-trailer shuts down Airport Drive in Cherokee County",
+      "link": "https://www.fox5atlanta.com/news/jackknifed-tractor-trailer-shuts-down-airport-drive-cherokee-county",
+      "published": "2026-11-04T12:49:10Z",
+      "source": "FOX 5 Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "MAP: Democrats appear poised to flip Georgia House after election",
+      "link": "https://www.fox5atlanta.com/news/map-georgia-house-election-2026-how-your-neighbors-voted-ap",
+      "published": "2026-11-04T11:41:01Z",
+      "source": "FOX 5 Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "LAKO: The most important estate planning decisions aren't always financial",
+      "link": "https://www.gwinnettdailypost.com/local/lako-the-most-important-estate-planning-decisions-arent-always-financial/article_cab4dc1d-44b1-40b1-a62b-30b1f07e1d12.html",
+      "published": "2026-11-04T11:30:00Z",
+      "source": "Gwinnett Daily Post",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "North Georgia forecast: Strong storms, isolated tornadoes possible today",
+      "link": "https://www.fox5atlanta.com/news/north-georgia-forecast-strong-storms-isolated-tornadoes-possible-today",
+      "published": "2026-11-04T11:22:26Z",
+      "source": "FOX 5 Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "Citizen of the Week: Emily Morrison Is Feeding Two Birds With One Scone",
+      "link": "https://thecitizen.com/2026/11/04/citizen-of-the-week-emily-morrison-is-feeding-two-birds-with-one-scone/",
+      "published": "2026-11-04T11:00:00Z",
+      "source": "The Citizen (Fayette & Coweta)",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:38Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Historic election reshapes Georgia's political future: Here's what happened",
+      "link": "https://www.fox5atlanta.com/news/historic-election-reshapes-georgias-political-future-heres-what-happened",
+      "published": "2026-11-04T10:56:17Z",
+      "source": "FOX 5 Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "AROUND TOWN: More redevelopment happening in downtown Lawrenceville",
+      "link": "https://www.gwinnettdailypost.com/local/around-town-more-redevelopment-happening-in-downtown-lawrenceville/article_0672adae-28a9-4d17-abe8-735f9582611a.html",
+      "published": "2026-11-04T10:30:00Z",
+      "source": "Gwinnett Daily Post",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Development & Housing",
+      "local": true
+    },
+    {
+      "headline": "MAP: How Democrats swept Georgia's executive offices",
+      "link": "https://www.fox5atlanta.com/news/map-georgia-executive-offices-election-results-ap",
+      "published": "2026-11-04T10:00:55Z",
+      "source": "FOX 5 Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "MAP: How Bottoms made history in Georgia's gubernatorial race",
+      "link": "https://www.fox5atlanta.com/news/map-bottoms-vs-jackson-how-georgia-voted-governor-2026-ap",
+      "published": "2026-11-04T10:00:53Z",
+      "source": "FOX 5 Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "MAP: Why Cobb County proved decisive in Georgia's high-stakes showdown",
+      "link": "https://www.fox5atlanta.com/news/map-cobb-county-election-results-2026-nt-ap",
+      "published": "2026-11-04T10:00:51Z",
+      "source": "FOX 5 Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "MAP: Why Fulton County turnout pushed Democrats to victory across Georgia",
+      "link": "https://www.fox5atlanta.com/news/map-fulton-county-election-results-how-your-neighbors-voted-nt-ap",
+      "published": "2026-11-04T10:00:40Z",
+      "source": "FOX 5 Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "MAP: How Gwinnett County voted in key congressional, statewide races",
+      "link": "https://www.fox5atlanta.com/news/map-gwinnett-county-election-results-how-your-neighbors-voted-nt-ap",
+      "published": "2026-11-04T10:00:01Z",
+      "source": "FOX 5 Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Oak Grove Enjoys Immersive American Revolution Presentation",
+      "link": "https://thecitizen.com/2026/11/04/oak-grove-enjoys-immersive-american-revolution-presentation/",
+      "published": "2026-11-04T09:43:44Z",
+      "source": "The Citizen (Fayette & Coweta)",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:38Z",
+      "category": "Education"
+    },
+    {
+      "headline": "Suns Shine Beyond the Classroom Highlights Well-rounded Students",
+      "link": "https://thecitizen.com/2026/11/04/suns-shine-beyond-the-classroom-highlights-well-rounded-students/",
+      "published": "2026-11-04T09:38:07Z",
+      "source": "The Citizen (Fayette & Coweta)",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:38Z",
+      "category": "Education"
+    },
+    {
+      "headline": "Kedron Creates Native American Region Posters",
+      "link": "https://thecitizen.com/2026/11/04/kedron-creates-native-american-region-posters/",
+      "published": "2026-11-04T09:36:00Z",
+      "source": "The Citizen (Fayette & Coweta)",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:38Z",
+      "category": "Education"
+    },
+    {
+      "headline": "Fayette County Celebrates Cadet Class #55",
+      "link": "https://thecitizen.com/2026/11/04/fayette-county-celebrates-cadet-class-55/",
+      "published": "2026-11-04T09:34:11Z",
+      "source": "The Citizen (Fayette & Coweta)",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:38Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Fayette Goes Blue Leading Georgia in Voter Turnout as Coweta Republicans Celebrate Wins",
+      "link": "https://thecitizen.com/2026/11/04/fayette-goes-blue-leading-georgia-in-voter-turnout-as-coweta-republicans-celebrate-wins/",
+      "published": "2026-11-04T09:31:38Z",
+      "source": "The Citizen (Fayette & Coweta)",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:38Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Peter Hubbard wins Public Service Commission rematch, maintains Democratic seat",
+      "link": "https://www.mdjonline.com/news/elections/peter-hubbard-wins-public-service-commission-rematch-maintains-democratic-seat/article_b1f45975-4b01-4547-8749-b06b4dfa465f.html",
+      "published": "2026-11-04T07:00:00Z",
+      "source": "Marietta Daily Journal",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:46Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "The Blue Wave That Struck Georgia Still Left Republicans Brian Jack and James Clifton Standing in Fayette",
+      "link": "https://thecitizen.com/2026/11/04/the-blue-wave-that-struck-georgia-still-left-republicans-brian-jack-and-james-clifton-standing-in-fayette/",
+      "published": "2026-11-04T06:23:11Z",
+      "source": "The Citizen (Fayette & Coweta)",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:38Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "UPDATE: Garza defeats Chastain, flipping Cobb school board to Democratic majority",
+      "link": "https://www.mdjonline.com/news/education/update-garza-defeats-chastain-flipping-cobb-school-board-to-democratic-majority/article_33964c17-4417-42fb-ba9f-3bba75fba70f.html",
+      "published": "2026-11-04T06:00:00Z",
+      "source": "Marietta Daily Journal",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:46Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Cobb voters say 'yes' to 2028 SPLOST",
+      "link": "https://www.mdjonline.com/elections/cobb-voters-say-yes-to-2028-splost/article_f091c7d4-e4b3-45f4-bfad-ce596d2bb125.html",
+      "published": "2026-11-04T06:00:00Z",
+      "source": "Marietta Daily Journal",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:46Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Shelia Edwards wins PSC, flips commission blue",
+      "link": "https://www.mdjonline.com/elections/shelia-edwards-wins-psc-flips-commission-blue/article_17a73021-abbf-485b-8d87-cc8c564cd614.html",
+      "published": "2026-11-04T05:44:00Z",
+      "source": "Marietta Daily Journal",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:46Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "History Was Made Tonight: Bottoms Elected Georgia’s First Black Woman Governor",
+      "link": "https://www.theatlantavoice.com/politics/bottoms-elected-georgias-first-black-woman-governor-09737315",
+      "published": "2026-11-04T05:32:13Z",
+      "source": "The Atlanta Voice",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Democrat Cynthia Starke-Jones appears to unseat incumbent Joseph Gullett",
+      "link": "https://www.mdjonline.com/news/democrat-cynthia-starke-jones-appears-to-unseat-incumbent-joseph-gullett/article_22bc1343-4d00-4e19-91cd-6ab76b6afa82.html",
+      "published": "2026-11-04T05:12:00Z",
+      "source": "Marietta Daily Journal",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:46Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Conyers ice rink set to open Nov. 20 at Celebration Park",
+      "link": "https://www.rockdalecitizen.com/news/conyers-ice-rink-set-to-open-nov-20-at-celebration-park/article_514fe78a-e8fd-49f1-8fb8-1399d0bcc931.html",
+      "published": "2026-11-04T05:00:00Z",
+      "source": "Rockdale Citizen",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:38Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "East Metro Community Calendar",
+      "link": "https://www.rockdalecitizen.com/news/east-metro-community-calendar/article_8f6058fb-5e94-487a-91b9-491d575146ca.html",
+      "published": "2026-11-04T05:00:00Z",
+      "source": "Rockdale Citizen",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:38Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Event to celebrate anniversary of ‘Gone With the Wind’",
+      "link": "https://www.rockdalecitizen.com/entertainment/event-to-celebrate-anniversary-of-gone-with-the-wind/article_d35b3bc2-4e1e-5694-85e9-538cffeb457f.html",
+      "published": "2026-11-04T05:00:00Z",
+      "source": "Rockdale Citizen",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:38Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "GGC student defeats incumbent in county commission race",
+      "link": "https://www.gwinnettdailypost.com/election/ggc-student-defeats-incumbent-in-county-commission-race/article_551fb82e-ee60-4e3b-9968-fb7fba7dcbfb.html",
+      "published": "2026-11-04T04:51:00Z",
+      "source": "Gwinnett Daily Post",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Darcy Castro appears to defeat Ed Setzler in close Senate race",
+      "link": "https://www.mdjonline.com/news/local/darcy-castro-appears-to-defeat-ed-setzler-in-close-senate-race/article_4ae2f602-5d0f-4010-a266-30ebe7fef950.html",
+      "published": "2026-11-04T04:50:00Z",
+      "source": "Marietta Daily Journal",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:46Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Redmon poised for victory against Birrell in Cobb Commission race",
+      "link": "https://www.mdjonline.com/elections/redmon-poised-for-victory-against-birrell-in-cobb-commission-race/article_f50a5ecb-c982-490f-9f73-08dbf3590cec.html",
+      "published": "2026-11-04T04:33:00Z",
+      "source": "Marietta Daily Journal",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:46Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "‘The first light of dawn is on the horizon:’ Ossoff Wins Reelection for Georgia Senate Seat",
+      "link": "https://www.theatlantavoice.com/politics/the-first-light-of-dawn-is-on-the-horizon-ossoff-wins-reelection-for-georgia-senate-seat-in-historic-midterms-dd862f89",
+      "published": "2026-11-04T04:30:00Z",
+      "source": "The Atlanta Voice",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Woman in critical condition after SW Atlanta shooting",
+      "link": "https://www.fox5atlanta.com/news/woman-critical-condition-after-sw-atlanta-shooting",
+      "published": "2026-11-04T04:25:34Z",
+      "source": "FOX 5 Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Hakeem Jeffries is on track to make House speaker history. But major challenges lay ahead",
+      "link": "https://www.theatlantavoice.com/politics/hakeem-jeffries-historic-house-speaker-quest",
+      "published": "2026-11-04T04:25:00Z",
+      "source": "The Atlanta Voice",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Bell leading against Rep. Parsons in District 44",
+      "link": "https://www.mdjonline.com/elections/bell-leading-against-rep-parsons-in-district-44/article_a9255f59-e16a-4e8a-bbd8-56e4f3d89535.html",
+      "published": "2026-11-04T04:14:00Z",
+      "source": "Marietta Daily Journal",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:46Z",
+      "category": "Education",
+      "local": true
+    },
+    {
+      "headline": "Tanya Miller is elected Georgia’s first Black woman attorney general",
+      "link": "https://www.wabe.org/tanya-miller-is-elected-georgias-first-black-woman-attorney-general/",
+      "published": "2026-11-04T04:00:45Z",
+      "source": "WABE",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:38Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Dr. John Cowan wins race to replace retiring Rep. Barry Loudermilk",
+      "link": "https://www.mdjonline.com/news/elections/dr-john-cowan-wins-race-to-replace-retiring-rep-barry-loudermilk/article_6d9239bc-bcf3-48f9-80b3-06df6ec2cdea.html",
+      "published": "2026-11-04T03:56:00Z",
+      "source": "Marietta Daily Journal",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:46Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Forsyth County's Jackson, Dolezal lose bids for Georgia governor, lieutenant governor",
+      "link": "https://www.forsythnews.com/news/politics/forsyth-countys-jackson-dolezal-lose-bids-for-georgia-governor-lieutenant-governor/",
+      "published": "2026-11-04T03:01:00Z",
+      "source": "Forsyth County News",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:39Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Clay Fuller defeats Shawn Harris to secure full term in Congress",
+      "link": "https://www.mdjonline.com/news/elections/clay-fuller-defeats-shawn-harris-to-secure-full-term-in-congress/article_095e03c3-1aa9-4486-8dba-033322150fad.html",
+      "published": "2026-11-04T02:36:00Z",
+      "source": "Marietta Daily Journal",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:46Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Fayette Votes Democratic, Coweta Republican as Georgia Election Results Roll In",
+      "link": "https://thecitizen.com/2026/11/03/fayette-votes-democratic-coweta-republican-as-georgia-election-results-roll-in/",
+      "published": "2026-11-04T02:26:25Z",
+      "source": "The Citizen (Fayette & Coweta)",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:38Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Keisha Lance Bottoms Becomes America’s First Black Woman Governor",
+      "link": "https://atlanta.capitalbnews.org/keisha-lance-bottoms-becomes-americas-first-black-woman-governor/",
+      "published": "2026-11-04T02:25:06Z",
+      "source": "Capital B Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Nearly Half of Fayette Voters Cast Ballots Early, Democrats Lead Statewide Races",
+      "link": "https://thecitizen.com/2026/11/03/nearly-half-of-fayette-voters-cast-ballots-early-democrats-lead-statewide-races/",
+      "published": "2026-11-04T02:16:06Z",
+      "source": "The Citizen (Fayette & Coweta)",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:38Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Democrat Keisha Lance Bottoms will win Georgia governor race, CNN projects",
+      "link": "https://www.theatlantavoice.com/politics/keisha-lance-bottoms-georgia-governor-win",
+      "published": "2026-11-04T02:15:00Z",
+      "source": "The Atlanta Voice",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Black Democratic Socialist Wins Georgia General Assembly Race",
+      "link": "https://atlanta.capitalbnews.org/black-democratic-socialist-wins-georgia-general-assembly-race/",
+      "published": "2026-11-04T01:55:54Z",
+      "source": "Capital B Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Army Corps of Engineers begins drought operations as Lake Lanier drops to lowest level in nearly a decade",
+      "link": "https://www.forsythnews.com/news/lake-lanier/army-corps-of-engineers-begins-drought-operations-as-lake-lanier-drops-to-lowest-level-in-nearly-a-decade/",
+      "published": "2026-11-04T01:32:29Z",
+      "source": "Forsyth County News",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:39Z",
+      "category": "Weather"
+    },
+    {
+      "headline": "Nov. 3 Midterm Election Results",
+      "link": "https://www.11alive.com/elections",
+      "published": "2026-11-04T01:28:36Z",
+      "source": "11Alive",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Georgia Democratic Sen. Jon Ossoff will win reelection, CNN projects",
+      "link": "https://www.theatlantavoice.com/politics/jon-ossoff-wins-georgia-us-senate-reelection-defeats-collins",
+      "published": "2026-11-04T01:22:52Z",
+      "source": "The Atlanta Voice",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "McBath secures another term representing Georgia’s 6th District",
+      "link": "https://www.mdjonline.com/news/elections/mcbath-secures-another-term-representing-georgia-s-6th-district/article_cc2288a0-d933-4b4d-9577-ba928b00042f.html",
+      "published": "2026-11-04T01:02:00Z",
+      "source": "Marietta Daily Journal",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:46Z",
+      "category": "Education",
+      "local": true
+    },
+    {
+      "headline": "Ossoff Cruises to Victory Over Trump-Endorsed Collins",
+      "link": "https://atlanta.capitalbnews.org/ossoff-cruises-to-victory-over-trump-endorsed-collins/",
+      "published": "2026-11-04T00:59:58Z",
+      "source": "Capital B Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "College Football Playoff: Georgia secures second spot in opening bracket",
+      "link": "https://www.fox5atlanta.com/sports/college-football-playoff-georgia-secures-second-spot-opening-bracket",
+      "published": "2026-11-04T00:47:56Z",
+      "source": "FOX 5 Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Shooting involving Henry County Police officer under investigation by the GBI",
+      "link": "https://www.11alive.com/article/news/local/shooting-involving-henry-county-police-officer-under-investigation-by-gbi/85-e6331b9f-7d30-45f7-bf77-6638775bac7f",
+      "published": "2026-11-04T00:46:34Z",
+      "source": "11Alive",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "UPDATE: Forsyth County remains red as blue wave sweeps through Georgia",
+      "link": "https://www.forsythnews.com/news/politics/results-are-coming-in-for-midterm-elections-in-forsyth-county/",
+      "published": "2026-11-04T00:46:18Z",
+      "source": "Forsyth County News",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:39Z",
+      "category": "Other"
+    },
     {
       "headline": "Dukunoo Jamaican Kitchen Getting Ready to Expand",
       "link": "https://whatnow.com/miami/restaurants/dukunoo-jamaican-kitchen-getting-ready-to-expand/",
@@ -190,6 +1386,15 @@
       "category": "Food & Events"
     },
     {
+      "headline": "Chipotle brings drive-thru pickup lane to north Forsyth County",
+      "link": "https://www.forsythnews.com/life/food-drink/chipotle-brings-drive-thru-pickup-lane-to-north-forsyth-county/",
+      "published": "2026-11-03T23:09:21Z",
+      "source": "Forsyth County News",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:39Z",
+      "category": "Other"
+    },
+    {
       "headline": "Georgia Election 2026: Easy, simple voting in north metro",
       "link": "https://www.wsbtv.com/news/local/north-fulton-county/georgia-election-2026-easy-simple-voting-north-metro/SGPEPSSHXNCRVEPY26TK46YJPY/",
       "published": "2026-11-03T23:05:07Z",
@@ -250,6 +1455,15 @@
       "local": true
     },
     {
+      "headline": "When the 2nd annual Bourbon and Blues Festival is coming to Cumming City Center",
+      "link": "https://www.forsythnews.com/life/events/when-the-2nd-annual-bourbon-and-blues-festival-is-coming-to-cumming-city-center/",
+      "published": "2026-11-03T22:46:12Z",
+      "source": "Forsyth County News",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:39Z",
+      "category": "Food & Events"
+    },
+    {
       "headline": "Peachtree Farm in Peachtree Corners building accessible housing for adults with disabilities",
       "link": "https://www.atlantanewsfirst.com/2026/11/03/peachtree-farm-peachtree-corners-building-accessible-housing-adults-with-disabilities/",
       "published": "2026-11-03T22:45:38Z",
@@ -296,6 +1510,16 @@
       "area": "Atlanta",
       "fetched_at": "2026-11-04T00:12:05Z",
       "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Gwinnett expenditures, revenues were less than projected in 2025",
+      "link": "https://www.gwinnettdailypost.com/local/gwinnett-expenditures-revenues-were-less-than-projected-in-2025/article_6dca0672-7a11-4797-be0b-945705fb0dfe.html",
+      "published": "2026-11-03T22:33:00Z",
+      "source": "Gwinnett Daily Post",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Other",
       "local": true
     },
     {
@@ -495,6 +1719,15 @@
       "category": "Development & Housing"
     },
     {
+      "headline": "Start off the holiday season in Forsyth County at this local artisan market",
+      "link": "https://www.forsythnews.com/life/events/start-off-the-holiday-season-in-forsyth-county-at-this-local-artisan-market/",
+      "published": "2026-11-03T21:25:50Z",
+      "source": "Forsyth County News",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:39Z",
+      "category": "Food & Events"
+    },
+    {
       "headline": "Man arrested after woman found dead at Midtown Atlanta hotel",
       "link": "https://www.fox5atlanta.com/news/man-arrested-after-woman-found-dead-midtown-atlanta-hotel",
       "published": "2026-11-03T21:22:40Z",
@@ -535,6 +1768,16 @@
       "local": true
     },
     {
+      "headline": "Rockdale County Jail Blotter",
+      "link": "https://www.rockdalecitizen.com/news/rockdale-county-jail-blotter/article_82276476-f648-400a-b326-459f4c79a88f.html",
+      "published": "2026-11-03T21:15:00Z",
+      "source": "Rockdale Citizen",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:38Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
       "headline": "Imlay City’s Botanas El Paiza Debuting New Concept in Washington Township",
       "link": "https://whatnow.com/detroit/restaurants/imlay-citys-botanas-el-paiza-debuting-new-concept-in-washington-township/",
       "published": "2026-11-03T20:54:23Z",
@@ -554,6 +1797,15 @@
       "local": true
     },
     {
+      "headline": "Western North Carolina businesses welcome visitors two years after Hurricane Helene",
+      "link": "https://www.atlantamagazine.com/article/western-north-carolina-businesses-welcome-visitors-two-years-after-hurricane-helene/",
+      "published": "2026-11-03T20:50:34Z",
+      "source": "Atlanta Magazine",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:34Z",
+      "category": "Weather"
+    },
+    {
       "headline": "Man wanted in connection with stabbing in Athens-Clarke County, police say",
       "link": "https://www.atlantanewsfirst.com/2026/11/03/man-wanted-connection-with-stabbing-athens-clarke-county-police-say/",
       "published": "2026-11-03T20:43:34Z",
@@ -571,6 +1823,16 @@
       "area": "Atlanta",
       "fetched_at": "2026-11-04T00:12:09Z",
       "category": "Other"
+    },
+    {
+      "headline": "Late Gwinnett judge honored by county leaders on her birthday",
+      "link": "https://www.gwinnettdailypost.com/local/late-gwinnett-judge-honored-by-county-leaders-on-her-birthday/article_a1d007ff-7fe1-4ed5-8840-a33270e69113.html",
+      "published": "2026-11-03T20:33:00Z",
+      "source": "Gwinnett Daily Post",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Crime & Safety",
+      "local": true
     },
     {
       "headline": "Norcross council denies permit for Buford Highway auto glass repair business",
@@ -599,6 +1861,26 @@
       "area": "Atlanta",
       "fetched_at": "2026-11-04T00:12:06Z",
       "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Black Voters Play Major Role in Electing New PSC Commissioners",
+      "link": "https://atlanta.capitalbnews.org/black-voters-play-major-role-in-electing-new-psc-commissioners/",
+      "published": "2026-11-03T20:08:51Z",
+      "source": "Capital B Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-04T17:59:33Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Gwinnett Police Department launches drone first responder program",
+      "link": "https://www.gwinnettdailypost.com/local/gwinnett-police-department-launches-drone-first-responder-program/article_da461f6d-48b3-47b2-a80a-e8dc3282d287.html",
+      "published": "2026-11-03T19:45:00Z",
+      "source": "Gwinnett Daily Post",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-04T17:59:35Z",
+      "category": "Crime & Safety",
       "local": true
     },
     {
@@ -19673,1078 +20955,6 @@
       "area": "Atlanta",
       "fetched_at": "2026-10-21T22:42:42Z",
       "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "What to know about a traffic shift coming to this busy Forsyth County road",
-      "link": "https://www.forsythnews.com/news/transportation/what-to-know-about-a-traffic-shift-coming-to-this-busy-forsyth-county-road/",
-      "published": "2026-10-21T18:04:07Z",
-      "source": "Forsyth County News",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T22:42:47Z",
-      "category": "Traffic & Transit"
-    },
-    {
-      "headline": "In Candler Park, rebirth nearly finished for historic retail buildings",
-      "link": "https://atlanta.urbanize.city/post/midi-atl-candler-park-rebirth-nearly-finished-historic-retail-buildings",
-      "published": "2026-10-21T17:51:51Z",
-      "source": "Urbanize Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T22:42:45Z",
-      "category": "Business"
-    },
-    {
-      "headline": "Site evaluation ongoing at compromised Moores Mill Road Bridge, city says",
-      "link": "https://www.11alive.com/article/news/local/moores-mill-road-bridge-peachtree-creek-atlanta-damage-update/85-bf838801-67ce-409e-a172-eef08a2b672f",
-      "published": "2026-10-21T17:47:36Z",
-      "source": "11Alive",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T22:42:42Z",
-      "category": "Traffic & Transit",
-      "local": true
-    },
-    {
-      "headline": "States Are Forcing Hospitals To Offer More People Financial Aid. In Oregon, It’s Working.",
-      "link": "https://cobbcountycourier.com/2026/10/states-are-forcing-hospitals-to-offer-more-people-financial-aid-in-oregon-its-working/",
-      "published": "2026-10-21T17:39:58Z",
-      "source": "Cobb County Courier",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T22:42:47Z",
-      "category": "Health"
-    },
-    {
-      "headline": "New Arrivals in the ER? Georgia Gears Up To Solve Rural Maternal Health Crisis",
-      "link": "https://cobbcountycourier.com/2026/10/new-arrivals-in-the-er-georgia-gears-up-to-solve-rural-maternal-health-crisis/",
-      "published": "2026-10-21T17:39:45Z",
-      "source": "Cobb County Courier",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T22:42:47Z",
-      "category": "Health"
-    },
-    {
-      "headline": "Congressman Collins’ Last Stand In US Senate Battle: The Rural Vote",
-      "link": "https://cobbcountycourier.com/2026/10/congressman-collins-last-stand-in-us-senate-battle-the-rural-vote/",
-      "published": "2026-10-21T17:36:45Z",
-      "source": "Cobb County Courier",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T22:42:47Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "13-year-old girl air lifted after dog attack in Spalding County, man who helped her also injured",
-      "link": "https://www.11alive.com/article/news/local/13-year-old-girl-injured-dog-attack-spalding-county-georgia/85-434cf206-b525-427f-9f93-113ec3a6e463",
-      "published": "2026-10-21T16:56:54Z",
-      "source": "11Alive",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T22:42:42Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "$1 million dollar scratch-off ticket purchased in Gwinnett County",
-      "link": "https://www.gwinnettdailypost.com/local/1-million-dollar-scratch-off-ticket-purchased-in-gwinnett-county/article_76e525f0-e71f-4979-b391-09d5a18d6b52.html",
-      "published": "2026-10-21T16:53:00Z",
-      "source": "Gwinnett Daily Post",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T22:43:14Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "‘I’m a regular person’: Gault runs for Georgia House seat in west Forsyth County",
-      "link": "https://www.forsythnews.com/news/politics/im-a-regular-person-gault-runs-for-georgia-house-seat-in-west-forsyth-county/",
-      "published": "2026-10-21T16:50:38Z",
-      "source": "Forsyth County News",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T22:42:47Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Georgia utility commission’s balance of power at stake in midterm election",
-      "link": "https://cobbcountycourier.com/2026/10/georgia-utility-commissions-balance-of-power-at-stake-in-midterm-election/",
-      "published": "2026-10-21T16:49:13Z",
-      "source": "Cobb County Courier",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T22:42:47Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Ballot amendment would pave the way for dedicated funding to upgrade Georgia’s 911 system",
-      "link": "https://cobbcountycourier.com/2026/10/ballot-amendment-would-pave-the-way-for-dedicated-funding-to-upgrade-georgias-911-system/",
-      "published": "2026-10-21T16:49:08Z",
-      "source": "Cobb County Courier",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T22:42:47Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Sunglasses worth $5K stolen from North Georgia outlet mall",
-      "link": "https://www.fox5atlanta.com/news/sunglasses-worth-5k-stolen-from-north-georgia-outlet-mall",
-      "published": "2026-10-21T16:45:39Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T22:42:45Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "What does a Starshield slowdown really mean for Ukraine’s war with Russia?",
-      "link": "https://cobbcountycourier.com/2026/10/what-does-a-starshield-slowdown-really-mean-for-ukraines-war-with-russia/",
-      "published": "2026-10-21T16:41:23Z",
-      "source": "Cobb County Courier",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T22:42:47Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Are partisan politics even changing up our accents? They just might be, y’all",
-      "link": "https://cobbcountycourier.com/2026/10/are-partisan-politics-even-changing-up-our-accents-they-just-might-be-yall/",
-      "published": "2026-10-21T16:41:20Z",
-      "source": "Cobb County Courier",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T22:42:47Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Horror films exploit how human vision works to deliver movies’ best scares",
-      "link": "https://cobbcountycourier.com/2026/10/horror-films-exploit-how-human-vision-works-to-deliver-movies-best-scares/",
-      "published": "2026-10-21T16:41:18Z",
-      "source": "Cobb County Courier",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T22:42:47Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Ancient DNA challenges theories about when humans first reached North America",
-      "link": "https://www.fox5atlanta.com/news/ancient-dna-challenges-theories-when-humans-first-reached-north-america",
-      "published": "2026-10-21T16:31:27Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T22:42:45Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Duluth broker, attorney charged in alleged Ponzi schemes",
-      "link": "https://www.fox5atlanta.com/news/duluth-broker-attorney-charged-alleged-ponzi-schemes",
-      "published": "2026-10-21T16:26:57Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T22:42:45Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "2 arrested after Toccoa traffic stop; suspected meth found",
-      "link": "https://www.fox5atlanta.com/news/2-arrested-after-toccoa-traffic-stop-suspected-meth-found",
-      "published": "2026-10-21T16:21:28Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T22:42:45Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Georgia’s Ballot Has Three Constitutional Amendments You Should Know About",
-      "link": "https://atlanta.capitalbnews.org/georgia-ballot-measures-2026/",
-      "published": "2026-10-21T16:00:00Z",
-      "source": "Capital B Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T22:42:42Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Man arrested fatal Ira Street shooting on Oct. 16",
-      "link": "https://www.fox5atlanta.com/news/man-arrested-fatal-ira-street-shooting-oct-16",
-      "published": "2026-10-21T15:54:28Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T22:42:45Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Man booked on charges in $45,100 elder fraud case",
-      "link": "https://www.fox5atlanta.com/news/man-booked-charges-45100-elder-fraud-case",
-      "published": "2026-10-21T15:31:58Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T22:42:45Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Fired Milton police detective's wife defends him using Flock to track her",
-      "link": "https://www.fox5atlanta.com/news/fired-milton-police-detectives-wife-defends-him-using-flock-track-her",
-      "published": "2026-10-21T15:31:02Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T22:42:45Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Georgia early voting tops 1 million ballots",
-      "link": "https://www.forsythnews.com/news/politics/georgia-early-voting-tops-1-million-ballots/",
-      "published": "2026-10-21T15:26:54Z",
-      "source": "Forsyth County News",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T22:42:47Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Fire damages Canton home; occupants escape, dog missing",
-      "link": "https://www.fox5atlanta.com/news/fire-damages-canton-home-occupants-escape-dog-missing",
-      "published": "2026-10-21T15:16:31Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T22:42:45Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "City Springs intersection awaits underground utility relocations",
-      "link": "https://roughdraftatlanta.com/2026/10/21/mount-vernon-highway-sidewalks-complete/",
-      "published": "2026-10-21T15:13:34Z",
-      "source": "Rough Draft Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:14Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Alabama-Based NASA Contractor Plans 126 Permanent Layoffs at Kennedy Space Center",
-      "link": "https://whatnow.com/news/local-news/alabama-based-nasa-contractor-plans-126-permanent-layoffs-at-kennedy-space-center/",
-      "published": "2026-10-21T15:07:04Z",
-      "source": "What Now Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:17Z",
-      "category": "Business"
-    },
-    {
-      "headline": "Georgia city’s entire police force resigns",
-      "link": "https://www.atlantanewsfirst.com/2026/10/21/georgia-citys-entire-police-force-resigns/",
-      "published": "2026-10-21T15:02:26Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Eileen Braun goes big in ‘Pumped UP’ at Gallery 100",
-      "link": "https://roughdraftatlanta.com/2026/10/21/eileen-braun-goes-big-in-pumped-up-at-gallery-100/",
-      "published": "2026-10-21T15:00:00Z",
-      "source": "Rough Draft Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:14Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "New trial date set for teen accused of killing mother, stepfather in Carroll County",
-      "link": "https://www.atlantanewsfirst.com/2026/10/21/new-trial-date-set-teen-accused-killing-mother-stepfather-carroll-county/",
-      "published": "2026-10-21T14:57:14Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "DeKalb Superintendent discusses Dunwoody High School water, HVAC issues",
-      "link": "https://roughdraftatlanta.com/2026/10/21/dunwoody-high-school-malfunctions/",
-      "published": "2026-10-21T14:54:24Z",
-      "source": "Rough Draft Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:14Z",
-      "category": "Education"
-    },
-    {
-      "headline": "Mayor’s 5K on the 5th Runway gets new date after being washed out by storm",
-      "link": "https://www.atlantanewsfirst.com/2026/10/21/mayors-5k-5th-runway-gets-new-date-after-being-washed-out-by-storm/",
-      "published": "2026-10-21T14:51:35Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Weather",
-      "local": true
-    },
-    {
-      "headline": "New arrivals in the ER? Georgia gears up to solve rural maternal health crisis",
-      "link": "https://www.wabe.org/new-arrivals-in-the-er-georgia-gears-up-to-solve-rural-maternal-health-crisis/",
-      "published": "2026-10-21T14:43:35Z",
-      "source": "WABE",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Health",
-      "local": true
-    },
-    {
-      "headline": "A Nearly Four-Decade-Old Electrical Contractor Files for Chapter 11 Bankruptcy",
-      "link": "https://whatnow.com/news/trending/a-nearly-four-decade-old-electrical-contractor-files-for-chapter-11-bankruptcy/",
-      "published": "2026-10-21T14:38:48Z",
-      "source": "What Now Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:17Z",
-      "category": "Business"
-    },
-    {
-      "headline": "LOUD Securities opens new headquarters in Kennesaw",
-      "link": "https://www.mdjonline.com/news/local/loud-securities-opens-new-headquarters-in-kennesaw/article_8efe2fca-d048-40a1-a9b2-263011add62f.html",
-      "published": "2026-10-21T14:36:00Z",
-      "source": "Marietta Daily Journal",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T15:15:46Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "LOUD Security Systems opens new headquarters in Kennesaw",
-      "link": "https://www.mdjonline.com/news/local/loud-security-systems-opens-new-headquarters-in-kennesaw/article_8efe2fca-d048-40a1-a9b2-263011add62f.html",
-      "published": "2026-10-21T14:36:00Z",
-      "source": "Marietta Daily Journal",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-22T15:17:23Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Look up tonight: The Orionids meteor shower peaks as debris from Halley's comet lights up the night sky",
-      "link": "https://www.fox5atlanta.com/news/orionid-meteor-shower-peaks",
-      "published": "2026-10-21T14:25:53Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T22:42:45Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Indoor pickleball facility, sports bar to replace closed east Cobb Walmart",
-      "link": "https://www.mdjonline.com/news/local/indoor-pickleball-facility-sports-bar-to-replace-closed-east-cobb-walmart/article_f399ca2f-73e2-4fd4-86d5-09d5779903cc.html",
-      "published": "2026-10-21T14:23:00Z",
-      "source": "Marietta Daily Journal",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T15:15:46Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Middle Ground Coffeehouse Heads to Wellington",
-      "link": "https://whatnow.com/miami/restaurants/middle-ground-coffeehouse-heads-to-wellington/",
-      "published": "2026-10-21T14:17:47Z",
-      "source": "What Now Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:17Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Ballot amendment would pave the way for dedicated funding to upgrade Georgia’s 911 system",
-      "link": "https://www.wabe.org/ballot-amendment-would-pave-the-way-for-dedicated-funding-to-upgrade-georgias-911-system/",
-      "published": "2026-10-21T14:16:27Z",
-      "source": "WABE",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "'An immense sense of sorrow' | Westside High School grad killed in Macon shooting on Monday",
-      "link": "https://www.11alive.com/article/news/local/westside-high-school-grad-killed-in-macon-shooting-on-monday/93-a9724171-c20c-49f2-b587-77bd5267f238",
-      "published": "2026-10-21T14:09:45Z",
-      "source": "11Alive",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:14Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Mound Bayou Docuseries Announces FUBU TV Deal Capping Shutdown Preview Screening at The Bank Event Center",
-      "link": "https://www.theatlantavoice.com/life/mound-bayou-fubu-network-deal",
-      "published": "2026-10-21T14:00:00Z",
-      "source": "The Atlanta Voice",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:14Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Mother charged in hot car death of 1-year-old request permission to go trick-or-treating with other kids",
-      "link": "https://www.11alive.com/article/news/crime/mother-charged-in-hot-car-death-of-1-year-old-seeks-permission-to-go-trick-or-treating-with-other-kids/85-4bbca6f0-624c-423e-b08b-5040706bf126",
-      "published": "2026-10-21T13:46:39Z",
-      "source": "11Alive",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:14Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Ryan Cameron to make history at Campbell High",
-      "link": "https://www.fox5atlanta.com/news/ryan-cameron-make-history-campbell-high",
-      "published": "2026-10-21T13:38:42Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Atlanta Dream sell out State Farm Arena for WNBA Finals Game 3",
-      "link": "https://www.wsbtv.com/news/local/atlanta-dream-sell-out-state-farm-arena-game-3/SFBXUOQSCNFQLHVZLECVVGSBZA/",
-      "published": "2026-10-21T13:36:05Z",
-      "source": "WSB-TV",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:14Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Feeding tubes aren’t a magic fix — what families need to know",
-      "link": "https://www.atlantanewsfirst.com/2026/10/21/feeding-tubes-arent-magic-fix-what-families-need-know/",
-      "published": "2026-10-21T13:30:11Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Ultra-runner’s 50-marathon challenge makes an Atlanta stop",
-      "link": "https://www.fox5atlanta.com/news/ultra-runners-50-marathon-challenge-makes-atlanta-stop",
-      "published": "2026-10-21T13:30:05Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Hawaiian Bros Island Grill Secures 52-Restaurant Florida Expansion",
-      "link": "https://whatnow.com/orlando/restaurants/hawaiian-bros-island-grill-secures-52-restaurant-florida-expansion/",
-      "published": "2026-10-21T13:26:26Z",
-      "source": "What Now Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:17Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Political Cartoon by Clay Jones",
-      "link": "https://cobbcountycourier.com/2026/10/political-cartoon-by-clay-jones-63/",
-      "published": "2026-10-21T13:21:58Z",
-      "source": "Cobb County Courier",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T15:15:18Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Cupcake run ends with a kitten rescue in Sandy Springs",
-      "link": "https://www.fox5atlanta.com/news/cupcake-run-ends-kitten-rescue-sandy-springs",
-      "published": "2026-10-21T13:19:56Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Atlanta Hawks open season on the road vs. Orlando Magic | Watch on ANF",
-      "link": "https://www.atlantanewsfirst.com/2026/10/21/atlanta-hawks-open-season-road-vs-orlando-magic-watch-anf/",
-      "published": "2026-10-21T13:17:01Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "How to watch the Atlanta Hawks on ANF",
-      "link": "https://www.atlantanewsfirst.com/2026/10/21/how-watch-atlanta-hawks-anf/",
-      "published": "2026-10-21T13:09:45Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Lupus looks invisible; the fight inside isn’t",
-      "link": "https://www.atlantanewsfirst.com/2026/10/21/lupus-looks-invisible-fight-inside-isnt/",
-      "published": "2026-10-21T13:08:36Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Peachtree City to Welcome a New Men’s Clothing Store",
-      "link": "https://whatnow.com/atlanta/retail/peachtree-city-to-welcome-a-new-mens-clothing-store/",
-      "published": "2026-10-21T12:47:09Z",
-      "source": "What Now Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:17Z",
-      "category": "Business"
-    },
-    {
-      "headline": "Ron Gant stepping away from Good Day Atlanta after 14 years",
-      "link": "https://www.fox5atlanta.com/news/ron-gant-stepping-away-from-good-day-atlanta-after-14-years",
-      "published": "2026-10-21T12:40:29Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "A New Jersey-Based IT Services Company Files for Chapter 11 Bankruptcy After 25 Years in Business",
-      "link": "https://whatnow.com/news/trending/a-new-jersey-based-it-services-company-files-for-chapter-11-bankruptcy-after-25-years-in-business/",
-      "published": "2026-10-21T12:30:24Z",
-      "source": "What Now Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:17Z",
-      "category": "Business"
-    },
-    {
-      "headline": "7 Brew Plans New Drive-Thru Coffee Stand in San Antonio",
-      "link": "https://whatnow.com/san-antonio/restaurants/7-brew-plans-new-drive-thru-coffee-stand-in-san-antonio/",
-      "published": "2026-10-21T12:26:19Z",
-      "source": "What Now Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:17Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "InvestigateTV+: In-depth look at Hunter syndrome",
-      "link": "https://www.atlantanewsfirst.com/2026/10/21/investigatetv-in-depth-look-hunter-syndrome/",
-      "published": "2026-10-21T12:22:16Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Cobb County early voting turnout reaches 95,657",
-      "link": "https://cobbcountycourier.com/2026/10/cobb-county-early-voting-turnout-reaches-95657/",
-      "published": "2026-10-21T12:21:17Z",
-      "source": "Cobb County Courier",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T15:15:18Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "This business turns vinyl records into mixtapes",
-      "link": "https://www.atlantanewsfirst.com/2026/10/21/this-business-turns-vinyl-records-into-mixtapes/",
-      "published": "2026-10-21T12:16:36Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "A new drug offers hope for children with rare Hunter syndrome",
-      "link": "https://www.atlantanewsfirst.com/2026/10/21/new-drug-offers-hope-children-with-rare-hunter-syndrome/",
-      "published": "2026-10-21T12:15:35Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "E-bike, e-scooter deaths ‘surging’ in Georgia, national analysis finds",
-      "link": "https://atlanta.urbanize.city/post/e-bike-e-scooter-deaths-surging-georgia-national-analysis-finds",
-      "published": "2026-10-21T12:11:53Z",
-      "source": "Urbanize Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Wife of Milton Police officer fired for using Flock says he did it to save her life",
-      "link": "https://www.11alive.com/article/news/community/wife-of-milton-police-officer-fired-for-using-flock-says-he-did-it-to-save-her-life/85-8cfcbb72-e16d-428a-96b6-a9eced7eb1a0",
-      "published": "2026-10-21T12:11:28Z",
-      "source": "11Alive",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:14Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "AJC poll gives Ossoff an 8-point lead over Collins",
-      "link": "https://www.fox5atlanta.com/news/ajc-poll-gives-ossoff-8-point-lead-over-collins",
-      "published": "2026-10-21T12:02:13Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Crowning the women of ‘NU AFRICANS’ at Hammonds House",
-      "link": "https://roughdraftatlanta.com/2026/10/21/crowning-the-women-of-nu-africans-at-hammonds-house/",
-      "published": "2026-10-21T12:00:00Z",
-      "source": "Rough Draft Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:14Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Nana’s Dim Sum and Dumplings Plans Frisco Location",
-      "link": "https://whatnow.com/dallas/restaurants/nanas-dim-sum-and-dumplings-plans-frisco-location/",
-      "published": "2026-10-21T11:58:19Z",
-      "source": "What Now Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:17Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "“I’m a doggy in need of a permanent loving home!”",
-      "link": "https://cobbcountycourier.com/2026/10/im-a-doggy-in-need-of-a-permanent-loving-home-69/",
-      "published": "2026-10-21T11:55:29Z",
-      "source": "Cobb County Courier",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T15:15:18Z",
-      "category": "Other"
-    },
-    {
-      "headline": "“I’m a kitty in need of a permanent loving home!”",
-      "link": "https://cobbcountycourier.com/2026/10/im-a-kitty-in-need-of-a-permanent-loving-home-90/",
-      "published": "2026-10-21T11:55:22Z",
-      "source": "Cobb County Courier",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T15:15:18Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Latest Cobb County Road and Lane Closures as of Wednesday Oct. 21",
-      "link": "https://cobbcountycourier.com/2026/10/latest-cobb-county-road-and-lane-closures-as-of-wednesday-oct-21/",
-      "published": "2026-10-21T11:51:33Z",
-      "source": "Cobb County Courier",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T15:15:18Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Hearing for suspect in fatal MARTA stabbing pushed back to December",
-      "link": "https://www.wabe.org/hearing-for-suspect-in-fatal-marta-stabbing-moved-to-december/",
-      "published": "2026-10-21T11:45:00Z",
-      "source": "WABE",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Cobb climate summary & weather forecast for Wednesday, October 21, 2026",
-      "link": "https://cobbcountycourier.com/2026/10/cobb-climate-summary-weather-forecast-for-wednesday-october-21-2026/",
-      "published": "2026-10-21T11:44:17Z",
-      "source": "Cobb County Courier",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T15:15:18Z",
-      "category": "Weather"
-    },
-    {
-      "headline": "Cobb County geography quiz: How well do you know the map?",
-      "link": "https://cobbcountycourier.com/2026/10/cobb-county-geography-quiz-how-well-do-you-know-the-map/",
-      "published": "2026-10-21T11:31:42Z",
-      "source": "Cobb County Courier",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T15:15:18Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Flamingo Street Pumpkin Contest",
-      "link": "https://thecitizen.com/2026/10/21/flamingo-street-pumpkin-contest/",
-      "published": "2026-10-21T11:21:02Z",
-      "source": "The Citizen (Fayette & Coweta)",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T15:15:19Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Savannah Pride Festival returns to Forsyth Park on Oct. 24",
-      "link": "https://roughdraftatlanta.com/2026/10/21/savannah-pride-festival-forthsyths-park/",
-      "published": "2026-10-21T11:17:38Z",
-      "source": "Rough Draft Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:14Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Rebuilding Together Atlanta helps keep seniors, veterans in their homes with critical repairs",
-      "link": "https://www.11alive.com/article/news/community/rebuilding-together-atlanta-helps-keep-seniors-veterans-in-their-homes-with-critical-repairs/85-7a610428-1ecf-4981-8412-e300b77168ad",
-      "published": "2026-10-21T11:16:34Z",
-      "source": "11Alive",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:14Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Wife of officer fired for Flock use blames her medical emergencies",
-      "link": "https://www.wsbtv.com/news/local/north-fulton-county/wife-officer-fired-flock-use-blames-her-medical-emergencies-his-termination/ZIE3KQSOMNGHPHJESFSFRX4J4Y/",
-      "published": "2026-10-21T11:15:09Z",
-      "source": "WSB-TV",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:14Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "AJC/UGA poll: Jon Ossoff leads Mike Collins among likely voters in U.S. Senate race",
-      "link": "https://www.wsbtv.com/news/local/ajcuga-poll-jon-ossoff-leads-mike-collins-among-likely-voters-us-senate-race/YWLQFEFS3VHILHKZ3KWBO2ZX5I/",
-      "published": "2026-10-21T11:10:46Z",
-      "source": "WSB-TV",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:14Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Glades Restaurant Plans for Belle Glade Location",
-      "link": "https://whatnow.com/miami/restaurants/glades-restaurant-plans-for-belle-glade-location/",
-      "published": "2026-10-21T11:09:12Z",
-      "source": "What Now Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:17Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Angel Reese determined to lead something special for Atlanta Dream starting on big WNBA Finals stage",
-      "link": "https://www.atlantanewsfirst.com/2026/10/21/angel-reese-determined-lead-something-special-atlanta-dream-starting-big-wnba-finals-stage/",
-      "published": "2026-10-21T11:08:41Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "FBI investigates possible ‘incendiary device’ thrown at ICE building in Atlanta",
-      "link": "https://www.wsbtv.com/news/local/possible-object-thrown-ice-building-apd-says/ZOJD6UVBJJHPXFTPIM3M5RMLME/",
-      "published": "2026-10-21T11:01:49Z",
-      "source": "WSB-TV",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:14Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "$68 Million ACDC Sale Approved Despite Calls for Other Reforms",
-      "link": "https://atlanta.capitalbnews.org/atlanta-jail-sale-fulton-county-68-million/",
-      "published": "2026-10-21T11:00:00Z",
-      "source": "Capital B Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:14Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Vacation spot slapped with US travel warning over crime, sexual assaults and kidnappings",
-      "link": "https://www.fox5atlanta.com/news/vacation-spot-slapped-us-travel-warning-over-crime-sexual-assaults-kidnappings",
-      "published": "2026-10-21T10:55:42Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Atlanta abuzz as Dream face Golden State Valkyries in WNBA Finals Game 3 at State Farm Arena",
-      "link": "https://www.atlantanewsfirst.com/2026/10/21/atlanta-dream-face-golden-state-valkyries-home-wnba-finals-game-3/",
-      "published": "2026-10-21T10:53:00Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Dream seek 2-1 Finals lead behind Reese’s record night",
-      "link": "https://www.fox5atlanta.com/news/dream-seek-2-1-finals-lead-behind-reeses-record-night",
-      "published": "2026-10-21T10:49:35Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "FIRST ALERT FORECAST: Sunny, mid-70s this afternoon",
-      "link": "https://www.atlantanewsfirst.com/2026/10/21/first-alert-forecast-sunny-mid-70s-this-afternoon/",
-      "published": "2026-10-21T10:48:25Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Weather",
-      "local": true
-    },
-    {
-      "headline": "High fire danger expected across much of Georgia Wednesday",
-      "link": "https://cobbcountycourier.com/2026/10/high-fire-danger-expected-across-much-of-georgia-wednesday/",
-      "published": "2026-10-21T10:42:33Z",
-      "source": "Cobb County Courier",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T15:15:18Z",
-      "category": "Weather"
-    },
-    {
-      "headline": "Georgia tops nation for data center construction, but relatively few in Gwinnett",
-      "link": "https://www.gwinnettdailypost.com/local/georgia-tops-nation-for-data-center-construction-but-relatively-few-in-gwinnett/article_b5985153-260e-4f8a-9d01-23badd9d4168.html",
-      "published": "2026-10-21T10:36:00Z",
-      "source": "Gwinnett Daily Post",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Development & Housing",
-      "local": true
-    },
-    {
-      "headline": "Fresh Kitchen Sets Opening Date for New Winter Park Location",
-      "link": "https://whatnow.com/orlando/restaurants/fresh-kitchen-sets-opening-date-for-new-winter-park-location/",
-      "published": "2026-10-21T10:30:28Z",
-      "source": "What Now Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:17Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "LAKO: The hidden trade-offs of values-based investing",
-      "link": "https://www.gwinnettdailypost.com/local/lako-the-hidden-trade-offs-of-values-based-investing/article_44958e8e-0082-48a3-ac35-e6c5a3b063d6.html",
-      "published": "2026-10-21T10:30:00Z",
-      "source": "Gwinnett Daily Post",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "WNBA Finals: Atlanta Dream host Golden State Valkyries for Game 3 at State Farm Arena tonight",
-      "link": "https://www.wsbtv.com/news/local/wnba-finals-atlanta-dream-host-golden-state-valkyries-game-3-state-farm-arena-tonight/CLBCL3RA7VEL3BXIZCFXGMGV6I/",
-      "published": "2026-10-21T10:11:49Z",
-      "source": "WSB-TV",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:14Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Apparent incendiary device thrown at Atlanta ICE building, FBI says",
-      "link": "https://www.fox5atlanta.com/news/apparent-incendiary-device-thrown-atlanta-ice-building-fbi-says",
-      "published": "2026-10-21T10:11:00Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "AROUND TOWN: Suwanee company runner-up in national small business competition",
-      "link": "https://www.gwinnettdailypost.com/local/around-town-suwanee-company-runner-up-in-national-small-business-competition/article_e14b1c75-d157-473c-b1ae-4b64a21135b0.html",
-      "published": "2026-10-21T10:00:00Z",
-      "source": "Gwinnett Daily Post",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "Citizen of the Week: Roselynn Pearson Fights for More Birthdays and Less Cancer",
-      "link": "https://thecitizen.com/2026/10/21/citizen-of-the-week-roselynn-pearson-fights-for-more-birthdays-and-less-cancer/",
-      "published": "2026-10-21T10:00:00Z",
-      "source": "The Citizen (Fayette & Coweta)",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T15:15:19Z",
-      "category": "Health"
-    },
-    {
-      "headline": "‘We’re lucky to be alive’: Women recount slamming head-on into water buffalo at 52 mph",
-      "link": "https://www.atlantanewsfirst.com/2026/10/21/were-lucky-be-alive-women-recount-slamming-head-on-into-water-buffalo-52-mph/",
-      "published": "2026-10-21T07:41:39Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "‘I thought I lost my baby’: Mother speaks out after toddler found alive in morgue",
-      "link": "https://www.atlantanewsfirst.com/2026/10/21/i-thought-i-lost-my-baby-mother-speaks-out-after-toddler-found-alive-morgue/",
-      "published": "2026-10-21T06:00:56Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "9-year-old boy attacked by stranger while waiting for school bus, police say",
-      "link": "https://www.atlantanewsfirst.com/2026/10/21/9-year-old-boy-attacked-by-stranger-while-waiting-school-bus-police-say/",
-      "published": "2026-10-21T04:20:21Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Entire police force, city administrator resigns in Georgia city",
-      "link": "https://www.wsbtv.com/news/local/entire-police-force-city-administrator-resigns-georgia-city/JCY626Y7XREZDDWUZBTSKYLTKU/",
-      "published": "2026-10-21T04:16:00Z",
-      "source": "WSB-TV",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:14Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Georgia leaders react after officer fired for sharing Flock access with ICE agent husband",
-      "link": "https://www.wsbtv.com/news/local/georgia-leaders-react-after-officer-fired-sharing-flock-access-with-ice-agent-husband/VJQJN24BHVADXHZ4CZSEDQQD7U/",
-      "published": "2026-10-21T04:02:26Z",
-      "source": "WSB-TV",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:14Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "East Metro Community Calendar",
-      "link": "https://www.rockdalecitizen.com/news/east-metro-community-calendar/article_f48d2812-ed4e-4534-89f7-2be241d08eb7.html",
-      "published": "2026-10-21T04:00:00Z",
-      "source": "Rockdale Citizen",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T15:15:18Z",
-      "category": "Traffic & Transit",
-      "local": true
-    },
-    {
-      "headline": "Fiancée of man killed in Gainesville motorcycle crash seeks justice as driver faces felony charge",
-      "link": "https://www.11alive.com/article/news/crime/fiance-of-man-killed-in-gainesville-motorcycle-crash-seeks-justice-as-driver-faces-felony-charge/85-25b10e06-7475-4a2b-84c7-19d133aaa541",
-      "published": "2026-10-21T03:59:45Z",
-      "source": "11Alive",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:14Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Chemical leak in Cedartown prompts hazmat response after tanker driver makes wrong turn",
-      "link": "https://www.11alive.com/article/news/local/chemical-leak-in-cedartown-prompts-hazmat-response-after-tanker-driver-makes-wrong-turn/85-3094132b-9a11-425d-bbe4-db53d1a66193",
-      "published": "2026-10-21T03:51:04Z",
-      "source": "11Alive",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:14Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Georgia voters will decide on 3 constitutional amendments during midterms",
-      "link": "https://www.atlantanewsfirst.com/2026/10/21/georgia-voters-will-decide-3-constitutional-amendments-during-midterms/",
-      "published": "2026-10-21T03:23:17Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Walton County softball coach arrested, accused of grooming a minor",
-      "link": "https://www.fox5atlanta.com/news/walton-county-softball-coach-arrested-accused-grooming-minor",
-      "published": "2026-10-21T03:09:12Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Decomposed pet found on Cartersville doorstep, man arrested",
-      "link": "https://www.fox5atlanta.com/news/cartersville-police-arrest-man-after-decomposed-pet-found-doorstep",
-      "published": "2026-10-21T03:04:29Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Clarke County jail officer arrested on kidnapping, battery charges",
-      "link": "https://www.fox5atlanta.com/news/clarke-county-jail-officer-18-arrested-kidnapping-battery-charges",
-      "published": "2026-10-21T03:00:56Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "2 arrested, 2 kilos of fentanyl seized in Athens drug raids",
-      "link": "https://www.fox5atlanta.com/news/2-arrested-2-kilos-fentanyl-seized-athens-drug-raids",
-      "published": "2026-10-21T02:40:50Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Woman granted protective order against former deputy accused of harassing her on social media",
-      "link": "https://www.wsbtv.com/news/local/woman-granted-protective-order-against-former-deputy-accused-harassing-her-social-media/7SCC7VFEMRA4DHPZXCDRP7W354/",
-      "published": "2026-10-21T02:11:09Z",
-      "source": "WSB-TV",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:14Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Stockbridge lottery player wins $50K in Powerball drawing",
-      "link": "https://www.fox5atlanta.com/news/stockbridge-lottery-player-wins-50k-powerball-drawing",
-      "published": "2026-10-21T02:05:36Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "GDOT wraps up major rebuild of I-285 and I-20 East interchange",
-      "link": "https://www.fox5atlanta.com/news/gdot-wraps-up-major-rebuild-i-285-i-20-east-interchange",
-      "published": "2026-10-21T01:53:36Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Traffic & Transit",
-      "local": true
-    },
-    {
-      "headline": "Carden ethics complaint dismissed on technical grounds",
-      "link": "https://www.gwinnettdailypost.com/local/carden-ethics-complaint-dismissed-on-technical-grounds/article_1d6600c5-b42b-4eb7-86e1-af07feae4eea.html",
-      "published": "2026-10-21T01:48:00Z",
-      "source": "Gwinnett Daily Post",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-21T15:15:16Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Some residents at DeKalb condominiums resort to drinking from water hoses, cooking over fires amid water, power outages",
-      "link": "https://www.11alive.com/article/news/local/some-residents-at-dekalb-condominiums-resort-to-drinking-from-water-hoses-cooking-over-fires-amid-water-power-outages/85-c060276e-89ad-4153-aa76-f070f8b407de",
-      "published": "2026-10-21T00:56:01Z",
-      "source": "11Alive",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:14Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Poll shows virtual tie in Georgia governor’s race",
-      "link": "https://www.wsbtv.com/news/local/poll-shows-virtual-tie-georgia-governors-race/SEP7DILIZRH7LHYTPECWJ4FITE/",
-      "published": "2026-10-21T00:31:38Z",
-      "source": "WSB-TV",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-21T15:15:14Z",
-      "category": "Government & Politics",
       "local": true
     }
   ],
