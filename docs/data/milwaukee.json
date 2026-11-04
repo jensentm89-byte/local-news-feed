@@ -1,11 +1,355 @@
 {
-  "generated_at": "2026-11-03T17:58:07Z",
+  "generated_at": "2026-11-04T00:20:24Z",
   "name": "Milwaukee, WI",
   "areas": [
     "Milwaukee",
     "Ozaukee & Washington Counties"
   ],
   "articles": [
+    {
+      "headline": "Wisconsin election: Waukesha County voter turnout strong",
+      "link": "https://www.fox6now.com/news/wisconsin-election-waukesha-county-voter-turnout-strong",
+      "published": "2026-11-03T23:49:35Z",
+      "source": "FOX6 Milwaukee",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:16:01Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Waukesha police announce release of sex offender",
+      "link": "https://www.gmtoday.com/the_freeman/news/waukesha-sex-offender-released/article_37450389-5972-458c-bc10-ec52ec729526.html",
+      "published": "2026-11-03T22:32:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Milwaukee police shooting on Highway 175, suspect identified",
+      "link": "https://www.fox6now.com/news/milwaukee-police-shooting-highway-175-suspect",
+      "published": "2026-11-03T22:03:02Z",
+      "source": "FOX6 Milwaukee",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:16:01Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Amani residents cast ballots on Crowley’s childhood block in what could become a historic election",
+      "link": "https://milwaukeenns.org/2026/11/03/amani-residents-cast-ballots-on-crowleys-childhood-block-in-what-could-become-a-historic-election/",
+      "published": "2026-11-03T22:00:00Z",
+      "source": "Milwaukee Neighborhood News Service",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:15:57Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Your Right to Know: Public Officials Use of Signal App Erodes Trust",
+      "link": "https://urbanmilwaukee.com/2026/11/03/your-right-to-know-public-officials-use-of-signal-app-erodes-trust/",
+      "published": "2026-11-03T21:57:17Z",
+      "source": "Urban Milwaukee",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:15:58Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Nearly $450K stolen from Milwaukee Public Schools in bank impersonation fraud",
+      "link": "https://www.tmj4.com/news/local-news/county-reporting/milwaukee-county/nearly-450k-stolen-from-milwaukee-public-schools-in-bank-impersonation-fraud",
+      "published": "2026-11-03T21:51:45Z",
+      "source": "TMJ4",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:15:59Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Milwaukee crash, fire near 6th and Chambers; driver taken to hospital",
+      "link": "https://www.fox6now.com/news/milwaukee-crash-fire-6th-chambers",
+      "published": "2026-11-03T21:48:16Z",
+      "source": "FOX6 Milwaukee",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:16:01Z",
+      "category": "Traffic & Transit"
+    },
+    {
+      "headline": "Wisconsin voters share what's bringing them to the polls this Election Day",
+      "link": "https://www.tmj4.com/news/local-news/wisconsin-voters-share-whats-bringing-them-to-the-polls-this-election-day",
+      "published": "2026-11-03T21:39:49Z",
+      "source": "TMJ4",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:15:59Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Why don't sergeants wear body cameras? Questions after Milwaukee police sergeant kills armed wrong-way driver",
+      "link": "https://www.cbs58.com/news/why-dont-sergeants-wear-body-cameras-questions-after-milwaukee-police-sergeant-shot-and-killed-an-armed-wrong-way-driver",
+      "published": "2026-11-03T21:33:00Z",
+      "source": "CBS 58",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:16:00Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "No schools picked yet to close. MPS adds meetings to discuss potential closures ahead of December deadline",
+      "link": "https://milwaukeenns.org/2026/11/03/no-schools-picked-yet-to-close-mps-adds-meetings-to-discuss-potential-closures-ahead-of-december-deadline/",
+      "published": "2026-11-03T21:30:00Z",
+      "source": "Milwaukee Neighborhood News Service",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:15:57Z",
+      "category": "Education"
+    },
+    {
+      "headline": "Federal DOJ Sending Election Observers to Wisconsin",
+      "link": "https://urbanmilwaukee.com/2026/11/03/federal-doj-is-sending-election-observers-to-wisconsin-state-election-officials-say-thats-nothing-unusual/",
+      "published": "2026-11-03T21:19:56Z",
+      "source": "Urban Milwaukee",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:15:58Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "MPS bank impersonation scam, $450K initially lost",
+      "link": "https://www.fox6now.com/news/mps-bank-impersonation-scam",
+      "published": "2026-11-03T21:18:23Z",
+      "source": "FOX6 Milwaukee",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:16:01Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Steady at the polls: Voters make their voices heard on Election Day",
+      "link": "https://www.cbs58.com/news/steady-at-the-polls-voters-make-their-voices-heard-on-election-day",
+      "published": "2026-11-03T21:08:00Z",
+      "source": "CBS 58",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:16:00Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Remembering South Side organizer Manuel “Manni” Marquez",
+      "link": "https://milwaukeenns.org/2026/11/03/remembering-south-side-organizer-manuel-manni-marquez/",
+      "published": "2026-11-03T21:00:00Z",
+      "source": "Milwaukee Neighborhood News Service",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:15:57Z",
+      "category": "Other"
+    },
+    {
+      "headline": "See Construction Progress on MSOE’s New Engineering Center",
+      "link": "https://urbanmilwaukee.com/2026/11/03/see-construction-progress-on-msoes-new-engineering-center/",
+      "published": "2026-11-03T20:38:49Z",
+      "source": "Urban Milwaukee",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:15:58Z",
+      "category": "Education"
+    },
+    {
+      "headline": "Water Street Brewery celebrates renovations with Lake Country reveal",
+      "link": "https://onmilwaukee.com/articles/water-street-brewery-delafield-reopens",
+      "published": "2026-11-03T20:31:00Z",
+      "source": "OnMilwaukee",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:16:04Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "B97.3 flipping the switch to around-the-clock holiday music Nov. 6",
+      "link": "https://www.cbs58.com/news/b973-flipping-the-switch-to-around-the-clock-holiday-music-nov-6",
+      "published": "2026-11-03T20:28:00Z",
+      "source": "CBS 58",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:16:00Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Convicted murderer who escaped through Tennessee prison fence is captured, officials say",
+      "link": "https://www.cbs58.com/news/convicted-murderer-who-escaped-through-tennessee-prison-fence-is-captured-officials-say",
+      "published": "2026-11-03T20:25:00Z",
+      "source": "CBS 58",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:16:00Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "How Milwaukee’s Absentee Ballots Could Flip the Election",
+      "link": "https://urbanmilwaukee.com/2026/11/03/how-milwaukees-absentee-ballots-could-flip-the-election/",
+      "published": "2026-11-03T20:11:54Z",
+      "source": "Urban Milwaukee",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:15:58Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Sherman Perk Cafe Sold",
+      "link": "https://urbanmilwaukee.com/2026/11/03/sherman-perk-cafe-sold/",
+      "published": "2026-11-03T20:01:39Z",
+      "source": "Urban Milwaukee",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:15:58Z",
+      "category": "Development & Housing"
+    },
+    {
+      "headline": "LIVE RESULTS: Wisconsin elections, statewide races November 2026",
+      "link": "https://www.fox6now.com/news/wisconsin-election-results-midterm-november-2026",
+      "published": "2026-11-03T20:00:21Z",
+      "source": "FOX6 Milwaukee",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:16:01Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "LIVE RESULTS: Wisconsin elections, Congressional races November 2026",
+      "link": "https://www.fox6now.com/news/wisconsin-election-results-congress-november-2026",
+      "published": "2026-11-03T20:00:18Z",
+      "source": "FOX6 Milwaukee",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:16:01Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "LIVE RESULTS: Wisconsin elections, State Senate races November 2026",
+      "link": "https://www.fox6now.com/news/wisconsin-election-results-state-senate-november-2026",
+      "published": "2026-11-03T20:00:17Z",
+      "source": "FOX6 Milwaukee",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:16:01Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "LIVE RESULTS: Wisconsin elections, State Assembly races November 2026",
+      "link": "https://www.fox6now.com/news/wisconsin-election-results-state-assembly-november-2026",
+      "published": "2026-11-03T20:00:16Z",
+      "source": "FOX6 Milwaukee",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:16:01Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "LIVE RESULTS: Wisconsin elections, local races November 2026",
+      "link": "https://www.fox6now.com/news/wisconsin-election-results-counties-110326",
+      "published": "2026-11-03T20:00:15Z",
+      "source": "FOX6 Milwaukee",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:16:01Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Milwaukee History Club to present \"Hoops, Hype & History\"",
+      "link": "https://onmilwaukee.com/articles/backyard-historians-mke%20history-club",
+      "published": "2026-11-03T19:46:00Z",
+      "source": "OnMilwaukee",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:16:04Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Election Day deals: Where to get free doughnuts, sandwich discounts",
+      "link": "https://www.fox6now.com/news/election-day-deals-where-get-free-doughnuts-sandwich-discounts",
+      "published": "2026-11-03T19:41:29Z",
+      "source": "FOX6 Milwaukee",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:16:01Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "At Kristmas Kringle Shoppe, It’s Christmas All Year Round",
+      "link": "https://www.milwaukeemag.com/kristmas-kringle-shoppe-christmas/?utm_source=rss&utm_medium=rss&utm_campaign=kristmas-kringle-shoppe-christmas",
+      "published": "2026-11-03T19:01:23Z",
+      "source": "Milwaukee Magazine",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:15:58Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Laughing Liberally Milwaukee Episode 154: Michael Cooper",
+      "link": "https://shepherdexpress.com/podcasts/laughing-liberally/laughing-liberally-milwaukee-episode-154-michael-cooper/",
+      "published": "2026-11-03T18:54:35Z",
+      "source": "Shepherd Express",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:15:59Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Trump says US is cutting off aid to Israel at year’s end because ‘they don’t need it’",
+      "link": "https://www.cbs58.com/news/trump-says-us-is-cutting-off-aid-to-israel-at-year-s-end-because-they-don-t-need-it",
+      "published": "2026-11-03T18:54:00Z",
+      "source": "CBS 58",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:16:00Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "New Berlin Chamber of Commerce ending role operating farmers market",
+      "link": "https://www.gmtoday.com/the_freeman/news/new-berlin-chamber-ends-farmers-market/article_aa676ba1-b8b2-428b-8337-1c4bfe752bc8.html",
+      "published": "2026-11-03T18:49:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Milwaukee Voters Connect Everyday Struggles to Election Issues",
+      "link": "https://shepherdexpress.com/news/features/milwaukee-voters-connect-everyday-struggles-to-election-issues/",
+      "published": "2026-11-03T18:44:17Z",
+      "source": "Shepherd Express",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:15:59Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Post From Community: Forward Scholars looking for volunteer tutors",
+      "link": "https://milwaukeenns.org/2026/11/03/post-from-community-forward-scholars-looking-for-volunteer-tutors/",
+      "published": "2026-11-03T18:29:13Z",
+      "source": "Milwaukee Neighborhood News Service",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:15:57Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Jordan Love Cooks",
+      "link": "https://shepherdexpress.com/sports/packers/jordan-love-cooks/",
+      "published": "2026-11-03T18:25:35Z",
+      "source": "Shepherd Express",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:15:59Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Coming Out at Work",
+      "link": "https://shepherdexpress.com/lgbtq/dear-ruthie/coming-out-at-work/",
+      "published": "2026-11-03T18:17:40Z",
+      "source": "Shepherd Express",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:15:59Z",
+      "category": "Other"
+    },
+    {
+      "headline": "On New EP, Allison Mahal Finds Her Backbone",
+      "link": "https://shepherdexpress.com/music/local-music/on-new-ep-allison-mahal-finds-her-backbone/",
+      "published": "2026-11-03T18:08:44Z",
+      "source": "Shepherd Express",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:15:59Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Breakfast, Lunch, Dinner: West Allis",
+      "link": "https://milwaukeerecord.com/food-drink/breakfast-lunch-dinner-west-allis/",
+      "published": "2026-11-03T18:03:40Z",
+      "source": "Milwaukee Record",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:16:03Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Tabletop Bookshelf: A Bookstore for Indie RPGs and Solo Games",
+      "link": "https://shepherdexpress.com/culture/books/tabletop-bookshelf-a-bookstore-for-indie-rpgs-and-solo-games/",
+      "published": "2026-11-03T17:52:16Z",
+      "source": "Shepherd Express",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:15:59Z",
+      "category": "Other"
+    },
     {
       "headline": "A New Fund From The Quadracci Family Supports The Milwaukee Art Museum",
       "link": "https://www.milwaukeemag.com/a-new-fund-from-the-quadracci-family-supports-the-milwaukee-art-museum/?utm_source=rss&utm_medium=rss&utm_campaign=a-new-fund-from-the-quadracci-family-supports-the-milwaukee-art-museum",
@@ -23,6 +367,15 @@
       "area": "Milwaukee",
       "fetched_at": "2026-11-03T17:54:42Z",
       "category": "Business"
+    },
+    {
+      "headline": "Man charged with kidnapping and sexual assault of woman after Milwaukee concert",
+      "link": "https://www.cbs58.com/news/man-charged-with-kidnapping-and-sexual-assault-of-woman-after-milwaukee-concert",
+      "published": "2026-11-03T17:43:00Z",
+      "source": "CBS 58",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:16:00Z",
+      "category": "Crime & Safety"
     },
     {
       "headline": "Frightening Spectacle by Bucks in Halloween Night Loss",
@@ -59,6 +412,15 @@
       "area": "Milwaukee",
       "fetched_at": "2026-11-03T17:54:42Z",
       "category": "Other"
+    },
+    {
+      "headline": "Enjoy some Milwaukee Mitchell International Airport planespotting via live YouTube stream",
+      "link": "https://milwaukeerecord.com/city-life/enjoy-some-milwaukee-mitchell-international-airport-planespotting-via-live-youtube-stream/",
+      "published": "2026-11-03T17:00:04Z",
+      "source": "Milwaukee Record",
+      "area": "Milwaukee",
+      "fetched_at": "2026-11-04T00:16:03Z",
+      "category": "Traffic & Transit"
     },
     {
       "headline": "Polling location experiences early morning technical problems, currently resolved",
@@ -313,6 +675,86 @@
       "category": "Government & Politics"
     },
     {
+      "headline": "Christ Alone north campus construction underway",
+      "link": "https://www.gmtoday.com/news_graphic/news/christ-alone-north-campus-construction-underway/article_78c58282-e1e9-579a-8c75-1a53da50e397.html",
+      "published": "2026-11-03T12:30:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Education",
+      "local": true
+    },
+    {
+      "headline": "Warrant issued in cat-fatality case",
+      "link": "https://www.gmtoday.com/daily_news/news/warrant-issued-in-cat-fatality-case/article_bd14bb9d-4401-5849-ad01-42bc4aea6363.html",
+      "published": "2026-11-03T12:30:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Ozaukee County fans help Brewers celebrate World Series victory",
+      "link": "https://www.gmtoday.com/news_graphic/news/ozaukee-county-fans-help-brewers-celebrate-world-series-victory/article_298efb39-be3f-5a33-a5b3-51f71efc967e.html",
+      "published": "2026-11-03T12:30:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Welsh Estates under construction, pays tribute to area’s history",
+      "link": "https://www.gmtoday.com/the_freeman/news/welsh-estates-under-construction-pays-tribute-to-area-s-history/article_b9e602fe-2b9a-5378-b88d-861b68f05cbd.html",
+      "published": "2026-11-03T12:30:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Development & Housing",
+      "local": true
+    },
+    {
+      "headline": "Entrance fee proposed for Retzer Nature Center",
+      "link": "https://www.gmtoday.com/the_freeman/news/entrance-fee-proposed-for-retzer-nature-center/article_600f3ef3-77e2-5c4d-9837-65219b85e0fd.html",
+      "published": "2026-11-03T12:30:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Former Advocates director charged with theft",
+      "link": "https://www.gmtoday.com/news_graphic/news/former-advocates-director-charged-with-theft/article_ce73919a-556a-5f53-b4dc-2003f176d17f.html",
+      "published": "2026-11-03T12:30:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Germantown home suffers moderate damages in chimney fire",
+      "link": "https://www.gmtoday.com/daily_news/news/germantown-home-suffers-moderate-damages-in-chimney-fire/article_8a0d1959-684d-5b0d-aed8-0d903b47744b.html",
+      "published": "2026-11-03T12:30:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Happy Halloween",
+      "link": "https://www.gmtoday.com/daily_news/news/happy-halloween/article_622e6518-9654-50d3-b305-1ae15f37cb7a.html",
+      "published": "2026-11-03T12:20:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
       "headline": "At least 33 dead after Russia drops nine bombs on a Ukrainian school building",
       "link": "https://www.cbs58.com/news/at-least-31-dead-after-russia-drops-nine-bombs-on-a-ukrainian-school-building",
       "published": "2026-11-03T12:12:00Z",
@@ -320,6 +762,306 @@
       "area": "Milwaukee",
       "fetched_at": "2026-11-03T17:54:40Z",
       "category": "Crime & Safety"
+    },
+    {
+      "headline": "Wales woman gets two years in federal prison for healthcare fraud",
+      "link": "https://www.gmtoday.com/the_freeman/news/wales-woman-gets-two-years-in-federal-prison-for-healthcare-fraud/article_7319848c-3dc2-5e6a-9e1d-3fd18c9d82d7.html",
+      "published": "2026-11-03T12:10:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Brewers fans line up at Freeman building for World Series papers",
+      "link": "https://www.gmtoday.com/the_freeman/news/brewers-fans-line-up-at-freeman-building-for-world-series-papers/article_81a119b9-5354-5f45-82ca-7ffc11a8e28f.html",
+      "published": "2026-11-03T12:10:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Concordia hosts first Inclusive Play: Toys for All build day",
+      "link": "https://www.gmtoday.com/news_graphic/news/concordia-hosts-first-inclusive-play-toys-for-all-build-day/article_e22768fa-a2e0-51b5-b349-02602afe3097.html",
+      "published": "2026-11-03T12:10:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "We Energies Cookie Book returns with 38 recipes for holiday baking",
+      "link": "https://www.gmtoday.com/the_freeman/news/we-energies-cookie-book-returns-with-38-recipes-for-holiday-baking/article_13e1361f-c7e1-52eb-850f-ba2aa1335986.html",
+      "published": "2026-11-03T12:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Waukesha police blotter: Oct. 30-Nov. 1, 2026",
+      "link": "https://www.gmtoday.com/the_freeman/news/waukesha-police-blotter-oct-30-nov-1-2026/article_cdd3ba0a-c237-5150-b617-129f8a6e0d3f.html",
+      "published": "2026-11-03T12:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Ozaukee County Jail Literacy celebrates successful Keys to Opportunity Fundraiser",
+      "link": "https://www.gmtoday.com/news_graphic/news/ozaukee-county-jail-literacy-celebrates-successful-keys-to-opportunity-fundraiser/article_c59d9ef9-f22c-59fb-94ba-07be9bbc96cc.html",
+      "published": "2026-11-03T12:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Cedarburg Senior Center project helping the unhoused",
+      "link": "https://www.gmtoday.com/news_graphic/news/cedarburg-senior-center-project-helping-the-unhoused/article_b840ae22-d2e5-5760-ab65-f605325649cb.html",
+      "published": "2026-11-03T12:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "High schoolers create benches dedicated to Cedarburg",
+      "link": "https://www.gmtoday.com/news_graphic/news/high-schoolers-create-benches-dedicated-to-cedarburg/article_b69b684a-ffe0-5481-b5ac-c9fc3f79d712.html",
+      "published": "2026-11-03T12:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Peltz Center to host historic lecture amid rising antisemitism",
+      "link": "https://www.gmtoday.com/news_graphic/news/peltz-center-to-host-historic-lecture-amid-rising-antisemitism/article_d8880ec5-62a5-512d-9b23-92e582f943c4.html",
+      "published": "2026-11-03T12:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Losses due to scams skyrocket",
+      "link": "https://www.gmtoday.com/news_graphic/news/losses-due-to-scams-skyrocket/article_6e8a42e9-3395-53c0-ad47-6d9c39bb246b.html",
+      "published": "2026-11-03T12:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "G’Town boys volleyball loses to Hamilton in sectional final",
+      "link": "https://www.gmtoday.com/daily_news/news/g-town-boys-volleyball-loses-to-hamilton-in-sectional-final/article_8ec5186e-ea65-4e48-aa3b-d9856ec70a3b.html",
+      "published": "2026-11-03T12:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "KML boys soccer blanks Port Washington to punch state ticket",
+      "link": "https://www.gmtoday.com/daily_news/news/kml-boys-soccer-blanks-port-washington-to-punch-state-ticket/article_f2993609-8ddc-491c-a26c-7984be745a70.html",
+      "published": "2026-11-03T12:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Chargers sweep Crusaders to earn first state berth since 2018",
+      "link": "https://www.gmtoday.com/daily_news/news/chargers-sweep-crusaders-to-earn-first-state-berth-since-2018/article_fa00c382-f682-54d6-9c47-318b4aae5329.html",
+      "published": "2026-11-03T12:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Cinnamon is the theme of CPL's Prepare & Share Cooking Club",
+      "link": "https://www.gmtoday.com/news/local/cinnamon-is-the-theme-of-cpls-prepare-share-cooking-club/article_53f095fc-9bc5-5aa5-9db5-387ef230d5a2.html",
+      "published": "2026-11-03T12:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Pet of the Week: Major",
+      "link": "https://www.gmtoday.com/news_graphic/news/pet-of-the-week-major/article_41166ddb-80fd-52ed-ac5f-4e69d2ea672b.html",
+      "published": "2026-11-03T12:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Don’t forget to vote",
+      "link": "https://www.gmtoday.com/daily_news/news/don-t-forget-to-vote/article_0c6509b0-1364-51f5-9f97-9878c98f2c38.html",
+      "published": "2026-11-03T12:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "West Bend Chamber welcomes Scales and Tails to community",
+      "link": "https://www.gmtoday.com/daily_news/news/west-bend-chamber-welcomes-scales-and-tails-to-community/article_b11d377d-ca58-5f83-9570-7943b511dc07.html",
+      "published": "2026-11-03T12:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "DNR reminds hunters and trappers to prepare for their season before heading out",
+      "link": "https://www.gmtoday.com/daily_news/news/dnr-reminds-hunters-and-trappers-to-prepare-for-their-season-before-heading-out/article_058925cd-142f-5373-b719-579630aa189a.html",
+      "published": "2026-11-03T12:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "A season to remember for local Brewers fans",
+      "link": "https://www.gmtoday.com/news/local/a-season-to-remember-for-local-brewers-fans/article_1a1ccd5d-a0e0-5c88-99e9-158499101fc8.html",
+      "published": "2026-11-03T12:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Woman’s Club of Hartland announces City Tins fundraiser",
+      "link": "https://www.gmtoday.com/the_freeman/news/woman-s-club-of-hartland-announces-city-tins-fundraiser/article_a00f7e76-8649-5b71-b820-d41467696f4d.html",
+      "published": "2026-11-03T12:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "New Berlin Historical Society annual meeting is Nov. 9",
+      "link": "https://www.gmtoday.com/the_freeman/news/new-berlin-historical-society-annual-meeting-is-nov-9/article_a68f2ecd-add0-524a-a897-948eec672525.html",
+      "published": "2026-11-03T12:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Shoebox greetings: Event aims to send love all over the world",
+      "link": "https://www.gmtoday.com/the_freeman/news/shoebox-greetings-event-aims-to-send-love-all-over-the-world/article_f5e44893-9e52-58ea-9f4b-6512cc66e6e3.html",
+      "published": "2026-11-03T12:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Waukesha road rage incident results in arrest",
+      "link": "https://www.gmtoday.com/the_freeman/news/waukesha-road-rage-incident-results-in-arrest/article_06c5e3c7-d762-532f-bf02-81a8f3860d1a.html",
+      "published": "2026-11-03T12:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Ozaukee County Community Calendar",
+      "link": "https://www.gmtoday.com/news_graphic/news/ozaukee-county-community-calendar/article_c956cd1a-91c2-58d3-8007-dbbfb2cb7613.html",
+      "published": "2026-11-03T12:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Waukesha Service Club raises more than $30,000 at luncheon",
+      "link": "https://www.gmtoday.com/the_freeman/news/waukesha-service-club-raises-more-than-30-000-at-luncheon/article_34de9610-3580-54bd-9b13-865b204cc6b8.html",
+      "published": "2026-11-03T12:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "First Choice Dental joins Milwaukee Dental Partners",
+      "link": "https://www.gmtoday.com/news_graphic/business/first-choice-dental-joins-milwaukee-dental-partners/article_7aa08c4e-364a-5299-8aa3-010cd81c1fb1.html",
+      "published": "2026-11-03T12:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Lindenwood 4-H holds annual Achievement Night",
+      "link": "https://www.gmtoday.com/news_graphic/news/lindenwood-4-h-holds-annual-achievement-night/article_6fa4edfb-eb16-58c6-97f2-6af63ebcb0af.html",
+      "published": "2026-11-03T12:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Ozaukee County Chamber Chat",
+      "link": "https://www.gmtoday.com/news/local/ozaukee-county-chamber-chat/article_2e8afc63-66f3-5b95-8939-62611f77d9da.html",
+      "published": "2026-11-03T12:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Slinger winter parking restrictions now in effect",
+      "link": "https://www.gmtoday.com/daily_news/news/slinger-winter-parking-restrictions-now-in-effect/article_94df679d-dbaf-51f6-adcc-0f2c6cd81785.html",
+      "published": "2026-11-03T12:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Police Blotter",
+      "link": "https://www.gmtoday.com/daily_news/news/police-blotter/article_0275aaa4-971c-5ba0-9ba0-bd7d0fc17924.html",
+      "published": "2026-11-03T12:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Crime & Safety",
+      "local": true
     },
     {
       "headline": "Southeast Wisconsin Weather: On-and-off rain Tuesday as temperatures approach 70",
@@ -367,6 +1109,16 @@
       "category": "Other"
     },
     {
+      "headline": "Mutations and reversions in plants",
+      "link": "https://www.gmtoday.com/news_graphic/commentary/mutations-and-reversions-in-plants/article_f8caa66d-24f0-5f83-80bc-1759031603e7.html",
+      "published": "2026-11-03T11:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Business",
+      "local": true
+    },
+    {
       "headline": "Milwaukee Weather: Rain likely, windy",
       "link": "https://www.fox6now.com/weather/milwaukee-weather-forecast-today-110326",
       "published": "2026-11-03T10:22:58Z",
@@ -374,6 +1126,56 @@
       "area": "Milwaukee",
       "fetched_at": "2026-11-03T17:54:39Z",
       "category": "Weather"
+    },
+    {
+      "headline": "Volunteer needs in Ozaukee County",
+      "link": "https://www.gmtoday.com/news_graphic/news/volunteer-needs-in-ozaukee-county/article_0a7bc1a7-d36e-5498-9a5e-5dead784f851.html",
+      "published": "2026-11-03T10:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "On this day",
+      "link": "https://www.gmtoday.com/the_freeman/news/on-this-day/article_9ff75f54-37e0-5f3e-aa97-47e76ab8ddec.html",
+      "published": "2026-11-03T10:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "On this day in history",
+      "link": "https://www.gmtoday.com/daily_news/news/on-this-day-in-history/article_0855004b-3df9-53bb-ac10-f4a72c0b9735.html",
+      "published": "2026-11-03T10:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Senior Citizens Activities schedule for Nov. 4-10",
+      "link": "https://www.gmtoday.com/daily_news/news/senior-citizens-activities-schedule-for-nov-4-10/article_5f201d54-9826-5534-b230-2e46569339ba.html",
+      "published": "2026-11-03T10:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Looking to volunteer or support your community?",
+      "link": "https://www.gmtoday.com/daily_news/news/looking-to-volunteer-or-support-your-community/article_f647dd25-a7fb-5370-950c-88dc0cc9ef6e.html",
+      "published": "2026-11-03T10:00:00Z",
+      "source": "West Bend Daily News",
+      "area": "Ozaukee & Washington Counties",
+      "fetched_at": "2026-11-04T00:16:13Z",
+      "category": "Other",
+      "local": true
     },
     {
       "headline": "Tosa's 'The Local Makery' sells creativity and conversations in a high-spirited atmosphere",
@@ -13486,430 +14288,6 @@
       "area": "Milwaukee",
       "fetched_at": "2026-10-21T15:19:28Z",
       "category": "Education"
-    },
-    {
-      "headline": "Murphy’s Law: Tom Tiffany Is Running Against Milwaukee",
-      "link": "https://urbanmilwaukee.com/2026/10/20/murphys-law-tom-tiffany-is-running-against-milwaukee/",
-      "published": "2026-10-20T23:47:34Z",
-      "source": "Urban Milwaukee",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-21T15:19:27Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Which Midwest lakes are the cleanest and dirtiest?",
-      "link": "https://www.fox6now.com/news/which-lakes-cleanest-dirtiest-midwest",
-      "published": "2026-10-20T23:44:45Z",
-      "source": "FOX6 Milwaukee",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-21T15:19:28Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Family escapes Hartford fire, now searching for a new home",
-      "link": "https://www.tmj4.com/news/local-news/in-your-community/washington-county/family-escapes-hartford-fire-now-searching-for-a-new-home",
-      "published": "2026-10-20T23:43:10Z",
-      "source": "TMJ4",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-21T15:19:28Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Massive Harbor Cleanup Facility Completed Ahead of Schedule, Under Budget",
-      "link": "https://urbanmilwaukee.com/2026/10/20/massive-harbor-cleanup-facility-completed-ahead-of-schedule-under-budget/",
-      "published": "2026-10-20T23:30:13Z",
-      "source": "Urban Milwaukee",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-21T15:19:27Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Metcalfe Park Residents Will Tax Themselves to Improve Neighborhood",
-      "link": "https://urbanmilwaukee.com/2026/10/20/metcalfe-park-residents-will-tax-themselves-to-improve-neighborhood/",
-      "published": "2026-10-20T23:23:07Z",
-      "source": "Urban Milwaukee",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-21T15:19:27Z",
-      "category": "Development & Housing"
-    },
-    {
-      "headline": "World Series: Brewers fans offer plumbing services for tickets",
-      "link": "https://www.fox6now.com/news/world-series-brewers-fans-offer-plumbing-services-tickets",
-      "published": "2026-10-20T23:13:24Z",
-      "source": "FOX6 Milwaukee",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-21T15:19:28Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Seattle man arrested in Chicago in connection to Kenosha double homicide investigation",
-      "link": "https://www.tmj4.com/news/local-news/in-your-community/kenosha-county/two-found-dead-at-kenosha-apartment-as-police-search-for-man-also-suspected-in-deadly-seattle-shooting",
-      "published": "2026-10-20T23:10:05Z",
-      "source": "TMJ4",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-21T15:19:28Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Wisconsin voters weigh 3 state constitutional amendments as early in-person voting begins",
-      "link": "https://www.tmj4.com/america-votes/wisconsin-voters-weigh-3-state-constitutional-amendments-as-early-in-person-voting-begins",
-      "published": "2026-10-20T23:07:11Z",
-      "source": "TMJ4",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-21T15:19:28Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Irish Brewers fan flying across the Atlantic for the World Series, even without a ticket",
-      "link": "https://www.tmj4.com/sports/baseball/milwaukee-brewers/irish-brewers-fan-flying-across-atlantic-for-world-series-even-without-a-ticket",
-      "published": "2026-10-20T22:46:49Z",
-      "source": "TMJ4",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-21T15:19:28Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Many Brewers fans will travel to Tampa Bay for cheaper World Series experience",
-      "link": "https://www.cbs58.com/news/many-brewers-fans-will-travel-to-tampa-bay-for-cheaper-world-series-experience",
-      "published": "2026-10-20T22:41:00Z",
-      "source": "CBS 58",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-21T15:19:28Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "World Series: Brewers fans heading to Florida, saving money",
-      "link": "https://www.fox6now.com/news/world-series-brewers-fans-heading-florida-save-money",
-      "published": "2026-10-20T22:12:26Z",
-      "source": "FOX6 Milwaukee",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:09Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Union's World Series ticket giveaway drives more than 11,000 sock donations for local shelters",
-      "link": "https://www.tmj4.com/sports/baseball/milwaukee-brewers/unions-world-series-ticket-giveaway-drives-more-than-11-000-sock-donations-for-local-shelters",
-      "published": "2026-10-20T22:00:00Z",
-      "source": "TMJ4",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:08Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "'Just down the block': Mequon neighbor reacts to large barn fire",
-      "link": "https://www.tmj4.com/news/local-news/in-your-community/ozaukee-county/just-down-the-block-mequon-neighbor-reacts-to-large-barn-fire",
-      "published": "2026-10-20T21:56:37Z",
-      "source": "TMJ4",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:08Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Milwaukee hit-and-run: Driver charged on release for 2 prior crashes",
-      "link": "https://www.fox6now.com/news/milwaukee-hit-run-man-charged-again",
-      "published": "2026-10-20T21:55:41Z",
-      "source": "FOX6 Milwaukee",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:09Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Which Midwest state is the scariest?",
-      "link": "https://www.fox6now.com/news/which-midwest-state-is-scariest",
-      "published": "2026-10-20T21:47:45Z",
-      "source": "FOX6 Milwaukee",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:09Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Members Only: Get Free Tickets to Present Music",
-      "link": "https://urbanmilwaukee.com/2026/10/20/members-only-get-free-tickets-to-present-music-5/",
-      "published": "2026-10-20T21:40:03Z",
-      "source": "Urban Milwaukee",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:07Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Dense fog may have contributed to SUV, semi-truck crash in Sheboygan County, sheriff's department says",
-      "link": "https://www.tmj4.com/news/local-news/in-your-community/sheboygan-county/dense-fog-may-have-contributed-to-suv-semi-truck-crash-in-sheboygan-county-sheriffs-department-says",
-      "published": "2026-10-20T21:30:04Z",
-      "source": "TMJ4",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:08Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Here are some tips on talking to children about gun violence",
-      "link": "https://milwaukeenns.org/2026/10/20/here-are-some-tips-on-talking-to-children-about-gun-violence/",
-      "published": "2026-10-20T21:30:00Z",
-      "source": "Milwaukee Neighborhood News Service",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:07Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Opinion: Before we rebuild an organization, let’s invest in the solutions already working",
-      "link": "https://milwaukeenns.org/2026/10/20/opinion-before-we-rebuild-an-organization-lets-invest-in-the-solutions-already-working/",
-      "published": "2026-10-20T21:15:00Z",
-      "source": "Milwaukee Neighborhood News Service",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:07Z",
-      "category": "Development & Housing"
-    },
-    {
-      "headline": "Milwaukee carjacking, police chase ends in fatal crash; suspect dead",
-      "link": "https://www.fox6now.com/news/milwaukee-carjacking-police-chase-ends-fatal-crash-suspect-dead",
-      "published": "2026-10-20T21:04:41Z",
-      "source": "FOX6 Milwaukee",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:09Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Biz Compass: What are buyers looking more closely at than they were five years ago?",
-      "link": "https://biztimes.com/biz-compass-what-are-buyers-looking-more-closely-at-than-they-were-five-years-ago/",
-      "published": "2026-10-20T21:04:41Z",
-      "source": "BizTimes",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:10Z",
-      "category": "Other"
-    },
-    {
-      "headline": "World Series: Free Miller Lite to celebrate Brewers",
-      "link": "https://www.fox6now.com/news/world-series-free-miller-lite-celebrate-brewers",
-      "published": "2026-10-20T21:03:31Z",
-      "source": "FOX6 Milwaukee",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:09Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Biz Compass: What did your company do after transition to help the new leader?",
-      "link": "https://biztimes.com/biz-compass-what-did-your-company-do-after-transition-to-help-the-new-leader/",
-      "published": "2026-10-20T21:03:17Z",
-      "source": "BizTimes",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:10Z",
-      "category": "Business"
-    },
-    {
-      "headline": "Looking back on 15 years since the M&I-BMO deal",
-      "link": "https://biztimes.com/looking-back-on-15-years-since-the-mi-bmo-deal/",
-      "published": "2026-10-20T21:02:18Z",
-      "source": "BizTimes",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:10Z",
-      "category": "Other"
-    },
-    {
-      "headline": "David Crowley offers plan to regulate artificial intelligence in Wisconsin",
-      "link": "https://milwaukeenns.org/2026/10/20/wisconsin-crowley-artificial-intelligence-ai-regulation-plan-data-centers-tiffany-election/",
-      "published": "2026-10-20T21:00:00Z",
-      "source": "Milwaukee Neighborhood News Service",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:07Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Miller Offering Free Beer To Celebrate Brewers World Series",
-      "link": "https://urbanmilwaukee.com/2026/10/20/miller-offering-free-beer-to-celebrate-brewers-world-series/",
-      "published": "2026-10-20T20:43:42Z",
-      "source": "Urban Milwaukee",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:07Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "World Series: Brewers address 'Timeless Ticket' redemption concerns",
-      "link": "https://www.fox6now.com/news/brewers-world-series-timeless-ticket",
-      "published": "2026-10-20T20:42:03Z",
-      "source": "FOX6 Milwaukee",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:09Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "State DOJ joins effort to block merger of playground equipment makers",
-      "link": "https://www.gmtoday.com/the_freeman/news/states-ftc-block-playpower-acquisition/article_53d17181-1c7d-46bb-b8c4-24277637d26d.html",
-      "published": "2026-10-20T20:40:00Z",
-      "source": "West Bend Daily News",
-      "area": "Ozaukee & Washington Counties",
-      "fetched_at": "2026-10-20T22:41:42Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "Cedarburg police seek suspect involved in attempted armed robbery at Port Washington State Bank",
-      "link": "https://www.cbs58.com/news/cedarburg-police-seek-suspect-involved-in-attempted-armed-robbery-at-port-washington-state-bank",
-      "published": "2026-10-20T20:37:00Z",
-      "source": "CBS 58",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:09Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Brewers fans who redeemed Timeless Ticket for World Series allowed to keep ticket for future game",
-      "link": "https://www.cbs58.com/news/brewers-fans-who-redeemed-timeless-ticket-for-world-series-allowed-to-keep-ticket-for-future-game",
-      "published": "2026-10-20T20:27:00Z",
-      "source": "CBS 58",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:09Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "How to have a 'Brewers mindset': UW Health doc talks managing stress, focus and performance",
-      "link": "https://www.cbs58.com/news/how-to-have-a-brewers-mindset-uw-health-doc-talks-managing-stress-focus-and-performance",
-      "published": "2026-10-20T20:27:00Z",
-      "source": "CBS 58",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:09Z",
-      "category": "Health"
-    },
-    {
-      "headline": "Brewers release statement after controversy over 'Timeless Ticket'",
-      "link": "https://www.tmj4.com/news/local-news/in-your-community/milwaukee-county/brewers-release-statement-after-controversy-over-timeless-ticket-world-series",
-      "published": "2026-10-20T20:24:06Z",
-      "source": "TMJ4",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:08Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Milwaukee voters head to polls as early voting begins ahead of Nov. 3 election",
-      "link": "https://www.tmj4.com/news/local-news/in-your-community/milwaukee-county/milwaukee-voters-head-to-polls-as-early-voting-begins-ahead-of-nov-3-election",
-      "published": "2026-10-20T20:08:34Z",
-      "source": "TMJ4",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:08Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Milwaukee's anime scene is booming. One fan just opened his second anime-specific shop",
-      "link": "https://www.tmj4.com/news/milwaukee-tonight/milwaukees-anime-scene-is-booming-one-fan-just-opened-his-second-anime-specific-shop",
-      "published": "2026-10-20T20:05:19Z",
-      "source": "TMJ4",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:08Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Brewers manager Pat Murphy's former college players say his MLB success hasn't surprised them",
-      "link": "https://www.cbs58.com/news/brewers-manager-pat-murphys-former-college-players-say-his-mlb-success-hasnt-surprised-them",
-      "published": "2026-10-20T20:02:00Z",
-      "source": "CBS 58",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:09Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Robin Yount, Bud Selig to throw out ceremonial first pitch at World Series Game 1",
-      "link": "https://www.cbs58.com/news/robin-yount-bud-selig-to-throw-out-ceremonial-first-pitch-at-world-series-game-1",
-      "published": "2026-10-20T19:55:00Z",
-      "source": "CBS 58",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:09Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "MPD: Driver killed, accused of fleeing police and crashing near 27th and Highland",
-      "link": "https://www.cbs58.com/news/mpd-driver-killed-accused-of-fleeing-police-and-crashing-near-27th-and-highland",
-      "published": "2026-10-20T19:42:00Z",
-      "source": "CBS 58",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:09Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Kenosha Police Chief Patrick Patton approved as next city administrator",
-      "link": "https://www.fox6now.com/news/kenosha-police-chief-patrick-patton-approved-next-city-administrator",
-      "published": "2026-10-20T19:09:41Z",
-      "source": "FOX6 Milwaukee",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:09Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "U2 to headline halftime show for Packers-Rams Thanksgiving Eve matchup at SoFi Stadium",
-      "link": "https://www.tmj4.com/sports/green-bay-packers/u2-to-headline-halftime-show-for-packers-rams-thanksgiving-eve-matchup-at-sofi-stadium",
-      "published": "2026-10-20T19:09:35Z",
-      "source": "TMJ4",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:08Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Early voting kicks off in Wisconsin ahead of general election",
-      "link": "https://www.cbs58.com/news/early-voting-kicks-off-in-wisconsin-ahead-of-general-election",
-      "published": "2026-10-20T18:59:00Z",
-      "source": "CBS 58",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:09Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Laughing Liberally Milwakee Episode 153: Melissa Kingston",
-      "link": "https://shepherdexpress.com/podcasts/laughing-liberally/laughing-liberally-milwakee-episode-153-melissa-kingston/",
-      "published": "2026-10-20T18:43:20Z",
-      "source": "Shepherd Express",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:14Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Microsoft buys former United Natural Foods building in Sturtevant for more data center development",
-      "link": "https://biztimes.com/microsoft-buys-former-united-natural-foods-building-in-sturtevant-for-more-data-center-development/",
-      "published": "2026-10-20T18:39:36Z",
-      "source": "BizTimes",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:10Z",
-      "category": "Development & Housing"
-    },
-    {
-      "headline": "Breaking Down Wisconsin Drinking Culture With These New Experts",
-      "link": "https://www.milwaukeemag.com/breaking-down-wisconsin-drinking-culture-with-these-new-experts/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-down-wisconsin-drinking-culture-with-these-new-experts",
-      "published": "2026-10-20T18:36:00Z",
-      "source": "Milwaukee Magazine",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:08Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Bay View’s New Artist-Run Metaphysical Shop, Strange Scene",
-      "link": "https://shepherdexpress.com/news/community-news/bay-view%E2%80%99s-new-artist-run-metaphysical-shop-strange-scene/",
-      "published": "2026-10-20T18:22:23Z",
-      "source": "Shepherd Express",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:14Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Stainless Products to move to Pleasant Prairie facility",
-      "link": "https://biztimes.com/stainless-products-to-move-to-pleasant-prairie-facility/",
-      "published": "2026-10-20T18:08:31Z",
-      "source": "BizTimes",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:10Z",
-      "category": "Development & Housing"
-    },
-    {
-      "headline": "This Famed Preacher’s Belongings Will Be Auctioned off Today",
-      "link": "https://www.milwaukeemag.com/this-famed-preachers-belongings-will-be-auctioned-off-today/?utm_source=rss&utm_medium=rss&utm_campaign=this-famed-preachers-belongings-will-be-auctioned-off-today",
-      "published": "2026-10-20T18:08:27Z",
-      "source": "Milwaukee Magazine",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:08Z",
-      "category": "Other"
-    },
-    {
-      "headline": "The Third Ward is going all out to celebrate the Brewers in the World Series",
-      "link": "https://onmilwaukee.com/articles/third-ward-world-series-block-party",
-      "published": "2026-10-20T18:02:00Z",
-      "source": "OnMilwaukee",
-      "area": "Milwaukee",
-      "fetched_at": "2026-10-20T22:41:11Z",
-      "category": "Sports"
     }
   ],
   "link_only": [
