@@ -1,11 +1,573 @@
 {
-  "generated_at": "2026-11-05T18:09:12Z",
+  "generated_at": "2026-11-06T00:40:01Z",
   "name": "Indianapolis, IN",
   "areas": [
     "Indianapolis",
     "Surrounding Counties"
   ],
   "articles": [
+    {
+      "headline": "Terre Haute man arrested for allegedly stabbing another man after confrontation over a woman",
+      "link": "https://www.wthr.com/article/news/crime/terre-haute-man-arrested-allegedly-stabbing-another-man-confrontation-over-woman/531-05f5b76d-a5d9-4608-8747-2927219af5f5",
+      "published": "2026-11-06T00:13:37Z",
+      "source": "WTHR",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Frustration felt on all sides after Lebanon police headquarters referendum fails to pass",
+      "link": "https://www.wthr.com/article/news/politics/frustration-felt-after-lebanon-indiana-police-headquarters-referendum-fails-to-pass/531-18680517-eef8-4195-995a-5c6f9247cd4c",
+      "published": "2026-11-05T23:33:41Z",
+      "source": "WTHR",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "'It's a sad thing to think about' | Elwood Schools faced with difficult decisions after referendum fails",
+      "link": "https://www.wthr.com/article/news/education/elwood-schools-indiana-could-cut-athletic-department-after-failed-referendum/531-de3bf5d6-7e91-4ecc-8429-32c3de835813",
+      "published": "2026-11-05T23:31:41Z",
+      "source": "WTHR",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "IMPD asking for help finding missing Indianapolis woman",
+      "link": "https://www.wthr.com/article/news/local/impd-asking-help-finding-missing-25-year-old-indianapolis-woman/531-fa740e4d-ba6e-4014-9221-ab5cee5d5be9",
+      "published": "2026-11-05T23:04:03Z",
+      "source": "WTHR",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Indianapolis police searching for 25 year-old woman",
+      "link": "https://fox59.com/news/indianapolis-police-searching-for-25-year-old-woman/",
+      "published": "2026-11-05T23:02:08Z",
+      "source": "FOX59",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:33Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Greg Ballard lost the secretary of state race but gained ballot access for the Lincoln Party",
+      "link": "https://www.wthr.com/article/news/politics/elections/greg-ballard-lost-secretary-of-state-race-gained-ballot-access-for-lincoln-party-indiana/531-939a0ce6-d6cc-4bdf-8fa2-fea056ee9729",
+      "published": "2026-11-05T22:53:53Z",
+      "source": "WTHR",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Things To Do In Indianapolis November 6–12",
+      "link": "https://www.indianapolismonthly.com/uncategorized/things-to-do-in-indianapolis-november-6-12/",
+      "published": "2026-11-05T22:51:27Z",
+      "source": "Indianapolis Monthly",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:33Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Skylake Adventures adds snow tubing, skating and holiday lights",
+      "link": "https://www.wishtv.com/news/local-news/skylake-adventures-adds-snow-tubing-skating-and-holiday-lights/",
+      "published": "2026-11-05T22:45:48Z",
+      "source": "WISH-TV",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "Skylake Adventures adds snow tubing, skating and holiday lights",
+      "link": "https://www.wrtv.com/news/local-news/skylake-adventures-adds-snow-tubing-skating-and-holiday-lights/",
+      "published": "2026-11-05T22:45:48Z",
+      "source": "WRTV",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:32Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "American Heart Association program inspires next generation of women in STEM",
+      "link": "https://www.wishtv.com/news/education/american-heart-association-program-inspires-next-generation-of-women-in-stem/",
+      "published": "2026-11-05T22:23:26Z",
+      "source": "WISH-TV",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Education",
+      "local": true
+    },
+    {
+      "headline": "American Heart Association program inspires next generation of women in STEM",
+      "link": "https://www.wrtv.com/news/education/american-heart-association-program-inspires-next-generation-of-women-in-stem/",
+      "published": "2026-11-05T22:23:26Z",
+      "source": "WRTV",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:32Z",
+      "category": "Education",
+      "local": true
+    },
+    {
+      "headline": "Police seek help from the public in search for teen reported missing in Lake County",
+      "link": "https://www.wthr.com/article/news/community/police-seek-help-from-the-public-in-search-for-teen-reported-missing-in-lake-county/531-1193275d-b835-4a42-a074-084dfa805af9",
+      "published": "2026-11-05T22:22:19Z",
+      "source": "WTHR",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Silver Alert declared for missing juvenile girl, last seen out of Winfield",
+      "link": "https://fox59.com/news/silver-alert-declared-for-missing-juvenile-girl-last-seen-out-of-winfield/",
+      "published": "2026-11-05T22:18:10Z",
+      "source": "FOX59",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:33Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Columbus man arrested on felony sexual battery charge",
+      "link": "https://fox59.com/news/columbus-man-arrested-on-felony-sexual-battery-charge/",
+      "published": "2026-11-05T22:07:20Z",
+      "source": "FOX59",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:33Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Indiana Gov. Mike Braun responds to Democratic gains, looks ahead to working with lawmakers",
+      "link": "https://www.wthr.com/article/news/politics/elections/braun-responds-democratic-gains-looks-ahead-to-working-with-lawmakers/531-a3db5197-0de4-4a03-84a4-92f3393e2fbf",
+      "published": "2026-11-05T21:53:38Z",
+      "source": "WTHR",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Girls from Indianapolis-area high schools explore career options at annual STEM Goes Red event",
+      "link": "https://www.wthr.com/article/news/education/indianapolis-area-girls-high-school-explore-career-options-annual-stem-goes-red-event-education-science-technology/531-64282d56-bcdf-4553-9212-054ce8a45f03",
+      "published": "2026-11-05T21:47:07Z",
+      "source": "WTHR",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Education",
+      "local": true
+    },
+    {
+      "headline": "Bicycle education program at Decatur County schools boosted by donation from Honda",
+      "link": "https://www.wthr.com/article/news/local/bicycle-education-program-greensburg-south-decatur-schools-donation-from-honda-ride-students-safety/531-0b13d909-c789-4ff4-87ce-c1bcc5006c11",
+      "published": "2026-11-05T21:43:36Z",
+      "source": "WTHR",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Education",
+      "local": true
+    },
+    {
+      "headline": "Purdue University names Jay B. Silveria as next president",
+      "link": "https://fox59.com/news/purdue-university-names-jay-b-silveria-as-next-president/",
+      "published": "2026-11-05T21:42:43Z",
+      "source": "FOX59",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:33Z",
+      "category": "Education"
+    },
+    {
+      "headline": "Drought spreads across the state; Frost is likely this weekend",
+      "link": "https://fox59.com/weather/drought-spreads-across-the-state-frost-is-likely-this-weekend/",
+      "published": "2026-11-05T21:33:14Z",
+      "source": "FOX59",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:33Z",
+      "category": "Weather"
+    },
+    {
+      "headline": "Braun says Indiana Republicans lost seats over affordability concerns",
+      "link": "https://www.wishtv.com/news/politics/braun-says-indiana-republicans-lost-seats-over-affordability-concerns/",
+      "published": "2026-11-05T21:29:19Z",
+      "source": "WISH-TV",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Braun says Indiana Republicans lost seats over affordability concerns",
+      "link": "https://www.wrtv.com/news/politics/braun-says-indiana-republicans-lost-seats-over-affordability-concerns/",
+      "published": "2026-11-05T21:29:19Z",
+      "source": "WRTV",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:32Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "ICE activity continues on Indy's east side",
+      "link": "https://fox59.com/news/ice-activity-continues-on-indys-east-side/",
+      "published": "2026-11-05T21:19:57Z",
+      "source": "FOX59",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:33Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Indy to consider $113M in tax incentives for DC Blox",
+      "link": "https://mirrorindy.org/dc-blox-data-center-indy-economic-development-east-side-tax-breaks/",
+      "published": "2026-11-05T21:15:27Z",
+      "source": "Mirror Indy",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Perez Hilton's family shares another update 3 months after his hospitalization",
+      "link": "https://www.wthr.com/article/news/nation-world/perez-hilton-health-update-november-2/507-65c61721-8a7a-44f3-9edc-53826fa90c65",
+      "published": "2026-11-05T21:12:37Z",
+      "source": "WTHR",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Downtown Franklin Holiday Open House invites shoppers to shop local",
+      "link": "https://www.wishtv.com/lifestyle/downtown-franklin-holiday-open-house-invites-shoppers-to-shop-local/",
+      "published": "2026-11-05T21:08:17Z",
+      "source": "WISH-TV",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Reverend Peyton’s Big Damn Band brings front-porch blues home to Brown County",
+      "link": "https://www.wishtv.com/lifestyle/reverend-peytons-big-damn-band-brings-front-porch-blues-home-to-brown-county/",
+      "published": "2026-11-05T21:07:13Z",
+      "source": "WISH-TV",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "3 teens arrested on felony burglary charges for allegedly vandalizing northwest Indiana gymnasium",
+      "link": "https://www.wthr.com/article/news/crime/3-teens-arrested-felony-burglary-charges-allegedly-vandalizing-northwest-indiana-tiger-den-gymnasium/531-e13b1ffb-3289-4c62-9f66-242f0a21dda0",
+      "published": "2026-11-05T21:03:16Z",
+      "source": "WTHR",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Purdue names retired Air Force Lt. Gen. Jay B. Silveria as its 14th president",
+      "link": "https://www.wishtv.com/news/local-news/purdue-names-retired-air-force-lieutenant-general-jay-b-silveria-as-their-14th-president/",
+      "published": "2026-11-05T20:59:27Z",
+      "source": "WISH-TV",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Purdue names retired Air Force Lt. Gen. Jay B. Silveria as its 14th president",
+      "link": "https://www.wrtv.com/news/local-news/purdue-names-retired-air-force-lieutenant-general-jay-b-silveria-as-their-14th-president/",
+      "published": "2026-11-05T20:59:27Z",
+      "source": "WRTV",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:32Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Tip of the Week: How to vet a contractor before hiring",
+      "link": "https://www.wishtv.com/news/i-team/tip-of-the-week-how-to-vet-a-contractor-before-hiring/",
+      "published": "2026-11-05T20:56:34Z",
+      "source": "WISH-TV",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "How to vet contractors before hiring them",
+      "link": "https://www.wrtv.com/i-team/tip-of-the-week-how-to-vet-a-contractor-before-hiring/",
+      "published": "2026-11-05T20:56:34Z",
+      "source": "WRTV",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:32Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "VonnegutFest celebrates Kurt Vonnegut’s legacy with five days of comedy, music and literary events",
+      "link": "https://www.wishtv.com/lifestyle/vonnegutfest-returns-to-indianapolis-with-five-days-of-literary-events-comedy-and-music/",
+      "published": "2026-11-05T20:51:29Z",
+      "source": "WISH-TV",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Canadian man killed in semi crash on I-69 in Grant County",
+      "link": "https://www.wthr.com/article/traffic/traffic-news/canadian-man-lee-lauzon-killed-semi-truck-crash-interstate-69-grant-county-van-buren-indiana/531-51f7ea27-627a-488d-91c0-e36ab7b5821f",
+      "published": "2026-11-05T20:51:02Z",
+      "source": "WTHR",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Isolated shower north tonight, widespread frost this weekend | Nov. 5, 2026",
+      "link": "https://www.wrtv.com/weather/weather-blog/isolated-shower-north-tonight-widespread-frost-this-weekend-nov-5-2026/",
+      "published": "2026-11-05T20:40:58Z",
+      "source": "WRTV",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:32Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "Fountain Square hemp dealer charged with felony drug dealing in Hancock County",
+      "link": "https://fox59.com/news/indycrime/fountain-square-hemp-dealer-charged-with-felony-drug-dealing-in-hancock-county/",
+      "published": "2026-11-05T20:37:16Z",
+      "source": "FOX59",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:33Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Ontario man dies in rollover crash on I-69 near Marion",
+      "link": "https://www.wishtv.com/news/local-news/ontario-man-dies-in-rollover-crash-on-i-69-near-marion/",
+      "published": "2026-11-05T20:29:06Z",
+      "source": "WISH-TV",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Ontario man dies in rollover crash on I-69 near Marion",
+      "link": "https://www.wrtv.com/news/local-news/ontario-man-dies-in-rollover-crash-on-i-69-near-marion/",
+      "published": "2026-11-05T20:29:06Z",
+      "source": "WRTV",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:32Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Klipsch celebrates 80 years with first-ever public open house at Indianapolis headquarters",
+      "link": "https://mirrorindy.org/klipsch-celebrates-80-years-with-first-ever-public-open-house-at-indianapolis-headquarters/",
+      "published": "2026-11-05T20:18:52Z",
+      "source": "Mirror Indy",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Showers possible tonight & Friday; fall-like weekend on the way",
+      "link": "https://www.wishtv.com/weather/showers-possible-tonight-friday-fall-like-weekend-on-the-way/",
+      "published": "2026-11-05T20:14:53Z",
+      "source": "WISH-TV",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "Marion County judge suspended without pay for 45 days after misconduct charges filed against him",
+      "link": "https://fox59.com/news/marion-county-judge-suspended-without-pay-for-45-days-after-misconduct-charges-filed-against-him/",
+      "published": "2026-11-05T20:06:19Z",
+      "source": "FOX59",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:33Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Gary man sentenced to prison for part in 2024 shooting at west Indianapolis restaurant that left 1 person dead, 5 others injured",
+      "link": "https://www.wthr.com/article/news/crime/gary-man-sentenced-to-prison-for-part-in-2024-shooting-at-west-indianapolis-restaurant-that-left-1-person-dead-5-others-injured/531-93e8bb61-d918-4107-9a91-86fdfe266d35",
+      "published": "2026-11-05T20:05:08Z",
+      "source": "WTHR",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Colts long snapper Luke Rhodes nominated for ‘Salute to Service’ Award",
+      "link": "https://www.wishtv.com/sports/indianapolis-colts/colts-long-snapper-luke-rhodes-nominated-for-salute-to-service-award/",
+      "published": "2026-11-05T20:01:10Z",
+      "source": "WISH-TV",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Colts long snapper Luke Rhodes nominated for ‘Salute to Service’ Award",
+      "link": "https://www.wrtv.com/sports/indianapolis-colts/colts-long-snapper-luke-rhodes-nominated-for-salute-to-service-award/",
+      "published": "2026-11-05T20:01:10Z",
+      "source": "WRTV",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:32Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Democrats face competing visions as new congressional majority takes shape",
+      "link": "https://www.wishtv.com/news/politics/democrats-face-competing-visions-as-new-congressional-majority-takes-shape/",
+      "published": "2026-11-05T19:47:00Z",
+      "source": "WISH-TV",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Democrats face competing visions as new congressional majority takes shape",
+      "link": "https://www.wrtv.com/news/politics/democrats-face-competing-visions-as-new-congressional-majority-takes-shape/",
+      "published": "2026-11-05T19:47:00Z",
+      "source": "WRTV",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:32Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Muncie man sentenced to 40 years after killing woman, burning corpse",
+      "link": "https://fox59.com/news/muncie-man-sentenced-to-40-years-after-killing-woman-burning-corpse/",
+      "published": "2026-11-05T19:45:16Z",
+      "source": "FOX59",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:33Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "More than 29,000 baby bottle sterilizer dryers recalled after reports of overheating",
+      "link": "https://www.wthr.com/article/news/nation-world/baby-bottle-sterilizer-dryers-recall-overheating-baby-brezza/507-9a4be359-6b70-448f-99b7-9ad846508a8d",
+      "published": "2026-11-05T19:27:08Z",
+      "source": "WTHR",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Indiana's Lincoln Party outlines path forward following Tuesday's elections",
+      "link": "https://fox59.com/indianapolitics/indianas-lincoln-party-outlines-path-forward-following-tuesdays-elections/",
+      "published": "2026-11-05T19:18:49Z",
+      "source": "FOX59",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:33Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "'Exploited the badge' | Former Kokomo police officer sentenced to 40 years for sexually assaulting 14-year-old girl, lying to investigators",
+      "link": "https://www.wthr.com/article/news/crime/former-kokomo-police-officer-federal-charges-allegedly-sexually-assaulting-14-year-old-girl/531-791ddb35-be8d-4363-b6df-f38857ae7a1e",
+      "published": "2026-11-05T18:40:21Z",
+      "source": "WTHR",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Local veteran fighting for Maj. Richard Star Act to help wounded veterans receive their benefits",
+      "link": "https://fox59.com/news/local-veteran-fighting-for-maj-richard-star-act-to-help-wounded-veterans-receive-their-benefits/",
+      "published": "2026-11-05T18:40:05Z",
+      "source": "FOX59",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:33Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Storytelling event focuses on past, future of former women’s prison",
+      "link": "https://mirrorindy.org/indiana-womens-prison-kan-kan-near-east-side-indianapolis/",
+      "published": "2026-11-05T18:39:13Z",
+      "source": "Mirror Indy",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "A story of Korean-Canadian family ties, set in a convenience store",
+      "link": "https://mirrorindy.org/kims-convenience-store-play-irt-indianapolis/",
+      "published": "2026-11-05T18:20:32Z",
+      "source": "Mirror Indy",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Daily Dose: Lung cancer screenings, what families need to know about brain death and a new study on marijuana hospitalization",
+      "link": "https://www.wthr.com/article/news/health/daily-dose-health/daily-dose-lung-cancer-brain-death-hospitalization-age/507-f1ed8f19-1b2d-4860-b82c-df30a67344e7",
+      "published": "2026-11-05T18:15:01Z",
+      "source": "WTHR",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Health",
+      "local": true
+    },
+    {
+      "headline": "Did you get a text asking to process election ballots? Here’s why.",
+      "link": "https://mirrorindy.org/indianapolis-election-officials-asked-help-ballots-marion-county-indiana/",
+      "published": "2026-11-05T18:08:19Z",
+      "source": "Mirror Indy",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Children worldwide are not exercising enough — especially girls",
+      "link": "https://www.wthr.com/article/news/nation-world/children-worldwide-not-exercising-enough-especially-girls-world-health-organization/507-03f488af-a743-4f4d-89ab-d11909ef82fc",
+      "published": "2026-11-05T18:05:13Z",
+      "source": "WTHR",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Health",
+      "local": true
+    },
+    {
+      "headline": "Purdue students bring Vonnegut sci-fi world to life as Klepper brings humor",
+      "link": "https://fox59.com/news/purdue-students-bring-vonnegut-sci-fi-world-to-life-as-klepper-brings-humor/",
+      "published": "2026-11-05T18:05:04Z",
+      "source": "FOX59",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:33Z",
+      "category": "Education"
+    },
+    {
+      "headline": "Former Kokomo officer sentenced to 40 years for sexually assaulting 14-year-old girl",
+      "link": "https://www.wishtv.com/news/crime-watch-8/former-kokomo-officer-sentenced-to-40-years-for-sexually-assaulting-14-year-old-girl/",
+      "published": "2026-11-05T17:57:36Z",
+      "source": "WISH-TV",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Former Kokomo officer sentenced to 40 years for sexually assaulting 14-year-old girl",
+      "link": "https://www.wrtv.com/news/crime/former-kokomo-officer-sentenced-to-40-years-for-sexually-assaulting-14-year-old-girl/",
+      "published": "2026-11-05T17:57:36Z",
+      "source": "WRTV",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:32Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
     {
       "headline": "Rockefeller Center’s 2026 Christmas Tree has been cut down and is on its way",
       "link": "https://www.wthr.com/article/news/nation-world/rockefeller-centers-2026-christmas-tree-cut-down-manhattan-arrival/507-b3cd5ccf-3c8e-4513-b095-9baa571acba2",
@@ -36,6 +598,26 @@
       "category": "Food & Events"
     },
     {
+      "headline": "Braun: About 240 Indiana children waiting for adoptive homes",
+      "link": "https://www.wishtv.com/news/local-news/braun-about-240-indiana-children-waiting-for-adoptive-homes/",
+      "published": "2026-11-05T17:31:43Z",
+      "source": "WISH-TV",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Braun: About 240 Indiana children waiting for adoptive homes",
+      "link": "https://www.wrtv.com/news/local-news/braun-about-240-indiana-children-waiting-for-adoptive-homes/",
+      "published": "2026-11-05T17:31:43Z",
+      "source": "WRTV",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:32Z",
+      "category": "Other",
+      "local": true
+    },
+    {
       "headline": "Man gets 50 years for shooting, killing 17-year-old in Marion",
       "link": "https://fox59.com/news/man-gets-50-years-for-shooting-killing-17-year-old-in-marion/",
       "published": "2026-11-05T17:23:01Z",
@@ -43,6 +625,26 @@
       "area": "Indianapolis",
       "fetched_at": "2026-11-05T18:04:32Z",
       "category": "Crime & Safety"
+    },
+    {
+      "headline": "Farmer-led program trains 196 Indiana firefighters for grain bin rescues",
+      "link": "https://www.wishtv.com/news/local-news/farmer-led-program-trains-196-indiana-firefighters-for-grain-bin-rescues/",
+      "published": "2026-11-05T17:21:47Z",
+      "source": "WISH-TV",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:31Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Farmer-led program trains 196 Indiana firefighters for grain bin rescues",
+      "link": "https://www.wrtv.com/news/local-news/farmer-led-program-trains-196-indiana-firefighters-for-grain-bin-rescues/",
+      "published": "2026-11-05T17:21:47Z",
+      "source": "WRTV",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:32Z",
+      "category": "Crime & Safety",
+      "local": true
     },
     {
       "headline": "More than 3.6 million ladders recalled after reports of injuries from sudden retractions",
@@ -62,6 +664,16 @@
       "area": "Indianapolis",
       "fetched_at": "2026-11-05T18:04:32Z",
       "category": "Sports"
+    },
+    {
+      "headline": "Damien Center calls for HIV to qualify for Medicaid medical frailty exemption",
+      "link": "https://www.wrtv.com/news/local-news/damien-center-calls-for-hiv-to-qualify-for-medicaid-medical-frailty-exemption/",
+      "published": "2026-11-05T16:56:53Z",
+      "source": "WRTV",
+      "area": "Indianapolis",
+      "fetched_at": "2026-11-06T00:35:32Z",
+      "category": "Health",
+      "local": true
     },
     {
       "headline": "Who won the Powerball jackpot? What we know about Wednesday night's $847 million winner",
@@ -14253,494 +14865,6 @@
       "area": "Indianapolis",
       "fetched_at": "2026-10-23T15:06:45Z",
       "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Off-duty Hammond police officer charged with felonies in fatal crash",
-      "link": "https://www.wishtv.com/news/indiana-news/off-duty-hammond-police-officer-charged-with-felonies-in-fatal-crash/",
-      "published": "2026-10-23T00:25:46Z",
-      "source": "WISH-TV",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-23T15:06:45Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Off-duty Hammond police officer charged with felonies in fatal crash",
-      "link": "https://www.wrtv.com/news/indiana/off-duty-hammond-police-officer-charged-with-felonies-in-fatal-crash/",
-      "published": "2026-10-23T00:25:46Z",
-      "source": "WRTV",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-23T15:06:46Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Farmers want a long-term solution for high diesel prices",
-      "link": "https://www.wthr.com/article/news/local/indiana-farmers-usda-solution-diesel-fuel-prices-farming-agriculture/531-0caf966f-5a79-463b-9a26-cef15dd4f23e",
-      "published": "2026-10-22T23:41:42Z",
-      "source": "WTHR",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-23T15:06:45Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "IMPD asking for help looking for missing 15-year-old girl",
-      "link": "https://www.wthr.com/article/news/crime/impd-looking-for-missing-15-year-old-girl-indianapolis/531-610748a5-2571-4a0c-baa4-bb1afb7c8a54",
-      "published": "2026-10-22T23:37:06Z",
-      "source": "WTHR",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-23T15:06:45Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Gears & girl power: First girls-only, female-instructed bike build at Nine13sports",
-      "link": "https://www.wishtv.com/news/local-news/gears-girl-power-first-girls-only-female-instructed-bike-build-at-nine13sports/",
-      "published": "2026-10-22T23:14:45Z",
-      "source": "WISH-TV",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-23T15:06:45Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Gears & girl power: First girls-only, female-instructed bike build at Nine13sports",
-      "link": "https://www.wrtv.com/news/local-news/gears-girl-power-first-girls-only-female-instructed-bike-build-at-nine13sports/",
-      "published": "2026-10-22T23:14:45Z",
-      "source": "WRTV",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-23T15:06:46Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Grandfather last saw missing 15-year-old daughter after they prayed together",
-      "link": "https://www.wishtv.com/news/local-news/grandfather-last-saw-missing-15-year-old-daughter-after-they-prayed-together/",
-      "published": "2026-10-22T23:10:35Z",
-      "source": "WISH-TV",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-23T15:06:45Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Grandfather last saw missing 15-year-old daughter after they prayed together",
-      "link": "https://www.wrtv.com/news/local-news/grandfather-last-saw-missing-15-year-old-daughter-after-they-prayed-together/",
-      "published": "2026-10-22T23:10:35Z",
-      "source": "WRTV",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-23T15:06:46Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Health insurance costs keep climbing for American workers, a new survey finds",
-      "link": "https://www.wthr.com/article/news/nation-world/health-insurance-costs-climbing-survey-american-workers/507-edddb7de-e9e9-4026-bd49-c44ac1b10006",
-      "published": "2026-10-22T22:48:04Z",
-      "source": "WTHR",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-23T15:06:45Z",
-      "category": "Health",
-      "local": true
-    },
-    {
-      "headline": "FTC warns of scam calls threatening to deactivate your phone number",
-      "link": "https://www.wthr.com/article/news/nation-world/ftc-warning-scam-calls-threatening-deactivate-phone-number/507-19532569-ed93-4e17-a0b0-9dd9543c6fbd",
-      "published": "2026-10-22T22:43:06Z",
-      "source": "WTHR",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-23T15:06:45Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "IMPD searching for teen last seen on near northwest side",
-      "link": "https://fox59.com/news/indycrime/impd-searching-for-teen-last-seen-on-near-northwest-side/",
-      "published": "2026-10-22T22:37:04Z",
-      "source": "FOX59",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:28Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Indianapolis mom of 2 killed in apparent murder-suicide on northwest side",
-      "link": "https://www.wishtv.com/news/crime-watch-8/indianapolis-mother-of-two-killed-in-apparent-murder-suicide-on-northwest-side/",
-      "published": "2026-10-22T22:35:11Z",
-      "source": "WISH-TV",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-23T15:06:45Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Indianapolis mom of 2 killed in apparent murder-suicide on northwest side",
-      "link": "https://www.wrtv.com/news/crime/indianapolis-mother-of-two-killed-in-apparent-murder-suicide-on-northwest-side/",
-      "published": "2026-10-22T22:35:11Z",
-      "source": "WRTV",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-23T15:06:46Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Inside look at the Signia by Hilton Hotel",
-      "link": "https://fox59.com/news/inside-look-at-the-signia-by-hilton-hotel/",
-      "published": "2026-10-22T22:05:31Z",
-      "source": "FOX59",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:28Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Black chamber hosts women's conference",
-      "link": "https://www.heraldbulletin.com/business/black-chamber-hosts-womens-conference/article_7dd6de07-8707-47ce-80d2-5b5071b8668d.html",
-      "published": "2026-10-22T21:52:00Z",
-      "source": "Anderson Herald Bulletin",
-      "area": "Surrounding Counties",
-      "fetched_at": "2026-10-24T21:54:13Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "'Expect emotion, energy, excitement': Pacers hosts looking forward to home-opener",
-      "link": "https://fox59.com/sports/pacers/expect-emotion-energy-excitement-pacers-hosts-looking-forward-to-home-opener/",
-      "published": "2026-10-22T21:44:54Z",
-      "source": "FOX59",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:28Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Eiteljorg Museum to host free Día de Muertos celebration Saturday",
-      "link": "https://www.wthr.com/article/entertainment/events/eiteljorg-museum-to-host-free-da-de-muertos-celebration-saturday-october-24/531-e1240963-ab65-4ff6-bc4d-9a3eccae11ea",
-      "published": "2026-10-22T21:30:30Z",
-      "source": "WTHR",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:27Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Former Hendricks County Animal Control supervisor files lawsuit against shelter",
-      "link": "https://fox59.com/news/former-hendricks-county-animal-control-supervisor-files-lawsuit-against-shelter/",
-      "published": "2026-10-22T20:35:45Z",
-      "source": "FOX59",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:28Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Velvet Roast brings Seattle coffee culture to Westfield",
-      "link": "https://www.wishtv.com/lifestyle/lifestylelive/velvet-roast-brings-seattle-coffee-culture-to-westfield/",
-      "published": "2026-10-22T20:34:42Z",
-      "source": "WISH-TV",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:27Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Indy DPW to dismantle temporary calming measures; permanent solutions could be next",
-      "link": "https://fox59.com/indiana-news/indy-dpw-to-dismantle-temporary-calming-measures-permanent-solutions-could-be-next/",
-      "published": "2026-10-22T20:27:52Z",
-      "source": "FOX59",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-23T15:06:47Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Things To Do In Indianapolis October 22–29",
-      "link": "https://www.indianapolismonthly.com/arts-and-culture/things-to-do-in-indianapolis-october-22-29/",
-      "published": "2026-10-22T20:20:32Z",
-      "source": "Indianapolis Monthly",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-23T15:06:47Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Ask the Lawyer: What to do after someone else causes your injury",
-      "link": "https://www.wishtv.com/lifestyle/ask-the-lawyer-what-to-do-after-someone-else-causes-your-injury/",
-      "published": "2026-10-22T20:16:44Z",
-      "source": "WISH-TV",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:27Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Quest Diagnostics reports cyber breach affecting 'certain patient records'",
-      "link": "https://www.wthr.com/article/news/nation-world/quest-diagnostics-cyber-breach-patient-records/507-83c8d1de-73ba-498d-a649-f3bc938a850d",
-      "published": "2026-10-22T20:05:29Z",
-      "source": "WTHR",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:27Z",
-      "category": "Health",
-      "local": true
-    },
-    {
-      "headline": "Rinse and repeat: nice weather continues | Oct. 22, 2026",
-      "link": "https://www.wrtv.com/weather/weather-blog/rinse-and-repeat-nice-weather-continues-oct-22-2026/",
-      "published": "2026-10-22T20:03:15Z",
-      "source": "WRTV",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:28Z",
-      "category": "Weather",
-      "local": true
-    },
-    {
-      "headline": "Actor Tom Skerritt, known for roles in 'Top Gun' and 'Picket Fences,' dies at 93",
-      "link": "https://www.wthr.com/article/news/nation-world/actor-tom-skerritt-dies-at-93/507-11848828-17f0-4be3-b0bf-e35c650e5dad",
-      "published": "2026-10-22T20:00:21Z",
-      "source": "WTHR",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:27Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Senator facing theft investigation says he will resign if reelected",
-      "link": "https://www.heraldbulletin.com/news/state_news/senator-facing-theft-investigation-says-he-will-resign-if-reelected/article_ba13118a-aeaa-4c80-9f2e-028585b8d687.html",
-      "published": "2026-10-22T19:56:00Z",
-      "source": "Anderson Herald Bulletin",
-      "area": "Surrounding Counties",
-      "fetched_at": "2026-10-24T21:54:13Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Deadline to apply for FEMA flood, storm assistance approaching",
-      "link": "https://fox59.com/news/deadline-to-apply-for-fema-flood-storm-assistance-approaching/",
-      "published": "2026-10-22T19:50:43Z",
-      "source": "FOX59",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:28Z",
-      "category": "Weather"
-    },
-    {
-      "headline": "Fabulous fall weather sticks around into next week",
-      "link": "https://www.wishtv.com/weather/fabulous-fall-weather-sticks-around-into-next-week/",
-      "published": "2026-10-22T19:41:14Z",
-      "source": "WISH-TV",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:27Z",
-      "category": "Weather",
-      "local": true
-    },
-    {
-      "headline": "Anderson sets Nov. 6 deadline to apply for flood relief funds",
-      "link": "https://www.heraldbulletin.com/news/local_news/anderson-sets-nov-6-deadline-to-apply-for-flood-relief-funds/article_adcc187c-e8ea-430a-a556-48e3a7b6dd4e.html",
-      "published": "2026-10-22T19:37:00Z",
-      "source": "Anderson Herald Bulletin",
-      "area": "Surrounding Counties",
-      "fetched_at": "2026-10-24T21:54:13Z",
-      "category": "Weather",
-      "local": true
-    },
-    {
-      "headline": "School referendums crowd November ballots amid property tax changes",
-      "link": "https://www.wishtv.com/as-seen-on/school-referendums-crowd-november-ballots-amid-property-tax-changes/",
-      "published": "2026-10-22T19:36:58Z",
-      "source": "WISH-TV",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:27Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "School referendums crowd November ballots amid property tax changes",
-      "link": "https://www.wrtv.com/as-seen-on/school-referendums-crowd-november-ballots-amid-property-tax-changes/",
-      "published": "2026-10-22T19:36:58Z",
-      "source": "WRTV",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:28Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Former NHL player Ron Duguay dies at 69 after a bout with cancer",
-      "link": "https://www.wthr.com/article/news/nation-world/ron-duguay-dies-cancer-nhl-hockey-sarah-palin-boyfriend/507-bc7f6155-317b-4dcf-a5aa-981dcaff7c33",
-      "published": "2026-10-22T19:19:41Z",
-      "source": "WTHR",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:27Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Anderson reaches settlement on electric rate increase",
-      "link": "https://www.heraldbulletin.com/news/local_news/anderson-reaches-settlement-on-electric-rate-increase/article_ae89039d-386f-421b-ac3c-42941b74a412.html",
-      "published": "2026-10-22T19:18:00Z",
-      "source": "Anderson Herald Bulletin",
-      "area": "Surrounding Counties",
-      "fetched_at": "2026-10-24T21:54:13Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Learn about Indiana’s new Medicaid work requirements",
-      "link": "https://mirrorindy.org/indianapolis-medicaid-healthy-indiana-plan-work-requirements-shepherd-community-center-information-sessions/",
-      "published": "2026-10-22T19:17:34Z",
-      "source": "Mirror Indy",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:26Z",
-      "category": "Health"
-    },
-    {
-      "headline": "How much money will charters get in the Indy schools referendum?",
-      "link": "https://mirrorindy.org/ips-referendum-indianapolis-schools-november-2026-election-your-questions-answered/",
-      "published": "2026-10-22T19:10:13Z",
-      "source": "Mirror Indy",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:26Z",
-      "category": "Education"
-    },
-    {
-      "headline": "NSU to hold 2026 Riverhawk Rally College Preview Day Nov. 14",
-      "link": "https://www.heraldbulletin.com/news/nsu-to-hold-2026-riverhawk-rally-college-preview-day-nov-14/article_d59b8d33-530b-5f7d-9dc2-afeb5bd6281e.html",
-      "published": "2026-10-22T19:00:00Z",
-      "source": "Anderson Herald Bulletin",
-      "area": "Surrounding Counties",
-      "fetched_at": "2026-10-24T21:54:13Z",
-      "category": "Education",
-      "local": true
-    },
-    {
-      "headline": "Man taken to hospital after apartment fire on Indy's east side",
-      "link": "https://www.wthr.com/article/news/local/man-in-hospital-after-fire-apartment-building-indianapolis-east-side/531-42a3bdc8-db34-4c4a-95f1-c4f6f9cb6ffa",
-      "published": "2026-10-22T18:56:50Z",
-      "source": "WTHR",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:27Z",
-      "category": "Health",
-      "local": true
-    },
-    {
-      "headline": "Man arrested in Monroe County after woman reports rape, confinement, deputies say",
-      "link": "https://www.wthr.com/article/news/crime/man-arrested-monroe-county-after-woman-reports-rape-confinement-deputies-say-sheriffs-office/531-d7b952cf-2846-4096-9733-78591101bdf3",
-      "published": "2026-10-22T18:48:39Z",
-      "source": "WTHR",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:27Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Federal ‘election monitors’ coming to Marion County on Election Day",
-      "link": "https://www.wishtv.com/news/local-news/federal-election-monitors-coming-to-marion-county-on-election-day/",
-      "published": "2026-10-22T18:43:33Z",
-      "source": "WISH-TV",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:27Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Federal ‘election monitors’ coming to Marion County on Election Day",
-      "link": "https://www.wrtv.com/news/local-news/federal-election-monitors-coming-to-marion-county-on-election-day/",
-      "published": "2026-10-22T18:43:33Z",
-      "source": "WRTV",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:28Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Marion County prepares for DOJ election personnel during midterm voting",
-      "link": "https://www.wthr.com/article/news/politics/elections/marion-county-prepares-for-doj-election-personnel-during-midterm-voting-lake/531-c4fdb112-03f2-47c4-bcdb-6efef5b160fd",
-      "published": "2026-10-22T18:41:01Z",
-      "source": "WTHR",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:27Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Man taken to hospital after fire breaks out at Indianapolis apartment complex",
-      "link": "https://fox59.com/news/man-taken-to-hospital-after-fire-breaks-out-at-indianapolis-apartment-complex/",
-      "published": "2026-10-22T18:34:47Z",
-      "source": "FOX59",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:28Z",
-      "category": "Health"
-    },
-    {
-      "headline": "Daily Dose: New flu variant arrives early, workplace insurance costs climb and why oral health matters",
-      "link": "https://www.wthr.com/article/news/nation-world/new-flu-variant-workplace-insurance-costs-climb-oral-health/507-bc6dea6b-8204-436f-a29f-f7f4ea17401b",
-      "published": "2026-10-22T18:34:12Z",
-      "source": "WTHR",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:27Z",
-      "category": "Health",
-      "local": true
-    },
-    {
-      "headline": "Man arrested in Monroe County for promoting human trafficking, rape",
-      "link": "https://fox59.com/news/man-arrested-in-monroe-county-for-promoting-human-trafficking-rape/",
-      "published": "2026-10-22T18:31:25Z",
-      "source": "FOX59",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:28Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Marion Co. Clerk: 'Election monitors' from DOJ expected to be in county for midterms",
-      "link": "https://fox59.com/indianapolitics/marion-co-clerk-election-monitors-from-doj-expected-to-be-in-county-for-midterms/",
-      "published": "2026-10-22T18:25:10Z",
-      "source": "FOX59",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:28Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Man arrested on sex trafficking charges following 911 hang-up calls in Bloomington",
-      "link": "https://www.wishtv.com/news/crime-watch-8/man-arrested-on-sex-trafficking-charges-following-911-hang-up-calls-in-bloomington/",
-      "published": "2026-10-22T18:15:43Z",
-      "source": "WISH-TV",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:27Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Man arrested on sex trafficking charges following 911 hang-up calls in Bloomington",
-      "link": "https://www.wrtv.com/news/crime/man-arrested-on-sex-trafficking-charges-following-911-hang-up-calls-in-bloomington/",
-      "published": "2026-10-22T18:15:43Z",
-      "source": "WRTV",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:28Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Certain pet medications recalled due to inconsistencies in potency",
-      "link": "https://www.wthr.com/article/news/nation-world/certain-pet-medications-recalled-inconsistencies-in-potency/507-12b27e08-907b-4f14-8ee5-d8c4a95a9bf3",
-      "published": "2026-10-22T18:13:57Z",
-      "source": "WTHR",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:27Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "Sahm Park reopens on Indy’s northeast side, marks near completion of $80M Lilly Endowment projects",
-      "link": "https://www.wishtv.com/news/local-news/sahm-park-reopens-on-indys-northeast-side-marks-near-completion-of-80m-lilly-endowment-projects/",
-      "published": "2026-10-22T18:13:43Z",
-      "source": "WISH-TV",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:27Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Sahm Park gets new look as Indianapolis wraps up $80M Lilly Endowment park projects",
-      "link": "https://www.wrtv.com/news/local-news/sahm-park-reopens-on-indys-northeast-side-marks-near-completion-of-80m-lilly-endowment-projects/",
-      "published": "2026-10-22T18:13:43Z",
-      "source": "WRTV",
-      "area": "Indianapolis",
-      "fetched_at": "2026-10-22T22:46:28Z",
-      "category": "Other",
       "local": true
     }
   ],
