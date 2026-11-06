@@ -1,13 +1,13 @@
 # Source health
 
-Generated 2026-11-06 17:38Z.
+Generated 2026-11-06 23:54Z.
 
 Active feeds: 679 · link-only: 303 · paused: 1
 
 ## Atlanta, GA
 
 - **no stories yet** Reporter Newspapers
-- **failing** Henry Herald: 5 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** Henry Herald: 6 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 - **silent** Gwinnett Citizen: newest story 20 days old
 
 ## Boston, MA
@@ -21,11 +21,11 @@ Active feeds: 679 · link-only: 303 · paused: 1
 
 ## Cincinnati, OH
 
-- **silent** Middletown Journal: newest story 21 days old
+- **failing** Middletown Journal: 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Columbus, OH
 
-- **failing** Delaware Gazette: 40 runs in a row (PermissionError: robots.txt disallows this feed)
+- **failing** Delaware Gazette: 41 runs in a row (PermissionError: robots.txt disallows this feed)
 
 ## Dallas–Fort Worth, TX
 
@@ -33,17 +33,17 @@ Active feeds: 679 · link-only: 303 · paused: 1
 
 ## Denver, CO
 
-- **failing** Douglas County News-Press: 11 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
-- **failing** Castle Rock News-Press: 6 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** Douglas County News-Press: 12 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Grand Rapids, MI
 
-- **failing** The Rapidian: 35 runs in a row (HTTPError: HTTP Error 403: Forbidden)
+- **failing** The Rapidian: 36 runs in a row (HTTPError: HTTP Error 403: Forbidden)
 
 ## Indianapolis, IN
 
-- **failing** Greenfield Daily Reporter: 40 runs in a row (PermissionError: robots.txt disallows this feed)
-- **failing** Anderson Herald Bulletin: 5 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** Greenfield Daily Reporter: 41 runs in a row (PermissionError: robots.txt disallows this feed)
+- **failing** Shelbyville News: 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** Anderson Herald Bulletin: 6 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Los Angeles, CA
 
@@ -52,11 +52,13 @@ Active feeds: 679 · link-only: 303 · paused: 1
 
 ## Louisville, KY
 
-- **failing** Oldham Era: 9 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** Oldham Era: 10 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** The News and Tribune (Jeffersonville): 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Minneapolis–St. Paul, MN
 
 - **silent** Stillwater Gazette: newest story 24 days old
+- **failing** Hudson Star-Observer: 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## New York, NY
 
@@ -64,13 +66,9 @@ Active feeds: 679 · link-only: 303 · paused: 1
 - **no stories yet** Astoria Post
 - **no stories yet** Norwood News
 
-## Oklahoma City, OK
-
-- **failing** The City Sentinel: 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
-
 ## Orlando, FL
 
-- **failing** Florida Courier Orlando: 10 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** Florida Courier Orlando: 11 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Portland, OR
 
@@ -79,12 +77,13 @@ Active feeds: 679 · link-only: 303 · paused: 1
 ## Providence, RI
 
 - **silent** The Public's Radio: newest story 27 days old
+- **failing** Valley Breeze: 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 - **no stories yet** The Sun Chronicle (Attleboro)
 
 ## Riverside–San Bernardino, CA
 
-- **silent** Fontana Herald News: newest story 16 days old
-- **failing** Big Bear Grizzly: 6 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **silent** Fontana Herald News: newest story 17 days old
+- **failing** Big Bear Grizzly: 7 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Seattle, WA
 
@@ -96,4 +95,4 @@ Active feeds: 679 · link-only: 303 · paused: 1
 
 ## Washington, DC
 
-- **failing** Greater Greater Washington: 7 runs in a row (HTTPError: HTTP Error 403: Forbidden)
+- **failing** Greater Greater Washington: 8 runs in a row (HTTPError: HTTP Error 403: Forbidden)
