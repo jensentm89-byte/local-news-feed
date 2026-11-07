@@ -1,10 +1,558 @@
 {
-  "generated_at": "2026-11-06T23:54:07Z",
+  "generated_at": "2026-11-07T16:33:42Z",
   "name": "Atlanta, GA",
   "areas": [
     "Atlanta"
   ],
   "articles": [
+    {
+      "headline": "Downtown Atlanta’s Woodruff Park now has an off-leash dog park",
+      "link": "https://roughdraftatlanta.com/2026/11/07/woodruff-park-dog-park-opens/",
+      "published": "2026-11-07T15:37:00Z",
+      "source": "Rough Draft Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:42Z",
+      "category": "Other"
+    },
+    {
+      "headline": "The Indigo Road Opening Oak Steakhouse in Savannah",
+      "link": "https://whatnow.com/charleston/restaurants/the-indigo-road-opening-oak-steakhouse-in-savannah/",
+      "published": "2026-11-07T15:30:17Z",
+      "source": "What Now Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:45Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "J. Crew Factory Heading to Beechwood Shopping Center in Athens",
+      "link": "https://whatnow.com/atlanta/retail/j-crew-factory-heading-to-beechwood-shopping-center-in-athens/",
+      "published": "2026-11-07T15:10:27Z",
+      "source": "What Now Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:45Z",
+      "category": "Business"
+    },
+    {
+      "headline": "First Alert Forecast: Stretch of dry, pleasant weather ahead",
+      "link": "https://www.atlantanewsfirst.com/2026/11/07/first-alert-forecast-stretch-dry-pleasant-weather-ahead/",
+      "published": "2026-11-07T15:09:42Z",
+      "source": "Atlanta News First (WANF)",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:44Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "Toy Trot 5K in Winder aims to raise $30,000 to bring holiday cheer to local children",
+      "link": "https://www.gwinnettdailypost.com/local/toy-trot-5k-in-winder-aims-to-raise-30-000-to-bring-holiday-cheer-to/article_9a4ccc92-7dfd-4ba2-82f2-ae3808e1fd44.html",
+      "published": "2026-11-07T15:09:00Z",
+      "source": "Gwinnett Daily Post",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-07T16:27:44Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Peter Millar Opening at Naples’ Waterside Shops in Late 2026",
+      "link": "https://whatnow.com/tampa/retail/peter-millar-opening-at-naples-waterside-shops-in-late-2026/",
+      "published": "2026-11-07T14:45:52Z",
+      "source": "What Now Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:45Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Lostintheletters hosts 13th annual Letters Festival Nov. 9-14",
+      "link": "https://roughdraftatlanta.com/2026/11/07/lostintheletters-festival-lineup/",
+      "published": "2026-11-07T14:45:00Z",
+      "source": "Rough Draft Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:42Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Mr. Empanada Town & Country Relocating to Westchase",
+      "link": "https://whatnow.com/tampa/restaurants/mr-empanada-town-country-relocating-to-westchase/",
+      "published": "2026-11-07T14:00:08Z",
+      "source": "What Now Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:45Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Fannin County reports zero fatalities after 97 water rescues following floods",
+      "link": "https://www.fox5atlanta.com/news/fannin-county-floods-zero-fatalities-reported-after-97-water-rescues",
+      "published": "2026-11-07T13:49:24Z",
+      "source": "FOX 5 Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:44Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "Mayor’s 5K on the Runway kicks off after weekslong delay",
+      "link": "https://www.atlantanewsfirst.com/2026/11/07/mayors-5k-runway-kicks-off-after-weekslong-delay/",
+      "published": "2026-11-07T13:33:08Z",
+      "source": "Atlanta News First (WANF)",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:44Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "From classroom to concert hall: Students experience ‘Frankenstein’ in a new way",
+      "link": "https://www.wsbtv.com/news/local/clarke-county/classroom-concert-hall-students-experience-frankenstein-new-way/D42XCJAHRRD45J6VZYUOWY4TKY/",
+      "published": "2026-11-07T13:28:11Z",
+      "source": "WSB-TV",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:42Z",
+      "category": "Education",
+      "local": true
+    },
+    {
+      "headline": "Culver’s Opening Lehigh Acres Location Before Year’s End",
+      "link": "https://whatnow.com/tampa/restaurants/culvers-opening-lehigh-acres-location-before-years-end/",
+      "published": "2026-11-07T13:15:14Z",
+      "source": "What Now Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:45Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Arrest made in death of Atlanta man after fight outside Nashville bar",
+      "link": "https://www.wsbtv.com/news/local/atlanta/arrest-made-death-atlanta-man-after-fight-outside-nashville-bar/35S4S7J66FBDXLT6NDEYV4DFBM/",
+      "published": "2026-11-07T13:11:08Z",
+      "source": "WSB-TV",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:42Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Volunteers pick up litter along Riverside Parkway",
+      "link": "https://cobbcountycourier.com/2026/11/volunteers-pick-up-litter-along-riverside-parkway/",
+      "published": "2026-11-07T13:05:10Z",
+      "source": "Cobb County Courier",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-07T16:27:47Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Panda fever hits Atlanta as Ping Ping, Fu Shuang meet the public",
+      "link": "https://www.wsbtv.com/news/local/atlanta/panda-fever-hits-atlanta-ping-ping-fu-shuang-meet-public/6QM2M6MORZHIFPWHSBLUTR4I4Y/",
+      "published": "2026-11-07T12:52:51Z",
+      "source": "WSB-TV",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:42Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "From the ballot box to the Big Blue Bus, a Cobb news quiz",
+      "link": "https://cobbcountycourier.com/2026/11/from-the-ballot-box-to-the-big-blue-bus-a-cobb-news-quiz/",
+      "published": "2026-11-07T12:51:22Z",
+      "source": "Cobb County Courier",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-07T16:27:47Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "Atlanta Hawks face Brooklyn Nets, looking for 4th straight victory | Watch on ANF",
+      "link": "https://www.atlantanewsfirst.com/2026/11/07/atlanta-hawks-face-brooklyn-nets-looking-4th-straight-victory-watch-anf/",
+      "published": "2026-11-07T12:40:54Z",
+      "source": "Atlanta News First (WANF)",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:44Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Congress returns with shutdown deadline and possible Hegseth impeachment fight",
+      "link": "https://www.wsbtv.com/news/local/congress-returns-with-shutdown-deadline-possible-hegseth-impeachment-fight/3HEI7P4AGBAOPJZ4VRCE355TII/",
+      "published": "2026-11-07T12:40:42Z",
+      "source": "WSB-TV",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:42Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Fayette Schools’ $40 Million Windfall: Don’t Count on It Every Year",
+      "link": "https://thecitizen.com/2026/11/07/fayette-schools-40-million-windfall-dont-count-on-it-every-year/",
+      "published": "2026-11-07T12:30:40Z",
+      "source": "The Citizen (Fayette & Coweta)",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-07T16:27:59Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Lit Nutrition Plans Citrus Park Opening",
+      "link": "https://whatnow.com/tampa/restaurants/lit-nutrition-plans-citrus-park-opening/",
+      "published": "2026-11-07T12:30:15Z",
+      "source": "What Now Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:45Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "The Atlanta News Quiz for November 7",
+      "link": "https://roughdraftatlanta.com/2026/11/07/the-atlanta-news-quiz-for-november-7/",
+      "published": "2026-11-07T12:30:00Z",
+      "source": "Rough Draft Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:42Z",
+      "category": "Other"
+    },
+    {
+      "headline": "South Cobb Regional Library and South Cobb Arts Alliance Partner to Celebrate Milestone Anniversaries with Community Event Nov. 14",
+      "link": "https://cobbcountycourier.com/2026/11/south-cobb-regional-library-and-south-cobb-arts-alliance-partner-to-celebrate-milestone-anniversaries-with-community-event-nov-14/",
+      "published": "2026-11-07T12:26:41Z",
+      "source": "Cobb County Courier",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-07T16:27:47Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Woman swept away by north Georgia floodwaters identified",
+      "link": "https://roughdraftatlanta.com/2026/11/07/murray-county-flooding-driver-identified/",
+      "published": "2026-11-07T12:25:04Z",
+      "source": "Rough Draft Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:42Z",
+      "category": "Weather"
+    },
+    {
+      "headline": "Missing memory card temporarily changed apparent outcome in state House race",
+      "link": "https://roughdraftatlanta.com/2026/11/07/missing-memory-card-georgia-house-race/",
+      "published": "2026-11-07T11:57:26Z",
+      "source": "Rough Draft Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:42Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Mableton council to consider hardship relief for public safety tax payments",
+      "link": "https://cobbcountycourier.com/2026/11/mableton-council-to-consider-hardship-relief-for-public-safety-tax-payments-2/",
+      "published": "2026-11-07T11:49:48Z",
+      "source": "Cobb County Courier",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-07T16:27:47Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Cobb climate summary & weather forecast for Saturday, November 7, 2026",
+      "link": "https://cobbcountycourier.com/2026/11/cobb-climate-summary-weather-forecast-for-saturday-november-7-2026/",
+      "published": "2026-11-07T11:48:07Z",
+      "source": "Cobb County Courier",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-07T16:27:47Z",
+      "category": "Weather"
+    },
+    {
+      "headline": "Lawyer who represented defendant in Tupac Shakur murder case found dead",
+      "link": "https://www.atlantanewsfirst.com/2026/11/07/lawyer-who-represented-defendant-tupac-shakur-murder-case-found-dead/",
+      "published": "2026-11-07T10:30:56Z",
+      "source": "Atlanta News First (WANF)",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:44Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Former doctor photographed patients’ genitals during medical procedures, lawsuit alleges",
+      "link": "https://www.atlantanewsfirst.com/2026/11/07/former-doctor-photographed-patients-genitals-during-medical-procedures-lawsuit-alleges/",
+      "published": "2026-11-07T07:40:32Z",
+      "source": "Atlanta News First (WANF)",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:44Z",
+      "category": "Health",
+      "local": true
+    },
+    {
+      "headline": "Cause of overturned school bus crash in Rockdale County released",
+      "link": "https://www.wsbtv.com/news/local/cause-overturned-school-bus-crash-rockdale-county-released/P6I4UA3USJACLCV3BVDWTQAGIQ/",
+      "published": "2026-11-07T06:06:57Z",
+      "source": "WSB-TV",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:42Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "EchoPark Automotive To Open First Orlando Location",
+      "link": "https://whatnow.com/orlando/retail/echopark-automotive-to-open-first-orlando-location/",
+      "published": "2026-11-07T05:49:59Z",
+      "source": "What Now Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:45Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Chez Théo To Open Greek Restaurant In Montreal",
+      "link": "https://whatnow.com/montreal/restaurants/chez-theo-to-open-greek-restaurant-in-montreal/",
+      "published": "2026-11-07T05:31:30Z",
+      "source": "What Now Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:45Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Family remembers Gwinnett brothers shot, killed during vape sale",
+      "link": "https://www.fox5atlanta.com/news/family-remembers-gwinnett-brothers-shot-killed-during-vape-sale",
+      "published": "2026-11-07T05:31:02Z",
+      "source": "FOX 5 Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:44Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Coleta Cocina Targets Early 2027 Opening on Adams Avenue",
+      "link": "https://whatnow.com/san-diego/restaurants/coleta-cocina-targets-early-2027-opening-on-adams-avenue/",
+      "published": "2026-11-07T05:24:30Z",
+      "source": "What Now Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:45Z",
+      "category": "Business"
+    },
+    {
+      "headline": "McCaysville flood cleanup continues as city’s remaining water supply is depleted",
+      "link": "https://www.atlantanewsfirst.com/2026/11/07/mccaysville-flood-cleanup-continues-citys-remaining-water-supply-is-depleted/",
+      "published": "2026-11-07T05:21:18Z",
+      "source": "Atlanta News First (WANF)",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:44Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "HOJA Mi-Sua Preparing To Open New Toronto Location",
+      "link": "https://whatnow.com/toronto/restaurants/hoja-mi-sua-preparing-to-open-new-toronto-location/",
+      "published": "2026-11-07T05:13:18Z",
+      "source": "What Now Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:45Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "DA releases more details about shooting where Newnan officer killed 18-year-old",
+      "link": "https://www.11alive.com/article/news/crime/da-releases-more-details-about-shooting-where-newnan-officer-killed-18-year-old/85-80b7db71-7ca2-4984-9b8f-9537724543cc",
+      "published": "2026-11-07T05:13:09Z",
+      "source": "11Alive",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:42Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Salem High School football team returns to home field for emotional homecoming 2 weeks after bus crash",
+      "link": "https://www.11alive.com/article/sports/high-school/hs-football/salem-high-school-football-team-returns-football-field-after-bus-crash/85-4eaebe99-c626-40d5-9c65-e9920d9f3196",
+      "published": "2026-11-07T05:12:31Z",
+      "source": "11Alive",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:42Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Mayor invites faith leaders to community conversations",
+      "link": "https://www.rockdalecitizen.com/news/mayor-invites-faith-leaders-to-community-conversations/article_670b3153-91c2-48ab-92e4-291890b95708.html",
+      "published": "2026-11-07T05:00:00Z",
+      "source": "Rockdale Citizen",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-07T16:27:47Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "East Metro Community Calendar",
+      "link": "https://www.rockdalecitizen.com/news/east-metro-community-calendar/article_da19a03d-d5a5-4acd-ae1c-89854fad0476.html",
+      "published": "2026-11-07T05:00:00Z",
+      "source": "Rockdale Citizen",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-07T16:27:47Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Man, child shot at southwest Atlanta apartment complex, police say",
+      "link": "https://www.atlantanewsfirst.com/2026/11/07/man-child-shot-near-southwest-atlanta-apartments-police-say/",
+      "published": "2026-11-07T04:40:21Z",
+      "source": "Atlanta News First (WANF)",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:44Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Hawks Spoil Trae Young’s Return, Extend Winning Streak to Three Games",
+      "link": "https://www.theatlantavoice.com/sports/hawks-spoil-trae-youngs-return-extend-winning-streak-to-three-games-8813ec72",
+      "published": "2026-11-07T04:26:26Z",
+      "source": "The Atlanta Voice",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:42Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Child, man wounded in shooting",
+      "link": "https://www.wsbtv.com/news/local/atlanta/child-man-wounded-shooting/FZPYKQIZSFFKTGXPNOSWG5UDUI/",
+      "published": "2026-11-07T04:00:40Z",
+      "source": "WSB-TV",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:42Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "2 hospitalized in shooting, suspects believed in home",
+      "link": "https://www.wsbtv.com/news/local/atlanta/officers-investigating-shooting/2SQON254ZRGDBBFRNERQHWTEEM/",
+      "published": "2026-11-07T03:56:11Z",
+      "source": "WSB-TV",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:42Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Witness finds shooting victim in road",
+      "link": "https://www.wsbtv.com/news/local/witness-finds-shooting-victim-road/R7GHDPYTHJA5PGOLWWICAH56CQ/",
+      "published": "2026-11-07T03:46:39Z",
+      "source": "WSB-TV",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:42Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "‘I lost my everything’: Sister mourns teenage brothers killed near Gwinnett County home",
+      "link": "https://www.atlantanewsfirst.com/2026/11/07/i-lost-my-everything-sister-mourns-teenage-brothers-killed-near-gwinnett-county-home/",
+      "published": "2026-11-07T03:41:44Z",
+      "source": "Atlanta News First (WANF)",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:44Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "A homecoming: Salem High football team plays first game after traumatic bus wreck",
+      "link": "https://www.wsbtv.com/news/local/rockdale-county/homecoming-salem-high-football-team-plays-first-game-after-traumatic-bus-wreck/KUWWXDCKQNG3HN6P7OQZ2LHY54/",
+      "published": "2026-11-07T03:39:08Z",
+      "source": "WSB-TV",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:42Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "The Lady with Two Birthdays",
+      "link": "https://thecitizen.com/2026/11/06/the-lady-with-two-birthdays/",
+      "published": "2026-11-07T03:29:04Z",
+      "source": "The Citizen (Fayette & Coweta)",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-07T16:27:59Z",
+      "category": "Other"
+    },
+    {
+      "headline": "2 shot in Vine City, suspects possibly barricaded in home, Atlanta police say",
+      "link": "https://www.atlantanewsfirst.com/2026/11/07/2-shot-vine-city-suspects-possibly-barricaded-home-atlanta-police-say/",
+      "published": "2026-11-07T03:17:06Z",
+      "source": "Atlanta News First (WANF)",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:44Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "All I-75/85 lanes reopen at North Ave after police activity",
+      "link": "https://www.fox5atlanta.com/news/all-i-75-85-nb-lanes-closed-north-ave-due-police-activity",
+      "published": "2026-11-07T02:57:49Z",
+      "source": "FOX 5 Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:44Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "3 injured, including juvenile, after shootout at SW Atlanta apartments",
+      "link": "https://www.fox5atlanta.com/news/man-minor-shot-southwest-atlanta-apartment-complex-police-say",
+      "published": "2026-11-07T02:40:46Z",
+      "source": "FOX 5 Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:44Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Hawks beat Wizards in Trae Young’s return to Atlanta",
+      "link": "https://www.atlantanewsfirst.com/2026/11/07/hawks-beat-wizards-trae-youngs-return-atlanta/",
+      "published": "2026-11-07T02:22:18Z",
+      "source": "Atlanta News First (WANF)",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:44Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Active standoff after suspects shoot 2 from under Vine City porch, police say",
+      "link": "https://www.fox5atlanta.com/news/man-woman-wounded-northwest-atlanta-shooting-police-say",
+      "published": "2026-11-07T02:02:28Z",
+      "source": "FOX 5 Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:44Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "College Park police seize drugs, guns, and cash in 'Operation Zero Tolerance' sweeps",
+      "link": "https://www.11alive.com/article/news/crime/college-park-police-seize-drugs-guns-cash-operation-zero-tolerance/85-f9ea82be-2319-4f5c-94fe-08299554f6a2",
+      "published": "2026-11-07T00:58:40Z",
+      "source": "11Alive",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:42Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Man acquitted of murder in gun deal gone bad",
+      "link": "https://www.wsbtv.com/news/local/man-acquitted-murder-gun-deal-gone-bad/FMEWPXCJRFAV3CJPVLWHNKPYVY/",
+      "published": "2026-11-07T00:49:33Z",
+      "source": "WSB-TV",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:42Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "DeKalb CEO proposes 120-day preparation period for camping ordinance",
+      "link": "https://www.atlantanewsfirst.com/2026/11/07/dekalb-ceo-proposes-120-day-preparation-period-camping-ordinance/",
+      "published": "2026-11-07T00:21:01Z",
+      "source": "Atlanta News First (WANF)",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:44Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Georgia man hit with $17K cruise ship bill after visit to onboard doctor",
+      "link": "https://www.wsbtv.com/news/local/georgia-man-hit-with-17k-cruise-ship-bill-after-visit-onboard-doctor/QRNI3ECVHBBDPDFK734PSE5VAA/",
+      "published": "2026-11-07T00:17:34Z",
+      "source": "WSB-TV",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:42Z",
+      "category": "Health",
+      "local": true
+    },
+    {
+      "headline": "Attorney who represented Duane ‘Keffe D’ Davis in Tupac murder trial dies",
+      "link": "https://www.fox5atlanta.com/news/attorney-represented-duane-keffe-d-davis-tupac-murder-trial-dies",
+      "published": "2026-11-06T23:49:41Z",
+      "source": "FOX 5 Atlanta",
+      "area": "Atlanta",
+      "fetched_at": "2026-11-07T16:27:44Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
     {
       "headline": "FCSO investigating second vandalized Flock camera in Forsyth County",
       "link": "https://www.forsythnews.com/news/crime-courts/fcso-investigating-second-vandalized-flock-camera-in-forsyth-county/",
@@ -20257,708 +20805,6 @@
       "fetched_at": "2026-10-24T21:52:02Z",
       "category": "Crime & Safety",
       "local": true
-    },
-    {
-      "headline": "Georgia man charged with throwing Molotov cocktail at Atlanta ICE building",
-      "link": "https://www.wabe.org/georgia-man-charged-with-throwing-molotov-cocktail-at-atlanta-ice-building/",
-      "published": "2026-10-24T16:21:53Z",
-      "source": "WABE",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T21:52:06Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Six Flags to add seatbelts to Goliath after fatal fall",
-      "link": "https://www.mdjonline.com/news/local/six-flags-to-add-seatbelts-to-goliath-after-fatal-fall/article_4653db9a-956f-46c7-a592-6908b9c076b4.html",
-      "published": "2026-10-24T16:01:00Z",
-      "source": "Marietta Daily Journal",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-25T14:23:48Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Ex-soldier sentenced to 59 years in prison for killing wife, stuffing body in storm drain",
-      "link": "https://www.atlantanewsfirst.com/2026/10/24/ex-soldier-sentenced-59-years-prison-killing-wife-stuffing-body-storm-drain/",
-      "published": "2026-10-24T15:39:23Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T21:52:04Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "6 arrested, 6 guns seized in DeKalb operation",
-      "link": "https://www.wsbtv.com/news/local/dekalb-county/6-arrested-6-guns-seized-dekalb-operation/4DCZMVBBUBAH3OWFOIZ6PBXYZA/",
-      "published": "2026-10-24T15:35:21Z",
-      "source": "WSB-TV",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T21:52:02Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Horizon Theatre’s ‘Other Paths to God’ explores faith, work and scandal",
-      "link": "https://roughdraftatlanta.com/2026/10/24/horizon-theatre-other-paths-god/",
-      "published": "2026-10-24T15:31:00Z",
-      "source": "Rough Draft Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T21:52:02Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Athens-Clarke County rescue team saves man who fell through porch into 20-foot hole",
-      "link": "https://www.atlantanewsfirst.com/2026/10/24/athens-clarke-county-rescue-team-saves-man-who-fell-through-porch-into-20-foot-hole/",
-      "published": "2026-10-24T14:17:33Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T21:52:04Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Marist School marks its 125th anniversary with new exhibits and events",
-      "link": "https://roughdraftatlanta.com/2026/10/24/marist-school-125th-anniversary/",
-      "published": "2026-10-24T14:10:00Z",
-      "source": "Rough Draft Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T21:52:02Z",
-      "category": "Education"
-    },
-    {
-      "headline": "Person falls through porch into 20-foot hole",
-      "link": "https://www.wsbtv.com/news/local/person-falls-through-porch-into-20-foot-hole/MP6WJH4WDRADXBRXONRONGDCBY/",
-      "published": "2026-10-24T13:57:42Z",
-      "source": "WSB-TV",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:14Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "When does daylight saving time end? Clocks 'fall back' soon",
-      "link": "https://www.fox5atlanta.com/news/daylight-saving-time-2026-fall-back",
-      "published": "2026-10-24T13:44:47Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T21:52:04Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "School bus crash near Salem High sends multiple victims to hospital; students among injured",
-      "link": "https://www.11alive.com/article/news/local/active-crash-scene-involving-rockdale-county-school-bus/85-586a6702-2a9e-41a9-9213-0eea3c5f5dfa",
-      "published": "2026-10-24T13:44:33Z",
-      "source": "11Alive",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:14Z",
-      "category": "Education",
-      "local": true
-    },
-    {
-      "headline": "More than a meal: Neighborhood Meals on Wheels delivers hope and dignity to Gwinnett seniors",
-      "link": "https://www.gwinnettdailypost.com/local/more-than-a-meal-neighborhood-meals-on-wheels-delivers-hope-and-dignity-to-gwinnett-seniors/article_0c8b073b-a398-426a-9a3d-6d056215d973.html",
-      "published": "2026-10-24T13:40:00Z",
-      "source": "Gwinnett Daily Post",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-24T14:01:46Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Chamblee office tower demolished in controlled implosion",
-      "link": "https://www.atlantanewsfirst.com/2026/10/24/chamblee-office-tower-demolished-controlled-implosion/",
-      "published": "2026-10-24T13:22:30Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Development & Housing",
-      "local": true
-    },
-    {
-      "headline": "New StationSoccer field opens at H.E. Holmes MARTA Station to serve metro youth",
-      "link": "https://roughdraftatlanta.com/2026/10/24/marta-soccer-streets-he-holmes/",
-      "published": "2026-10-24T13:13:00Z",
-      "source": "Rough Draft Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:14Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Countdown",
-      "link": "https://www.atlantanewsfirst.com/page/countdown",
-      "published": "2026-10-24T13:12:22Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Person found shot near Georgia State MARTA station; suspect arrested, police say",
-      "link": "https://www.atlantanewsfirst.com/2026/10/24/person-found-shot-georgia-state-marta-station-suspect-arrested-police-say/",
-      "published": "2026-10-24T12:52:28Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "WATCH: 200-foot officer tower imploded in seconds in metro Atlanta",
-      "link": "https://www.wsbtv.com/news/local/dekalb-county/watch-200-foot-officer-tower-imploded-seconds-metro-atlanta/ABROBFKEXVDHZFK2ROHMFRZBE4/",
-      "published": "2026-10-24T12:50:35Z",
-      "source": "WSB-TV",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:14Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "WATCH: 200-foot office tower imploded in seconds in metro Atlanta",
-      "link": "https://www.wsbtv.com/news/local/dekalb-county/watch-200-foot-office-tower-imploded-seconds-metro-atlanta/ABROBFKEXVDHZFK2ROHMFRZBE4/",
-      "published": "2026-10-24T12:50:35Z",
-      "source": "WSB-TV",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T21:52:02Z",
-      "category": "Traffic & Transit",
-      "local": true
-    },
-    {
-      "headline": "Atlanta Hawks to take on Houston Rockets in home opener",
-      "link": "https://www.atlantanewsfirst.com/2026/10/24/atlanta-hawks-take-houston-rockets-home-opener/",
-      "published": "2026-10-24T12:29:09Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "First Alert Forecast: Sunny, occasionally breezy this weekend",
-      "link": "https://www.atlantanewsfirst.com/2026/10/24/first-alert-forecast-sunny-occasionally-breezy-this-weekend/",
-      "published": "2026-10-24T12:28:28Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Weather",
-      "local": true
-    },
-    {
-      "headline": "Students, staff hospitalized after football team’s bus overturns in Rockdale County",
-      "link": "https://www.wsbtv.com/news/local/multiple-agencies-respond-overturned-school-bus-crash-rockdale-county/2WIHVRCYSFHETEVPZVUAVEY464/",
-      "published": "2026-10-24T12:22:52Z",
-      "source": "WSB-TV",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:14Z",
-      "category": "Traffic & Transit",
-      "local": true
-    },
-    {
-      "headline": "Political Cartoon by Clay Jones",
-      "link": "https://cobbcountycourier.com/2026/10/political-cartoon-by-clay-jones-65/",
-      "published": "2026-10-24T12:21:05Z",
-      "source": "Cobb County Courier",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-24T14:01:18Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Overturned school bus sends 22 Salem High School students to hospital",
-      "link": "https://www.fox5atlanta.com/news/overturned-school-bus-sends-22-salem-high-school-students-hospital",
-      "published": "2026-10-24T12:19:16Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Education",
-      "local": true
-    },
-    {
-      "headline": "State Farm Arena adds 2 new restaurants, 30 food options ahead of Hawks’ home opener",
-      "link": "https://www.atlantanewsfirst.com/2026/10/24/state-farm-arena-adds-2-new-restaurants-30-food-options-ahead-hawks-home-opener/",
-      "published": "2026-10-24T12:12:28Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Dream to take on Valkyries at home for Game 4 of WNBA Finals",
-      "link": "https://www.atlantanewsfirst.com/2026/10/24/dream-take-valkyries-home-game-4-wnba-finals/",
-      "published": "2026-10-24T12:09:07Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "1837: Report to the Governor of Georgia on plans for Western & Atlantic Railroad",
-      "link": "https://cobbcountycourier.com/2026/10/1837-report-to-the-governor-of-georgia-on-plans-for-western-atlantic-railroad-2/",
-      "published": "2026-10-24T12:00:57Z",
-      "source": "Cobb County Courier",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-24T14:01:18Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Trump to hold rally in central Georgia | Everything to know",
-      "link": "https://www.atlantanewsfirst.com/2026/10/24/trump-hold-rally-central-georgia-everything-know/",
-      "published": "2026-10-24T11:54:42Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Cobb Courier weekly news quiz: How closely did you follow Cobb news?",
-      "link": "https://cobbcountycourier.com/2026/10/cobb-courier-weekly-news-quiz-how-closely-did-you-follow-cobb-news/",
-      "published": "2026-10-24T11:51:29Z",
-      "source": "Cobb County Courier",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-24T14:01:18Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "25 hospitalized after Salem High School football team bus overturns, district says",
-      "link": "https://www.atlantanewsfirst.com/2026/10/24/25-hospitalized-after-salem-high-school-football-team-bus-overturns/",
-      "published": "2026-10-24T11:31:25Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Education",
-      "local": true
-    },
-    {
-      "headline": "The Atlanta News Quiz for October 24",
-      "link": "https://roughdraftatlanta.com/2026/10/24/the-atlanta-news-quiz-for-october-24/",
-      "published": "2026-10-24T11:30:00Z",
-      "source": "Rough Draft Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:14Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Atlanta Dream Fall to Valkyries in Game 4, evening the series at 2-2",
-      "link": "https://www.theatlantavoice.com/sports/atlanta-dream-fall-to-valkyries-in-game-4-evening-the-series-at-2-2-d2cc40cc",
-      "published": "2026-10-24T11:00:00Z",
-      "source": "The Atlanta Voice",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-25T14:23:35Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Cobb climate summary & weather forecast for Saturday, October 24, 2026",
-      "link": "https://cobbcountycourier.com/2026/10/cobb-climate-summary-weather-forecast-for-saturday-october-24-2026/",
-      "published": "2026-10-24T10:51:02Z",
-      "source": "Cobb County Courier",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-24T14:01:18Z",
-      "category": "Weather"
-    },
-    {
-      "headline": "Rick Jackson to campaign with Kemp before joining Trump in Perry",
-      "link": "https://roughdraftatlanta.com/2026/10/24/rick-jackson-joins-trump-perry/",
-      "published": "2026-10-24T10:50:26Z",
-      "source": "Rough Draft Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:14Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "I-75 lane closures in Marietta scheduled through Monday",
-      "link": "https://cobbcountycourier.com/2026/10/i-75-lane-closures-in-marietta-scheduled-through-monday/",
-      "published": "2026-10-24T10:40:15Z",
-      "source": "Cobb County Courier",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-24T14:01:18Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Latest schedule of lane closures for the ongoing $1.2 billion I-285 and I-20 West Interchange project in Cobb and Fulton",
-      "link": "https://cobbcountycourier.com/2026/10/latest-schedule-of-lane-closures-for-the-ongoing-1-2-billion-i-285-and-i-20-west-interchange-project-in-cobb-and-fulton-8/",
-      "published": "2026-10-24T10:15:26Z",
-      "source": "Cobb County Courier",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-24T14:01:18Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Woman sentenced after faking pregnancies, including with ‘The Bachelor’ contestant",
-      "link": "https://www.atlantanewsfirst.com/2026/10/24/woman-sentenced-after-faking-pregnancies-including-with-bachelor-contestant/",
-      "published": "2026-10-24T09:27:21Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Weekend traffic headache: Interstate, Fairburn Road closures impact drivers, businesses",
-      "link": "https://www.wsbtv.com/news/local/next-phase-interstate-closure-has-drivers-businesses-concerned/LZ2JXAI3M5DNFMM7XDCFG2KHUM/",
-      "published": "2026-10-24T07:31:59Z",
-      "source": "WSB-TV",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:14Z",
-      "category": "Traffic & Transit",
-      "local": true
-    },
-    {
-      "headline": "Seat belts to be added to Goliath, similar roller coasters after deadly Six Flags Over Georgia fall",
-      "link": "https://www.11alive.com/article/news/local/seat-belts-to-be-added-to-goliath-similar-roller-coasters-after-deadly-six-flags-fall/85-600d337e-9ccb-4f8a-ae52-9ffb6366ceab",
-      "published": "2026-10-24T06:16:23Z",
-      "source": "11Alive",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:14Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Salem High School bus crash leaves 12 injured",
-      "link": "https://www.fox5atlanta.com/news/salem-high-school-bus-crash-leaves-12-injured",
-      "published": "2026-10-24T05:31:03Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Traffic & Transit",
-      "local": true
-    },
-    {
-      "headline": "25 transported for treatment after Salem High School bus overturns",
-      "link": "https://www.rockdalecitizen.com/news/25-transported-for-treatment-after-salem-high-school-bus-overturns/article_b955b1a1-5a0c-4d6a-8094-1e73de6b5787.html",
-      "published": "2026-10-24T05:20:00Z",
-      "source": "Rockdale Citizen",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-24T14:01:18Z",
-      "category": "Traffic & Transit",
-      "local": true
-    },
-    {
-      "headline": "Only one Salem High School student remains hospitalized after bus crash",
-      "link": "https://www.rockdalecitizen.com/news/only-one-salem-high-school-student-remains-hospitalized-after-bus-crash/article_b955b1a1-5a0c-4d6a-8094-1e73de6b5787.html",
-      "published": "2026-10-24T05:20:00Z",
-      "source": "Rockdale Citizen",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-24T21:52:07Z",
-      "category": "Traffic & Transit",
-      "local": true
-    },
-    {
-      "headline": "One Salem High School student remains hospitalized after bus crash",
-      "link": "https://www.rockdalecitizen.com/news/one-salem-high-school-student-remains-hospitalized-after-bus-crash/article_b955b1a1-5a0c-4d6a-8094-1e73de6b5787.html",
-      "published": "2026-10-24T05:20:00Z",
-      "source": "Rockdale Citizen",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-25T22:01:48Z",
-      "category": "Traffic & Transit",
-      "local": true
-    },
-    {
-      "headline": "Nancy Guinn Memorial Library to host haunted tour Oct. 29",
-      "link": "https://www.rockdalecitizen.com/news/nancy-guinn-memorial-library-to-host-haunted-tour-oct-29/article_99c69a20-afe2-47fa-a7b7-c73b6e0651b6.html",
-      "published": "2026-10-24T04:00:00Z",
-      "source": "Rockdale Citizen",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-24T14:01:18Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "East Metro Community Calendar",
-      "link": "https://www.rockdalecitizen.com/news/east-metro-community-calendar/article_ed034dbc-522c-4581-8109-193613e7757b.html",
-      "published": "2026-10-24T04:00:00Z",
-      "source": "Rockdale Citizen",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-24T14:01:18Z",
-      "category": "Traffic & Transit",
-      "local": true
-    },
-    {
-      "headline": "Georgia attorney general calls for removal of kratom from store shelves",
-      "link": "https://www.atlantanewsfirst.com/2026/10/24/georgia-attorney-general-calls-removal-kratom-store-shelves/",
-      "published": "2026-10-24T03:27:03Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "26-year-old man sentenced in Catoosa County child molestation case",
-      "link": "https://www.fox5atlanta.com/news/26-year-old-man-sentenced-catoosa-county-child-molestation-case",
-      "published": "2026-10-24T03:19:51Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Six Flags announces major safety change to Goliath coaster, others",
-      "link": "https://www.wsbtv.com/news/local/six-flags-announced-major-safety-change-goliath-coaster-others/LPC62IZXABFQJJERBZQLIMQJUU/",
-      "published": "2026-10-24T03:19:25Z",
-      "source": "WSB-TV",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:14Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Man arrested in attempted arson attack on Atlanta ICE building, FBI says",
-      "link": "https://www.atlantanewsfirst.com/2026/10/24/man-arrested-attempted-arson-attack-atlanta-ice-building-fbi-says/",
-      "published": "2026-10-24T03:13:18Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Six Flags Over Georgia adding seatbelts to Goliath after man dies riding roller coaster",
-      "link": "https://www.atlantanewsfirst.com/2026/10/24/six-flags-over-georgia-adding-seatbelts-goliath-after-man-dies-riding-roller-coaster/",
-      "published": "2026-10-24T03:11:41Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "How a scandal changed passport services in Cobb County courts",
-      "link": "https://www.fox5atlanta.com/news/how-scandal-changed-passport-services-cobb-county-courts",
-      "published": "2026-10-24T02:55:47Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Smyrna murder suspect denied bond in dismemberment case",
-      "link": "https://www.fox5atlanta.com/news/smyrna-murder-suspect-denied-bond-dismemberment-case",
-      "published": "2026-10-24T02:54:15Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Man found shot at Atlanta MARTA station",
-      "link": "https://www.wsbtv.com/news/local/man-found-shot-atlanta-marta-station/NY6463GXJJA4TA64DJH4YFNJ2A/",
-      "published": "2026-10-24T02:32:40Z",
-      "source": "WSB-TV",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:14Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Ex-Walker County deputy accused of leaking bodycam video, criminal files",
-      "link": "https://www.fox5atlanta.com/news/ex-walker-county-deputy-accused-leaking-bodycam-video-criminal-files",
-      "published": "2026-10-24T02:26:20Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Catoosa County man convicted of beating, sexually abusing 9-year-old",
-      "link": "https://www.fox5atlanta.com/news/catoosa-county-man-convicted-beating-sexually-abusing-9-year-old",
-      "published": "2026-10-24T02:20:15Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Felon gets 7 years after gun found during rape arrest, prosecutors say",
-      "link": "https://www.fox5atlanta.com/news/repeat-felon-sentenced-7-years-federal-gun-case",
-      "published": "2026-10-24T01:54:11Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Hawks’ team effort dominates Charlotte Hornets in 128-81 victory",
-      "link": "https://www.atlantanewsfirst.com/2026/10/24/hawks-team-effort-dominates-charlotte-hornets-128-81-victory/",
-      "published": "2026-10-24T01:43:14Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Civil rights activist and MLK aide Tom Houck dies, Atlanta leaders say",
-      "link": "https://www.fox5atlanta.com/news/civil-rights-activist-mlk-aide-tom-houck-dies-atlanta-leaders-say",
-      "published": "2026-10-24T01:42:21Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Pastors and Politicians Back Brant Frost as Ponzi Victims Face Financial Ruin, Sentencing Monday",
-      "link": "https://thecitizen.com/2026/10/23/pastors-and-politicians-back-brant-frost-as-ponzi-victims-face-financial-ruin-sentencing-monday/",
-      "published": "2026-10-24T01:26:36Z",
-      "source": "The Citizen (Fayette & Coweta)",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-24T14:01:19Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Man sentenced to life for sexually abusing 10-year-old in Fulton County",
-      "link": "https://www.fox5atlanta.com/news/man-sentenced-life-sexually-abusing-10-year-old-fulton-county",
-      "published": "2026-10-24T01:01:44Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "South Fulton residents question privacy protections for Flock cameras",
-      "link": "https://www.wsbtv.com/news/local/south-fulton-residents-question-privacy-protections-flock-cameras/FS5IIMAQJBETXA6RW4GG7N5YUQ/",
-      "published": "2026-10-24T00:58:28Z",
-      "source": "WSB-TV",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:14Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Suspect in 2024 GA 400 road rage shooting arrested in New York City",
-      "link": "https://www.fox5atlanta.com/news/suspect-2024-ga-400-road-rage-shooting-arrested-new-york-city",
-      "published": "2026-10-24T00:58:14Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Lawsuit alleges metro Atlanta councilmembers forced apartment complex’s foreclosure",
-      "link": "https://www.wsbtv.com/news/local/south-fulton-county/lawsuit-alleges-metro-atlanta-councilmembers-forced-apartment-complexs-foreclosure/ZXPKAYE7ZVHLVMIHQSF5VHTC64/",
-      "published": "2026-10-24T00:49:29Z",
-      "source": "WSB-TV",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:14Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "31-year-old man arrested in Molotov attack on Atlanta ICE building",
-      "link": "https://www.fox5atlanta.com/news/31-year-old-man-arrested-molotov-style-attack-atlanta-ice-building",
-      "published": "2026-10-24T00:43:09Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Little Moose Creamery off to a Sweet Start",
-      "link": "https://whatnow.com/dallas/restaurants/little-moose-creamery-off-to-a-sweet-start/",
-      "published": "2026-10-24T00:34:47Z",
-      "source": "What Now Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Candidates in Georgia governor’s race crisscross state as poll shows dead heat",
-      "link": "https://www.wsbtv.com/news/local/candidates-georgia-governors-race-crisscross-state-polls-show-dead-heat/N3HLQZE2JZCJRH6FCUBDPKPGRQ/",
-      "published": "2026-10-24T00:32:02Z",
-      "source": "WSB-TV",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:14Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Crunch Fitness to Open in Arlington’s Gazebo Shopping Center",
-      "link": "https://whatnow.com/jacksonville/retail/crunch-fitness-to-open-in-arlingtons-gazebo-shopping-center/",
-      "published": "2026-10-24T00:30:30Z",
-      "source": "What Now Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Other"
-    },
-    {
-      "headline": "FBI arrests man in ICE office firebombing attempt",
-      "link": "https://www.wsbtv.com/news/local/fbi-hold-news-conference-ice-office-firebombing-attempt/MKE47HJKSNGZ5FJT5D455PRTJY/",
-      "published": "2026-10-24T00:20:07Z",
-      "source": "WSB-TV",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:14Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Brewed Awakenings Planning Three New Coffee Shops in Clark County",
-      "link": "https://whatnow.com/portland/restaurants/brewed-awakenings-planning-three-new-coffee-shops-in-clark-county/",
-      "published": "2026-10-24T00:19:08Z",
-      "source": "What Now Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "1 injured in shooting near Georgia State MARTA station, police say",
-      "link": "https://www.fox5atlanta.com/news/1-injured-shooting-near-georgia-state-marta-station-police-say",
-      "published": "2026-10-24T00:12:22Z",
-      "source": "FOX 5 Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Forsyth County man helps bring Jimmy Stewart’s WWII story to the big screen",
-      "link": "https://www.forsythnews.com/life/arts-entertainment/forsyth-county-man-helps-bring-jimmy-stewarts-wwii-story-to-the-big-screen/",
-      "published": "2026-10-24T00:11:21Z",
-      "source": "Forsyth County News",
-      "area": "Region-wide",
-      "fetched_at": "2026-10-24T14:01:18Z",
-      "category": "Other"
-    },
-    {
-      "headline": "From foster care to adoption: Both governor candidates have personal stakes as Ga. system fractures",
-      "link": "https://www.atlantanewsfirst.com/2026/10/24/foster-care-adoption-both-governor-candidates-have-personal-stakes-ga-system-fractures/",
-      "published": "2026-10-24T00:08:11Z",
-      "source": "Atlanta News First (WANF)",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Z Bistro Planning New Restaurant at Wing Fa Market Location",
-      "link": "https://whatnow.com/sacramento/restaurants/z-bistro-planning-new-restaurant-at-wing-fa-market-location/",
-      "published": "2026-10-24T00:08:09Z",
-      "source": "What Now Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "New Pizza Concept Slicing into Memphis",
-      "link": "https://whatnow.com/memphis/restaurants/new-pizza-concept-slicing-into-memphis/",
-      "published": "2026-10-24T00:01:35Z",
-      "source": "What Now Atlanta",
-      "area": "Atlanta",
-      "fetched_at": "2026-10-24T14:01:16Z",
-      "category": "Food & Events"
     }
   ],
   "link_only": [
