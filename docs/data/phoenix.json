@@ -1,10 +1,768 @@
 {
-  "generated_at": "2026-11-10T02:25:49Z",
+  "generated_at": "2026-11-10T17:57:41Z",
   "name": "Phoenix, AZ",
   "areas": [
     "Phoenix"
   ],
   "articles": [
+    {
+      "headline": "Sacha Levine, veteran chef of Valley’s top restaurants, has died",
+      "link": "https://www.phoenixnewtimes.com/food-drink/sacha-levine-veteran-chef-of-valleys-top-restaurants-has-died-40714253/",
+      "published": "2026-11-10T17:39:06Z",
+      "source": "Phoenix New Times",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:54:59Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Phoenix nonprofit opens new 85-bed medical respite center in Mesa",
+      "link": "https://www.azfamily.com/2026/11/10/phoenix-nonprofit-opens-new-85-bed-medical-respite-center-mesa/",
+      "published": "2026-11-10T17:26:50Z",
+      "source": "azfamily",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Health",
+      "local": true
+    },
+    {
+      "headline": "Deadly crash on Valley freeway; arrest made in murder of AZ security guard l Morning News Brief",
+      "link": "https://www.fox10phoenix.com/news/deadly-crash-valley-freeway-arrest-made-murder-az-security-guard-morning-news-brief",
+      "published": "2026-11-10T17:03:36Z",
+      "source": "FOX 10 Phoenix",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Juvenile injured after shots are fired near downtown Phoenix",
+      "link": "https://www.12news.com/article/news/local/arizona/juvenile-injured-after-shots-are-fired-near-downtown-phoenix-arizona-november-10/75-9425a951-2a34-4273-b24a-6f5044e163b4",
+      "published": "2026-11-10T16:55:17Z",
+      "source": "12News",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:00Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Man gets 25 years in prison for Goodyear group home murder",
+      "link": "https://www.fox10phoenix.com/news/man-gets-25-years-prison-goodyear-group-home-murder",
+      "published": "2026-11-10T16:49:27Z",
+      "source": "FOX 10 Phoenix",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Seen on TV: November 10",
+      "link": "https://www.fox10phoenix.com/news/seen-tv-november-10-2026",
+      "published": "2026-11-10T16:13:47Z",
+      "source": "FOX 10 Phoenix",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Veterans Day 2026: Free meals, discounts and events across the Phoenix area",
+      "link": "https://www.azfamily.com/2026/11/10/veterans-day-2026-free-meals-discounts-events-across-phoenix-area/",
+      "published": "2026-11-10T16:11:11Z",
+      "source": "azfamily",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "1 dead, 2 injured after crash along northbound Loop 101 in Glendale",
+      "link": "https://www.12news.com/article/traffic/incidents/northbound-loop-101-union-hills-drive-crash-investigation-traffic-arizona/75-86850da1-8a4b-41f1-a8ca-dc5335b2ebc6",
+      "published": "2026-11-10T15:44:29Z",
+      "source": "12News",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:00Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Expert shares tips on training reactive dogs",
+      "link": "https://www.fox10phoenix.com/video/fmc-0xru3oxtogb8sz3s",
+      "published": "2026-11-10T15:42:41Z",
+      "source": "FOX 10 Phoenix",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Five Valley eateries make OpenTable's top 100 restaurants in US",
+      "link": "https://www.abc15.com/news/business/five-valley-eateries-make-opentables-top-100-restaurants-in-us",
+      "published": "2026-11-10T15:40:47Z",
+      "source": "ABC15 Arizona",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "City advances $1 billion sustainable Salt River campus project",
+      "link": "https://www.abc15.com/news/business/city-advances-1-billion-sustainable-salt-river-campus-project",
+      "published": "2026-11-10T15:37:03Z",
+      "source": "ABC15 Arizona",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Education",
+      "local": true
+    },
+    {
+      "headline": "1 dead, 2 hurt in Glendale Loop 101 crash",
+      "link": "https://www.fox10phoenix.com/news/serious-crash-reported-loop-101-glendale",
+      "published": "2026-11-10T15:24:26Z",
+      "source": "FOX 10 Phoenix",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Fatal crash under Loop 101 overpass in Glendale",
+      "link": "https://www.fox10phoenix.com/video/fmc-hdd2f3wii86qmzrp",
+      "published": "2026-11-10T15:21:02Z",
+      "source": "FOX 10 Phoenix",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Arizona weather forecast: Phoenix rain chances return this weekend following warm, sunny days",
+      "link": "https://www.fox10phoenix.com/weather/arizona-weather-forecast-111026",
+      "published": "2026-11-10T14:54:12Z",
+      "source": "FOX 10 Phoenix",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "1 dead, 2 hurt after car crashes into freeway underpass in Glendale",
+      "link": "https://www.azfamily.com/2026/11/10/part-loop-101-shut-down-after-car-crashes-into-underpass-glendale/",
+      "published": "2026-11-10T14:49:24Z",
+      "source": "azfamily",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Phoenix forecast: Warm week, weekend rain chances",
+      "link": "https://www.fox10phoenix.com/video/fmc-sl37c1nt6x72ntdb",
+      "published": "2026-11-10T14:46:57Z",
+      "source": "FOX 10 Phoenix",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "Gas prices drop under $4 a gallon for the first time since July",
+      "link": "https://www.fox10phoenix.com/news/gas-prices-drop-under-4-gallon-first-time-since-july",
+      "published": "2026-11-10T14:43:30Z",
+      "source": "FOX 10 Phoenix",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Betting on murder trial outcomes raises questions about fair trials",
+      "link": "https://www.azfamily.com/2026/11/10/betting-murder-trial-outcomes-raises-questions-about-fair-trials/",
+      "published": "2026-11-10T14:25:56Z",
+      "source": "azfamily",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Valley work zones adding help for the blind community",
+      "link": "https://www.12news.com/article/news/community/valley-work-zones-blind-community-audible-information-devices-arizona-traffic/75-a8d10c01-eaca-412f-85e9-3c1ad030a0ff",
+      "published": "2026-11-10T14:02:50Z",
+      "source": "12News",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:00Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Arizona drivers keep hitting Waymos and taking off, police records show",
+      "link": "https://www.azfamily.com/2026/11/10/arizona-drivers-keep-hitting-waymos-taking-off-police-records-show/",
+      "published": "2026-11-10T13:03:38Z",
+      "source": "azfamily",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Wanted man considered armed and dangerous last seen in Benson, officials warn",
+      "link": "https://www.abc15.com/news/local-news/wanted-man-considered-armed-and-dangerous-last-seen-in-benson-officials-warn",
+      "published": "2026-11-10T12:46:17Z",
+      "source": "ABC15 Arizona",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Portion of Loop 101 closed Tuesday morning in Glendale due to deadly crash near Union Hills Drive",
+      "link": "https://www.abc15.com/traffic/portion-of-loop-101-closed-tuesday-morning-in-glendale-due-to-crash-near-union-hills-drive",
+      "published": "2026-11-10T12:30:46Z",
+      "source": "ABC15 Arizona",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Phoenix Suns star Dillon Brooks pleads guilty in speeding case",
+      "link": "https://www.azfamily.com/2026/11/10/phoenix-suns-star-dillon-brooks-pleads-guilty-speeding-case/",
+      "published": "2026-11-10T11:57:34Z",
+      "source": "azfamily",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "How police tied a 24-year-old to the bonfire explosion that hurt a Peoria teen",
+      "link": "https://www.azfamily.com/2026/11/10/how-police-tied-24-year-old-bonfire-explosion-that-hurt-peoria-teen/",
+      "published": "2026-11-10T11:52:52Z",
+      "source": "azfamily",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "DHS releases environmental study of proposed ICE detention center in Surprise",
+      "link": "https://www.12news.com/article/news/local/arizona/homeland-security-releases-environmental-study-of-proposed-ice-detention-center-in-surprise-arizona/75-5142a87e-12a2-4355-bf10-2d405e045a99",
+      "published": "2026-11-10T11:13:24Z",
+      "source": "12News",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:00Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "DHS says ICE facility in Surprise wouldn’t significantly harm environment",
+      "link": "https://www.abc15.com/news/region-west-valley/surprise/dhs-says-ice-facility-in-surprise-wouldnt-significantly-harm-environment",
+      "published": "2026-11-10T05:35:30Z",
+      "source": "ABC15 Arizona",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Flesh-eating parasite found in 5 Arizona animals, including 2 dogs. What pet owners need to watch for.",
+      "link": "https://www.12news.com/article/life/animals/new-world-screwworn-in-dogs-animals-arizona/75-4b5bd83b-e8e3-4044-9481-17b24ab83496",
+      "published": "2026-11-10T05:32:55Z",
+      "source": "12News",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:00Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Nearly 20 pairs of women's underwear found in possession of Tempe man arrested in Halloween kidnapping, assault case",
+      "link": "https://www.12news.com/article/news/local/valley/nearly-20-pairs-of-womens-underwear-found-in-possession-of-tempe-arizona-man-arrested-in-halloween-kidnapping-assault-case/75-b31a669a-7c2c-41e8-9c26-b063df5bfe0c",
+      "published": "2026-11-10T05:31:35Z",
+      "source": "12News",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:00Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Arrest made in 2013 killing of Phoenix security guard right after Thanksgiving",
+      "link": "https://www.12news.com/article/news/local/arizona/arrest-made-in-2013-killing-of-phoenix-arizona-security-guard-right-after-thanksgiving-day/75-04b8be80-9004-4f48-9f6c-454c44cb6df7",
+      "published": "2026-11-10T05:31:28Z",
+      "source": "12News",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:00Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Rescue group saves horses from Camp Verde flooding",
+      "link": "https://www.azfamily.com/2026/11/10/rescue-group-saves-horses-camp-verde-flooding/",
+      "published": "2026-11-10T05:31:22Z",
+      "source": "azfamily",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "Report: Former Goodyear officer searched plate of crime victim 36 times",
+      "link": "https://www.azfamily.com/2026/11/10/report-former-goodyear-officer-searched-plate-crime-victim-36-times/",
+      "published": "2026-11-10T05:21:04Z",
+      "source": "azfamily",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Domestic dispute ends in death at Phoenix home, police say; no arrests made",
+      "link": "https://www.azfamily.com/2026/11/10/domestic-dispute-ends-death-phoenix-home-police-say-no-arrests-made/",
+      "published": "2026-11-10T05:03:37Z",
+      "source": "azfamily",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Godzilla’s stomping into town: Blue Öyster Cult announces Phoenix tour date",
+      "link": "https://www.azfamily.com/2026/11/10/godzillas-stomping-into-town-blue-yster-cult-announces-phoenix-tour-date/",
+      "published": "2026-11-10T05:01:11Z",
+      "source": "azfamily",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "2 people arrested, facing first-degree murder charges in Bullhead City",
+      "link": "https://www.12news.com/article/news/local/arizona/2-people-arrested-facing-first-degree-murder-charges-bullhead-city-arizona/75-e7bba9a7-7cd1-4bd3-a2c6-1e3eefa0c8ff",
+      "published": "2026-11-10T04:48:04Z",
+      "source": "12News",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:00Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Bestselling author Stephanie Wrobel to stop in Scottsdale on book tour",
+      "link": "https://www.12news.com/article/life/books/reading-arizona/bestselling-author-stephanie-wrobel-to-stop-in-scottsdale-arizona-on-book-tour-poisoned-pen-bookstore/75-38995d66-90e8-43bd-b127-da5f4de40ee6",
+      "published": "2026-11-10T04:43:12Z",
+      "source": "12News",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:00Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Holtzman Construction bankruptcy: Owner questioned by clients under oath",
+      "link": "https://www.fox10phoenix.com/news/holtzman-construction-bankruptcy-owner-questioned-clients-under-oath",
+      "published": "2026-11-10T04:36:38Z",
+      "source": "FOX 10 Phoenix",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Development & Housing",
+      "local": true
+    },
+    {
+      "headline": "Arizona couple who disliked sex offenders arrested in man’s killing, police say",
+      "link": "https://www.azfamily.com/2026/11/10/arizona-couple-who-disliked-sex-offenders-arrested-mans-killing-police-say/",
+      "published": "2026-11-10T04:25:11Z",
+      "source": "azfamily",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Chinese spy investigation; former GOP chair speaks | FOX 10 Talks",
+      "link": "https://www.fox10phoenix.com/video/fmc-jyptdala2yygjbw8",
+      "published": "2026-11-10T04:24:44Z",
+      "source": "FOX 10 Phoenix",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Arizona flood recovery: Camp Verde flood ruins newly finished home, washes away pasture",
+      "link": "https://www.fox10phoenix.com/video/fmc-ghqzrl3pyndcjb8x",
+      "published": "2026-11-10T04:15:10Z",
+      "source": "FOX 10 Phoenix",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "Suspected Tempe serial predator arrested",
+      "link": "https://www.fox10phoenix.com/video/fmc-usg2rqzltgi788mf",
+      "published": "2026-11-10T04:08:29Z",
+      "source": "FOX 10 Phoenix",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Tempe carjacking suspect terrorizes family on I-10, police say",
+      "link": "https://www.azfamily.com/2026/11/09/tempe-carjacking-suspect-terrorizes-family-i-10-police-say/",
+      "published": "2026-11-10T03:57:48Z",
+      "source": "azfamily",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "3 Arizona judges could lose their seats. Why are they at risk?",
+      "link": "https://www.azfamily.com/2026/11/10/3-arizona-judges-could-lose-their-seats-why-are-they-risk/",
+      "published": "2026-11-10T02:01:48Z",
+      "source": "azfamily",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Walmart’s youngest store manager works right here in State 48",
+      "link": "https://www.12news.com/article/news/local/valley/walmarts-youngest-store-manager-works-right-here-in-state-48-glendale-arizona/75-c6b30e4a-3531-4128-8e78-2b8f271a73e6",
+      "published": "2026-11-10T02:01:09Z",
+      "source": "12News",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:00Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Preparing for a House transformed, Arizona freshmen Shah, Mendoza and Lamb eye costs, border and Trump",
+      "link": "https://cronkitenews.azpbs.org/2026/11/09/arizona-house-freshmen/",
+      "published": "2026-11-10T01:51:08Z",
+      "source": "Cronkite News",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:54:59Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Dillon Brooks pleads guilty to misdemeanor speeding charge, ordered to pay $500",
+      "link": "https://www.12news.com/article/news/local/valley/phoenix-suns-dillon-brooks-pleads-guilty-to-misdemeanor-speeding-charge/75-aae856d7-af1e-4271-9e1d-1697f57ab567",
+      "published": "2026-11-10T01:50:35Z",
+      "source": "12News",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:00Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Labeled underwear found in home of Tempe sexual assault suspect, police say",
+      "link": "https://www.azfamily.com/2026/11/10/labeled-underwear-found-home-tempe-sexual-assault-suspect-police-say/",
+      "published": "2026-11-10T01:43:45Z",
+      "source": "azfamily",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "2 people found dead in car in Glendale",
+      "link": "https://www.azfamily.com/2026/11/10/2-people-found-dead-car-glendale/",
+      "published": "2026-11-10T01:43:20Z",
+      "source": "azfamily",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "2 people found dead in Glendale",
+      "link": "https://www.12news.com/article/news/local/valley/2-people-found-dead-in-glendale-arizona/75-d31beae3-f53d-4012-8749-700e8e3f7144",
+      "published": "2026-11-10T01:41:06Z",
+      "source": "12News",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:00Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Phoenix shelter removes mother and newborn after she complained staff left her baby unattended, records show",
+      "link": "https://www.abc15.com/news/region-west-valley/glendale/phoenix-shelter-removes-mother-and-newborn-after-she-complained-staff-left-her-baby-unattended-records-show",
+      "published": "2026-11-10T01:17:55Z",
+      "source": "ABC15 Arizona",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "What happened to Lisa (Collins) Jameson?: Son speaks with ABC15 35 years after his mother’s disappearance",
+      "link": "https://www.abc15.com/news/local-news/investigations/what-happened-to-lisa-collins-jameson-son-speaks-with-abc15-35-years-after-his-mothers-disappearance",
+      "published": "2026-11-10T01:09:56Z",
+      "source": "ABC15 Arizona",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Family mourns western Arizona mother; teen son arrested",
+      "link": "https://www.azfamily.com/2026/11/10/family-mourns-western-arizona-mother-teen-son-arrested/",
+      "published": "2026-11-10T01:01:39Z",
+      "source": "azfamily",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Demolition looms for 70-year old Mesa site designed by noted Valley architect",
+      "link": "https://www.abc15.com/news/region-southeast-valley/mesa/demolition-looms-for-70-year-old-mesa-site-designed-by-noted-valley-architect",
+      "published": "2026-11-10T00:59:11Z",
+      "source": "ABC15 Arizona",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Incoming state treasurer Nick Mansour says Arizona 'losing out on billions'",
+      "link": "https://www.abc15.com/news/local-news/incoming-state-treasurer-nick-mansour-says-arizona-losing-out-on-billions",
+      "published": "2026-11-10T00:50:50Z",
+      "source": "ABC15 Arizona",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "How metro Phoenix’s traffic deaths compare with the nation’s biggest metro areas",
+      "link": "https://www.12news.com/article/traffic/how-metro-phoenix-arizona-traffic-deaths-compare-with-the-nations-biggest-metro-areas/75-2a7f111e-a640-4f3a-8e29-06d4522b623e",
+      "published": "2026-11-10T00:50:37Z",
+      "source": "12News",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:00Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Trump defends Hegseth against impeachment over Mark Kelly, Iran and boat strikes",
+      "link": "https://cronkitenews.azpbs.org/2026/11/09/trump-hegseth-impeachment/",
+      "published": "2026-11-10T00:43:54Z",
+      "source": "Cronkite News",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:54:59Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Festival of Trees in Chandler supports Thanksgiving for kids in Foster Care",
+      "link": "https://www.abc15.com/news/region-southeast-valley/chandler/festival-of-trees-in-chandler-supports-thanksgiving-for-kids-in-foster-care",
+      "published": "2026-11-10T00:41:28Z",
+      "source": "ABC15 Arizona",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Mohave County man waits 7 years for Phoenix police to return stolen gun",
+      "link": "https://www.azfamily.com/2026/11/10/mohave-county-man-waits-7-years-phoenix-police-return-stolen-gun/",
+      "published": "2026-11-10T00:34:52Z",
+      "source": "azfamily",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "16-year-old boy detained by sheriff after woman is found dead in Arizona home",
+      "link": "https://www.12news.com/article/news/local/arizona/teenager-detained-by-sheriff-after-woman-is-found-dead-in-arizona-home/75-745a09f0-25fd-49f9-bc39-313984aaf163",
+      "published": "2026-11-10T00:29:35Z",
+      "source": "12News",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:00Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Bashas' location in Tempe set to close at the end of November following four decades of operation",
+      "link": "https://www.abc15.com/news/region-southeast-valley/tempe/bashas-location-in-tempe-set-to-close-at-the-end-of-november-following-four-decades-of-operation",
+      "published": "2026-11-10T00:26:18Z",
+      "source": "ABC15 Arizona",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Family calls proposed sentence in ASU triathlete’s death ‘pathetic’",
+      "link": "https://www.azfamily.com/2026/11/10/family-calls-proposed-sentence-asu-triathletes-death-pathetic/",
+      "published": "2026-11-10T00:25:20Z",
+      "source": "azfamily",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Navy Week brings sailors, career opportunities to Flagstaff",
+      "link": "https://www.abc15.com/news/local-news/navy-week-brings-sailors-career-opportunities-to-flagstaff",
+      "published": "2026-11-10T00:11:58Z",
+      "source": "ABC15 Arizona",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "How to navigate Thanksgiving dinner on a GLP-1",
+      "link": "https://www.fox10phoenix.com/news/thanksgiving-dinner-glp-1-2026",
+      "published": "2026-11-10T00:10:15Z",
+      "source": "FOX 10 Phoenix",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Scottsdale bucks statewide trend as Barry Graham, Michelle Ugenti-Rita lead for City Council seats",
+      "link": "https://www.abc15.com/news/region-northeast-valley/scottsdale/scottsdale-bucks-statewide-trend-as-barry-graham-michelle-ugenti-rita-lead-for-city-council-seats",
+      "published": "2026-11-10T00:08:55Z",
+      "source": "ABC15 Arizona",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Coyote sightings rise in Litchfield Park, leaving some residents concerned",
+      "link": "https://www.12news.com/article/life/animals/coyote-sightings-rise-in-litchfield-park-leaving-some-residents-concerned/75-a03a9d1b-3932-49bd-aa3b-4e25537bf723",
+      "published": "2026-11-10T00:08:32Z",
+      "source": "12News",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:00Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Operation Santa Claus returns for 26th year, collecting donations for Arizona families in need",
+      "link": "https://www.abc15.com/about-us/news-releases/operation-santa-claus-returns-for-26th-year-collecting-donations-for-arizona-families-in-need",
+      "published": "2026-11-10T00:01:57Z",
+      "source": "ABC15 Arizona",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Bats discovered in Phoenix police Plaza parking garage during water mitigation work, department confirms",
+      "link": "https://www.abc15.com/news/local-news/region-phoenix-metro/bats-discovered-in-phoenix-police-plaza-parking-garage-during-water-mitigation-work-department-confirms",
+      "published": "2026-11-09T23:48:05Z",
+      "source": "ABC15 Arizona",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Maricopa County jail nurse arrested on contraband charges after K-9 alert, vehicle search, records say",
+      "link": "https://www.abc15.com/news/local-news/maricopa-county-jail-nurse-arrested-on-contraband-charges-after-k-9-alert-vehicle-search-records-say",
+      "published": "2026-11-09T23:18:34Z",
+      "source": "ABC15 Arizona",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Police investigating how man died during 'physical struggle' at Phoenix residence",
+      "link": "https://www.12news.com/article/news/local/valley/phoenix-arizona-police-investigating-death-of-man-near-7th-avenue/75-bc28f234-fc9a-4d24-95c6-d11f6c10da9b",
+      "published": "2026-11-09T23:18:27Z",
+      "source": "12News",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:00Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Gardner Minshew likely headed for season-ending elbow surgery, reports say",
+      "link": "https://www.12news.com/article/sports/nfl/cardinals/arizona-cardinals-quarterback-gardner-minshew-likely-headed-for-season-ending-elbow-surgery-reports-says/75-c4cff66b-9f7e-4463-bd97-3ff3af4ff408",
+      "published": "2026-11-09T23:18:12Z",
+      "source": "12News",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:00Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "GLP-1 drugs getting new labels warning of rare vision-loss condition",
+      "link": "https://www.fox10phoenix.com/news/glp-1-drugs-getting-new-labels-warning-rare-vision-loss-condition",
+      "published": "2026-11-09T22:29:59Z",
+      "source": "FOX 10 Phoenix",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Sun Devil Magic: From last to first",
+      "link": "https://cronkitenews.azpbs.org/2026/11/09/sun-devil-magic-from-last-to-first/",
+      "published": "2026-11-09T21:58:59Z",
+      "source": "Cronkite News",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:54:59Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "$20,000 worth of property stolen from Bass Pro Shops in Glendale",
+      "link": "https://www.12news.com/article/news/crime/over-20000-worth-of-property-stolen-from-bass-pro-shops-in-glendale-arizona/75-ecac767e-13c0-4988-a600-d876c15f2de6",
+      "published": "2026-11-09T21:38:39Z",
+      "source": "12News",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:00Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "The price of baseball: Why is a lockout looming?",
+      "link": "https://cronkitenews.azpbs.org/2026/11/09/price-of-baseball-lockout-looming/",
+      "published": "2026-11-09T21:29:31Z",
+      "source": "Cronkite News",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:54:59Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Eli Crane barely hangs onto seat in Arizona’s 2nd congressional district",
+      "link": "https://www.phoenixnewtimes.com/news/eli-crane-barely-hangs-onto-seat-in-arizonas-2nd-congressional-district-40714206/",
+      "published": "2026-11-09T21:23:12Z",
+      "source": "Phoenix New Times",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:54:59Z",
+      "category": "Education"
+    },
+    {
+      "headline": "Blueprint for success: Retired boxer George Garcia building Wittmann gym to serve community",
+      "link": "https://cronkitenews.azpbs.org/2026/11/09/george-garcia-wittmann-boxing-gym/",
+      "published": "2026-11-09T21:22:33Z",
+      "source": "Cronkite News",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:54:59Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Troubled Waters: Switch to duathlon costly for ASU as Arizona completes NCAA Women’s Triathlon threepeat",
+      "link": "https://cronkitenews.azpbs.org/2026/11/09/arizona-women-triathlon-threepeat-asu-duathlon/",
+      "published": "2026-11-09T21:20:46Z",
+      "source": "Cronkite News",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:54:59Z",
+      "category": "Sports",
+      "local": true
+    },
     {
       "headline": "How to stay safe from snakes as they prepare for hibernation in the Valley",
       "link": "https://www.12news.com/article/life/animals/safety-tips-snake-activity-increasing-during-fall-phoenix-arizona/75-40c7ba33-48b6-44dd-9617-90e8ad071662",
@@ -12,6 +770,16 @@
       "source": "12News",
       "area": "Phoenix",
       "fetched_at": "2026-11-09T20:48:00Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Starbucks unveils bearista cold cups mystery boxes: Here's what's inside",
+      "link": "https://www.fox10phoenix.com/news/starbucks-bearista-cold-cups-mystery-box-whats-inside",
+      "published": "2026-11-09T20:39:29Z",
+      "source": "FOX 10 Phoenix",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:55:01Z",
       "category": "Other",
       "local": true
     },
@@ -1666,6 +2434,15 @@
       "local": true
     },
     {
+      "headline": "TUSD board votes Tuesday whether to preserve free Pima College dual-enrollment fees",
+      "link": "https://azluminaria.org/2026/11/06/tusd-board-votes-tuesday-whether-to-preserve-free-pima-college-dual-enrollment-fees/",
+      "published": "2026-11-07T01:11:00Z",
+      "source": "AZ Luminaria",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:54:59Z",
+      "category": "Education"
+    },
+    {
       "headline": "Tucsonan Sundareshan to be next Arizona Senate president",
       "link": "https://azluminaria.org/2026/11/06/tucsonan-sundareshan-to-be-next-arizona-senate-president/",
       "published": "2026-11-07T01:10:00Z",
@@ -1673,6 +2450,15 @@
       "area": "Phoenix",
       "fetched_at": "2026-11-08T16:45:38Z",
       "category": "Government & Politics"
+    },
+    {
+      "headline": "TUSD Superintendent removes Dunham Elementary from school closure list",
+      "link": "https://azluminaria.org/2026/11/06/tusd-superintendent-removes-dunham-elementary-from-school-closure-list/",
+      "published": "2026-11-07T01:10:00Z",
+      "source": "AZ Luminaria",
+      "area": "Phoenix",
+      "fetched_at": "2026-11-10T17:54:59Z",
+      "category": "Education"
     },
     {
       "headline": "Close Arizona Senate race could bring political shift to Gilbert",
@@ -11799,480 +12585,6 @@
       "area": "Phoenix",
       "fetched_at": "2026-10-27T23:12:39Z",
       "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "No luck needed to score deals at this Old Town Scottsdale happy hour",
-      "link": "https://www.azfamily.com/2026/10/27/no-luck-needed-score-deals-this-old-town-scottsdale-happy-hour/",
-      "published": "2026-10-27T17:33:52Z",
-      "source": "azfamily",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T23:12:39Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Mobile home park industry is top funder of pro-Petersen PAC",
-      "link": "https://azluminaria.org/2026/10/27/mobile-home-park-industry-is-top-funder-of-pro-petersen-pac/",
-      "published": "2026-10-27T17:32:17Z",
-      "source": "AZ Luminaria",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T23:12:37Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Industria de parques de casas móviles es el principal financiador del comité que apoya a Petersen",
-      "link": "https://azluminaria.org/2026/10/27/industria-de-parques-de-casas-moviles-es-el-principal-financiador-del-comite-que-apoya-a-petersen/",
-      "published": "2026-10-27T17:29:00Z",
-      "source": "AZ Luminaria",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-28T23:34:23Z",
-      "category": "Education"
-    },
-    {
-      "headline": "The Strokes, Alanis Morissette to headline Innings Festival at Tempe Beach Park",
-      "link": "https://www.12news.com/article/entertainment/events/the-strokes-alanis-morissette-pitbull-headline-innings-festival-tempe-beach-park-arizona/75-c52418f8-121b-4f37-b834-cc501902045a",
-      "published": "2026-10-27T17:21:39Z",
-      "source": "12News",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T23:12:39Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Drug-resistant germs a growing threat to Americans",
-      "link": "https://www.fox10phoenix.com/news/drug-resistant-germs-growing-threat-americans",
-      "published": "2026-10-27T17:01:58Z",
-      "source": "FOX 10 Phoenix",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T23:12:39Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Who’s playing Innings Fest 2027 in Tempe? See the full lineup",
-      "link": "https://www.phoenixnewtimes.com/music/innings-festival-2027-lineup-tempe-40710940/",
-      "published": "2026-10-27T17:00:00Z",
-      "source": "Phoenix New Times",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T23:12:37Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Arizona plummets in national retirement destination rankings",
-      "link": "https://www.phoenixnewtimes.com/news/arizona-plummets-in-national-retirement-destination-rankings-40710983/",
-      "published": "2026-10-27T16:42:04Z",
-      "source": "Phoenix New Times",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T23:12:37Z",
-      "category": "Other"
-    },
-    {
-      "headline": "5 Concerts to Check Out This Week (October 26-November 1)",
-      "link": "https://www.phoenixmag.com/2026/10/27/5-concerts-to-check-out-this-week-october-26-november-1/",
-      "published": "2026-10-27T16:34:51Z",
-      "source": "Phoenix Magazine",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T23:12:39Z",
-      "category": "Other"
-    },
-    {
-      "headline": "'Office Space' actor Richard Riehle’s cause of death revealed: Report",
-      "link": "https://www.fox10phoenix.com/news/office-space-richard-riehles-cause-death-revealed",
-      "published": "2026-10-27T16:28:35Z",
-      "source": "FOX 10 Phoenix",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T23:12:39Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Poll: Arizona Democrats lead statewide races, Hobbs ahead by 12 points",
-      "link": "https://www.12news.com/article/news/politics/elections/poll-arizona-democrats-lead-statewide-races-hobbs-ahead-12-points-arizona-election/75-c9151a02-b7da-437e-a547-a89d8deb16dc",
-      "published": "2026-10-27T16:03:09Z",
-      "source": "12News",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T23:12:39Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Lottery ticket worth $500K among several winning tickets in Arizona",
-      "link": "https://www.12news.com/article/news/lottery/lottery-ticket-worth-500k-several-winning-tickets-arizona/75-e9c4e202-b374-4b90-a56a-ea7bad79ce13",
-      "published": "2026-10-27T15:34:21Z",
-      "source": "12News",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:15Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Tyler Moldovan: Man convicted of shooting Phoenix officer faces sentencing",
-      "link": "https://www.fox10phoenix.com/news/tyler-moldovan-man-convicted-shooting-phoenix-officer-faces-sentencing",
-      "published": "2026-10-27T15:22:16Z",
-      "source": "FOX 10 Phoenix",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:17Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Susan Saint James, ‘Kate & Allie’ and ‘McMillan & Wife' star, dead at 80",
-      "link": "https://www.fox10phoenix.com/news/susan-saint-james-kate-allie-mcmillan-wife-star-dies",
-      "published": "2026-10-27T15:13:56Z",
-      "source": "FOX 10 Phoenix",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:17Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "3 US Navy sailors assigned to Naval Air Station Pensacola killed in car crash",
-      "link": "https://www.fox10phoenix.com/news/3-navy-sailors-killed-car-crash",
-      "published": "2026-10-27T15:13:02Z",
-      "source": "FOX 10 Phoenix",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:17Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Tech company eyes Mesa plant to build defense drones as footprint grows",
-      "link": "https://www.abc15.com/news/business/tech-company-eyes-mesa-plant-to-build-defense-drones-as-footprint-grows",
-      "published": "2026-10-27T15:10:46Z",
-      "source": "ABC15 Arizona",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:18Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "Millions of AT&T customers to receive payouts following approval of $177 million settlement",
-      "link": "https://www.fox10phoenix.com/news/att-2024-data-breach-settlement-payout-details",
-      "published": "2026-10-27T15:07:28Z",
-      "source": "FOX 10 Phoenix",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:17Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Fewer AZ cities rank among best retirement spots",
-      "link": "https://www.abc15.com/news/business/fewer-az-cities-rank-among-best-retirement-spots",
-      "published": "2026-10-27T15:05:49Z",
-      "source": "ABC15 Arizona",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:18Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Peak Performance: How this Wickenburg Brewery Captured Gold for one Distinct Beer",
-      "link": "https://www.phoenixmag.com/2026/10/27/peak-performance-how-this-wickenburg-brewery-captured-gold-for-one-distinct-beer/",
-      "published": "2026-10-27T15:03:22Z",
-      "source": "Phoenix Magazine",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T23:12:39Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "SR 143 reopens after 5-car crash near Phoenix-Tempe border",
-      "link": "https://www.azfamily.com/2026/10/27/5-car-crash-closes-portion-sr-143-near-phoenix-tempe-border/",
-      "published": "2026-10-27T14:38:41Z",
-      "source": "azfamily",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:15Z",
-      "category": "Traffic & Transit",
-      "local": true
-    },
-    {
-      "headline": "Arizona weather forecast: Tropical moisture to bring storm and flood threat for Halloween",
-      "link": "https://www.fox10phoenix.com/weather/arizona-weather-forecast-102726",
-      "published": "2026-10-27T14:22:16Z",
-      "source": "FOX 10 Phoenix",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:17Z",
-      "category": "Weather",
-      "local": true
-    },
-    {
-      "headline": "Arizona flood risk increases Halloween weekend",
-      "link": "https://www.fox10phoenix.com/video/fmc-j3gkuz1vz1eejuqh",
-      "published": "2026-10-27T14:19:25Z",
-      "source": "FOX 10 Phoenix",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:17Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "FDA warns pet owners after salmonella found in frozen cat food",
-      "link": "https://www.fox10phoenix.com/news/fda-warns-pet-owners-after-salmonella-found-frozen-cat-food",
-      "published": "2026-10-27T14:10:34Z",
-      "source": "FOX 10 Phoenix",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:17Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Rediscover Arizona: Aspen Nature Loop",
-      "link": "https://www.12news.com/article/sports/outdoors/rediscover-arizona-aspen-nature-loop/75-1ea238cb-8544-4e8f-a29b-3d0efa302e40",
-      "published": "2026-10-27T14:00:04Z",
-      "source": "12News",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:15Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Man shot, killed by officers following Mesa traffic stop",
-      "link": "https://www.fox10phoenix.com/news/man-shot-killed-officers-following-mesa-traffic-stop",
-      "published": "2026-10-27T13:56:46Z",
-      "source": "FOX 10 Phoenix",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:17Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "iPhone Duo users report screen problems, Apple offers replacements",
-      "link": "https://www.fox10phoenix.com/news/iphone-duo-users-report-screen-problems-apple-offers-replacements",
-      "published": "2026-10-27T13:40:51Z",
-      "source": "FOX 10 Phoenix",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:17Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Traffic stop leads to deadly Mesa shooting",
-      "link": "https://www.fox10phoenix.com/video/fmc-ov1vop35pcib83al",
-      "published": "2026-10-27T13:37:17Z",
-      "source": "FOX 10 Phoenix",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:17Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Man dies after traffic stop leads to shooting with Mesa officers",
-      "link": "https://www.12news.com/article/news/local/valley/mesa-police-involved-in-shooting-near-country-club-drive-and-university-drive-arizona/75-ea96675d-5d54-4087-8e1a-c301ca3f297e",
-      "published": "2026-10-27T13:28:55Z",
-      "source": "12News",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:15Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Armed man shot, killed by Mesa police after allegedly fleeing traffic stop",
-      "link": "https://www.azfamily.com/2026/10/27/shooting-involving-mesa-police-shuts-down-portion-major-road/",
-      "published": "2026-10-27T13:27:22Z",
-      "source": "azfamily",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:15Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Man shot, killed by Mesa officers near Country Club and University drives",
-      "link": "https://www.abc15.com/news/region-southeast-valley/mesa/mesa-pd-involved-in-shooting-near-country-club-and-university-drives",
-      "published": "2026-10-27T11:58:07Z",
-      "source": "ABC15 Arizona",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:18Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Seen on TV: October 27",
-      "link": "https://www.fox10phoenix.com/news/seen-tv-october-27-2026",
-      "published": "2026-10-27T11:30:13Z",
-      "source": "FOX 10 Phoenix",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:17Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Tornado warning turns into a live weather lesson for Biltmore Prep Kidcasters",
-      "link": "https://www.abc15.com/news/local-news/tornado-warning-turns-into-a-live-weather-lesson-for-biltmore-prep-kidcasters",
-      "published": "2026-10-27T10:07:13Z",
-      "source": "ABC15 Arizona",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:18Z",
-      "category": "Weather",
-      "local": true
-    },
-    {
-      "headline": "Phoenix Symphony musicians face layoffs with season to pause",
-      "link": "https://www.abc15.com/news/local-news/phoenix-symphony-musicians-face-layoffs-with-season-to-pause",
-      "published": "2026-10-27T06:01:39Z",
-      "source": "ABC15 Arizona",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:18Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "Phoenix launches $2 on-demand ride service to connect residents with public transit",
-      "link": "https://www.12news.com/article/news/local/valley/city-of-phoenix-arizona-launches-2-dollar-on-demand-ride-service-to-connect-residents-with-public-transit/75-23c1f86a-265a-4eae-a3e5-eee3eb178673",
-      "published": "2026-10-27T05:32:04Z",
-      "source": "12News",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:15Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "How to safely help others if you witness a crash",
-      "link": "https://www.12news.com/article/news/local/valley/how-to-safely-help-others-if-you-witness-a-crash/75-ecb8cede-83fc-4df2-b8aa-44da958c5292",
-      "published": "2026-10-27T05:29:32Z",
-      "source": "12News",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:15Z",
-      "category": "Traffic & Transit",
-      "local": true
-    },
-    {
-      "headline": "Scottsdale man loses $4,000 in late-night virtual kidnapping scam",
-      "link": "https://www.azfamily.com/2026/10/27/scottsdale-man-loses-4000-late-night-virtual-kidnapping-scam/",
-      "published": "2026-10-27T05:15:39Z",
-      "source": "azfamily",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:15Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Tempe neighborhood battles ongoing irrigation pipe damage",
-      "link": "https://www.fox10phoenix.com/news/tempe-neighborhood-battles-ongoing-irrigation-pipe-damage",
-      "published": "2026-10-27T04:30:14Z",
-      "source": "FOX 10 Phoenix",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:17Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "What are data centers, and why are Arizona neighbors pushing back?",
-      "link": "https://www.azfamily.com/2026/10/27/what-are-data-centers-why-are-arizona-neighbors-pushing-back/",
-      "published": "2026-10-27T04:27:11Z",
-      "source": "azfamily",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:15Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Sedona tests Oak Creek after sewage spill",
-      "link": "https://www.fox10phoenix.com/video/fmc-oi3ss09u5m1fgz5w",
-      "published": "2026-10-27T04:26:03Z",
-      "source": "FOX 10 Phoenix",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:17Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Irrigation damage impacts Tempe homes",
-      "link": "https://www.fox10phoenix.com/video/fmc-l148ig7s3nwft3wi",
-      "published": "2026-10-27T04:17:16Z",
-      "source": "FOX 10 Phoenix",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:17Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Lawmaker presses Hobbs for EF1 tornado disaster relief",
-      "link": "https://www.fox10phoenix.com/video/fmc-hddtwf3a3onb49d1",
-      "published": "2026-10-27T04:12:30Z",
-      "source": "FOX 10 Phoenix",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:17Z",
-      "category": "Weather",
-      "local": true
-    },
-    {
-      "headline": "Arizona lawmaker urges Gov. Hobbs to declare state of emergency after Heber-Overgaard tornado",
-      "link": "https://www.fox10phoenix.com/news/arizona-lawmaker-urges-gov-hobbs-declare-state-emergency-after-heber-overgaard-tornado",
-      "published": "2026-10-27T04:10:26Z",
-      "source": "FOX 10 Phoenix",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:17Z",
-      "category": "Weather",
-      "local": true
-    },
-    {
-      "headline": "Sneak peek at Jefferson House, a new downtown Peoria destination featuring a food hall, retail and entertainment",
-      "link": "https://www.12news.com/article/news/local/valley/sneak-peek-at-jefferson-house-a-new-downtown-peoria-destination-featuring-a-food-hall-retail-and-entertainment/75-8c6e9244-9b78-4035-9c88-c5f86464481e",
-      "published": "2026-10-27T03:49:09Z",
-      "source": "12News",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:15Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Who’s watching?: ABC15 investigates Maricopa County’s electronic supervision",
-      "link": "https://www.abc15.com/news/local-news/investigations/whos-watching-abc15-investigates-maricopa-countys-electronic-supervision",
-      "published": "2026-10-27T03:38:04Z",
-      "source": "ABC15 Arizona",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:18Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "New website helps Arizona homeowners challenge HOA disputes",
-      "link": "https://www.azfamily.com/2026/10/27/new-website-helps-arizona-homeowners-challenge-hoa-disputes/",
-      "published": "2026-10-27T03:35:11Z",
-      "source": "azfamily",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:15Z",
-      "category": "Development & Housing",
-      "local": true
-    },
-    {
-      "headline": "United Food Bank plans Mesa warehouse expansion as demand for food assistance rises",
-      "link": "https://www.abc15.com/news/region-southeast-valley/mesa/united-food-bank-plans-mesa-warehouse-expansion-as-demand-for-food-assistance-rises",
-      "published": "2026-10-27T03:10:50Z",
-      "source": "ABC15 Arizona",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:18Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Missing Arizona woman reportedly found alive in Mexico but family has doubts",
-      "link": "https://www.azfamily.com/2026/10/27/missing-arizona-woman-reportedly-found-alive-mexico-family-has-doubts/",
-      "published": "2026-10-27T03:04:39Z",
-      "source": "azfamily",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:15Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Maryvale brothers fight for their lives after stabbing each other",
-      "link": "https://www.azfamily.com/2026/10/27/maryvale-brothers-fight-their-lives-after-stabbing-each-other/",
-      "published": "2026-10-27T02:56:43Z",
-      "source": "azfamily",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:15Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Ash Fork flash flood survivors say they can’t get their 7 dogs back without paying $1,700",
-      "link": "https://www.12news.com/article/news/local/arizona/ash-fork-flash-flood-survivors-say-they-cant-get-their-7-dogs-back-without-paying-1700/75-bdf10527-717e-48e7-a53e-ee41af5c0a8f",
-      "published": "2026-10-27T02:30:03Z",
-      "source": "12News",
-      "area": "Phoenix",
-      "fetched_at": "2026-10-27T15:57:15Z",
-      "category": "Weather",
       "local": true
     }
   ],
