@@ -1,11 +1,913 @@
 {
-  "generated_at": "2026-11-11T00:19:41Z",
+  "generated_at": "2026-11-11T18:00:44Z",
   "name": "Los Angeles, CA",
   "areas": [
     "Los Angeles County",
     "Orange County"
   ],
   "articles": [
+    {
+      "headline": "SoCal man abandoned teen on L.A. freeway after abducting him for forced labor",
+      "link": "https://www.latimes.com/california/story/2026-11-11/socal-man-abandoned-teen-on-la-freeway-after-abducting-him-for-forced-labor",
+      "published": "2026-11-11T17:55:15Z",
+      "source": "Daily Pilot",
+      "area": "Orange County",
+      "fetched_at": "2026-11-11T17:56:25Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Beacon Pointe Acquires New York Wealth Manager",
+      "link": "https://www.ocbj.com/finance/beacon-pointe-acquires-new-york-wealth-manager/",
+      "published": "2026-11-11T17:53:05Z",
+      "source": "Orange County Business Journal",
+      "area": "Orange County",
+      "fetched_at": "2026-11-11T17:56:26Z",
+      "category": "Other"
+    },
+    {
+      "headline": "CPK to Deploy “Hundreds” of Kiosks to Military Bases",
+      "link": "https://www.ocbj.com/food/restaurants/cpk-to-deploy-hundreds-of-kiosks-to-military-bases/",
+      "published": "2026-11-11T17:50:03Z",
+      "source": "Orange County Business Journal",
+      "area": "Orange County",
+      "fetched_at": "2026-11-11T17:56:26Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Comedians Berlant, Early to Host Independent Spirit Awards",
+      "link": "https://mynewsla.com/orange-county/2026/11/11/comedians-berlant-early-to-host-independent-spirit-awards/",
+      "published": "2026-11-11T17:42:06Z",
+      "source": "MyNewsLA (City News Service)",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:24Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Driver in deadly Los Angeles metro station crash is arrested on DUI and murder counts",
+      "link": "https://laist.com/news/criminal-justice/driver-in-deadly-los-angeles-metro-station-crash-is-arrested-on-dui-and-murder-counts",
+      "published": "2026-11-11T17:30:00Z",
+      "source": "LAist",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:17Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "SoCal braces for rain after days of unseasonable heat",
+      "link": "https://www.theeastsiderla.com/weather/socal-braces-for-rain-after-days-of-unseasonable-heat/article_0b0478ac-2aa9-4b41-8354-7b1a7e4c2bbb.html",
+      "published": "2026-11-11T17:30:00Z",
+      "source": "The Eastsider LA",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:27Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "Bad news for California school repairs: nearly half of bond measures on track to fail",
+      "link": "https://laist.com/news/education/bad-news-for-california-school-repairs-nearly-half-of-bond-measures-on-track-to-fail",
+      "published": "2026-11-11T17:23:46Z",
+      "source": "LAist",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:17Z",
+      "category": "Education",
+      "local": true
+    },
+    {
+      "headline": "Mobix Labs Reports Q4 Revenue Increase",
+      "link": "https://www.ocbj.com/technology/mobix-labs-reports-q4-revenue-increase/",
+      "published": "2026-11-11T17:08:42Z",
+      "source": "Orange County Business Journal",
+      "area": "Orange County",
+      "fetched_at": "2026-11-11T17:56:26Z",
+      "category": "Business"
+    },
+    {
+      "headline": "Midday Stock Roundup: Shares of TTM Technologies Jump 12%",
+      "link": "https://www.ocbj.com/newsletter-feed/midday-stock-roundup-ttm-technologies/",
+      "published": "2026-11-11T17:00:20Z",
+      "source": "Orange County Business Journal",
+      "area": "Orange County",
+      "fetched_at": "2026-11-11T17:56:26Z",
+      "category": "Business"
+    },
+    {
+      "headline": "SMC Public Policy Institute Fall Forum to explore art, politics and democracy",
+      "link": "https://www.smdp.com/smc-public-policy-institute-fall-forum-to-explore-art-politics-and-democracy/",
+      "published": "2026-11-11T17:00:00Z",
+      "source": "Santa Monica Daily Press",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:19Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "SMMUSD taps Grant Elementary principal as executive director of elementary education",
+      "link": "https://www.smdp.com/smmusd-taps-grant-elementary-principal-as-executive-director-of-elementary-education/",
+      "published": "2026-11-11T17:00:00Z",
+      "source": "Santa Monica Daily Press",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:19Z",
+      "category": "Education"
+    },
+    {
+      "headline": "Midterm election results reflect O.C.'s purple evolution",
+      "link": "https://www.latimes.com/socal/daily-pilot/entertainment/newsletter/2026-11-11/tn-dpt-me-timesoc-latest-news-in-orange-county-registered-democrats-now-outnumber-republicans",
+      "published": "2026-11-11T17:00:00Z",
+      "source": "Daily Pilot",
+      "area": "Orange County",
+      "fetched_at": "2026-11-11T17:56:25Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Coachella 2027 lineup announced: Dua Lipa, Tame Impala, SZA set to headline",
+      "link": "https://www.foxla.com/news/coachella-2027-lineup-announced-dua-lipa-tame-impala-sza",
+      "published": "2026-11-11T16:57:03Z",
+      "source": "FOX 11 Los Angeles",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:25Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Photos: 3 killed in crash outside North Hollywood Metro station",
+      "link": "https://ktla.com/news/local-news/north-hollywood-metro-station-photos/",
+      "published": "2026-11-11T16:55:15Z",
+      "source": "KTLA",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:22Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "YMCA Partnering with LA County Veterans Affairs",
+      "link": "https://mynewsla.com/business/2026/11/11/ymca-partnering-with-la-county-veterans-affairs/",
+      "published": "2026-11-11T16:42:05Z",
+      "source": "MyNewsLA (City News Service)",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:24Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Driver arrested on suspicion of DUI after 3 killed in North Hollywood crash",
+      "link": "https://www.foxla.com/news/3-dead-after-car-crashes-pedestrians-north-hollywood",
+      "published": "2026-11-11T16:41:33Z",
+      "source": "FOX 11 Los Angeles",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:25Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "3 dead after car hits pedestrians in North Hollywood",
+      "link": "https://www.foxla.com/video/fmc-9yiogyfze6pmkzgr",
+      "published": "2026-11-11T16:40:39Z",
+      "source": "FOX 11 Los Angeles",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:25Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "‘House of Horrors’ Grandma Wants Taxpayers to Foot $7K Bill for Dementia Expert",
+      "link": "https://lamag.com/crimeinla/house-of-horrors-grandma-wants-taxpayers-to-foot-7k-bill-for-dementia-expert/",
+      "published": "2026-11-11T16:33:07Z",
+      "source": "Los Angeles Magazine",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:25Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Inside the effort to transform downtown L.A.'s graffiti-tagged towers",
+      "link": "https://ktla.com/news/local-news/inside-the-effort-to-transform-downtown-l-a-s-graffiti-tagged-towers/",
+      "published": "2026-11-11T16:21:32Z",
+      "source": "KTLA",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:22Z",
+      "category": "Development & Housing",
+      "local": true
+    },
+    {
+      "headline": "Dua Lipa, Tame Impala and SZA to headline Coachella 2027",
+      "link": "https://ktla.com/entertainment/dua-lipa-tame-impala-and-sza-to-headline-coachella-2027/",
+      "published": "2026-11-11T16:10:49Z",
+      "source": "KTLA",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:22Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "White House warns of criminal inquiries into House Democrats who investigate Trump",
+      "link": "https://www.latimes.com/politics/story/2026-11-11/white-house-warns-of-criminal-inquiries-into-house-democrats-who-investigate-trump",
+      "published": "2026-11-11T15:55:57Z",
+      "source": "Daily Pilot",
+      "area": "Orange County",
+      "fetched_at": "2026-11-11T17:56:25Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Coyote Thought Euthanized After Biting Atwater Village Toddler Is Alive",
+      "link": "https://mynewsla.com/business/2026/11/11/coyote-thought-euthanized-after-biting-atwater-village-toddler-is-alive/",
+      "published": "2026-11-11T15:42:21Z",
+      "source": "MyNewsLA (City News Service)",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:24Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Three Killed When SUV Drives Into Crowd at NoHo Metro Station",
+      "link": "https://mynewsla.com/crime/2026/11/11/three-killed-when-suv-drives-into-crowd-at-noho-metro-station-2/",
+      "published": "2026-11-11T15:42:05Z",
+      "source": "MyNewsLA (City News Service)",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:24Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Our First Look and Taste of the Revamped Original Pantry",
+      "link": "https://lamag.com/food/our-first-look-and-taste-of-the-revamped-original-pantry/",
+      "published": "2026-11-11T15:41:18Z",
+      "source": "Los Angeles Magazine",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:25Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Driver Arrested for DUI After Plowing Into North Hollywood Food Vendors, Killing Three Women",
+      "link": "https://lamag.com/crimeinla/driver-arrested-for-dui-after-plowing-into-north-hollywood-food-vendors-killing-three-women/",
+      "published": "2026-11-11T15:40:22Z",
+      "source": "Los Angeles Magazine",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:25Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Man arrested for 3 counts of murder after fatal North Hollywood Metro station crash",
+      "link": "https://ktla.com/news/local-news/arrest-made-in-triple-fatal-north-hollywood-metro-station-crash/",
+      "published": "2026-11-11T15:30:39Z",
+      "source": "KTLA",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:22Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "VA continues its mission to permanently house homeless veterans, houses 48,968 veterans in fiscal year 2026",
+      "link": "https://www.foxla.com/news/va-houses-vets-fiscal-year-2026",
+      "published": "2026-11-11T15:28:55Z",
+      "source": "FOX 11 Los Angeles",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:25Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "What to know about 3 storms approaching Southern California",
+      "link": "https://ktla.com/news/california/southern-california-rain-cooldown-three-storms/",
+      "published": "2026-11-11T15:26:42Z",
+      "source": "KTLA",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:22Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "Convicted Killer Matthew Farwell Is Not the Only Cop Who Preyed On Teen Police Explorer",
+      "link": "https://lamag.com/crimeinla/convicted-killer-matthew-farwell-is-not-the-only-cop-who-preyed-on-teen-police-explorer/",
+      "published": "2026-11-11T15:23:41Z",
+      "source": "Los Angeles Magazine",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:25Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Checking Your Trees Before and After Santa Ana Winds",
+      "link": "https://fullertonobserver.com/2026/11/11/checking-your-trees-before-and-after-santa-ana-winds/?utm_source=rss&utm_medium=rss&utm_campaign=checking-your-trees-before-and-after-santa-ana-winds",
+      "published": "2026-11-11T15:10:53Z",
+      "source": "Fullerton Observer",
+      "area": "Orange County",
+      "fetched_at": "2026-11-11T17:56:27Z",
+      "category": "Business"
+    },
+    {
+      "headline": "Why obesity affects males and females differently",
+      "link": "https://fullertonobserver.com/2026/11/11/why-obesity-affects-males-and-females-differently/?utm_source=rss&utm_medium=rss&utm_campaign=why-obesity-affects-males-and-females-differently",
+      "published": "2026-11-11T15:05:23Z",
+      "source": "Fullerton Observer",
+      "area": "Orange County",
+      "fetched_at": "2026-11-11T17:56:27Z",
+      "category": "Education"
+    },
+    {
+      "headline": "In LA’s Little Bangladesh, Raman’s visits won votes. Now residents have a to-do list for her",
+      "link": "https://thelalocal.org/neighborhoods/little-bangladesh-raman-votes-la-november-2026/",
+      "published": "2026-11-11T15:00:00Z",
+      "source": "Boyle Heights Beat",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:20Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "SUV Plows Into Crowd at NoHo Metro Station; Three Confirmed Dead",
+      "link": "https://mynewsla.com/crime/2026/11/11/three-killed-when-suv-drives-into-crowd-at-noho-metro-station/",
+      "published": "2026-11-11T14:43:00Z",
+      "source": "MyNewsLA (City News Service)",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:24Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "SoCal Braces for Rain After Small Heat Wave",
+      "link": "https://mynewsla.com/weather/2026/11/11/socal-braces-for-rain-after-days-of-unseasonable-heat/",
+      "published": "2026-11-11T14:40:00Z",
+      "source": "MyNewsLA (City News Service)",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:24Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "This new horror-themed coffee shop isn’t a gimmick. For the owner, it’s deeply personal",
+      "link": "https://lbpost.com/eat-see-do-2/eat/coffinated-coffee-shop-horror-long-beach",
+      "published": "2026-11-11T14:30:00Z",
+      "source": "Long Beach Post",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:17Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "RivCo Gas Prices at Lowest Amounts Since Aug.",
+      "link": "https://mynewsla.com/riverside/2026/11/11/riverside-county-gas-prices-at-lowest-amounts-since-aug-18/",
+      "published": "2026-11-11T14:30:00Z",
+      "source": "MyNewsLA (City News Service)",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:24Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Jewish Veterans Group to Serve as Grand Marshal of SFV Veterans Day Parade",
+      "link": "https://mynewsla.com/san-fernando-valley/2026/11/11/jewish-veterans-group-to-be-grand-marshal-of-san-fernando-valley-parade/",
+      "published": "2026-11-11T14:28:00Z",
+      "source": "MyNewsLA (City News Service)",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:24Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Judge Denies Joint Motion To Keep Matchmaker Case Settlement Amount Sealed",
+      "link": "https://mynewsla.com/courts/2026/11/11/judge-denies-joint-motion-to-seal-matchmaker-case-settlement-amount/",
+      "published": "2026-11-11T14:27:00Z",
+      "source": "MyNewsLA (City News Service)",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:24Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Fatal Accident on 60 Freeway in Diamond Bar",
+      "link": "https://mynewsla.com/crime/2026/11/11/pedestrian-killed-in-accident-on-60-freeway-in-diamond-bar/",
+      "published": "2026-11-11T14:27:00Z",
+      "source": "MyNewsLA (City News Service)",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:24Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Judge Orders Former CAA Employee to Arbitrate Labor Claims",
+      "link": "https://mynewsla.com/courts/2026/11/11/former-caa-employee-ordered-to-arbitrate-labor-claims/",
+      "published": "2026-11-11T14:27:00Z",
+      "source": "MyNewsLA (City News Service)",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:24Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Things to do in Long Beach this weekend — including puppy Pilates, Twilight Bingo night and a plant pop-up in Torrance",
+      "link": "https://lbpost.com/eat-see-do-2/do/things-to-do-in-long-beach-this-weekend-puppy-pilates-twilight-bingo-plants-lady-bunny",
+      "published": "2026-11-11T14:05:00Z",
+      "source": "Long Beach Post",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:17Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "The ‘perfect political storm’ that brought down Jimmy Gomez",
+      "link": "https://thelalocal.org/government/election/political-storm-jimmy-gomez/",
+      "published": "2026-11-11T14:00:00Z",
+      "source": "Boyle Heights Beat",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:20Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "LA County launches text service to report hate",
+      "link": "https://thelalocal.org/uncategorized/la-county-launches-text-service-to-report-hate/",
+      "published": "2026-11-11T14:00:00Z",
+      "source": "Boyle Heights Beat",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:20Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "OC’s Veteran’s Cemetery Remains Under Construction For at Least Two More Years",
+      "link": "https://voiceofoc.org/2026/11/ocs-veterans-cemetery-remains-under-construction-for-at-least-two-more-years/",
+      "published": "2026-11-11T13:58:00Z",
+      "source": "Voice of OC",
+      "area": "Orange County",
+      "fetched_at": "2026-11-11T17:56:23Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "2 killed in separate crashes minutes apart on 57 Freeway; SigAlerts issued",
+      "link": "https://ktla.com/news/local-news/fatal-crashes-57-freeway-60-freeway/",
+      "published": "2026-11-11T13:35:42Z",
+      "source": "KTLA",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:22Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Best things to do in LA and SoCal: Nov. 11-17",
+      "link": "https://laist.com/news/arts-and-entertainment/best-things-to-do/music-arts-events-weekly-weekend-los-angeles-nov-11-17",
+      "published": "2026-11-11T13:00:00Z",
+      "source": "LAist",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:17Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Black teachers say students call them the N-word. LAUSD vows to teach them not to",
+      "link": "https://www.latimes.com/california/story/2026-11-11/black-teachers-n-word-lausd",
+      "published": "2026-11-11T11:00:00Z",
+      "source": "Los Angeles Times",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:17Z",
+      "category": "Education"
+    },
+    {
+      "headline": "Just 156 votes separate the two candidates in L.A.'s 9th District council race",
+      "link": "https://www.latimes.com/california/story/2026-11-11/just-156-votes-separate-two-candidates-in-l-a-s-9th-district-council-race",
+      "published": "2026-11-11T11:00:00Z",
+      "source": "Los Angeles Times",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:17Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Peptide parties, including one on a WWII ship, celebrate new fed policy",
+      "link": "https://www.latimes.com/science/story/2026-11-11/for-peptide-enthusiasts-new-hhs-policy-means-party-time",
+      "published": "2026-11-11T11:00:00Z",
+      "source": "Los Angeles Times",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:17Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Nithya Raman's election sets up an intense showdown with the LAPD",
+      "link": "https://www.latimes.com/california/story/2026-11-11/nithya-ramans-election-lapd-future",
+      "published": "2026-11-11T11:00:00Z",
+      "source": "Los Angeles Times",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:17Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Voters rejected Prop. 45. The battle over California's housing crisis continues",
+      "link": "https://www.latimes.com/environment/story/2026-11-11/voters-rejected-prop-45-battle-over-californias-housing-crisis-continues",
+      "published": "2026-11-11T11:00:00Z",
+      "source": "Los Angeles Times",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:17Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "She claimed to be a rich L.A. aerospace heiress. Now she's hiding from police in Dubai, FBI says",
+      "link": "https://www.latimes.com/california/story/2026-11-11/she-claimed-to-be-rich-la-aerospace-heiress-fbi-says-shes-hiding-from-police-in-dubai",
+      "published": "2026-11-11T11:00:00Z",
+      "source": "Burbank Leader",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:23Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Driver arrested on suspicion of murder, DUI in North Hollywood crash that killed 3",
+      "link": "https://www.nbclosangeles.com/news/local/car-drives-into-crowd-at-north-hollywood-intersection-lapd-says/3968704/",
+      "published": "2026-11-11T09:51:53Z",
+      "source": "NBC Los Angeles",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:21Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Veterans Day 2026: Where to get free meals, discounts for veterans and active duty members",
+      "link": "https://www.nbclosangeles.com/holidays/veterans-day-2026-free-meals-discounts-military/3967018/",
+      "published": "2026-11-11T09:51:53Z",
+      "source": "NBC Los Angeles",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:21Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Chief McDonnell ‘hopeful' about future with LAPD under new mayor",
+      "link": "https://www.nbclosangeles.com/elections/lapd-chief-jim-mcdonnell-nithya-raman-la-mayor/3968964/",
+      "published": "2026-11-11T09:51:53Z",
+      "source": "NBC Los Angeles",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:21Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Coachella unveils 2027 lineup: Dua Lipa, Tame Impala, SZA and Daddy Yankee headline",
+      "link": "https://www.nbclosangeles.com/entertainment/entertainment-news/coachella-2027-lineup-dua-lipa-tame-impala-sza-daddy-yankee/3968936/",
+      "published": "2026-11-11T09:51:53Z",
+      "source": "NBC Los Angeles",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:21Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Glendale residents voice concerns over proposed 53% increase in water bills",
+      "link": "https://www.nbclosangeles.com/news/local/glendale-residents-voice-concerns-over-proposed-53-increase-in-water-bills/3968858/",
+      "published": "2026-11-11T09:51:53Z",
+      "source": "NBC Los Angeles",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:21Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "What are childhood vaccination rates in your community and schools?",
+      "link": "https://www.nbclosangeles.com/news/national-international/maps-measles-herd-immunity-vaccination-rates-school-counties/3968915/",
+      "published": "2026-11-11T09:51:53Z",
+      "source": "NBC Los Angeles",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:21Z",
+      "category": "Education",
+      "local": true
+    },
+    {
+      "headline": "‘It breaks my heart.' North Hollywood community mourns 3 killed in Metro station crash",
+      "link": "https://www.nbclosangeles.com/news/local/3-killed-after-car-plows-food-vendors-north-hollywood-metro-station/3968822/",
+      "published": "2026-11-11T09:51:53Z",
+      "source": "NBC Los Angeles",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:21Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Irvine police warn of dangers linked to viral ‘Door Kick Challenge'",
+      "link": "https://www.nbclosangeles.com/news/local/irvine-police-warn-of-dangers-linked-to-viral-door-kick-challenge/3968797/",
+      "published": "2026-11-11T09:51:53Z",
+      "source": "NBC Los Angeles",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:21Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "‘She was very courageous to the end.' Dolores Huerta's daughters reflect on her final days",
+      "link": "https://www.nbclosangeles.com/news/local/she-was-very-courageous-to-the-end-dolores-huertas-daughters-reflect-on-her-final-days/3968691/",
+      "published": "2026-11-11T09:51:53Z",
+      "source": "NBC Los Angeles",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:21Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Real-Time Cameras Help Sheriff’s Deputies Track Down Assault Suspect in West Hollywood",
+      "link": "https://wehotimes.com/real-time-cameras-help-sheriffs-deputies-track-down-assault-suspect-in-west-hollywood/",
+      "published": "2026-11-11T08:33:55Z",
+      "source": "WEHO Times",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:24Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Live on Sunset is Coming to West Hollywood – Here are Street Closures and Other Information",
+      "link": "https://wehotimes.com/live-on-sunset-is-coming-to-west-hollywood-here-are-street-closures-and-other-information/",
+      "published": "2026-11-11T08:08:48Z",
+      "source": "WEHO Times",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:24Z",
+      "category": "Traffic & Transit"
+    },
+    {
+      "headline": "Los Angeles pizzeria fights back against AI photo scam",
+      "link": "https://ktla.com/news/local-news/la-pizzeria-fights-back-ai-photo-scam/",
+      "published": "2026-11-11T07:21:19Z",
+      "source": "KTLA",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:22Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Woman found murdered in Lake Los Angeles, $10,000 reward offered for suspect info",
+      "link": "https://ktla.com/news/local-news/woman-murdered-lake-la-investigation/",
+      "published": "2026-11-11T05:02:30Z",
+      "source": "KTLA",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:22Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "'Only in L.A.' columnist Steve Harvey, chronicler of the amazing, amusing and absurd, dies at 80",
+      "link": "https://www.latimes.com/california/story/2026-11-10/former-los-angeles-times-columnist-steve-harvey-dies-at-80",
+      "published": "2026-11-11T04:57:26Z",
+      "source": "Los Angeles Times",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:17Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Fugitive gang member helped Olympian run drug cartel and evade arrest, feds allege",
+      "link": "https://www.latimes.com/california/story/2026-11-10/fugitive-helped-olympian-run-drug-cartel-evade-arrest-feds-allege",
+      "published": "2026-11-11T04:41:51Z",
+      "source": "Los Angeles Times",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:17Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Wildlife crossings aren't enough to curb roadkill hot spots, researchers say",
+      "link": "https://www.latimes.com/california/story/2026-11-10/wildlife-crossings-arent-enough-to-curb-roadkill-hot-spots-researchers-say",
+      "published": "2026-11-11T03:29:13Z",
+      "source": "Los Angeles Times",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:17Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Driver in deadly North Hollywood Metro station crash held on $6-million bail",
+      "link": "https://www.latimes.com/california/story/2026-11-10/three-dead-in-crash-near-north-hollywood-metro-station",
+      "published": "2026-11-11T03:10:41Z",
+      "source": "Los Angeles Times",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:17Z",
+      "category": "Traffic & Transit"
+    },
+    {
+      "headline": "Suspect wanted for violent assault of tourist in Venice identified by LAPD",
+      "link": "https://ktla.com/news/local-news/suspect-wanted-violent-assault-venice/",
+      "published": "2026-11-11T02:54:30Z",
+      "source": "KTLA",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:22Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Chris Brown and Usher cancel SoFi Stadium concert amid feud rumors: TMZ",
+      "link": "https://www.foxla.com/news/chris-brown-usher-cancel-sofi-stadium-concert-amid-feud-rumors-tmz",
+      "published": "2026-11-11T02:45:09Z",
+      "source": "FOX 11 Los Angeles",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:25Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "West Hollywood to Reconsider Flock Automated License Plate Reader Program",
+      "link": "https://wehotimes.com/west-hollywood-to-reconsider-flock-automated-license-plate-reader-program/",
+      "published": "2026-11-11T02:36:26Z",
+      "source": "WEHO Times",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:24Z",
+      "category": "Other"
+    },
+    {
+      "headline": "3 women dead, 2 others critically injured in North Hollywood Metro Station crash",
+      "link": "https://ktla.com/news/local-news/major-emergency-response-to-traffic-collision-near-north-hollywood-metro-station/",
+      "published": "2026-11-11T02:21:47Z",
+      "source": "KTLA",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:22Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Booming L.A. techno concert heard miles away, angering Burbank residents",
+      "link": "https://ktla.com/news/local-news/booming-l-a-techno-concert-heard-miles-away-angering-burbank-residents/",
+      "published": "2026-11-11T02:14:56Z",
+      "source": "KTLA",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:22Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Republicans Could Lose Heart of Orange County’s State Legislature Seats",
+      "link": "https://voiceofoc.org/2026/11/republicans-could-lose-heart-of-orange-countys-state-legislature-seats/",
+      "published": "2026-11-11T02:12:53Z",
+      "source": "Voice of OC",
+      "area": "Orange County",
+      "fetched_at": "2026-11-11T17:56:23Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "'Princess pig.' Well-groomed, chubby porker found wandering SoCal streets",
+      "link": "https://www.latimes.com/california/story/2026-11-10/la-me-pig-on-the-loose-pomona",
+      "published": "2026-11-11T02:03:38Z",
+      "source": "Los Angeles Times",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:17Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Video captures copper wire theft from Chatsworth street lights; residents told repairs could take a year",
+      "link": "https://www.foxla.com/news/chatsworth-copper-wire-theft-kingsley-st",
+      "published": "2026-11-11T02:02:09Z",
+      "source": "FOX 11 Los Angeles",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:25Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Sacramento Rep. Doris Matsui wins reelection, defeating progressive challenger",
+      "link": "https://www.latimes.com/california/story/2026-11-10/sacramento-rep-doris-matsui-wins-reelection-defeating-progressive-challenger",
+      "published": "2026-11-11T02:02:04Z",
+      "source": "Los Angeles Times",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:17Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Op-Ed: Why We All Lost in this West Hollywood Election",
+      "link": "https://wehotimes.com/op-ed-why-we-all-lost-in-this-west-hollywood-election/",
+      "published": "2026-11-11T01:38:45Z",
+      "source": "WEHO Times",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:24Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "State wildlife officials said they killed a problem coyote in Atwater Village. Then it reappeared — with a limp",
+      "link": "https://www.latimes.com/california/story/2026-11-10/wildlife-officials-said-they-killed-coyote-in-atwater-village-then-it-reappeared",
+      "published": "2026-11-11T01:36:28Z",
+      "source": "Los Angeles Times",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:17Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "American girl, 7, killed during Mexican cartel operation; mother blames police helicopter: report",
+      "link": "https://www.foxla.com/news/american-girl-7-killed-during-mexican-cartel-operation-mother-blames-police-helicopter-report",
+      "published": "2026-11-11T01:35:17Z",
+      "source": "FOX 11 Los Angeles",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:25Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Downtown LA sees new hope as ‘Graffiti Towers’ cleaned up, historic landmark preps to reopen",
+      "link": "https://www.foxla.com/news/downtown-la-sees-new-hope-graffiti-towers-cleaned-up-historic-landmark-preps-reopen",
+      "published": "2026-11-11T01:31:27Z",
+      "source": "FOX 11 Los Angeles",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:25Z",
+      "category": "Development & Housing",
+      "local": true
+    },
+    {
+      "headline": "Santa Ana Councilwoman Jessie Lopez’ Lead Widens in Assembly Race",
+      "link": "https://voiceofoc.org/2026/11/santa-ana-councilwoman-jessie-lopez-lead-widens-in-assembly-race/",
+      "published": "2026-11-11T01:30:17Z",
+      "source": "Voice of OC",
+      "area": "Orange County",
+      "fetched_at": "2026-11-11T17:56:23Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Two planes nearly collide at LAX after Air France flight veers into another aircraft's path, FAA says",
+      "link": "https://www.latimes.com/california/story/2026-11-10/two-planes-nearly-collide-at-lax-faa-says",
+      "published": "2026-11-11T01:29:34Z",
+      "source": "Los Angeles Times",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:17Z",
+      "category": "Traffic & Transit"
+    },
+    {
+      "headline": "Meet Santa Ana’s New Mayor",
+      "link": "https://voiceofoc.org/2026/11/meet-santa-anas-new-mayor/",
+      "published": "2026-11-11T01:05:46Z",
+      "source": "Voice of OC",
+      "area": "Orange County",
+      "fetched_at": "2026-11-11T17:56:23Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "L.A. County restraining order system to undergo sweeping reforms",
+      "link": "https://www.latimes.com/california/story/2026-11-10/la-county-restraining-order-system-reforms",
+      "published": "2026-11-11T01:02:55Z",
+      "source": "Los Angeles Times",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:17Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Fabric, Footwork and Flair",
+      "link": "https://www.theeastsiderla.com/news/daily_digest_evening_edition/fabric-footwork-and-flair/article_bc234b08-74dd-445c-a0bb-3fdfd494850e.html",
+      "published": "2026-11-11T01:00:00Z",
+      "source": "The Eastsider LA",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:27Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Newport Harbor flag football hangs with JSerra before falling in CIF title game",
+      "link": "https://www.latimes.com/socal/daily-pilot/sports/story/2026-11-10/newport-harbor-flag-football-hangs-with-jserra-before-falling-in-cif-title-game",
+      "published": "2026-11-11T00:48:29Z",
+      "source": "Daily Pilot",
+      "area": "Orange County",
+      "fetched_at": "2026-11-11T17:56:25Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "CdM football falters at finish in playoff loss to Chaminade",
+      "link": "https://www.latimes.com/socal/daily-pilot/sports/story/2026-11-10/cdm-football-falters-at-finish-in-playoff-loss-to-chaminade",
+      "published": "2026-11-11T00:34:28Z",
+      "source": "Daily Pilot",
+      "area": "Orange County",
+      "fetched_at": "2026-11-11T17:56:25Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "Meghan Markle's father Thomas Markle Sr. cut off his ankle monitor following child porn arrest",
+      "link": "https://www.latimes.com/entertainment-arts/story/2026-11-10/thomas-markle-sr-cut-off-ankle-monitor-child-porn-arrest",
+      "published": "2026-11-11T00:29:45Z",
+      "source": "Los Angeles Times",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:17Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Police tow over a dozen vendor vehicles at Guatemalan Night Market in Westlake",
+      "link": "https://thelalocal.org/uncategorized/police-tow-over-a-dozen-vendor-vehicles-at-guatemalan-night-market-in-westlake/",
+      "published": "2026-11-11T00:26:29Z",
+      "source": "Boyle Heights Beat",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:20Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Thick smoke from reignited South L.A. commercial building fire prompts air quality alert",
+      "link": "https://ktla.com/news/local-news/south-los-angeles-commercial-fire-air-quality/",
+      "published": "2026-11-11T00:24:59Z",
+      "source": "KTLA",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:22Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "With all but a handful of votes counted, Stewart and Smith will take seats on the Malibu City Council",
+      "link": "https://www.smdp.com/with-all-but-a-handful-of-votes-counted-stewart-and-smith-will-take-seats-on-the-malibu-city-council/",
+      "published": "2026-11-11T00:24:12Z",
+      "source": "Santa Monica Daily Press",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:19Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "11-month-old buried alive for 24 hours, father arrested, police say",
+      "link": "https://www.foxla.com/news/11-month-old-buried-alive-24-hours-father-arrested-police-say",
+      "published": "2026-11-10T23:56:54Z",
+      "source": "FOX 11 Los Angeles",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:25Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "OC’s Bolsa Chica Conservancy’s braces for more flooding after damage from El Niño high tides",
+      "link": "https://laist.com/news/climate-environment/ocs-bolsa-chica-conservancys-braces-for-more-flooding-after-damage-from-el-nino-high-tides",
+      "published": "2026-11-10T23:55:59Z",
+      "source": "LAist",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:17Z",
+      "category": "Weather",
+      "local": true
+    },
     {
       "headline": "USC Study Projects SoCal Rents to Rise Through 2029",
       "link": "https://mynewsla.com/life/2026/11/10/socal-rents-expected-to-rise-through-2029-usc-forecast-says-2/",
@@ -1021,6 +1923,78 @@
       "area": "Los Angeles County",
       "fetched_at": "2026-11-11T00:15:53Z",
       "category": "Business"
+    },
+    {
+      "headline": "UCLA'S NIKOLA KUSTURICA HONORED AS BIG TEN MEN'S BASKETBALL FRESHMAN OF THE WEEK",
+      "link": "HTTPS://www.culvercityobserver.com/story/2026/11/12/sports/uclas-nikola-kusturica-honored-as-big-ten-mens-basketball-freshman-of-the-week/16714.html",
+      "published": "2026-11-10T14:08:00Z",
+      "source": "Culver City Observer",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:24Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "Unhealthy Air Quality in Parts of Los Angeles County Due to Alba Fire",
+      "link": "HTTPS://www.culvercityobserver.com/story/2026/11/12/health/unhealthy-air-quality-in-parts-of-los-angeles-county-due-to-alba-fire/16720.html",
+      "published": "2026-11-10T14:08:00Z",
+      "source": "Culver City Observer",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:24Z",
+      "category": "Other"
+    },
+    {
+      "headline": "New season, new team, same goals for UCLA women's basketball",
+      "link": "HTTPS://www.culvercityobserver.com/story/2026/11/12/sports/new-season-new-team-same-goals-for-ucla-womens-basketball/16713.html",
+      "published": "2026-11-10T14:08:00Z",
+      "source": "Culver City Observer",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:24Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "Kempe is back in the lineup for the Kings",
+      "link": "HTTPS://www.culvercityobserver.com/story/2026/11/12/sports/kempe-is-back-in-the-lineup-for-the-kings/16718.html",
+      "published": "2026-11-10T14:08:00Z",
+      "source": "Culver City Observer",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:24Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Ocean Water Use Warning for Los Angeles County Beaches",
+      "link": "HTTPS://www.culvercityobserver.com/story/2026/11/12/health/ocean-water-use-warning-for-los-angeles-county-beaches/16717.html",
+      "published": "2026-11-10T14:08:00Z",
+      "source": "Culver City Observer",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:24Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Lakers continue to win on the road after beating Portland at home",
+      "link": "HTTPS://www.culvercityobserver.com/story/2026/11/12/sports/lakers-continue-to-win-on-the-road-after-beating-portland-at-home/16719.html",
+      "published": "2026-11-10T14:08:00Z",
+      "source": "Culver City Observer",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:24Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Join the Culver City Chamber of Commerce for our 2nd Annual Mayor's State of the City",
+      "link": "HTTPS://www.culvercityobserver.com/story/2026/11/12/news/join-the-culver-city-chamber-of-commerce-for-our-2nd-annual-mayors-state-of-the-city/16721.html",
+      "published": "2026-11-10T14:08:00Z",
+      "source": "Culver City Observer",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:24Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Kings Swedish Superstar, 30, scored a hat trick",
+      "link": "HTTPS://www.culvercityobserver.com/story/2026/11/12/sports/kings-swedish-superstar-30-scored-a-hat-trick/16722.html",
+      "published": "2026-11-10T14:08:00Z",
+      "source": "Culver City Observer",
+      "area": "Los Angeles County",
+      "fetched_at": "2026-11-11T17:56:24Z",
+      "category": "Other"
     },
     {
       "headline": "A no-cost preschool is opening in West Long Beach. Anyone can apply",
@@ -20776,1120 +21750,6 @@
       "area": "Los Angeles County",
       "fetched_at": "2026-10-28T23:32:45Z",
       "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "OC love triangle murder: Man charged in rival's fatal bedroom stabbing",
-      "link": "https://www.foxla.com/news/anaheim-love-triangle-murder-pine-street-stabbing",
-      "published": "2026-10-28T18:00:22Z",
-      "source": "FOX 11 Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T23:32:45Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "For LA fire survivors awaiting federal disaster aid, the midterms could be key",
-      "link": "https://laist.com/news/politics/for-la-fire-survivors-awaiting-federal-disaster-aid-the-midterms-could-be-key",
-      "published": "2026-10-28T18:00:00Z",
-      "source": "LAist",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T23:32:35Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "'Star Wars' executive Kathleen Kennedy to produce L.A.'s 2028 Summer Olympics ceremonies",
-      "link": "https://www.latimes.com/california/story/2026-10-28/star-wars-executive-kathleen-kennedy-to-produce-l-a-s-2028-summer-olympics-ceremonies",
-      "published": "2026-10-28T17:59:57Z",
-      "source": "Los Angeles Times",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T23:32:35Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Half-marathon runners reportedly have cars towed during race across U.S.-Mexico border",
-      "link": "https://www.latimes.com/california/story/2026-10-28/half-marathon-runners-cars-reportedly-towed-during-race-across-border",
-      "published": "2026-10-28T17:57:54Z",
-      "source": "Los Angeles Times",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T23:32:35Z",
-      "category": "Other"
-    },
-    {
-      "headline": "The Ritz-Carlton Sold to KSL Capital Partners",
-      "link": "https://www.ocbj.com/tourism/hotels/the-ritz-carlton-sold-to-ksl-capital-partners/",
-      "published": "2026-10-28T17:55:17Z",
-      "source": "Orange County Business Journal",
-      "area": "Orange County",
-      "fetched_at": "2026-10-28T23:32:46Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Marcellus Wiley faces another sexual assault allegation in lawsuit filed by a former USC student",
-      "link": "https://www.latimes.com/sports/story/2026-10-28/marcellus-wiley-another-sexual-assault-allegation-lawsuit",
-      "published": "2026-10-28T17:48:37Z",
-      "source": "Los Angeles Times",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T23:32:35Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "La Palma Office Building Sells for $14M",
-      "link": "https://www.ocbj.com/newsletter-feed/centerpointe-la-palma-sold/",
-      "published": "2026-10-28T17:29:38Z",
-      "source": "Orange County Business Journal",
-      "area": "Orange County",
-      "fetched_at": "2026-10-28T23:32:46Z",
-      "category": "Development & Housing"
-    },
-    {
-      "headline": "Anthony Hsieh Fights to Turn Around Struggling loanDepot",
-      "link": "https://www.ocbj.com/finance/anthony-hsieh-fights-to-turn-around-struggling-loandepot/",
-      "published": "2026-10-28T17:25:18Z",
-      "source": "Orange County Business Journal",
-      "area": "Orange County",
-      "fetched_at": "2026-10-28T23:32:46Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Lawsuit accuses Los Angeles animal rescue of puppy laundering",
-      "link": "https://ktla.com/news/local-news/los-angeles-dog-rescue-puppy-laundering-lawsuit/",
-      "published": "2026-10-28T17:22:16Z",
-      "source": "KTLA",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T23:32:40Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Wednesday’s Headlines",
-      "link": "https://la.streetsblog.org/2026/10/28/wednesdays-headlines-169",
-      "published": "2026-10-28T17:06:23Z",
-      "source": "Streetsblog Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T23:32:38Z",
-      "category": "Other"
-    },
-    {
-      "headline": "What local election officials found in Trump’s new claims about California voters",
-      "link": "https://laist.com/news/politics/what-local-election-officials-found-in-trumps-new-claims-about-california-voters",
-      "published": "2026-10-28T17:00:00Z",
-      "source": "LAist",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T23:32:35Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Santa Ana Politicians Got To Swim, Residents Got Turned Away From New Pool",
-      "link": "https://voiceofoc.org/2026/10/santa-ana-politicians-got-to-swim-residents-got-turned-away-from-new-pool/",
-      "published": "2026-10-28T17:00:00Z",
-      "source": "Voice of OC",
-      "area": "Orange County",
-      "fetched_at": "2026-10-28T23:32:40Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "9 Mexican nationals in San Bernardino linked to Sinaloa Cartel busted in cargo theft ring",
-      "link": "https://www.foxla.com/news/9-linked-sinaloa-cartel-arrested-san-bernardino",
-      "published": "2026-10-28T16:42:07Z",
-      "source": "FOX 11 Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T23:32:45Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Government Rests In Matthew Farwell Case",
-      "link": "https://lamag.com/crimeinla/government-rests-in-matthew-farwell-case/",
-      "published": "2026-10-28T16:40:27Z",
-      "source": "Los Angeles Magazine",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:04Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "TTM Announces Completion of Existing 2025 Share Repurchase",
-      "link": "https://www.ocbj.com/newsletter-feed/ttm-announces-completion-of-existing-2025-share-repurchase/",
-      "published": "2026-10-28T16:39:38Z",
-      "source": "Orange County Business Journal",
-      "area": "Orange County",
-      "fetched_at": "2026-10-28T16:41:05Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Tarsus Makes Neera Clase Permanent CCO",
-      "link": "https://www.ocbj.com/healthcare/tarsus-makes-neera-clase-permanent-coo/",
-      "published": "2026-10-28T16:32:55Z",
-      "source": "Orange County Business Journal",
-      "area": "Orange County",
-      "fetched_at": "2026-10-28T16:41:05Z",
-      "category": "Health"
-    },
-    {
-      "headline": "An Alhambra artist is helping Angelenos build ofrendas. Come look at their collective altar",
-      "link": "https://laist.com/news/arts-and-entertainment/alhambra-artist-helping-angelenos-build-ofrendas",
-      "published": "2026-10-28T16:32:32Z",
-      "source": "LAist",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-29T16:58:59Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "United Farm Workers Co-Founder Dolores Huerta Dies at 96",
-      "link": "https://pasadenanow.com/main/united-farm-workers-co-founder-dolores-huerta-dies-at-96",
-      "published": "2026-10-28T16:24:56Z",
-      "source": "Pasadena Now",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:00Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
-      "link": "https://laist.com/news/dolores-huerta-influential-labor-leader-feminist-and-civil-rights-icon-dies-at-96",
-      "published": "2026-10-28T16:19:38Z",
-      "source": "LAist",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T23:32:35Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Broadcom Chief Helped Seal $63B Anthropic Debt Deal: WSJ",
-      "link": "https://www.ocbj.com/newsletter-feed/broadcom-chief-helped-seal-63b-anthropic-debt-deal-wsj/",
-      "published": "2026-10-28T16:04:52Z",
-      "source": "Orange County Business Journal",
-      "area": "Orange County",
-      "fetched_at": "2026-10-28T16:41:05Z",
-      "category": "Other"
-    },
-    {
-      "headline": "A Surplus Isn’t a Solution: Why I Support Measure ES",
-      "link": "https://www.smdp.com/a-surplus-isnt-a-solution-why-i-support-measure-es/",
-      "published": "2026-10-28T16:00:00Z",
-      "source": "Santa Monica Daily Press",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:40:59Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Tort wars",
-      "link": "https://www.smdp.com/tort-wars/",
-      "published": "2026-10-28T16:00:00Z",
-      "source": "Santa Monica Daily Press",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:40:59Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Why the fate of California’s wealth tax could be decided well after the election",
-      "link": "https://www.smdp.com/why-the-fate-of-californias-wealth-tax-could-be-decided-well-after-the-election/",
-      "published": "2026-10-28T16:00:00Z",
-      "source": "Santa Monica Daily Press",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:40:59Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "LA Tech Week brings AI, venture capital and startup energy to Santa Monica and Venice",
-      "link": "https://www.smdp.com/la-tech-week-brings-ai-venture-capital-and-startup-energy-to-santa-monica-and-venice/",
-      "published": "2026-10-28T16:00:00Z",
-      "source": "Santa Monica Daily Press",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:40:59Z",
-      "category": "Business"
-    },
-    {
-      "headline": "Royal flush: Orange County's coast deals with over-sized king tides. More to come.",
-      "link": "https://www.latimes.com/socal/daily-pilot/entertainment/newsletter/2026-10-28/tn-dpt-me-timesoc-latest-news-in-orange-county-monster-king-tides",
-      "published": "2026-10-28T16:00:00Z",
-      "source": "Daily Pilot",
-      "area": "Orange County",
-      "fetched_at": "2026-10-28T16:41:04Z",
-      "category": "Other"
-    },
-    {
-      "headline": "LA, Orange County gas prices coming down",
-      "link": "https://www.theeastsiderla.com/news/city_news/la-orange-county-gas-prices-coming-down/article_6f6bef34-4347-43c8-b0b3-19b88f41f520.html",
-      "published": "2026-10-28T16:00:00Z",
-      "source": "The Eastsider LA",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:06Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "Union leader, activist Dolores Huerta dies at 96",
-      "link": "https://www.theeastsiderla.com/news/city_news/union-leader-activist-dolores-huerta-dies-at-96/article_eabcacdc-51b9-45e0-b384-8d05cbbf7ba6.html",
-      "published": "2026-10-28T16:00:00Z",
-      "source": "The Eastsider LA",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:06Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Dolores Huerta, a life in photos",
-      "link": "https://thelalocal.org/news/dolores-huerta-a-life-in-photos/",
-      "published": "2026-10-28T15:59:07Z",
-      "source": "Boyle Heights Beat",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:40:59Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Dolores Huerta, pioneering labor activist, dies at 96",
-      "link": "https://www.foxla.com/news/dolores-huerta-pioneering-labor-activist-dies-96",
-      "published": "2026-10-28T15:58:42Z",
-      "source": "FOX 11 Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:04Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Dolores Huerta, the fiery and resolute activist who helped launch the nation's first enduring union for poor farmworkers, dies",
-      "link": "https://www.latimes.com/politics/story/2026-10-28/dolores-huerta-dead",
-      "published": "2026-10-28T15:53:19Z",
-      "source": "Los Angeles Times",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:40:57Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Sinkhole opens up as water rushes through streets of Hollywood",
-      "link": "https://ktla.com/news/local-news/hollywood-sinkhole-flooded-streets/",
-      "published": "2026-10-28T15:50:13Z",
-      "source": "KTLA",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:00Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "The Los Angeles Olympic games finally have an official slogan",
-      "link": "https://ktla.com/news/los-angeles-olympics-2028/la28-official-slogan-stars-align/",
-      "published": "2026-10-28T15:49:41Z",
-      "source": "KTLA",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:00Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "LA mayor race: Karen Bass and Nithya Raman tied in new poll",
-      "link": "https://www.foxla.com/news/la-mayor-race-bass-raman-tied-poll",
-      "published": "2026-10-28T15:49:14Z",
-      "source": "FOX 11 Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:04Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Civil rights leader Dolores Huerta dies at 96",
-      "link": "https://thelalocal.org/news/dolores-huerta-death-activist-farmworkers-movement/",
-      "published": "2026-10-28T15:48:02Z",
-      "source": "Boyle Heights Beat",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:40:59Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Bass erases lead as Los Angeles mayor's race tightens",
-      "link": "https://ktla.com/news/local-news/los-angeles-mayor-race-poll-bass-raman-tied/",
-      "published": "2026-10-28T15:46:49Z",
-      "source": "KTLA",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:00Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Dolores Huerta, labor leader and activist, dies at 96",
-      "link": "https://ktla.com/news/dolores-huera-labor-leader-and-activist-dies-at-96/",
-      "published": "2026-10-28T15:43:39Z",
-      "source": "KTLA",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:00Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Judge Clarifies Nick Reiner’s Participation Mode in Upcoming Mediation",
-      "link": "https://mynewsla.com/crime/2026/10/28/judge-clarifies-nick-reiners-participation-mode-in-upcoming-mediation/",
-      "published": "2026-10-28T15:42:29Z",
-      "source": "MyNewsLA (City News Service)",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:02Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Fire Sends Flames, Smoke From Beneath N. Main Street Bridge Near Chinatown",
-      "link": "https://mynewsla.com/crime/2026/10/28/fire-sends-flames-smoke-from-beneath-n-main-street-bridge-near-chinatown/",
-      "published": "2026-10-28T15:42:17Z",
-      "source": "MyNewsLA (City News Service)",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:02Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Bass Touts New Poll Numbers Showing Dead Heat With Raman",
-      "link": "https://mynewsla.com/government/2026/10/28/bass-touts-new-poll-numbers-showing-dead-heat-with-raman/",
-      "published": "2026-10-28T15:42:04Z",
-      "source": "MyNewsLA (City News Service)",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:02Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Nine Former Mayors Call for a Change on the City Council",
-      "link": "https://www.newportbeachindy.com/nine-former-mayors-call-for-a-change-on-the-city-council/",
-      "published": "2026-10-28T15:28:02Z",
-      "source": "Newport Beach Indy",
-      "area": "Orange County",
-      "fetched_at": "2026-10-28T16:41:06Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "William Shatner pays tribute to Walter Koenig",
-      "link": "https://ktla.com/entertainment/william-shatner-pays-tribute-to-walter-koenig/",
-      "published": "2026-10-28T15:24:30Z",
-      "source": "KTLA",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:00Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "The dizzying speed of Trump’s deportation machine: Fresno man lands in Mexico 16 days after arrest",
-      "link": "https://lbpost.com/news/immigration/the-dizzying-speed-of-trumps-deportation-machine-fresno-man-lands-in-mexico-16-days-after-arrest",
-      "published": "2026-10-28T14:55:31Z",
-      "source": "Long Beach Post",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:40:58Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "LADWP approves relief plan after hourslong board meeting, but not a new audit",
-      "link": "https://ktla.com/news/local-news/ladwp-approves-relief-plan-after-hourslong-board-meeting-but-not-a-new-audit/",
-      "published": "2026-10-28T14:52:04Z",
-      "source": "KTLA",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:00Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "FBI Raids Billionaire’s Beverly Hills Mansion in Eric Swalwell Investigation",
-      "link": "https://lamag.com/news/fbi-raids-billionaires-beverly-hills-mansion-in-eric-swalwell-investigation/",
-      "published": "2026-10-28T14:49:02Z",
-      "source": "Los Angeles Magazine",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:04Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Tupac Stepbrother Seeks Jury Trial in Suit vs. Rapper’s Convicted Killer",
-      "link": "https://mynewsla.com/life/2026/10/28/tupac-stepbrother-seeks-jury-trial-in-suit-vs-rappers-convicted-killer/",
-      "published": "2026-10-28T14:42:17Z",
-      "source": "MyNewsLA (City News Service)",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:02Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "LA Olympics Organizers Unveil Slogan “Stars Align” for 2028 Games",
-      "link": "https://mynewsla.com/business/2026/10/28/la-olympics-organizers-unveil-slogan-stars-align-for-2028-games/",
-      "published": "2026-10-28T14:42:03Z",
-      "source": "MyNewsLA (City News Service)",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:02Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "Man pulls out large knife during altercation at L.A. Wendy's restaurant",
-      "link": "https://ktla.com/news/local-news/northridge-wendys-knife-confrontation/",
-      "published": "2026-10-28T13:56:13Z",
-      "source": "KTLA",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:00Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "CA Voters to Consider Voter ID, Billionaire Tax Measures",
-      "link": "https://mynewsla.com/government/2026/10/28/voter-id-billionaire-tax-among-measures-facing-southern-california-voters/",
-      "published": "2026-10-28T13:47:00Z",
-      "source": "MyNewsLA (City News Service)",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:02Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "PPIC poll provides insight into how Californians might vote",
-      "link": "https://www.foxla.com/news/ppic-poll-provides-insight-how-californians-might-vote",
-      "published": "2026-10-28T13:44:05Z",
-      "source": "FOX 11 Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:04Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Pasadena Mayor and Five Former Mayors Endorse Geoff Baum for PCC Board",
-      "link": "https://pasadenanow.com/main/pasadena-mayor-and-five-former-mayors-endorse-geoff-baum-for-pcc-board",
-      "published": "2026-10-28T13:41:55Z",
-      "source": "Pasadena Now",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:00Z",
-      "category": "Education"
-    },
-    {
-      "headline": "Long Beach Braces for More High Tides",
-      "link": "https://mynewsla.com/weather/2026/10/28/long-beach-braces-for-more-very-high-tides-forecast-for-wednesday/",
-      "published": "2026-10-28T13:40:00Z",
-      "source": "MyNewsLA (City News Service)",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:02Z",
-      "category": "Weather",
-      "local": true
-    },
-    {
-      "headline": "LA City Attorney’s Office Files Suit Against Alleged `Puppy Laundering’ Operation",
-      "link": "https://mynewsla.com/courts/2026/10/28/city-attorneys-office-files-suit-against-alleged-puppy-laundering-operation/",
-      "published": "2026-10-28T13:27:00Z",
-      "source": "MyNewsLA (City News Service)",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:02Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "South El Monte Apartment Fire Leaves One Dead, Another Injured",
-      "link": "https://mynewsla.com/fire/2026/10/28/one-dead-one-injured-in-south-el-monte-apartment-building-fire/",
-      "published": "2026-10-28T13:27:00Z",
-      "source": "MyNewsLA (City News Service)",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:02Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Judge to Rule on DOJ Bid to Set Aside 20,000 CA Ballots",
-      "link": "https://mynewsla.com/courts/2026/10/28/la-judge-to-rule-wednesday-on-doj-bid-to-set-aside-20000-ballots-2/",
-      "published": "2026-10-28T13:27:00Z",
-      "source": "MyNewsLA (City News Service)",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:02Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "OC Supervisors, Teamsters Continue Negotiations",
-      "link": "https://mynewsla.com/orange-county/2026/10/28/orange-county-teamsters-talks-expected-to-continue-wednesday/",
-      "published": "2026-10-28T13:26:00Z",
-      "source": "MyNewsLA (City News Service)",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:02Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Social Security November payment schedule: Here’s when recipients get their checks",
-      "link": "https://www.foxla.com/news/social-security-november-2026-payment-dates",
-      "published": "2026-10-28T13:24:13Z",
-      "source": "FOX 11 Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:04Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Police Seek Federal Grant to Train Officers to Operate Drones",
-      "link": "https://pasadenanow.com/main/police-seek-federal-grant-to-train-officers-to-operate-drones",
-      "published": "2026-10-28T13:22:43Z",
-      "source": "Pasadena Now",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:00Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "City Council Approves Federal Funding for Groundwater Treatment Plant",
-      "link": "https://pasadenanow.com/main/city-council-approves-federal-funding-for-groundwater-treatment-plant",
-      "published": "2026-10-28T13:21:35Z",
-      "source": "Pasadena Now",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:00Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "City Council Wraps Up Meeting Under 15 Minutes",
-      "link": "https://pasadenanow.com/main/city-council-wraps-up-meeting-under-15-minutes",
-      "published": "2026-10-28T13:19:48Z",
-      "source": "Pasadena Now",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:00Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Pasadena Water and Power Earns Designations for Electric Vehicle Policies and Cybersecurity",
-      "link": "https://pasadenanow.com/main/pasadena-water-and-power-earns-designations-for-electric-vehicle-policies-and-cybersecurity",
-      "published": "2026-10-28T13:11:36Z",
-      "source": "Pasadena Now",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:00Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Actor Cheyenne Jackson was 'one job away' from losing SAG-AFTRA healthcare. Now, he's helping others",
-      "link": "https://www.latimes.com/entertainment-arts/story/2026-10-28/cheyenne-jackson-isnt-only-actor-job-away-from-losing-healthcare",
-      "published": "2026-10-28T13:00:00Z",
-      "source": "Los Angeles Times",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:40:57Z",
-      "category": "Health"
-    },
-    {
-      "headline": "Residents Nextdoor to South OC Landfill Raise Red Flags Over Dirty Air and Debris",
-      "link": "https://voiceofoc.org/2026/10/residents-nextdoor-to-south-oc-landfill-raise-red-flags-over-dirty-air-and-debris/",
-      "published": "2026-10-28T12:58:00Z",
-      "source": "Voice of OC",
-      "area": "Orange County",
-      "fetched_at": "2026-10-28T16:41:00Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Solar Home Tour to Show District 2 Residents Rooftop Systems and Rebates",
-      "link": "https://pasadenanow.com/main/solar-home-tour-to-show-district-2-residents-rooftop-systems-and-rebates",
-      "published": "2026-10-28T12:57:16Z",
-      "source": "Pasadena Now",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:00Z",
-      "category": "Education"
-    },
-    {
-      "headline": "Eaton Fire Survivors to Hear From Plaintiffs’ Lawyers on Edison Claims and Lawsuits",
-      "link": "https://pasadenanow.com/main/eaton-fire-survivors-to-hear-from-plaintiffs-lawyers-on-edison-claims-and-lawsuits",
-      "published": "2026-10-28T12:53:28Z",
-      "source": "Pasadena Now",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:00Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Francis Pollara Draws Endorsements From Chu, Pérez and Five PCC Trustees in Area 1 Race",
-      "link": "https://pasadenanow.com/main/francis-pollara-draws-endorsements-from-chu-perez-and-five-pcc-trustees-in-area-1-race",
-      "published": "2026-10-28T12:47:24Z",
-      "source": "Pasadena Now",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:00Z",
-      "category": "Education"
-    },
-    {
-      "headline": "Sycamores Seeks Sponsors for Holiday Family Program",
-      "link": "https://pasadenanow.com/main/sycamores-seeks-sponsors-for-holiday-family-program",
-      "published": "2026-10-28T12:45:44Z",
-      "source": "Pasadena Now",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:00Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Take a look inside Space Shuttle Endeavour's new state-of-the-art home",
-      "link": "https://www.nbclosangeles.com/the-scene/take-a-look-inside-space-shuttle-endeavours-new-state-of-the-art-home/3962388/",
-      "published": "2026-10-28T12:44:22Z",
-      "source": "NBC Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T23:32:51Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Halloween rain chances rise across Southern California",
-      "link": "https://ktla.com/news/california/southern-california-halloween-rain-forecast/",
-      "published": "2026-10-28T12:31:06Z",
-      "source": "KTLA",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:00Z",
-      "category": "Weather",
-      "local": true
-    },
-    {
-      "headline": "Community supports deaf construction crew after thieves steal their tools",
-      "link": "https://www.nbclosangeles.com/news/local/deaf-construction-crew-theft-support/3962191/",
-      "published": "2026-10-28T12:26:21Z",
-      "source": "NBC Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:00Z",
-      "category": "Development & Housing",
-      "local": true
-    },
-    {
-      "headline": "Orange County nanny caught on camera ‘violently' striking, shaking infant, DA says",
-      "link": "https://www.nbclosangeles.com/news/local/orange-county-nanny-cam-baby-child-abuse/3962465/",
-      "published": "2026-10-28T12:12:23Z",
-      "source": "NBC Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T23:32:51Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "MacArthur Park is one of LA’s deadliest places. Inside the fight to reclaim it",
-      "link": "https://laist.com/news/criminal-justice/macarthur-park-la-overdose-fentanyl-westlake",
-      "published": "2026-10-28T12:00:00Z",
-      "source": "LAist",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:40:57Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Best things to do in LA and SoCal: Oct. 28-Nov. 3",
-      "link": "https://laist.com/news/arts-and-entertainment/best-things-to-do/music-arts-events-weekly-weekend-los-angeles-oct-28-nov-3",
-      "published": "2026-10-28T12:00:00Z",
-      "source": "LAist",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:40:57Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "A Vacant Corner's Next Act",
-      "link": "https://www.theeastsiderla.com/news/daily_digest_morning_edition/a-vacant-corners-next-act/article_747e4a75-31d9-46fc-b53f-4385394dc0a4.html",
-      "published": "2026-10-28T12:00:00Z",
-      "source": "The Eastsider LA",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:06Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "All Ball Sports: Happy Trails to Lincoln Riley",
-      "link": "https://easyreadernews.com/all-ball-sports-happy-trails-to-lincoln-riley",
-      "published": "2026-10-28T11:41:48Z",
-      "source": "Easy Reader (South Bay)",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:02Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Man seen in confrontation inside Wendy's restaurant in Northridge speaks out",
-      "link": "https://www.nbclosangeles.com/news/local/northridge-wendys-restaurant-confrontation/3962824/",
-      "published": "2026-10-28T11:26:54Z",
-      "source": "NBC Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-29T16:59:03Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "All Ball Sports: Mighty Casey has struck out",
-      "link": "https://easyreadernews.com/all-ball-sports-mighty-casey-has-struck-out",
-      "published": "2026-10-28T11:24:39Z",
-      "source": "Easy Reader (South Bay)",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:02Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Proposition 45 would sideline dozens of tribes from input on major California projects",
-      "link": "https://www.latimes.com/environment/story/2026-10-28/prop-45-would-bar-dozens-of-tribes-from-consulting-on-development-projects",
-      "published": "2026-10-28T11:00:00Z",
-      "source": "Los Angeles Times",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:40:57Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Teens work, drive and pay taxes. But should they vote? This California city will soon decide",
-      "link": "https://www.latimes.com/california/story/2026-10-28/la-me-culver-city-youth-vote-election",
-      "published": "2026-10-28T11:00:00Z",
-      "source": "Los Angeles Times",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:40:57Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Sinkhole damages part of Sunset Boulevard in Hollywood",
-      "link": "https://www.nbclosangeles.com/news/local/sinkhole-sunset-boulevard-hollywood/3962405/",
-      "published": "2026-10-28T10:29:19Z",
-      "source": "NBC Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T23:32:51Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Your last-minute guide to California governor candidates' views on gas prices, EVs and high-speed rail",
-      "link": "https://www.latimes.com/california/story/2026-10-28/california-governor-candidates-views-on-gas-prices-evs-high-speed-rail",
-      "published": "2026-10-28T10:00:00Z",
-      "source": "Los Angeles Times",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:40:57Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Desperate mom-and-pops turn to risky cash advances in tough economy — and can get burned",
-      "link": "https://www.latimes.com/california/story/2026-10-28/small-business-merchant-cash-advances-risks",
-      "published": "2026-10-28T10:00:00Z",
-      "source": "Los Angeles Times",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:40:57Z",
-      "category": "Business"
-    },
-    {
-      "headline": "Arellano: Nithya Raman is learning Spanish. What that says about her vision for L.A.",
-      "link": "https://www.latimes.com/california/story/2026-10-28/nithya-raman-learning-spanish",
-      "published": "2026-10-28T10:00:00Z",
-      "source": "Los Angeles Times",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:40:57Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Surprising close encounters with marine predators in California bring awe and fear",
-      "link": "https://www.latimes.com/california/story/2026-10-28/surprising-close-encounters-with-marine-predators-in-california",
-      "published": "2026-10-28T10:00:00Z",
-      "source": "Los Angeles Times",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:40:57Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Marissa Roy's lead grows over John McKinney in L.A. city attorney race, latest poll shows",
-      "link": "https://www.latimes.com/california/story/2026-10-28/marissa-roys-lead-grows-over-john-mckinney-in-la-city-attorney-race",
-      "published": "2026-10-28T10:00:00Z",
-      "source": "Los Angeles Times",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:40:57Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Living near Hollywood sign means cars, diapers, bottles of urine. Neighbors say they've had it",
-      "link": "https://www.latimes.com/california/story/2026-10-28/hollywood-sign-lawsuit-neighbor-speaks-out-traffic-james-bottles-urine",
-      "published": "2026-10-28T10:00:00Z",
-      "source": "Los Angeles Times",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:40:57Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Santa Monica show pairs assemblage pioneers with artists carrying the form forward",
-      "link": "https://www.smdp.com/santa-monica-show-pairs-assemblage-pioneers-with-artists-carrying-the-form-forward/",
-      "published": "2026-10-28T10:00:00Z",
-      "source": "Santa Monica Daily Press",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:40:59Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Bass comes from behind, now in dead heat with Raman in mayor's race, new poll shows",
-      "link": "https://www.latimes.com/california/story/2026-10-28/bass-comes-from-behind-now-in-dead-heat-with-raman-in-mayors-race-new-poll-shows",
-      "published": "2026-10-28T10:00:00Z",
-      "source": "Daily Pilot",
-      "area": "Orange County",
-      "fetched_at": "2026-10-28T16:41:04Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "West Hollywood Deputies Arrest Driver After Finding 73 Grams of Suspected Narcotics",
-      "link": "https://wehotimes.com/3-grams-of-suspected-narcotics/",
-      "published": "2026-10-28T08:47:54Z",
-      "source": "WEHO Times",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:03Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "3 Long Beach public safety leaders retire weeks apart as 2028 Olympics approach",
-      "link": "https://www.nbclosangeles.com/news/local/long-beach-fire-chief-retires/3962779/",
-      "published": "2026-10-28T08:41:13Z",
-      "source": "NBC Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-29T16:59:03Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "West Hollywood Lyft Passenger Describes Frightening Encounter After Driver Arrested for Suspicion of Driving Stolen Vehicle",
-      "link": "https://wehotimes.com/west-hollywood-lyft-passenger-describes-frightening-encounter-with-law-enforcement-after-driver-arrested-for-stolen-vehicle/",
-      "published": "2026-10-28T08:36:03Z",
-      "source": "WEHO Times",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:03Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Pioneering California civil rights leader Dolores Huerta dies at 96",
-      "link": "https://www.nbclosangeles.com/news/local/california-civil-rights-leader-dolores-huerta-dies-at-96/3962301/",
-      "published": "2026-10-28T08:34:37Z",
-      "source": "NBC Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:00Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "City of West Hollywood to Host Community Providers Open House",
-      "link": "https://wehotimes.com/city-of-west-hollywood-to-host-community-providers-open-house/",
-      "published": "2026-10-28T08:00:37Z",
-      "source": "WEHO Times",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:03Z",
-      "category": "Other"
-    },
-    {
-      "headline": "What Dolores Huerta's final moments were like, according to a friend",
-      "link": "https://www.nbclosangeles.com/news/local/what-dolores-huertas-final-moments-were-like-according-to-a-friend/3962747/",
-      "published": "2026-10-28T07:26:33Z",
-      "source": "NBC Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-29T16:59:03Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Dinosaur fossil that looks like mini T. rex sells for giant $47 million",
-      "link": "https://www.nbclosangeles.com/news/national-international/dinosaur-fossil-sells-giant-47-million/3962252/",
-      "published": "2026-10-28T07:02:13Z",
-      "source": "NBC Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:00Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Waymo expands driverless ride service into South Bay",
-      "link": "https://www.nbclosangeles.com/news/local/waymo-expands-service-into-south-bay/3962731/",
-      "published": "2026-10-28T06:54:15Z",
-      "source": "NBC Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-29T16:59:03Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Karen Bass, Nithya Raman in dead heat in race for LA mayor, poll says",
-      "link": "https://www.nbclosangeles.com/elections/karen-bass-nithya-raman-la-mayor-election-poll/3962255/",
-      "published": "2026-10-28T06:46:10Z",
-      "source": "NBC Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:00Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "2 men killed in stabbing, shooting incidents in Pomona",
-      "link": "https://ktla.com/news/local-news/2-men-killed-stabbing-shooting-pomona/",
-      "published": "2026-10-28T06:19:57Z",
-      "source": "KTLA",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:00Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "First Alert Forecast: Band of rain may damper Halloween plans",
-      "link": "https://www.nbclosangeles.com/news/local/socal-weather-halloween-rain-chance/3962693/",
-      "published": "2026-10-28T05:39:03Z",
-      "source": "NBC Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-29T16:59:03Z",
-      "category": "Weather",
-      "local": true
-    },
-    {
-      "headline": "AT&T outage cuts off Hollywood Hills neighbors' landline phones",
-      "link": "https://www.nbclosangeles.com/news/local/att-outage-cuts-off-hollywood-hills-neighbors-landline-phones/3962634/",
-      "published": "2026-10-28T05:29:39Z",
-      "source": "NBC Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-29T16:59:03Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Inglewood Mayor James Butts denies student's allegation as attorney announces government claim",
-      "link": "https://www.foxla.com/news/inglewood-mayor-james-butts-denies-students-allegation-government-claim",
-      "published": "2026-10-28T05:29:08Z",
-      "source": "FOX 11 Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:04Z",
-      "category": "Education",
-      "local": true
-    },
-    {
-      "headline": "Who could be moved at the NFL trade deadline? Here are five players to watch",
-      "link": "https://www.nbclosangeles.com/news/sports/nfl/nfl-trade-deadline-players-candidates-teams/3960686/",
-      "published": "2026-10-28T05:17:57Z",
-      "source": "NBC Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:00Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "LA28 unveils celestial-themed official slogan",
-      "link": "https://www.nbclosangeles.com/olympics/2028-los-angeles/la28-official-slogan-olympics/3962186/",
-      "published": "2026-10-28T05:09:52Z",
-      "source": "NBC Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:00Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Brad Waller, South Bay Cities Council of Governments chair of AI takes measured approach",
-      "link": "https://easyreadernews.com/brad-waller-south-bay-council-of-governments-chair-of-ai-takes-measured-approach",
-      "published": "2026-10-28T05:02:07Z",
-      "source": "Easy Reader (South Bay)",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-27T23:11:06Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "‘We will miss you Dolores': Celebrities pay tribute to labor rights icon",
-      "link": "https://www.nbclosangeles.com/news/local/we-will-miss-you-dolores-celebrities-pay-tribute-to-labor-rights-icon/3962638/",
-      "published": "2026-10-28T04:24:04Z",
-      "source": "NBC Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T23:32:51Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "High tide advisories to end Thursday, but upcoming storm could bring more surf",
-      "link": "https://www.nbclosangeles.com/weather-news/weather-socal-high-tide-advisories/3962635/",
-      "published": "2026-10-28T04:21:11Z",
-      "source": "NBC Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T23:32:51Z",
-      "category": "Weather",
-      "local": true
-    },
-    {
-      "headline": "Celebrity-favored Wagmor Pets owner denies ‘puppy laundering' amid lawsuit by LA city attorney",
-      "link": "https://www.nbclosangeles.com/news/local/wagmor-pets-melissa-bacelar-lawsuit-city-attorney-los-angeles/3962597/",
-      "published": "2026-10-28T03:24:52Z",
-      "source": "NBC Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T23:32:51Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Yorba Linda's late score squashes Edison's comeback bid",
-      "link": "https://www.latimes.com/socal/daily-pilot/sports/story/2026-10-27/yorba-lindas-late-score-squashes-edisons-second-half-comeback-bid",
-      "published": "2026-10-28T03:05:29Z",
-      "source": "Daily Pilot",
-      "area": "Orange County",
-      "fetched_at": "2026-10-28T16:41:04Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Pasadena warns of scammers posing as health officials to obtain personal information",
-      "link": "https://www.nbclosangeles.com/news/local/pasadena-warns-of-scammers-posing-as-health-officials-to-obtain-personal-information/3962604/",
-      "published": "2026-10-28T02:28:55Z",
-      "source": "NBC Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T23:32:51Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Mansion linked to Stephen Cloobeck raided by FBI",
-      "link": "https://www.foxla.com/video/fmc-14krzaa0zzymxtvh",
-      "published": "2026-10-28T01:43:56Z",
-      "source": "FOX 11 Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:04Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Los Angeles utility bills spark outrage as residents demand LADWP audit and summer rate relief",
-      "link": "https://www.foxla.com/news/los-angeles-utility-bills-spark-outrage-residents-demand-ladwp-audit-summer-rate-relief",
-      "published": "2026-10-28T01:34:41Z",
-      "source": "FOX 11 Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:04Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Amid rash of unusually high DWP bills, board suspends shutoffs for nonpayment",
-      "link": "https://www.latimes.com/california/story/2026-10-27/amid-unusually-high-dwp-bills-board-suspends-shutoffs-for-nonpayment",
-      "published": "2026-10-28T01:27:17Z",
-      "source": "Los Angeles Times",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:40:57Z",
-      "category": "Other"
-    },
-    {
-      "headline": "9 men linked to Sinaloa Cartel arrested for train cargo theft in San Bernardino County",
-      "link": "https://www.nbclosangeles.com/news/local/sinaloa-cartel-train-cargo-theft-san-bernardino-county/3962530/",
-      "published": "2026-10-28T01:20:16Z",
-      "source": "NBC Los Angeles",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T23:32:51Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Dog rescue favored by celebrities is an 'illegal commercial enterprise,' L.A. claims",
-      "link": "https://www.latimes.com/california/story/2026-10-27/dog-rescue-favored-by-celebrities-is-illegal-commercial-enterprise-la-claims",
-      "published": "2026-10-28T01:11:54Z",
-      "source": "Los Angeles Times",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:40:57Z",
-      "category": "Other"
-    },
-    {
-      "headline": "LAPD officer arrested, accused of trying to meet up with minor for lewd purposes",
-      "link": "https://ktla.com/news/local-news/lapd-officer-vigilante-predator-group-arrest/",
-      "published": "2026-10-28T01:10:00Z",
-      "source": "KTLA",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:41:00Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Judge finds L.A.'s top federal prosecutor is unlawfully serving, bars him from two cases",
-      "link": "https://www.latimes.com/california/story/2026-10-27/judge-finds-l-a-s-top-federal-prosecutor-is-unlawfully-serving-bars-him-from-two-cases",
-      "published": "2026-10-28T01:08:23Z",
-      "source": "Los Angeles Times",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:40:57Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "LAPD officer arrested after dragging romantic partner into street at gunpoint, sources say",
-      "link": "https://www.latimes.com/california/story/2026-10-27/lapd-officer-arrested-dragging-wife-into-street-at-gunpoint",
-      "published": "2026-10-28T01:02:40Z",
-      "source": "Los Angeles Times",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:40:57Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Judge says Trump could disenfranchise voters in purge of noncitizens from election rolls",
-      "link": "https://laist.com/news/politics/judge-says-trump-could-disenfranchise-voters-in-purge-of-noncitizens-from-election-rolls",
-      "published": "2026-10-28T00:38:34Z",
-      "source": "LAist",
-      "area": "Los Angeles County",
-      "fetched_at": "2026-10-28T16:40:57Z",
-      "category": "Government & Politics",
       "local": true
     }
   ],
