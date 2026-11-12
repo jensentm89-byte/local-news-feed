@@ -1,11 +1,1334 @@
 {
-  "generated_at": "2026-11-12T01:47:08Z",
+  "generated_at": "2026-11-12T18:26:50Z",
   "name": "Portland, OR",
   "areas": [
     "Portland",
     "Vancouver & Clark County, WA"
   ],
   "articles": [
+    {
+      "headline": "Is Microsoft Outlook down? Thousands report issues with platform",
+      "link": "https://www.kgw.com/article/news/nation-world/is-microsoft-outlook-down-issues-reported-thursday/507-c4b3db9a-24e9-4c76-a414-28aa084c18f8",
+      "published": "2026-11-12T18:20:25Z",
+      "source": "KGW",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:06Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "5 people shot in DC, including 1 killed at a gym; suspect dead",
+      "link": "https://www.kgw.com/article/news/nation-world/washington-dc-shooting-logan-circle-capital/507-cba74c75-2a6d-4801-bce3-80f69af17cb6",
+      "published": "2026-11-12T18:20:23Z",
+      "source": "KGW",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:06Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Ninja Crispi just hit a record-low price at Walmart for Black Friday",
+      "link": "https://www.oregonlive.com/shopping-deals/2026/11/ninja-crispi-just-hit-a-record-low-price-at-walmart-for-black-friday.html",
+      "published": "2026-11-12T18:19:56Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "POP QUIZ PDX: What’s Inside YOUR Toilet?",
+      "link": "https://www.portlandmercury.com/pop-quiz-pdx/pop-quiz-pdx-whats-inside-your-toilet/",
+      "published": "2026-11-12T18:02:04Z",
+      "source": "Portland Mercury",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:05Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Death Notices for Nov. 12, 2026",
+      "link": "https://www.columbian.com/news/2026/nov/12/death-notices-for-nov-12-2026/",
+      "published": "2026-11-12T18:00:22Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:10Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Black Friday scams to watch for and how to avoid them",
+      "link": "https://www.kptv.com/2026/11/12/black-friday-scams-watch-how-avoid-them/",
+      "published": "2026-11-12T18:00:00Z",
+      "source": "FOX 12 Oregon",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:07Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Coach Bella leather shoulder bag gets rare 40% off in viral Macy’s Black Friday deal",
+      "link": "https://www.oregonlive.com/shopping-deals/2026/11/coach-bella-leather-shoulder-bag-gets-rare-40-off-in-viral-macys-black-friday-deal.html",
+      "published": "2026-11-12T17:57:14Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Legendary actor’s widow shares emotional tribute after his death: ‘He changed me for the better’",
+      "link": "https://www.oregonlive.com/trending/2026/11/legendary-actors-widow-shares-emotional-tribute-after-his-death-he-changed-me-for-the-better.html",
+      "published": "2026-11-12T17:50:28Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Kennedy Center plans Ticketmaster switch, raising conflict of interest concerns",
+      "link": "https://www.opb.org/article/2026/11/12/kennedy-center-plans-to-use-ticketmaster-raising-conflict-of-interest-concerns/",
+      "published": "2026-11-12T17:50:00Z",
+      "source": "OPB",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "More than 265K tabletop fire pits recalled following reports of burn injuries",
+      "link": "https://www.kgw.com/article/news/nation-world/tabletop-fire-pits-recalled-sharper-image-branded/507-b68d3c90-0a95-49c6-8d07-26d72c3265db",
+      "published": "2026-11-12T17:47:22Z",
+      "source": "KGW",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:06Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Vancouver City Council poised to fire City Manager Lon Pluckhahn",
+      "link": "https://www.columbian.com/news/2026/nov/12/vancouver-city-council-poised-to-fire-city-manager-lon-pluckhahn/",
+      "published": "2026-11-12T17:47:02Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:10Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Aging Untold: The rules of texting and social media keep changing",
+      "link": "https://www.kptv.com/2026/11/12/aging-untold-rules-texting-social-media-keep-changing/",
+      "published": "2026-11-12T17:46:22Z",
+      "source": "FOX 12 Oregon",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:07Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "NFL Kalshi promo code “OREGONLIVE55” launches $55 bonus for Thursday Night Football",
+      "link": "https://www.oregonlive.com/betting/2026/11/nfl-kalshi-promo-code-oregonlive55-launches-55-bonus-for-thursday-night-football.html",
+      "published": "2026-11-12T17:45:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "NFL Polymarket promo code “OREGON” launches $25 bonus for Thursday Night Football",
+      "link": "https://www.oregonlive.com/betting/2026/11/nfl-polymarket-promo-code-oregon-launches-25-bonus-for-thursday-night-football.html",
+      "published": "2026-11-12T17:45:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "U.S. Mint releases two silver dollars for America’s 250th anniversary",
+      "link": "https://www.oregonlive.com/nation/2026/11/us-mint-releases-two-silver-dollars-for-americas-250th-anniversary.html",
+      "published": "2026-11-12T17:35:25Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Mortgage rates fall in fourth straight weekly decline",
+      "link": "https://www.oregonlive.com/realestate-news/2026/11/mortgage-rates-fall-in-fourth-straight-weekly-decline.html",
+      "published": "2026-11-12T17:34:29Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Development & Housing",
+      "local": true
+    },
+    {
+      "headline": "MSC Cruises is fighting a $1.8B U.S. lawsuit over trade secrets abroad",
+      "link": "https://www.oregonlive.com/nation/2026/11/msc-cruises-is-fighting-a-18b-us-lawsuit-over-trade-secrets-abroad.html",
+      "published": "2026-11-12T17:32:24Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Dan Hicks, who called memorable moments across sports world for NBC, dies at 64",
+      "link": "https://www.columbian.com/news/2026/nov/12/dan-hicks-who-called-memorable-moments-across-sports-world-for-nbc-dies-at-64/",
+      "published": "2026-11-12T17:28:04Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:10Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "'A daily insult': Long fight to remove Andrew Jackson's name from Portland street nears finish line",
+      "link": "https://www.oregonlive.com/native-american-news/2026/11/portland-set-to-remove-andrew-jacksons-name-from-downtown-street.html",
+      "published": "2026-11-12T17:20:29Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Walmart+ members get early access to Black Friday Ninja deals",
+      "link": "https://www.oregonlive.com/shopping-deals/2026/11/walmart-members-can-shop-black-friday-deals-today-ninja-air-fryers-blenders-and-more-up-to-100-off.html",
+      "published": "2026-11-12T17:16:42Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "How continuity up front has fueled Oregon's offensive resurgence",
+      "link": "https://www.oregonlive.com/ducks/2026/11/cookies-continuity-and-clean-pockets-oregons-offensive-line-makes-tremendous-leap.html",
+      "published": "2026-11-12T17:12:17Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Walmart’s exclusive Black Friday deal on this 50″ VIZIO 4K QLED TV is Santa-approved at just $128",
+      "link": "https://www.oregonlive.com/shopping-deals/2026/11/walmarts-exclusive-black-friday-deal-on-this-50-vizio-4k-qled-tv-is-santa-approved-at-just-128.html",
+      "published": "2026-11-12T17:10:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Stephen Curry injury update: Warriors announce MRI results",
+      "link": "https://www.oregonlive.com/trending/2026/11/stephen-curry-injury-update-warriors-announce-mri-results.html",
+      "published": "2026-11-12T17:08:49Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Good Morning, News: Nvidia CEO Jensen Huang Resigns, Portland Police Arrest Alleged Miniature Horse Figurine Thief, and the Mercury‘s Holiday Issue Is Here!",
+      "link": "https://www.portlandmercury.com/good-morning-news/good-morning-news-nvidia-ceo-jensen-huang-resigns-portland-police-arrest-alleged-miniature-horse-figurine-thief-and-the-mercurys-holiday-issue-is-here/",
+      "published": "2026-11-12T17:06:58Z",
+      "source": "Portland Mercury",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:05Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Amazon’s lowest price on Shark’s exclusive Copper FlexStyle is an early Black Friday steal",
+      "link": "https://www.oregonlive.com/shopping-deals/2026/11/amazons-lowest-price-on-sharks-exclusive-copper-flexstyle-is-an-early-black-friday-steal.html",
+      "published": "2026-11-12T17:05:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "In narrow Washington Supreme Court race, King County judge declares victory",
+      "link": "https://www.columbian.com/news/2026/nov/12/in-narrow-washington-supreme-court-race-king-county-judge-declares-victory/",
+      "published": "2026-11-12T16:59:55Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:10Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Coachella 2027 lineup and how you can get sold out general passes today",
+      "link": "https://www.oregonlive.com/live-entertainment/2026/11/coachella-2027-lineup-and-how-you-can-get-sold-out-general-passes-today.html",
+      "published": "2026-11-12T16:56:55Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Marshmallow cold foam is Starbucks' big holiday move this year — here's what's new",
+      "link": "https://www.oregonlive.com/trending/2026/11/heres-everything-new-on-the-starbucks-holiday-menu-coming-this-december-and-they-look-incredible.html",
+      "published": "2026-11-12T16:50:39Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "One man’s search for a hiking partner became a 5,000-member group honoring history",
+      "link": "https://www.kptv.com/2026/11/12/one-mans-search-hiking-partner-became-5000-member-group-honoring-history/",
+      "published": "2026-11-12T16:50:22Z",
+      "source": "FOX 12 Oregon",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:07Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself",
+      "link": "https://www.opb.org/article/2026/11/12/washington-dc-5-people-are-shot-trendy-logan-circle-neighborhood/",
+      "published": "2026-11-12T16:50:08Z",
+      "source": "OPB",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Dan Hicks called sports’ biggest moments. Tributes reveal the man behind them",
+      "link": "https://www.oregonlive.com/trending/2026/11/sports-world-mourns-dan-hicks-remembering-the-man-behind-the-famous-voice.html",
+      "published": "2026-11-12T16:47:21Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Senators don't always share bill text online before votes. They should, advocates say",
+      "link": "https://www.opb.org/article/2026/11/12/what-s-behind-a-push-for-senators-to-share-bill-text-early/",
+      "published": "2026-11-12T16:46:42Z",
+      "source": "OPB",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "At least 23 states considered laws governing ICE and schools this year",
+      "link": "https://www.opb.org/article/2026/11/12/at-least-23-states-weighed-laws-around-ice-and-schools-this-year/",
+      "published": "2026-11-12T16:44:54Z",
+      "source": "OPB",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Education",
+      "local": true
+    },
+    {
+      "headline": "Sweeps slots: 4 new titles our team is backing heading into the weekend",
+      "link": "https://www.oregonlive.com/sweepstakes/2026/11/sweeps-slots-4-new-titles-our-team-is-backing-heading-into-the-weekend.html",
+      "published": "2026-11-12T16:42:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Starbucks just introduced a Holiday Pup Cup — yes, it's for your dog",
+      "link": "https://www.oregonlive.com/trending/2026/11/the-nostalgic-detail-hidden-in-starbucks-new-holiday-cups-that-has-everyone-talking.html",
+      "published": "2026-11-12T16:39:03Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Legendary actress once used a bucket to pee on sitcom set, co-star says",
+      "link": "https://www.oregonlive.com/trending/2026/11/legendary-actress-once-used-a-bucket-to-pee-on-sitcom-set-co-star-says.html",
+      "published": "2026-11-12T16:38:26Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Ford recalls 8,650 trucks over possible loss of drive power, electrical issues",
+      "link": "https://www.oregonlive.com/nation/2026/11/ford-recalls-8650-trucks-over-possible-loss-of-drive-power-electrical-issues.html",
+      "published": "2026-11-12T16:30:47Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "New poll shows majority of Republicans don’t want these 2028 contenders to run",
+      "link": "https://www.oregonlive.com/politics/2026/11/new-poll-shows-majority-of-republicans-dont-want-these-2028-contenders-to-run.html",
+      "published": "2026-11-12T16:28:16Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Test of national emergency alert system is next week: Why your cell phone won’t alert you",
+      "link": "https://www.oregonlive.com/nation/2026/11/massive-test-of-national-emergency-alert-system-is-next-week-why-your-cell-phone-wont-alert-you.html",
+      "published": "2026-11-12T16:25:54Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "House Democrats explain why they missed key Hegseth impeachment vote",
+      "link": "https://www.kgw.com/article/news/nation-world/house-democrats-explain-missed-hegseth-impeachment-vote/507-48d3e5c9-812c-45c7-b288-32657d4971e6",
+      "published": "2026-11-12T16:24:47Z",
+      "source": "KGW",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:06Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Music legend plans to go ‘off the grid’ after 4 decades in the industry",
+      "link": "https://www.oregonlive.com/trending/2026/11/hip-hop-legend-announces-plans-to-step-away-from-music-after-40-years.html",
+      "published": "2026-11-12T16:21:18Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "New screening guidelines issued for prostate cancer, including regular testing for older men",
+      "link": "https://www.kgw.com/article/news/nation-world/prostate-cancer-new-screening-guidelines-updated/507-a54fe247-5dfb-49db-9b57-8753cdf1d7f4",
+      "published": "2026-11-12T16:17:29Z",
+      "source": "KGW",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:06Z",
+      "category": "Health",
+      "local": true
+    },
+    {
+      "headline": "Actor gives health update after being rushed to hospital",
+      "link": "https://www.oregonlive.com/trending/2026/11/actor-gives-health-update-after-being-rushed-to-hospital.html",
+      "published": "2026-11-12T16:07:26Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Health",
+      "local": true
+    },
+    {
+      "headline": "It’s your move: Giant chess set invites players in downtown Camas",
+      "link": "https://www.camaspostrecord.com/news/2026/nov/12/its-your-move-giant-chess-set-invites-players-in-downtown-camas/",
+      "published": "2026-11-12T16:05:23Z",
+      "source": "Camas-Washougal Post-Record",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:09Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Deadline looms for post-9/11 FirstNet reauthorization",
+      "link": "https://www.columbian.com/news/2026/nov/12/deadline-looms-for-post-9-11-firstnet-reauthorization/",
+      "published": "2026-11-12T16:05:17Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:10Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Empowered environment at Sanctuary Color Arts Studio in Camas",
+      "link": "https://www.camaspostrecord.com/news/2026/nov/12/empowered-environment-at-sanctuary-color-arts-studio-in-camas/",
+      "published": "2026-11-12T16:04:57Z",
+      "source": "Camas-Washougal Post-Record",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:09Z",
+      "category": "Business"
+    },
+    {
+      "headline": "Washougal couple accused of abusing teenager",
+      "link": "https://www.camaspostrecord.com/news/2026/nov/12/washougal-couple-accused-of-abusing-teenager/",
+      "published": "2026-11-12T16:04:50Z",
+      "source": "Camas-Washougal Post-Record",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:09Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Veterans prove key Rep. Marie Gluesenkamp Perez coalition",
+      "link": "https://www.camaspostrecord.com/news/2026/nov/12/veterans-prove-key-rep-marie-gluesenkamp-perez-coalition/",
+      "published": "2026-11-12T16:04:07Z",
+      "source": "Camas-Washougal Post-Record",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:09Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Hometown Holidays returns to Downtown Camas",
+      "link": "https://www.camaspostrecord.com/news/2026/nov/12/hometown-holidays-returns-to-downtown-camas/",
+      "published": "2026-11-12T16:03:48Z",
+      "source": "Camas-Washougal Post-Record",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:09Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Camas increases in multiple categories on community survey",
+      "link": "https://www.camaspostrecord.com/news/2026/nov/12/camas-increases-in-multiple-categories-on-community-survey/",
+      "published": "2026-11-12T16:03:47Z",
+      "source": "Camas-Washougal Post-Record",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:09Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Clark County advisory council members question role in light of Public Health leadership change",
+      "link": "https://www.camaspostrecord.com/news/2026/nov/12/clark-county-advisory-council-members-question-role-in-light-of-public-health-leadership-change/",
+      "published": "2026-11-12T16:03:42Z",
+      "source": "Camas-Washougal Post-Record",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:09Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "8 of 9 county charter amendments approved",
+      "link": "https://www.camaspostrecord.com/news/2026/nov/12/8-of-9-county-charter-amendments-approved/",
+      "published": "2026-11-12T16:03:31Z",
+      "source": "Camas-Washougal Post-Record",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:09Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Camas girls lacrosse hires new coach",
+      "link": "https://www.camaspostrecord.com/news/2026/nov/12/camas-girls-lacrosse-hires-new-coach/",
+      "published": "2026-11-12T16:03:30Z",
+      "source": "Camas-Washougal Post-Record",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:09Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "Washougal, Camas fall in football bids",
+      "link": "https://www.camaspostrecord.com/news/2026/nov/12/washougal-camas-fall-in-football-bids/",
+      "published": "2026-11-12T16:03:20Z",
+      "source": "Camas-Washougal Post-Record",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:09Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "Longtime NBC Sports announcer Dan Hicks dies at 64",
+      "link": "https://www.kgw.com/article/news/nation-world/nbc-sports-commentator-dan-hicks-death-sportscenter-anchor-hannah-storm/507-5504ebfe-05d4-425f-be73-34f94e0a3573",
+      "published": "2026-11-12T16:01:57Z",
+      "source": "KGW",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:06Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "He left a secretive religious sect. Now he hopes he’s found a way to reach the loved ones who shunned him",
+      "link": "https://www.oregonlive.com/clackamascounty/2026/11/he-left-a-secretive-religious-sect-now-he-hopes-hes-found-a-way-to-reach-the-loved-ones-who-shunned-him.html",
+      "published": "2026-11-12T16:00:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Dear Annie: How do I keep cousin from bringing kid to my wedding without ruining our relationship?",
+      "link": "https://www.oregonlive.com/advice/2026/11/dear-annie-how-do-i-keep-cousin-from-bringing-kid-to-my-wedding-without-ruining-our-relationship.html",
+      "published": "2026-11-12T16:00:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Rush adds 5 new Sphere residency dates: How to get tickets before they sell out",
+      "link": "https://www.oregonlive.com/live-entertainment/2026/11/rush-adds-5-new-sphere-residency-dates-how-to-get-tickets-before-they-sell-out.html",
+      "published": "2026-11-12T16:00:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "'Despicable': Washington senator raises concerns after Tacoma ICE facility extends contract",
+      "link": "https://www.koin.com/news/washington/despicable-washington-senator-raises-concerns-after-tacoma-ice-facility-extends-contract/",
+      "published": "2026-11-12T16:00:00Z",
+      "source": "KOIN 6",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:07Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Nvidia shares plunge, shaking up tech stocks",
+      "link": "https://www.columbian.com/news/2026/nov/12/nvidia-shares-plunge-shaking-up-tech-stocks/",
+      "published": "2026-11-12T15:52:33Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:10Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Over 820 flights delayed, 65 canceled amid widespread U.S. travel disruptions",
+      "link": "https://www.oregonlive.com/nation/2026/11/over-820-flights-delayed-65-canceled-amid-widespread-us-travel-disruptions.html",
+      "published": "2026-11-12T15:51:39Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Boeing retirees ‘shocked’ by 400% jump in health insurance premiums",
+      "link": "https://www.columbian.com/news/2026/nov/12/boeing-retirees-shocked-by-400-jump-in-health-insurance-premiums/",
+      "published": "2026-11-12T15:50:21Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:10Z",
+      "category": "Health",
+      "local": true
+    },
+    {
+      "headline": "‘Yes, Dear’ star Anthony Clark dies at 62, co-star announces",
+      "link": "https://www.kptv.com/2026/11/12/yes-dear-star-anthony-clark-dies-62-co-star-announces/",
+      "published": "2026-11-12T15:49:52Z",
+      "source": "FOX 12 Oregon",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:07Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "‘Mormon Wives’ star reveals daughter's terminal diagnosis after years of silence",
+      "link": "https://www.oregonlive.com/trending/2026/11/reality-tv-star-reveals-young-daughters-terminal-cancer-diagnosis.html",
+      "published": "2026-11-12T15:44:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Legendary sports broadcaster dies unexpectedly: ‘Loss is immeasurable’",
+      "link": "https://www.oregonlive.com/trending/2026/11/legendary-sports-broadcaster-dies-unexpectedly-loss-is-immeasurable.html",
+      "published": "2026-11-12T15:35:39Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "13-year-old stars in ‘Annie’ on Gladstone stage",
+      "link": "https://www.oregonlive.com/clackamascounty/2026/11/this-13-year-old-from-oregon-city-just-landed-one-of-the-most-iconic-roles-in-musical-theater.html",
+      "published": "2026-11-12T15:30:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Tigard's new affordable housing complex offers more than just a roof — here's what sets it apart",
+      "link": "https://www.oregonlive.com/washingtoncounty/2026/11/92-of-residents-in-housing-like-this-stayed-stably-housed-heres-how-tigard-is-replicating-that-model.html",
+      "published": "2026-11-12T15:30:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Development & Housing",
+      "local": true
+    },
+    {
+      "headline": "OPB’s First Look: Silver Rail reopens",
+      "link": "https://www.opb.org/article/2026/11/12/silver-rail-bend-school-reopen-first-look/",
+      "published": "2026-11-12T15:30:00Z",
+      "source": "OPB",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Pat McAfee’s ESPN2 show grew, but there’s one problem",
+      "link": "https://www.oregonlive.com/trending/2026/11/pat-mcafee-got-a-ratings-surprise-during-monday-night-football.html",
+      "published": "2026-11-12T15:20:10Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "DOGE cuts cost tribes $470M, gutting funding for climate projects",
+      "link": "https://www.oregonlive.com/native-american-news/2026/11/doge-cuts-cost-tribes-470m-gutting-funding-for-climate-projects.html",
+      "published": "2026-11-12T15:19:15Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Jensen Huang is out at Nvidia after 33 years. What happens next?",
+      "link": "https://www.oregonlive.com/nation/2026/11/nvidia-ceo-jensen-huang-suddenly-resigns-heres-who-is-taking-over.html",
+      "published": "2026-11-12T15:01:24Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Students return to Silver Rail for first day back since deadly shooting",
+      "link": "https://www.koin.com/news/oregon/students-return-to-silver-rail-for-first-day-since-deadly-shooting/",
+      "published": "2026-11-12T15:00:30Z",
+      "source": "KOIN 6",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:07Z",
+      "category": "Education"
+    },
+    {
+      "headline": "Dear Doctor: ED medication's surprising side effect explained",
+      "link": "https://www.oregonlive.com/advice/2026/11/dear-doctor-i-took-medication-for-ed-and-developed-severe-pain-is-that-normal.html",
+      "published": "2026-11-12T15:00:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Health",
+      "local": true
+    },
+    {
+      "headline": "A Big One nightmare scenario drives Portland to cut fuel storage along the Willamette",
+      "link": "https://www.oregonlive.com/politics/2026/11/a-big-one-nightmare-scenario-drives-portland-to-cut-fuel-storage-along-the-willamette.html",
+      "published": "2026-11-12T15:00:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "How our guide to Portland's best restaurants came together",
+      "link": "https://www.oregonlive.com/dining/2026/11/how-the-oregonianoregonlives-new-guide-to-portlands-best-restaurants-came-together.html",
+      "published": "2026-11-12T14:58:46Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Attorney says Oregon has no specific law to charge parent in Silver Rail shooting",
+      "link": "https://www.kptv.com/2026/11/12/attorney-says-oregon-has-no-specific-law-charge-parent-silver-rail-shooting/",
+      "published": "2026-11-12T14:54:42Z",
+      "source": "FOX 12 Oregon",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:07Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "'Below Deck' star arrested in Turkey after teenager dies following a fight",
+      "link": "https://www.kgw.com/article/news/nation-world/below-deck-star-joao-franco-arrested-turkey-fight/507-fc5c80e4-6d30-41f2-9d84-7e61e21d990c",
+      "published": "2026-11-12T14:51:49Z",
+      "source": "KGW",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:06Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Discover boot season at Shoe Mill",
+      "link": "https://www.kptv.com/2026/11/12/discover-boot-season-shoe-mill/",
+      "published": "2026-11-12T14:35:25Z",
+      "source": "FOX 12 Oregon",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:07Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Nvidia CEO Jensen Huang resigns after his affair raises national security concerns",
+      "link": "https://www.opb.org/article/2026/11/12/nvidia-ceo-jensen-huang-resigns-after-his-affair-raises-national-security-concerns/",
+      "published": "2026-11-12T14:32:49Z",
+      "source": "OPB",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "In Bend, focus on community and support as Silver Rail reopens",
+      "link": "https://www.opb.org/article/2026/11/12/silver-rail-reopen-bend-oregon/",
+      "published": "2026-11-12T14:32:02Z",
+      "source": "OPB",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "The rules of texting and social media keep changing — what older adults should know",
+      "link": "https://www.kptv.com/2026/11/12/rules-texting-social-media-keep-changing-what-older-adults-should-know/",
+      "published": "2026-11-12T14:29:33Z",
+      "source": "FOX 12 Oregon",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:07Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Cloudy, dry skies last one more day in Portland",
+      "link": "https://www.koin.com/weather/cloudy-dry-skies-last-one-more-day-in-portland/",
+      "published": "2026-11-12T14:27:59Z",
+      "source": "KOIN 6",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:07Z",
+      "category": "Weather"
+    },
+    {
+      "headline": "Vancouver’s Veterans Day parade brings community together, recognizes 2 living WWII vets",
+      "link": "https://www.kptv.com/2026/11/12/vancouvers-veterans-day-parade-brings-community-together-recognizes-2-living-wwii-vets/",
+      "published": "2026-11-12T14:26:35Z",
+      "source": "FOX 12 Oregon",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:07Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Divorce coaches provide guidance to individuals and couples to make divorces less grueling",
+      "link": "https://www.opb.org/article/2026/11/12/think-out-loud-divorce-coaches-provide-guidance/",
+      "published": "2026-11-12T14:19:42Z",
+      "source": "OPB",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "‘OPB Politics Now’: The life and legacy of an Oregon political legend you may not know",
+      "link": "https://www.opb.org/article/2026/11/12/opb-politics-now-richard-neuberger-life-legacy-oregon-political-legend/",
+      "published": "2026-11-12T14:15:06Z",
+      "source": "OPB",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Try This: ilani holiday festival; Bricktastic!; Gothic Market; ‘Glass Menagerie’; Mason bees",
+      "link": "https://www.columbian.com/news/2026/nov/12/try-this-ilani-holiday-festival-bricktastic-gothic-market-glass-menagerie-mason-bees/",
+      "published": "2026-11-12T14:06:24Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:10Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Varsity360 podcast: Looking ahead to an exciting slate of state first round football games",
+      "link": "https://www.columbian.com/news/2026/nov/12/varsity360-podcast-looking-ahead-to-an-exciting-slate-of-state-first-round-football-games/",
+      "published": "2026-11-12T14:05:47Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:10Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Trail Blazers sweep the Thunder with a 118-108 win",
+      "link": "https://www.opb.org/article/2026/11/12/trail-blazers-sweep-the-thunder-with-a-118-108-win/",
+      "published": "2026-11-12T14:04:36Z",
+      "source": "OPB",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "In Our View: Rolling back tariffs will aid Wash. – and America",
+      "link": "https://www.columbian.com/news/2026/nov/12/in-our-view-rolling-back-tariffs-will-aid-wash-and-america/",
+      "published": "2026-11-12T14:03:44Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:10Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Weather Eye: Repeated rounds of rainfall, breezy conditions on way",
+      "link": "https://www.columbian.com/news/2026/nov/12/weather-eye-repeated-rounds-of-rainfall-breezy-conditions-on-way/",
+      "published": "2026-11-12T14:03:21Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:10Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "Dudley: Trust in media rebounds",
+      "link": "https://www.columbian.com/news/2026/nov/12/dudley-trust-in-media-rebounds/",
+      "published": "2026-11-12T14:01:47Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:10Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Letter: Cricket area nice, not necessary",
+      "link": "https://www.columbian.com/news/2026/nov/12/letter-cricket-area-nice-not-necessary/",
+      "published": "2026-11-12T14:00:39Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:10Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Letter: Battle Ground doesn’t plan ahead",
+      "link": "https://www.columbian.com/news/2026/nov/12/letter-battle-ground-doesnt-plan-ahead/",
+      "published": "2026-11-12T14:00:28Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:10Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Letter: Small towns don’t feel inclusive",
+      "link": "https://www.columbian.com/news/2026/nov/12/letter-small-towns-dont-feel-inclusive/",
+      "published": "2026-11-12T14:00:20Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:10Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Clark Conservation District set to charge fees for its services",
+      "link": "https://www.columbian.com/news/2026/nov/12/clark-conservation-district-set-to-charge-fees-for-its-services/",
+      "published": "2026-11-12T14:00:15Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:10Z",
+      "category": "Education",
+      "local": true
+    },
+    {
+      "headline": "What a ‘very strong El Niño’ could mean for flooding in Oregon",
+      "link": "https://www.opb.org/article/2026/11/12/weather-oregon-super-el-nino-flooding-rain/",
+      "published": "2026-11-12T14:00:00Z",
+      "source": "OPB",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "Landblubber newsman: Portland newscaster reflects on viral ‘exploding whale’ story",
+      "link": "https://www.opb.org/article/2026/11/12/portland-newscaster-reflects-on-viral-exploding-whale-story/",
+      "published": "2026-11-12T14:00:00Z",
+      "source": "OPB",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Hear from a couple of Oregon’s new Gen Z mayors",
+      "link": "https://www.opb.org/article/2026/11/12/hear-from-a-couple-of-oregon-new-gen-z-mayors/",
+      "published": "2026-11-12T14:00:00Z",
+      "source": "OPB",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Portland hopes Waterfront Park design competition will rejuvenate downtown",
+      "link": "https://www.opb.org/article/2026/11/12/portland-waterfront-park-design-competition/",
+      "published": "2026-11-12T14:00:00Z",
+      "source": "OPB",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Sick Hanford workers fighting DOE denials of compensation claims",
+      "link": "https://www.opb.org/article/2026/11/12/sick-hanford-workers-fighting-doe-denials-of-compensation-claims/",
+      "published": "2026-11-12T14:00:00Z",
+      "source": "OPB",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Nvidia CEO Jensen Huang resigns after his extramarital affair raises national security concerns",
+      "link": "https://www.kgw.com/article/news/nation-world/nvidia-ceo-jensen-huang-resigns-affair-chinese-spy/507-75f24571-068d-44a8-8f59-48dde11404a0",
+      "published": "2026-11-12T13:59:52Z",
+      "source": "KGW",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:06Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Rain and wind follow today’s mild break",
+      "link": "https://www.kptv.com/2026/11/12/rain-wind-follow-todays-mild-break/",
+      "published": "2026-11-12T13:49:02Z",
+      "source": "FOX 12 Oregon",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:07Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "This week in Clark County history for Nov. 13, 2026",
+      "link": "https://www.columbian.com/news/2026/nov/12/this-week-in-clark-county-history-for-nov-13-2026/",
+      "published": "2026-11-12T13:43:15Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:10Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "A Public Finance Expert Considers the Way Forward for Oregon After the Nov. 3 Blue Wave",
+      "link": "https://www.wweek.com/news/state/2026/11/12/a-public-finance-expert-considers-the-way-forward-for-oregon-after-the-nov-3-blue-wave/",
+      "published": "2026-11-12T13:33:00Z",
+      "source": "Willamette Week",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Nvidia CEO Jensen Huang resigns after his extramarital affair raises national security concerns",
+      "link": "https://www.kgw.com/article/news/nation-world/jensen-huang-nvidia-ceo/507-4ffed10f-5a9b-4ba3-846c-0cedb3163359",
+      "published": "2026-11-12T13:17:16Z",
+      "source": "KGW",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:06Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "'I feel blindsided': North Portland neighborhood holds vigil for 100-year-old tree slated for removal",
+      "link": "https://www.kgw.com/article/news/community/north-portland-neighborhood-holds-vigil-for-100-year-old-tree-slated-for-removal/283-be310f64-0f4e-44cf-87b4-c9ccd11a5aef",
+      "published": "2026-11-12T13:11:26Z",
+      "source": "KGW",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:06Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "InvestigateTV+: Printers carry hacker risks",
+      "link": "https://www.kptv.com/2026/11/12/investigatetv-printers-carry-hacker-risks/",
+      "published": "2026-11-12T13:07:10Z",
+      "source": "FOX 12 Oregon",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:07Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "It’s the Mercury 2026 Holiday Issue!",
+      "link": "https://www.portlandmercury.com/holiday-issue-2026/its-the-mercury-2026-holiday-issue/",
+      "published": "2026-11-12T12:00:00Z",
+      "source": "Portland Mercury",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:05Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "The Best Holiday Gifts In the World (According to the Portland Mercury)!",
+      "link": "https://www.portlandmercury.com/holiday-issue-2026/the-best-holiday-gifts-in-the-world-according-to-the-portland-mercury/",
+      "published": "2026-11-12T11:58:00Z",
+      "source": "Portland Mercury",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:05Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Portland’s Best Cozy Bars for the Winter",
+      "link": "https://www.portlandmercury.com/holiday-issue-2026/portlands-best-cozy-bars-for-the-winter/",
+      "published": "2026-11-12T11:56:00Z",
+      "source": "Portland Mercury",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:05Z",
+      "category": "Other"
+    },
+    {
+      "headline": "All I Want for Christmas Is To Play Mahjong",
+      "link": "https://www.portlandmercury.com/holiday-issue-2026/all-i-want-for-christmas-is-to-play-mahjong/",
+      "published": "2026-11-12T11:55:00Z",
+      "source": "Portland Mercury",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:05Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "A Holiday Survival Guide (for the End Times)",
+      "link": "https://www.portlandmercury.com/holiday-issue-2026/a-holiday-survival-guide-for-the-end-times/",
+      "published": "2026-11-12T11:54:00Z",
+      "source": "Portland Mercury",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:05Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "The 10 Legs of Crabmas",
+      "link": "https://www.portlandmercury.com/holiday-issue-2026/the-10-legs-of-crabmas/",
+      "published": "2026-11-12T11:53:00Z",
+      "source": "Portland Mercury",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:05Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "THE BLACK BYLINE: Damario Solomon-Simmons on the Tulsa Massacre and the Future of Reparations Nationwide",
+      "link": "https://www.portlandmercury.com/the-black-byline/the-black-byline-damario-solomon-simmons-on-the-tulsa-massacre-and-the-future-of-reparations-nationwide/",
+      "published": "2026-11-12T11:50:00Z",
+      "source": "Portland Mercury",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:05Z",
+      "category": "Other"
+    },
+    {
+      "headline": "In Other News",
+      "link": "https://www.portlandmercury.com/holiday-issue-2026/in-other-news/",
+      "published": "2026-11-12T11:49:00Z",
+      "source": "Portland Mercury",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:05Z",
+      "category": "Other"
+    },
+    {
+      "headline": "'The Lord of the Rings: The Rings of Power' actors preview Season 3 of prequel series",
+      "link": "https://www.kgw.com/article/entertainment/in-the-spotlight/the-lord-of-the-rings-the-rings-of-power-cynthia-addai-robinson-benjamin-walker-season-3-prequel-interview-prime-video/507-4a9b09fb-aef8-4277-a98c-17d0bedb9d7a",
+      "published": "2026-11-12T11:32:51Z",
+      "source": "KGW",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:06Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "14-year-old volleyball player loses part of her leg after collapsing during practice",
+      "link": "https://www.kptv.com/2026/11/12/14-year-old-volleyball-player-loses-part-her-leg-after-collapsing-during-practice/",
+      "published": "2026-11-12T11:04:50Z",
+      "source": "FOX 12 Oregon",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:07Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Nvidia vice president backs out of DC healthcare summit following CEO Jensen Huang affair reports",
+      "link": "https://www.kgw.com/article/news/nation-world/nvidia-kimberly-powell-healthcare-dc-jensen-huang-affair/507-237b3523-ab20-4e87-af8f-642a63db7aa7",
+      "published": "2026-11-12T10:23:10Z",
+      "source": "KGW",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:06Z",
+      "category": "Health",
+      "local": true
+    },
+    {
+      "headline": "‘Help us’: Kids rescued after holding handwritten note against home’s window",
+      "link": "https://www.kptv.com/2026/11/12/help-us-kids-rescued-after-holding-handwritten-note-against-homes-window/",
+      "published": "2026-11-12T10:21:08Z",
+      "source": "FOX 12 Oregon",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:07Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Sisters give birth minutes apart, outdoing their other sisters who gave birth days apart",
+      "link": "https://www.kptv.com/2026/11/12/sisters-give-birth-minutes-apart-outdoing-their-other-sisters-who-gave-birth-days-apart/",
+      "published": "2026-11-12T08:43:16Z",
+      "source": "FOX 12 Oregon",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:07Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Lawsuit filed against Washington over voter-approved trans sports ban measure",
+      "link": "https://www.kptv.com/2026/11/12/lawsuit-filed-against-washington-over-voter-approved-trans-sports-ban-measure/",
+      "published": "2026-11-12T07:18:36Z",
+      "source": "FOX 12 Oregon",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:07Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Seton Catholic girls soccer team leans on its defense in a 1-0 win over Annie Wright",
+      "link": "https://www.columbian.com/news/2026/nov/11/seton-catholic-girls-soccer-team-leans-on-its-defense-in-a-1-0-win-over-annie-wright/",
+      "published": "2026-11-12T07:09:04Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:10Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Blazers beat Thunder back-to-back for best start to season in 30 years",
+      "link": "https://www.kptv.com/2026/11/12/blazers-beat-thunder-back-to-back-best-start-season-30-years/",
+      "published": "2026-11-12T07:06:52Z",
+      "source": "FOX 12 Oregon",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:07Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Columbia River opens 2A girls soccer state playoffs with 5-0 shutout of Othello",
+      "link": "https://www.columbian.com/news/2026/nov/11/columbia-river-opens-2a-girls-soccer-state-playoffs-with-5-0-shutout-of-othello/",
+      "published": "2026-11-12T06:40:44Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-12T18:24:10Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Silver Rail Elementary to reopen after deadly shooting with new wall, added security",
+      "link": "https://www.kgw.com/article/news/local/bend-school-shooting/silver-rail-elementary-reopening-new-wall-added-security-deady-shooting/283-2599a9dd-59b4-48b8-9016-9dc05ffd61a8",
+      "published": "2026-11-12T04:44:37Z",
+      "source": "KGW",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:06Z",
+      "category": "Education",
+      "local": true
+    },
+    {
+      "headline": "'You can't replace this': Portland neighbors hold candlelight vigil for century old Redwood",
+      "link": "https://www.koin.com/news/portland/you-cant-replace-this-portland-neighbors-hold-candlelight-vigil-for-century-old-redwood/",
+      "published": "2026-11-12T04:36:17Z",
+      "source": "KOIN 6",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:07Z",
+      "category": "Other"
+    },
+    {
+      "headline": "5 years of fighting climate change haven't done much and stronger targets are needed, report says",
+      "link": "https://www.kgw.com/article/news/nation-world/fighting-climate-change-stronger-targets-needed-report-says/507-bbcfc284-d453-46b4-ba31-c7d882d0a6f4",
+      "published": "2026-11-12T03:38:38Z",
+      "source": "KGW",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:06Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Leaders of countries already hit hard by climate change tell UN summit that urgent action is needed",
+      "link": "https://www.kgw.com/article/syndication/associatedpress/5-years-of-fighting-climate-change-havent-done-much-and-stronger-targets-are-needed-report-says/616-7bb574a0-0b1f-4fe5-b892-98b452af1432",
+      "published": "2026-11-12T03:35:41Z",
+      "source": "KGW",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:06Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "'Something we don't know how to handle': Vancouver family grieves 3 people lost in Kansas City deadly crash",
+      "link": "https://www.koin.com/news/vancouver/something-we-dont-know-how-to-handle-vancouver-family-grieves-3-people-lost-in-kansas-city-deadly-crash/",
+      "published": "2026-11-12T03:17:45Z",
+      "source": "KOIN 6",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:07Z",
+      "category": "Traffic & Transit"
+    },
+    {
+      "headline": "City considers selling Southeast Portland property after multiple campsite removals",
+      "link": "https://www.kgw.com/article/news/local/homeless/se-portland-vacant-lot-homeless-camp-pbot-foster-henry-vote-sell/283-36501cbd-bc0e-45f3-9645-b948e8618492",
+      "published": "2026-11-12T02:50:11Z",
+      "source": "KGW",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:06Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Actor and stand-up comic Anthony Clark, star of 2000s sitcom 'Yes, Dear,' dies at 62",
+      "link": "https://www.kgw.com/article/news/nation-world/actor-anthony-clark-dies-yes-dear/507-dba64787-891b-466b-862d-4a55c62a5a56",
+      "published": "2026-11-12T02:38:04Z",
+      "source": "KGW",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:06Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "101-year-old WWII veteran recalls post-bombing Nagasaki experience on Veterans Day",
+      "link": "https://www.kgw.com/article/news/local/wwii-veteran-recalls-post-bombing-nagasaki-veterans-day/283-862864be-30ee-433d-9939-aa99992c3e7c",
+      "published": "2026-11-12T02:38:03Z",
+      "source": "KGW",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:06Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "'Lose Control' singer stops at Northwest Portland bar after Moda Center show",
+      "link": "https://www.koin.com/news/portland/lose-control-singer-stops-at-northwest-portland-bar-after-moda-center-show/",
+      "published": "2026-11-12T02:30:28Z",
+      "source": "KOIN 6",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:07Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Steve Callaway congratulates Kipperlyn Sinclair, ending close race for Washington County commissioner",
+      "link": "https://www.opb.org/article/2026/11/11/kipperlyn-sinclair-declares-victory-washington-county-oregon-commissioner/",
+      "published": "2026-11-12T02:11:31Z",
+      "source": "OPB",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:04Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Another Kaiser patient says Hillsboro doctor 'tortured' her by using rubbing alcohol instead of anesthesia",
+      "link": "https://www.koin.com/local/washington-county/another-kaiser-patient-says-hillsboro-doctor-tortured-her-by-using-rubbing-alcohol-instead-of-anesthesia/",
+      "published": "2026-11-12T01:50:37Z",
+      "source": "KOIN 6",
+      "area": "Portland",
+      "fetched_at": "2026-11-12T18:24:07Z",
+      "category": "Health"
+    },
     {
       "headline": "58,000 veterans inch closer to getting $17,400 more on average in benefits",
       "link": "https://www.oregonlive.com/nation/2026/11/58000-veterans-inch-closer-to-getting-17400-more-on-average-in-benefits-after-house-move.html",
@@ -26073,1467 +27396,6 @@
       "source": "The Columbian",
       "area": "Vancouver & Clark County, WA",
       "fetched_at": "2026-10-29T23:38:37Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Oregon State basketball picked to finish in middle of new Pac-12",
-      "link": "https://www.oregonlive.com/beavers/2026/10/oregon-state-basketball-picked-to-finish-in-middle-of-new-pac-12.html",
-      "published": "2026-10-29T18:20:41Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T23:38:31Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Three Rivers League volleyball: All-league teams, coach and player of the year",
-      "link": "https://www.oregonlive.com/highschoolsports/2026/10/three-rivers-league-volleyball-2026-all-league-teams-coach-and-player-of-the-year.html",
-      "published": "2026-10-29T18:10:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T23:38:31Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Prep Football 2026: Week 9 preview capsules with livestream links and predictions",
-      "link": "https://www.columbian.com/news/2026/oct/29/prep-football-2026-week-9-preview-capsules-with-livestream-links-and-predictions/",
-      "published": "2026-10-29T18:09:33Z",
-      "source": "The Columbian",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T23:38:37Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Trump rallygoer gives Fox News unexpected reason he showed up: 'Who is this legend?'",
-      "link": "https://www.oregonlive.com/politics/2026/10/trump-rallygoer-trolls-maga-with-unexpected-reason-for-attending-who-is-this-legend.html",
-      "published": "2026-10-29T18:08:09Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T23:38:31Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Hillsboro man wins $4.2M Megabucks jackpot",
-      "link": "https://www.oregonlive.com/washingtoncounty/2026/10/hillsboro-man-wins-oregon-megabucks-jackpot.html",
-      "published": "2026-10-29T18:07:54Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T23:38:31Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Bird flu spreads to Washington dairy farms",
-      "link": "https://www.opb.org/article/2026/10/29/washington-state-dairy-farms-bird-flu-spread/",
-      "published": "2026-10-29T18:07:35Z",
-      "source": "OPB",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T23:38:32Z",
-      "category": "Health",
-      "local": true
-    },
-    {
-      "headline": "Best Buy will match prices from 19 competitors — including Amazon and Walmart",
-      "link": "https://www.oregonlive.com/trending/2026/10/major-retailer-has-a-price-match-policy-that-could-save-you-serious-money-on-big-ticket-electronics.html",
-      "published": "2026-10-29T18:05:30Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T23:38:31Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "VA education benefits: when your November 2026 GI Bill payment arrives",
-      "link": "https://www.oregonlive.com/nation/2026/10/no-va-disability-payment-in-november-but-this-veterans-benefit-is-still-coming.html",
-      "published": "2026-10-29T18:04:27Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T23:38:31Z",
-      "category": "Education",
-      "local": true
-    },
-    {
-      "headline": "Después del tiroteo mortal, la primaria Silver Rail de Bend planea reabrir",
-      "link": "https://www.oregonlive.com/pacific-northwest-news/2026/10/despues-del-tiroteo-mortal-la-primaria-silver-rail-de-bend-planea-reabrir.html",
-      "published": "2026-10-29T18:00:45Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T23:38:31Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Bank asks people to, please, not share passwords with AI agents",
-      "link": "https://www.oregonlive.com/nation/2026/10/bank-asks-people-to-please-not-share-passwords-with-ai-agents.html",
-      "published": "2026-10-29T18:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T23:38:31Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "FREE TICKETS THURSDAY: Win Tix to Foy Vance, Tank and The Bangas, Soccer Mommy, and MORE!",
-      "link": "https://www.portlandmercury.com/free-tickets/free-tickets-thursday-win-tix-to-foy-vance-tank-and-the-bangas-soccer-mommy-and-more/",
-      "published": "2026-10-29T18:00:00Z",
-      "source": "Portland Mercury",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T23:38:32Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Nearly 6 million French press coffee makers under recall over burn risk",
-      "link": "https://www.kgw.com/article/news/nation-world/bodum-french-press-coffee-maker-recall/507-d4a7963b-c45e-4211-a0ee-4795c98f98a6",
-      "published": "2026-10-29T17:51:35Z",
-      "source": "KGW",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T23:38:33Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "Actress, 62, makes rare public appearance six years after near-fatal overdose, stroke",
-      "link": "https://www.oregonlive.com/trending/2026/10/actress-62-makes-rare-public-appearance-six-years-after-near-fatal-overdose-stroke.html",
-      "published": "2026-10-29T17:49:31Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T23:38:31Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "TV host kicks flying drone, sending it into model's face on air",
-      "link": "https://www.oregonlive.com/trending/2026/10/tv-host-kicks-drone-into-models-face-during-live-show.html",
-      "published": "2026-10-29T17:48:13Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T23:38:31Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Daily Dose: Medicare changes for 2027, spotting a stroke fast and why real pumpkin wins",
-      "link": "https://www.kgw.com/article/news/nation-world/daily-dose-medicare-changes-for-2027-spotting-a-stroke-fast-why-real-pumpkin-wins/507-9d05cb22-d6f9-474a-895f-d5366dd48a15",
-      "published": "2026-10-29T17:47:29Z",
-      "source": "KGW",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T23:38:33Z",
-      "category": "Health",
-      "local": true
-    },
-    {
-      "headline": "PPS evalúa nuevos límites de pantalla; padres quieren reglas más estrictas",
-      "link": "https://www.oregonlive.com/pacific-northwest-news/2026/10/pps-evalua-nuevos-limites-de-pantalla-padres-quieren-reglas-mas-estrictas.html",
-      "published": "2026-10-29T17:46:24Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T23:38:31Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "‘Wicked’ star Cynthia Erivo addresses criticism of Ariana Grande friendship",
-      "link": "https://www.oregonlive.com/trending/2026/10/wicked-star-cynthia-erivo-addresses-criticism-of-ariana-grande-friendship.html",
-      "published": "2026-10-29T17:41:45Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T23:38:31Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Lance Ebarb tapped to fill No. 3 position on La Center City Council",
-      "link": "https://www.columbian.com/news/2026/oct/29/lance-ebarb-tapped-to-fill-no-3-position-on-la-center-city-council/",
-      "published": "2026-10-29T17:35:30Z",
-      "source": "The Columbian",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T23:38:37Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "An NBA coach's $3.26M Oregon home just sold — see the pool, gym and more inside",
-      "link": "https://www.oregonlive.com/realestate/2026/10/see-the-jaw-dropping-wellness-amenities-inside-the-33m-oregon-home-an-nba-coach-just-sold.html",
-      "published": "2026-10-29T17:34:07Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T23:38:31Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "University of Oregon weighs eliminating some postgraduate programs",
-      "link": "https://www.opb.org/article/2026/10/29/university-oregon-weighs-eliminating-some-postgraduate-programs/",
-      "published": "2026-10-29T17:31:25Z",
-      "source": "OPB",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T23:38:32Z",
-      "category": "Education",
-      "local": true
-    },
-    {
-      "headline": "375,000 space heaters recalled because they could overheat and catch fire",
-      "link": "https://www.kgw.com/article/news/nation-world/375000-space-heaters-recalled/507-30dd0c79-f42c-4f51-99f1-00f54cb2a2ef",
-      "published": "2026-10-29T17:14:30Z",
-      "source": "KGW",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T23:38:33Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "Facebook to notify parents if teens 'repeatedly' search for terms related to suicide, self-harm",
-      "link": "https://www.kgw.com/article/news/nation-world/facebook-notify-parents-teens-repeatedly-search-suicide-self-harm-parental-supervision/507-a71cc1a5-8220-4314-94e5-b9b66cc425b5",
-      "published": "2026-10-29T17:07:10Z",
-      "source": "KGW",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T23:38:33Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Death Notices for Oct. 29, 2026",
-      "link": "https://www.columbian.com/news/2026/oct/29/death-notices-for-oct-29-2026/",
-      "published": "2026-10-29T17:00:56Z",
-      "source": "The Columbian",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T23:38:37Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "POP QUIZ PDX: Portland’s Very Haunted History!",
-      "link": "https://www.portlandmercury.com/pop-quiz-pdx/pop-quiz-pdx-portlands-very-haunted-history/",
-      "published": "2026-10-29T17:00:00Z",
-      "source": "Portland Mercury",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Oregon's Dan Lanning stopped practice this week to address the Ducks' mindset — here's what he said to his team",
-      "link": "https://www.oregonlive.com/ducks/2026/10/dan-lanning-gets-real-about-improving-oregons-mindset-we-just-dont-handle-adversity-well.html",
-      "published": "2026-10-29T16:50:49Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Amazon issues nationwide recall for 11K+ power banks linked to dozens of fires, property damage",
-      "link": "https://www.oregonlive.com/nation/2026/10/amazon-issues-nationwide-recall-for-11k-power-banks-linked-to-dozens-of-fires-property-damage.html",
-      "published": "2026-10-29T16:45:11Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "NFL Kalshi promo code “OREGONLIVE55” extends $55 bonus for Panthers-Packers Thursday Night Football",
-      "link": "https://www.oregonlive.com/betting/2026/10/nfl-kalshi-promo-code-oregonlive55-extends-55-bonus-for-panthers-packers-thursday-night-football.html",
-      "published": "2026-10-29T16:45:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "NFL Polymarket promo code “OREGON” reveals new $25 bonus for Panthers-Packers TNF",
-      "link": "https://www.oregonlive.com/betting/2026/10/nfl-polymarket-promo-code-oregon-extends-25-bonus-to-panthers-packers-on-thursday-night-football.html",
-      "published": "2026-10-29T16:45:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Man hospitalized after shooting in Southeast Portland",
-      "link": "https://www.kgw.com/article/news/crime/man-hospitalized-shooting-southeast-portland/283-8b1f01d7-36bf-4320-8cd9-cf4bd67becbd",
-      "published": "2026-10-29T16:32:36Z",
-      "source": "KGW",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Multnomah County’s largest public union declares ‘no confidence’ in top officials",
-      "link": "https://www.opb.org/article/2026/10/29/multnomah-county-public-union-declares-no-confidence-in-top-officials/",
-      "published": "2026-10-29T16:30:00Z",
-      "source": "OPB",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:53Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Good Morning, News: BLM Bat Beauty Contest Is Back, Clocks Change on Sunday, and UFW Co-Founder Dolores Huerta Has Died",
-      "link": "https://www.portlandmercury.com/good-morning-news/good-morning-news-blm-bat-beauty-contest-is-back-clocks-change-on-sunday-and-ufw-co-founder-dolores-huerta-has-died/",
-      "published": "2026-10-29T16:28:39Z",
-      "source": "Portland Mercury",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Electrical hazards closed Hwy 26 three times in one week: What gives?",
-      "link": "https://www.koin.com/news/portland/electrical-hazards-close-hwy-26-3-times-1-week-what-to-know/",
-      "published": "2026-10-29T16:28:08Z",
-      "source": "KOIN 6",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Traffic & Transit"
-    },
-    {
-      "headline": "1 injured after reported stabbing in Northeast Portland, investigation underway",
-      "link": "https://www.koin.com/news/portland/1-injured-stabbing-northeast-investigation-underway/",
-      "published": "2026-10-29T16:18:35Z",
-      "source": "KOIN 6",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Beloved singer’s ex calls him a ‘gaslighter and a manipulator’ amid heated legal battle",
-      "link": "https://www.oregonlive.com/trending/2026/10/beloved-singers-ex-calls-him-a-gaslighter-and-a-manipulator-amid-heated-legal-battle.html",
-      "published": "2026-10-29T16:13:47Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Kiffin reacts to potential 24-team college football playoff",
-      "link": "https://www.oregonlive.com/trending/2026/10/lane-kiffin-reacts-to-potential-24-team-college-football-playoff.html",
-      "published": "2026-10-29T16:12:27Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "DOJ asks Washington state to set aside 400 voter ballots",
-      "link": "https://www.kptv.com/2026/10/29/doj-asks-washington-state-set-aside-400-voter-ballots/",
-      "published": "2026-10-29T16:12:13Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Washington state’s election chief says federal noncitizen voting list includes citizens",
-      "link": "https://www.opb.org/article/2026/10/29/washington-election-chief-federal-noncitizen-voting-list-includes-citizens/",
-      "published": "2026-10-29T16:10:55Z",
-      "source": "OPB",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:53Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Republican says Muslim Democrat unworthy of Senate because he doesn't believe in Jesus",
-      "link": "https://www.oregonlive.com/politics/2026/10/republican-suggests-muslim-democrat-unfit-for-senate-because-he-doesnt-believe-in-jesus.html",
-      "published": "2026-10-29T16:09:22Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Queens festival unites Brazilians amid political divide",
-      "link": "https://www.oregonlive.com/palabra/2026/10/queens-festival-unites-brazilians-amid-political-divide.html",
-      "published": "2026-10-29T16:02:22Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Scammers are impersonating real charities to trick victims, here’s how to spot the schemes",
-      "link": "https://www.oregonlive.com/nation/2026/10/scammers-are-impersonating-real-charities-to-trick-victims-heres-how-to-spot-the-schemes.html",
-      "published": "2026-10-29T16:01:44Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "These are the House races to watch in the 2026 midterm election on Nov. 3",
-      "link": "https://www.opb.org/article/2026/10/29/what-house-races-are-competitive-in-the-2026-midterm-election/",
-      "published": "2026-10-29T15:53:05Z",
-      "source": "OPB",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:53Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Peach-smothered pork chops",
-      "link": "https://www.oregonlive.com/nytcooking/2026/10/793043346-peach-smothered-pork-chops.html",
-      "published": "2026-10-29T15:51:38Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Tini Younger's mac and cheese",
-      "link": "https://www.oregonlive.com/nytcooking/2026/10/793042565-tini-younger-mac-and-cheese.html",
-      "published": "2026-10-29T15:51:33Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Man gets stuck in storm drain while running from officers in Eugene",
-      "link": "https://www.kptv.com/2026/10/29/man-gets-stuck-storm-drain-while-running-officers-eugene/",
-      "published": "2026-10-29T15:51:15Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Weather",
-      "local": true
-    },
-    {
-      "headline": "Scalloped sweet potatoes",
-      "link": "https://www.oregonlive.com/nytcooking/2026/10/792786820-scalloped-sweet-potatoes.html",
-      "published": "2026-10-29T15:50:57Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Country music star, 58, shares heartbreaking news after 15 years",
-      "link": "https://www.oregonlive.com/trending/2026/10/country-music-star-58-shares-heartbreaking-news-after-15-years.html",
-      "published": "2026-10-29T15:50:18Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Hackers expose the identities of more than 40,000 DHS employees",
-      "link": "https://www.opb.org/article/2026/10/29/hackers-expose-the-identities-of-more-than-40000-dhs-employees/",
-      "published": "2026-10-29T15:48:22Z",
-      "source": "OPB",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:53Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "Nearly 6M coffee makers sold at Walmart, Amazon recalled after dozens of consumer burns",
-      "link": "https://www.oregonlive.com/nation/2026/10/nearly-6m-coffee-makers-sold-at-walmart-amazon-recalled-after-dozens-of-consumer-burns.html",
-      "published": "2026-10-29T15:47:35Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Do these 5 important things before end of 2026, the IRS urges",
-      "link": "https://www.oregonlive.com/nation/2026/10/do-these-5-important-things-before-end-of-2026-the-irs-urges.html",
-      "published": "2026-10-29T15:47:09Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Male celebrity accused of sexual misconduct threatens third suicide attempt if named",
-      "link": "https://www.oregonlive.com/trending/2026/10/male-celebrity-accused-of-sexual-misconduct-threatens-third-suicide-attempt-if-named.html",
-      "published": "2026-10-29T15:47:05Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "School fined $100K over ‘discriminatory chants’ at college football game",
-      "link": "https://www.oregonlive.com/trending/2026/10/school-fined-100k-over-discriminatory-chants-at-college-football-game.html",
-      "published": "2026-10-29T15:45:02Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Education",
-      "local": true
-    },
-    {
-      "headline": "‘Breaking Away’ actress Barbara Barrie dies by medically assisted suicide, reports say",
-      "link": "https://www.kptv.com/2026/10/29/breaking-away-actress-barbara-barrie-dies-by-medically-assisted-suicide-reports-say/",
-      "published": "2026-10-29T15:41:45Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Washington fires back at DOJ demands, calls voter list ‘deeply flawed’",
-      "link": "https://www.columbian.com/news/2026/oct/29/washington-fires-back-at-doj-demands-calls-voter-list-deeply-flawed/",
-      "published": "2026-10-29T15:41:11Z",
-      "source": "The Columbian",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Investigators trick Washington murder suspect into mailing them his DNA to crack 1986 cold case",
-      "link": "https://www.kgw.com/article/news/nation-world/investigators-trick-washington-cold-case-murder-suspect-into-mailing-dna-mary-ann-turner-david-tibbett/507-9b91b7b6-fdbc-4f6f-ac31-1a3a3efcefaf",
-      "published": "2026-10-29T15:33:34Z",
-      "source": "KGW",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Relocation offers on the rise as cities try big cash incentives to attract remote workers",
-      "link": "https://www.kptv.com/2026/10/29/relocation-offers-rise-cities-try-big-cash-incentives-attract-remote-workers/",
-      "published": "2026-10-29T15:20:21Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Diary of a Carry Shit Olympian",
-      "link": "https://www.portlandmercury.com/bikes/diary-of-a-carry-shit-olympian/",
-      "published": "2026-10-29T15:15:16Z",
-      "source": "Portland Mercury",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Meet the new stars of 6A football: 2026’s breakthrough defensive players",
-      "link": "https://www.oregonlive.com/highschoolsports/2026/10/meet-the-new-stars-of-6a-oregon-high-school-football-2026s-breakthrough-defensive-players.html",
-      "published": "2026-10-29T15:15:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Healthy food chain raises managers’ pay to $200K",
-      "link": "https://www.oregonlive.com/nation/2026/10/healthy-food-chain-raises-managers-pay-to-200k.html",
-      "published": "2026-10-29T15:06:35Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Health",
-      "local": true
-    },
-    {
-      "headline": "Sophie Cunningham says the FBI is involved in her safety. Here’s what she revealed",
-      "link": "https://www.oregonlive.com/trending/2026/10/the-wnba-is-more-popular-than-ever-sophie-cunningham-says-that-comes-with-a-cost.html",
-      "published": "2026-10-29T15:04:23Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Social casino games players are opening ahead of Halloween weekend",
-      "link": "https://www.oregonlive.com/sweepstakes/2026/10/social-casino-games-players-are-opening-ahead-of-halloween-weekend.html",
-      "published": "2026-10-29T15:04:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Campaign cash floodgates open after Washington regulators lift dollar caps",
-      "link": "https://www.columbian.com/news/2026/oct/29/campaign-cash-floodgates-open-after-washington-regulators-lift-dollar-caps/",
-      "published": "2026-10-29T15:02:51Z",
-      "source": "The Columbian",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Dear Annie: I apologized for kissing my only grandson, but my DIL shut me out. What now?",
-      "link": "https://www.oregonlive.com/advice/2026/10/dear-annie-i-apologized-for-kissing-my-only-grandson-but-my-dil-shut-me-out-what-now.html",
-      "published": "2026-10-29T15:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Elke Sommer dies at 85, three months after husband",
-      "link": "https://www.oregonlive.com/trending/2026/10/beloved-actress-dies-at-85-just-months-after-husband-of-32-years.html",
-      "published": "2026-10-29T14:59:40Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "A new dwarf planet (probably) spotted beyond pluto",
-      "link": "https://www.columbian.com/news/2026/oct/29/a-new-dwarf-planet-probably-spotted-beyond-pluto/",
-      "published": "2026-10-29T14:52:45Z",
-      "source": "The Columbian",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "More than a third of Western states’ glacial cover has been lost since 1950s as planet warms",
-      "link": "https://www.columbian.com/news/2026/oct/29/more-than-a-third-of-western-states-glacial-cover-has-been-lost-since-1950s-as-planet-warms/",
-      "published": "2026-10-29T14:52:44Z",
-      "source": "The Columbian",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Gen Z has more debt than Millennials did at the same age",
-      "link": "https://www.kptv.com/2026/10/29/gen-z-has-more-debt-than-millennials-did-same-age/",
-      "published": "2026-10-29T14:48:24Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Drive-by shooting in downtown Vancouver leads to arrest of three teens",
-      "link": "https://www.columbian.com/news/2026/oct/29/drive-by-shooting-in-downtown-vancouver-leads-to-arrest-of-three-teens/",
-      "published": "2026-10-29T14:41:24Z",
-      "source": "The Columbian",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Obama mocks GOP for making his fashion choice into 'major national controversy'",
-      "link": "https://www.oregonlive.com/politics/2026/10/obama-compares-cheesecake-factory-outrage-to-this-major-national-controversy-from-his-presidency.html",
-      "published": "2026-10-29T14:39:02Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Hillsboro gas station celebrates selling winning Megabucks ticket",
-      "link": "https://www.kptv.com/2026/10/29/hillsboro-gas-station-celebrates-selling-winning-megabucks-ticket/",
-      "published": "2026-10-29T14:36:41Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Kristoffer Velde helps Timbers stay in playoff hunt with 3-2 victory over St. Louis City",
-      "link": "https://www.kgw.com/article/syndication/associatedpress/kristoffer-velde-helps-timbers-stay-in-playoff-hunt-with-3-2-victory-over-st-louis-city/616-dec15de5-9fbc-4238-b5fb-fa94387467ef",
-      "published": "2026-10-29T14:35:29Z",
-      "source": "KGW",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "National GOP group gives Drazan last-minute boost: The latest on Oregon’s 2026 election",
-      "link": "https://www.oregonlive.com/politics/2026/10/national-gop-group-gives-drazan-last-minute-boost-the-latest-on-oregons-2026-election.html",
-      "published": "2026-10-29T14:30:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "OPB’s First Look: Balance of power in Salem",
-      "link": "https://www.opb.org/article/2026/10/29/oregon-legislature-election-first-look/",
-      "published": "2026-10-29T14:30:00Z",
-      "source": "OPB",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:53Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Over 580 flights delayed, 53 canceled amid widespread U.S. travel disruptions",
-      "link": "https://www.oregonlive.com/nation/2026/10/over-580-flights-delayed-53-canceled-amid-widespread-us-travel-disruptions.html",
-      "published": "2026-10-29T14:14:14Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Traffic & Transit",
-      "local": true
-    },
-    {
-      "headline": "Providence Cancer Institute program supports breast cancer patients beyond treatment",
-      "link": "https://www.kptv.com/2026/10/29/providence-cancer-institute-program-supports-breast-cancer-patients-beyond-treatment/",
-      "published": "2026-10-29T14:13:09Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Health",
-      "local": true
-    },
-    {
-      "headline": "DoorDash offers $17 billion for Instacart in what would be a big consolidation for grocery delivery",
-      "link": "https://www.kgw.com/article/news/nation-world/doordash-offers-17-billion-for-instacart/507-95e35034-8f00-43cb-97d2-a81e29093b71",
-      "published": "2026-10-29T14:04:27Z",
-      "source": "KGW",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "Two U-Haul trucks torched in predawn blaze at SW Portland lot",
-      "link": "https://www.oregonlive.com/crime/2026/10/two-u-haul-trucks-torched-in-pre-dawn-blaze-at-sw-portland-lot.html",
-      "published": "2026-10-29T14:04:09Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "College basketball head coach suspended following arrest",
-      "link": "https://www.oregonlive.com/trending/2026/10/college-basketball-head-coach-suspended-following-arrest.html",
-      "published": "2026-10-29T14:03:54Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Celebrating 100 years of Black inclusion in Oregon",
-      "link": "https://www.oregonlive.com/living/2026/10/oregon-marks-100-years-since-repeal-of-states-black-exclusion-law.html",
-      "published": "2026-10-29T14:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Dear Doctor: Positive colon screen at 85 — now what?",
-      "link": "https://www.oregonlive.com/advice/2026/10/dear-doctor-if-im-too-old-for-a-colonoscopy-why-was-i-given-a-colon-cancer-screening-test.html",
-      "published": "2026-10-29T14:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Health",
-      "local": true
-    },
-    {
-      "headline": "Readers respond: Brad O’Neil for Clackamas County sheriff",
-      "link": "https://www.oregonlive.com/opinion/2026/10/readers-respond-brad-oneil-for-clackamas-county-sheriff.html",
-      "published": "2026-10-29T14:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "‘Embarrassing’: 2nd woman says she’s in disbelief she was infected with genital herpes virus during manicure",
-      "link": "https://www.oregonlive.com/health/2026/10/embarrassing-2nd-woman-says-shes-in-disbelief-she-was-infected-with-genital-herpes-virus-during-manicure.html",
-      "published": "2026-10-29T14:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Portland Ramen’s Third Wave",
-      "link": "https://www.pdxmonthly.com/eat-and-drink/food-news/portland-ramen-third-wave/",
-      "published": "2026-10-29T14:00:00Z",
-      "source": "Portland Monthly",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T23:38:34Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Jay-Z kept putting off the Super Bowl stage. Roger Goodell explains why now is the time",
-      "link": "https://www.oregonlive.com/trending/2026/10/roger-goodell-made-one-request-of-jay-z-years-ago-now-its-finally-happening.html",
-      "published": "2026-10-29T13:58:41Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Forecasters are predicting a warmer and wetter winter. Here's how El Niño will affect your region",
-      "link": "https://www.opb.org/article/2026/10/29/here-s-the-el-nino-winter-forecast-for-the-u-s-warmer-and-wetter/",
-      "published": "2026-10-29T13:55:23Z",
-      "source": "OPB",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:53Z",
-      "category": "Weather",
-      "local": true
-    },
-    {
-      "headline": "Man seriously hurt in SE Portland shooting",
-      "link": "https://www.kptv.com/2026/10/29/man-seriously-hurt-se-portland-shooting/",
-      "published": "2026-10-29T13:53:25Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Brewers beat the Rays to win the first World Series title in franchise history",
-      "link": "https://www.opb.org/article/2026/10/29/brewers-beat-the-rays-to-win-the-first-world-series-title-in-franchise-history/",
-      "published": "2026-10-29T13:50:01Z",
-      "source": "OPB",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:53Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "List of online social casinos: 12 sites our team is backing before Halloween",
-      "link": "https://www.oregonlive.com/sweepstakes/2026/10/list-of-online-social-casinos-12-sites-our-team-is-backing-before-halloween.html",
-      "published": "2026-10-29T13:39:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Antidepressants: What to know before you decide",
-      "link": "https://www.kptv.com/2026/10/29/antidepressants-what-know-before-you-decide/",
-      "published": "2026-10-29T13:38:32Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Readers respond: Peace officers endorse James Rhodes",
-      "link": "https://www.oregonlive.com/opinion/2026/10/readers-respond-peace-officers-endorse-james-rhodes.html",
-      "published": "2026-10-29T13:30:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Velde helps Timbers stay in playoff hunt with 3-2 victory over St. Louis City",
-      "link": "https://www.opb.org/article/2026/10/29/kristoffer-velde-timbers-win-st-louis-mls-playoff-hunt/",
-      "published": "2026-10-29T13:15:46Z",
-      "source": "OPB",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:53Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Oregon high school football playoff picture: What’s at stake in Week 9",
-      "link": "https://www.oregonlive.com/highschoolsports/2026/10/oregon-high-school-football-playoff-picture-whats-at-stake-in-week-9.html",
-      "published": "2026-10-29T13:15:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "TV shows are changing what parents name their babies. See 2026’s most popular names",
-      "link": "https://www.oregonlive.com/nation/2026/10/the-most-popular-baby-names-of-2026-are-out-and-one-girls-name-made-a-surprising-jump.html",
-      "published": "2026-10-29T13:13:11Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Hackers expose personal information of more than 40,000 DHS agents",
-      "link": "https://www.kgw.com/article/news/nation-world/dhs-homeland-security-hack-ice-immigration/507-0f4d9f0d-29eb-460b-8633-66024cd8f04a",
-      "published": "2026-10-29T13:10:09Z",
-      "source": "KGW",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Camas singer-songwriter, 13, on road to success",
-      "link": "https://www.camaspostrecord.com/news/2026/oct/29/camas-singer-songwriter-13-on-road-to-success/",
-      "published": "2026-10-29T13:05:38Z",
-      "source": "Camas-Washougal Post-Record",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Hyas Point waterfront development to welcome residents in November",
-      "link": "https://www.camaspostrecord.com/news/2026/oct/29/hyas-point-waterfront-development-to-welcome-residents-in-november/",
-      "published": "2026-10-29T13:05:37Z",
-      "source": "Camas-Washougal Post-Record",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Business"
-    },
-    {
-      "headline": "Varsity360 Podcast: Friday Night Frights as Halloween marks a big moment in the high school football season",
-      "link": "https://www.columbian.com/news/2026/oct/29/varsity360-podcast-friday-night-frights-as-halloween-marks-a-big-moment-in-the-high-school-football-season/",
-      "published": "2026-10-29T13:05:31Z",
-      "source": "The Columbian",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Camas change of government set for Feb. ballot",
-      "link": "https://www.camaspostrecord.com/news/2026/oct/29/camas-change-of-government-set-for-feb-ballot/",
-      "published": "2026-10-29T13:05:22Z",
-      "source": "Camas-Washougal Post-Record",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Washougal football teams clinches playoff berth",
-      "link": "https://www.camaspostrecord.com/news/2026/oct/29/washougal-football-teams-clinches-playoff-berth/",
-      "published": "2026-10-29T13:05:15Z",
-      "source": "Camas-Washougal Post-Record",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Weather Eye: Rain finally arrives; Halloween may be treat for kids",
-      "link": "https://www.columbian.com/news/2026/oct/29/weather-eye-rain-finally-arrives-halloween-may-be-treat-for-kids/",
-      "published": "2026-10-29T13:05:11Z",
-      "source": "The Columbian",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Weather",
-      "local": true
-    },
-    {
-      "headline": "Washougal ranks third in Washington for reported ghost sightings",
-      "link": "https://www.camaspostrecord.com/news/2026/oct/29/washougal-ranks-third-in-washington-for-reported-ghost-sightings/",
-      "published": "2026-10-29T13:04:50Z",
-      "source": "Camas-Washougal Post-Record",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Empty Bowls Camas raises $42,000 for Interfaith Treasure House",
-      "link": "https://www.camaspostrecord.com/news/2026/oct/29/empty-bowls-camas-raises-42000-for-interfaith-treasure-house/",
-      "published": "2026-10-29T13:04:47Z",
-      "source": "Camas-Washougal Post-Record",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Flavorful veggie rice dinner made in minutes",
-      "link": "https://www.columbian.com/news/2026/oct/29/flavorful-veggie-rice-dinner-made-in-minutes/",
-      "published": "2026-10-29T13:04:44Z",
-      "source": "The Columbian",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Healthcare a top concern in 3rd District",
-      "link": "https://www.camaspostrecord.com/news/2026/oct/29/healthcare-a-top-concern-in-3rd-district/",
-      "published": "2026-10-29T13:04:18Z",
-      "source": "Camas-Washougal Post-Record",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Health"
-    },
-    {
-      "headline": "Washougal included in state’s Opportunity Zones nominations",
-      "link": "https://www.camaspostrecord.com/news/2026/oct/29/washougal-included-in-states-opportunity-zones-nominations/",
-      "published": "2026-10-29T13:04:03Z",
-      "source": "Camas-Washougal Post-Record",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Fall gets off to warm start in county",
-      "link": "https://www.camaspostrecord.com/news/2026/oct/29/fall-gets-off-to-warm-start-in-county/",
-      "published": "2026-10-29T13:03:48Z",
-      "source": "Camas-Washougal Post-Record",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Weather"
-    },
-    {
-      "headline": "In Our View: Feds continually crying wolf about voter fraud",
-      "link": "https://www.columbian.com/news/2026/oct/29/in-our-view-feds-continually-crying-wolf-about-voter-fraud/",
-      "published": "2026-10-29T13:03:38Z",
-      "source": "The Columbian",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Officials urge action to stop misinformation",
-      "link": "https://www.camaspostrecord.com/news/2026/oct/29/officials-urge-action-to-stop-misinformation/",
-      "published": "2026-10-29T13:03:33Z",
-      "source": "Camas-Washougal Post-Record",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Other"
-    },
-    {
-      "headline": "If Washington bans trans girls from girls sports, what must doctors do?",
-      "link": "https://www.columbian.com/news/2026/oct/29/if-washington-bans-trans-girls-from-girls-sports-what-must-doctors-do/",
-      "published": "2026-10-29T13:03:18Z",
-      "source": "The Columbian",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Health",
-      "local": true
-    },
-    {
-      "headline": "Crisp: No choice for 3rd impeachment?",
-      "link": "https://www.columbian.com/news/2026/oct/29/crisp-no-choice-for-3rd-impeachment/",
-      "published": "2026-10-29T13:01:54Z",
-      "source": "The Columbian",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Fall gets off to warm start in Clark County",
-      "link": "https://www.columbian.com/news/2026/oct/29/fall-gets-off-to-warm-start-in-clark-county/",
-      "published": "2026-10-29T13:00:53Z",
-      "source": "The Columbian",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Weather",
-      "local": true
-    },
-    {
-      "headline": "Letter: Shelter demands transparency",
-      "link": "https://www.columbian.com/news/2026/oct/29/letter-shelter-demands-transparency/",
-      "published": "2026-10-29T13:00:36Z",
-      "source": "The Columbian",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Perez, Braun stake out middle on environment in 3rd Congressional District Race",
-      "link": "https://www.columbian.com/news/2026/oct/29/perez-braun-stake-out-middle-on-environment-in-3rd-congressional-district-race/",
-      "published": "2026-10-29T13:00:32Z",
-      "source": "The Columbian",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Weather",
-      "local": true
-    },
-    {
-      "headline": "Letter: John Braun earns support",
-      "link": "https://www.columbian.com/news/2026/oct/29/letter-john-braun-earns-support/",
-      "published": "2026-10-29T13:00:26Z",
-      "source": "The Columbian",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Letter: Speak up for basic needs",
-      "link": "https://www.columbian.com/news/2026/oct/29/letter-speak-up-for-basic-needs/",
-      "published": "2026-10-29T13:00:25Z",
-      "source": "The Columbian",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Letter: Negative impacts in city",
-      "link": "https://www.columbian.com/news/2026/oct/29/letter-negative-impacts-in-city/",
-      "published": "2026-10-29T13:00:20Z",
-      "source": "The Columbian",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Letter: Healthcare coverage can improve",
-      "link": "https://www.columbian.com/news/2026/oct/29/letter-healthcare-coverage-can-improve/",
-      "published": "2026-10-29T13:00:19Z",
-      "source": "The Columbian",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Health",
-      "local": true
-    },
-    {
-      "headline": "Letter: Biden, media created situation",
-      "link": "https://www.columbian.com/news/2026/oct/29/letter-biden-media-created-situation/",
-      "published": "2026-10-29T13:00:02Z",
-      "source": "The Columbian",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "What it's like to race through Silver Falls State Park",
-      "link": "https://www.oregonlive.com/podcasts/2026/10/the-brutal-beauty-of-running-a-half-marathon-through-oregons-waterfalls-and-muddy-forest-trails.html",
-      "published": "2026-10-29T13:00:01Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Parents say they warned North Clackamas schools about counselor for years. Now she’s on leave",
-      "link": "https://www.oregonlive.com/clackamascounty/2026/10/happy-valley-parents-staff-say-district-had-years-of-warnings-about-counselor-accused-of-drunk-driving-crash.html",
-      "published": "2026-10-29T13:00:01Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Education",
-      "local": true
-    },
-    {
-      "headline": "Nike said factory workers should earn enough to pay their bills, and then some. Nearly a decade later, many still struggle",
-      "link": "https://www.oregonlive.com/business/2026/10/nike-said-factory-workers-should-earn-enough-to-pay-their-bills-and-then-some-nearly-a-decade-later-many-still-struggle.html",
-      "published": "2026-10-29T13:00:01Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "This Oregon marine biologist knows nudis — tiny, carnivorous sea slugs — and you can too",
-      "link": "https://www.opb.org/article/2026/10/29/sea-slugs-nudibranchs-oregon-coast/",
-      "published": "2026-10-29T13:00:01Z",
-      "source": "OPB",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:53Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Company known for building data centers eyes battery farm site in Eastern Oregon",
-      "link": "https://www.opb.org/article/2026/10/29/data-center-company-battery-farm-site-eastern-oregon/",
-      "published": "2026-10-29T13:00:01Z",
-      "source": "OPB",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:53Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "6 races could set the balance of power in Salem next year",
-      "link": "https://www.opb.org/article/2026/10/29/election-2026-races-oregon-house-senate-salem/",
-      "published": "2026-10-29T13:00:01Z",
-      "source": "OPB",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:53Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Miss Manners: I feel like I have to lie to get out of uncomfortable conversation",
-      "link": "https://www.oregonlive.com/advice/2026/10/miss-manners-i-feel-like-i-have-to-lie-to-get-out-of-uncomfortable-conversation.html",
-      "published": "2026-10-29T13:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Readers respond: Vote Kotek to preserve American ideals",
-      "link": "https://www.oregonlive.com/opinion/2026/10/readers-respond-vote-kotek-to-preserve-american-ideals.html",
-      "published": "2026-10-29T13:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:52Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "The growing popularity of girls flag football in Oregon and beyond",
-      "link": "https://www.opb.org/article/2026/10/29/the-growing-popularity-of-girls-flag-football-in-oregon-and-beyond/",
-      "published": "2026-10-29T13:00:00Z",
-      "source": "OPB",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:53Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "The Portland Opera and The Immigrant Story blend live storytelling and music for ‘The American Story’",
-      "link": "https://www.opb.org/article/2026/10/29/think-out-loud-portland-oregon-opera-immigrant-story/",
-      "published": "2026-10-29T13:00:00Z",
-      "source": "OPB",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:53Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "BikePortland founder steps down after two decades of reporting on cycling culture, policy",
-      "link": "https://www.opb.org/article/2026/10/29/think-out-loud-bike-portland-oregon-jonathan-maus/",
-      "published": "2026-10-29T13:00:00Z",
-      "source": "OPB",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:53Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Support Your Local Etsy Witch",
-      "link": "https://www.wweek.com/culture/2026/10/29/support-your-local-etsy-witch/",
-      "published": "2026-10-29T13:00:00Z",
-      "source": "Willamette Week",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:53Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Lucille Brings a Refreshingly Good Vibe to Slabtown",
-      "link": "https://www.wweek.com/drink/2026/10/30/lucille-brings-a-refreshingly-good-vibe-to-slabtown/",
-      "published": "2026-10-29T13:00:00Z",
-      "source": "Willamette Week",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:53Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "College Notebook: Ethan Harris debuts for Iowa basketball",
-      "link": "https://www.columbian.com/news/2026/oct/29/college-notebook-ethan-harris-debuts-for-iowa-basketball/",
-      "published": "2026-10-29T12:56:41Z",
-      "source": "The Columbian",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-10-29T17:00:57Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "City of Vancouver to open 120-bed shelter at the end of November — its largest city-run site",
-      "link": "https://www.kgw.com/article/news/community/city-of-vancouver-to-open-120-bed-shelter-at-end-of-november-largest-city-run-site/283-029bad83-2f4d-4471-968f-2954968a88b4",
-      "published": "2026-10-29T12:55:23Z",
-      "source": "KGW",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "TVF&R: Downed power lines fall onto SUV, shut down Hwy 26 overnight",
-      "link": "https://www.kptv.com/2026/10/29/hwy-26-closed-murray-blvd-due-downed-power-lines/",
-      "published": "2026-10-29T12:31:59Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "It's National Cat Day! Here are 10 fun facts about the felines",
-      "link": "https://www.kgw.com/article/life/pets/national-cat-day-fun-facts/507-dc84ed6c-d27f-4e88-ad0c-b2d33e81c427",
-      "published": "2026-10-29T12:25:20Z",
-      "source": "KGW",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "InvestigateTV+: Tracking the trackers",
-      "link": "https://www.kptv.com/2026/10/29/investigatetv-tracking-trackers/",
-      "published": "2026-10-29T12:05:16Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Barbara Barrie, Oscar- and Emmy-nominated actress known for 'Breaking Away,' 'Barney Miller,' has died",
-      "link": "https://www.kgw.com/article/news/nation-world/barbara-barrie-death-oscar-academy-award-nominated-breaking-away-barney-miller/507-5d52219f-a0d2-4a8f-8c56-3c683be4c963",
-      "published": "2026-10-29T10:50:04Z",
-      "source": "KGW",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Indictment: 6 accused of filing 9,000 fraudulent tax returns seeking $177 million in refunds",
-      "link": "https://www.kptv.com/2026/10/29/indictment-6-accused-filing-9000-fraudulent-tax-returns-seeking-177-million-refunds/",
-      "published": "2026-10-29T09:45:08Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "LIFE magazine, once a mainstay of photojournalism, is to be revived",
-      "link": "https://www.kgw.com/article/news/nation-world/life-magazine-revived/507-d9196ac9-2938-4bf8-beaf-768fe348783a",
-      "published": "2026-10-29T09:18:00Z",
-      "source": "KGW",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Department of Justice goes after COVID funding fraudsters in Oregon",
-      "link": "https://www.kptv.com/2026/10/29/department-justice-goes-after-covid-funding-fraudsters-oregon/",
-      "published": "2026-10-29T06:16:18Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Health",
-      "local": true
-    },
-    {
-      "headline": "FBI special agent details missing child investigations in wake of Canby girl abduction",
-      "link": "https://www.koin.com/local/clackamas-county/fbi-special-agent-details-missing-child-investigations-in-wake-of-canby-girl-abduction/",
-      "published": "2026-10-29T05:11:31Z",
-      "source": "KOIN 6",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Scientists discover possible new dwarf planet beyond Pluto",
-      "link": "https://www.kgw.com/article/news/nation-world/new-dwarf-planet-beyond-pluto/507-c4fb545f-1a77-4a17-afcf-0a564ee3ad12",
-      "published": "2026-10-29T04:46:27Z",
-      "source": "KGW",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Did anyone win Powerball's $716M jackpot? Here are the winning numbers for Oct. 28",
-      "link": "https://www.kgw.com/article/news/nation-world/powerball-winning-numbers-jackpot-oct-28-2026/507-4a750efc-9413-41aa-9630-fd0bef51e4ea",
-      "published": "2026-10-29T04:08:48Z",
-      "source": "KGW",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "1 dead, 3 injured after deadly crash on Highway 26",
-      "link": "https://www.koin.com/news/oregon/1-dead-3-injured-after-deadly-crash-on-highway-26/",
-      "published": "2026-10-29T03:53:10Z",
-      "source": "KOIN 6",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Traffic & Transit"
-    },
-    {
-      "headline": "Report: Complaints at Portland's shelter pod villages range from stolen belongings to staff misconduct",
-      "link": "https://www.kgw.com/article/news/local/homeless/portland-shelter-safe-rest-village-survey-complaint-staff-city-ombudsman-report/283-6911e8b8-58db-4610-bbbb-55212204f4c9",
-      "published": "2026-10-29T02:59:55Z",
-      "source": "KGW",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "FTC orders Walmart, Delta and others to share how they use personal data to set prices and pay",
-      "link": "https://www.kgw.com/article/syndication/associatedpress/ftc-orders-walmart-delta-and-others-to-share-how-they-use-personal-data-to-set-prices-and-pay/616-dbaa2caf-9bc0-4a0a-8a75-386ac3272b8e",
-      "published": "2026-10-29T02:33:03Z",
-      "source": "KGW",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "Cornell faculty to move forward with no-confidence vote over handling of sexual assault allegations",
-      "link": "https://www.kgw.com/article/syndication/associatedpress/cornell-faculty-to-begin-voting-on-no-confidence-resolution-over-handling-of-fraternity-gang-rape/616-5da66062-f0f8-4f83-8ae1-5d9142150791",
-      "published": "2026-10-29T02:29:56Z",
-      "source": "KGW",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Washington Secretary of State rejects DOJ voter list, calls it 'irresponsible and illegal'",
-      "link": "https://www.kgw.com/article/news/politics/national-politics/washington-secretary-of-state-rejects-doj-voter-list-calls-irresponsible-illegal/281-a16cb456-790d-4130-b81f-221810f44559",
-      "published": "2026-10-29T02:26:07Z",
-      "source": "KGW",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Ukrainian mother faces removal proceedings as federal delays leave families uncertain about their future",
-      "link": "https://www.kgw.com/article/news/politics/immigration-news/ukrainian-mother-faces-removal-proceedings-as-federal-delays-leave-families-uncertain-about-their-future/281-7a6500f4-631f-458b-af24-3f9190ef4397",
-      "published": "2026-10-29T02:25:40Z",
-      "source": "KGW",
-      "area": "Portland",
-      "fetched_at": "2026-10-29T17:00:54Z",
       "category": "Government & Politics",
       "local": true
     }
