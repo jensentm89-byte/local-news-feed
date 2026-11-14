@@ -1,11 +1,907 @@
 {
-  "generated_at": "2026-11-13T17:51:59Z",
+  "generated_at": "2026-11-14T00:34:35Z",
   "name": "Seattle, WA",
   "areas": [
     "Seattle",
     "Tacoma"
   ],
   "articles": [
+    {
+      "headline": "Gov. Ferguson seeks $10M to help develop Eastern Wash. clean-energy hub",
+      "link": "https://www.geekwire.com/2026/gov-ferguson-seeks-10m-to-help-develop-eastern-wash-clean-energy-hub/",
+      "published": "2026-11-14T00:32:28Z",
+      "source": "GeekWire",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:16Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Trump administration cancels mandatory pay hike for Head Start teachers",
+      "link": "https://www.seattletimes.com/business/trump-administration-cancels-mandatory-pay-hike-for-head-start-teachers/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "published": "2026-11-14T00:25:04Z",
+      "source": "The Seattle Times",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:11Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "With CFP expansion, what’s the future of the Pac-12 championship game? | Mailbag",
+      "link": "https://www.seattletimes.com/sports/wsu-cougar-football/with-cfp-expansion-whats-the-future-of-the-pac-12-championship-game-mailbag/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "published": "2026-11-14T00:14:19Z",
+      "source": "The Seattle Times",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:11Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "A sudden FAA ground stop strands teams and throws the sports weekend into chaos",
+      "link": "https://www.seattletimes.com/sports/sudden-faa-ground-stop-strands-teams-throws-sports-weekend-into-chaos/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "published": "2026-11-14T00:13:49Z",
+      "source": "The Seattle Times",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:11Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "FAA ground stop sends UW football back to campus before Michigan State game",
+      "link": "https://www.fox13seattle.com/news/faa-ground-stop-uw-football",
+      "published": "2026-11-14T00:05:52Z",
+      "source": "FOX 13 Seattle",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:16Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "UW men’s soccer trio earn Big Ten players of the year awards",
+      "link": "https://www.seattletimes.com/sports/uw-huskies/uw-mens-soccer-trio-earn-big-ten-players-of-the-year-awards/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "published": "2026-11-14T00:04:54Z",
+      "source": "The Seattle Times",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:11Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "FAA grounds flights nationwide due to communication issue impacting all air traffic control centers",
+      "link": "https://www.king5.com/article/news/nation-world/flights-halted-at-airports-across-us-faa-says/507-1f111ee8-ac0b-43d9-8fbf-57b29f29ab3c",
+      "published": "2026-11-14T00:02:28Z",
+      "source": "KING 5",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:15Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "WA county violated state law by cooperating with ICE, court finds",
+      "link": "https://www.seattletimes.com/seattle-news/politics/wa-county-violated-state-law-by-cooperating-with-ice-court-finds/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "published": "2026-11-14T00:02:02Z",
+      "source": "The Seattle Times",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:11Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "KingCo All-League Football Teams released",
+      "link": "https://www.bellevuereporter.com/2026/11/13/kingco-all-league-football-teams-released/",
+      "published": "2026-11-14T00:02:00Z",
+      "source": "Bellevue Reporter",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:17Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "KingCo All-League Football Teams released",
+      "link": "https://www.issaquahreporter.com/2026/11/13/kingco-all-league-football-teams-released/",
+      "published": "2026-11-14T00:02:00Z",
+      "source": "Issaquah Reporter",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:18Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "KingCo All-League Football Teams released",
+      "link": "https://www.rentonreporter.com/2026/11/13/kingco-all-league-football-teams-released/",
+      "published": "2026-11-14T00:02:00Z",
+      "source": "Renton Reporter",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:18Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "November 13, 2026 - PBS News Hour full episode",
+      "link": "https://www.cascadepbs.org/show/newshour/episode/november-13-2026-pbs-news-hour-full-episode-1794546001/",
+      "published": "2026-11-14T00:00:23Z",
+      "source": "Cascade PBS / Crosscut",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:12Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "FAA issues nationwide ground stop for all flights",
+      "link": "https://www.kiro7.com/news/local/faa-issues-nationwide-ground-stop-all-flights-due-extraordinary-circumstances-safety/X3MVMULIIVBBPPMTW7WR27VYG4/",
+      "published": "2026-11-13T23:55:14Z",
+      "source": "KIRO 7",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:16Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Flights at SEA Airport impacted by nationwide ground stop",
+      "link": "https://www.kiro7.com/news/local/flights-sea-airport-impacted-by-nationwide-ground-stop/TOXRAWOIQZAAFK3CSQCQRVQFWU/",
+      "published": "2026-11-13T23:54:17Z",
+      "source": "KIRO 7",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:16Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "How can the FAA still communicate with planes during a ground stop?",
+      "link": "https://www.kiro7.com/news/local/how-can-faa-still-communicate-with-planes-during-ground-stop/74HQIUHCSRADBM7FTTBCXDOASU/",
+      "published": "2026-11-13T23:50:28Z",
+      "source": "KIRO 7",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:16Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "What are your options if your flight is delayed or canceled due to the FAA ground stop?",
+      "link": "https://www.kiro7.com/news/local/what-are-your-options-if-your-flight-is-delayed-or-canceled-due-faa-groundstop/M2HPYFVFTFFS5PZ6DEWUCROKCY/",
+      "published": "2026-11-13T23:50:09Z",
+      "source": "KIRO 7",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:16Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Sudden FAA ground stop strands teams and throws the sports weekend into chaos",
+      "link": "https://www.king5.com/article/news/nation-world/faa-ground-stop-sports-teams-weekend-games/507-77b93dc3-ded8-4406-8f96-a45269ed1644",
+      "published": "2026-11-13T23:48:14Z",
+      "source": "KING 5",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:15Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Seattle weather: Showers Friday, stronger storm this weekend",
+      "link": "https://www.fox13seattle.com/weather/showers-today-stronger-storm-saturday",
+      "published": "2026-11-13T23:46:22Z",
+      "source": "FOX 13 Seattle",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:16Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "When will flights resume? What we know about the nationwide ground stop",
+      "link": "https://www.king5.com/article/news/nation-world/faa-ground-stop-what-we-know-friday-november-13/507-7bb2fb95-64dd-44c6-ad29-a1193840d1df",
+      "published": "2026-11-13T23:39:59Z",
+      "source": "KING 5",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:15Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Issaquah Costco gets new gas station with 50 fuel pumps",
+      "link": "https://www.seattletimes.com/business/costco/issaquah-costco-gets-new-gas-station-with-50-fuel-pumps/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "published": "2026-11-13T23:32:08Z",
+      "source": "The Seattle Times",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:11Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Reported reckless I-5 driving by Auburn man kills 1, injures 7",
+      "link": "https://www.seattleweekly.com/2026/11/13/reported-reckless-i-5-driving-by-auburn-man-kills-1-injures-7/",
+      "published": "2026-11-13T23:30:00Z",
+      "source": "Seattle Weekly",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:15Z",
+      "category": "Traffic & Transit"
+    },
+    {
+      "headline": "Reported reckless I-5 driving by Auburn man kills 1, injures 7",
+      "link": "https://www.bellevuereporter.com/2026/11/13/reported-reckless-i-5-driving-by-auburn-man-kills-1-injures-7/",
+      "published": "2026-11-13T23:30:00Z",
+      "source": "Bellevue Reporter",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:17Z",
+      "category": "Traffic & Transit"
+    },
+    {
+      "headline": "Reported reckless I-5 driving by Auburn man kills 1, injures 7",
+      "link": "https://www.issaquahreporter.com/2026/11/13/reported-reckless-i-5-driving-by-auburn-man-kills-1-injures-7/",
+      "published": "2026-11-13T23:30:00Z",
+      "source": "Issaquah Reporter",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:18Z",
+      "category": "Traffic & Transit"
+    },
+    {
+      "headline": "Reported reckless I-5 driving by Auburn man kills 1, injures 7",
+      "link": "https://www.kentreporter.com/2026/11/13/reported-reckless-i-5-driving-by-auburn-man-kills-1-injures-7/",
+      "published": "2026-11-13T23:30:00Z",
+      "source": "Kent Reporter",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:18Z",
+      "category": "Traffic & Transit"
+    },
+    {
+      "headline": "Reported reckless I-5 driving by Auburn man kills 1, injures 7",
+      "link": "https://www.rentonreporter.com/2026/11/13/reported-reckless-i-5-driving-by-auburn-man-kills-1-injures-7/",
+      "published": "2026-11-13T23:30:00Z",
+      "source": "Renton Reporter",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:18Z",
+      "category": "Traffic & Transit"
+    },
+    {
+      "headline": "What caused the Microsoft outage? Executive shares details",
+      "link": "https://www.king5.com/article/news/nation-world/what-caused-microsoft-outage-details/507-69f62d77-9745-4804-ad5e-d018ab58b1ee",
+      "published": "2026-11-13T23:25:46Z",
+      "source": "KING 5",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:15Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "With win vs. Raiders, Drew Lock could force Seahawks QB discussion",
+      "link": "https://www.seattletimes.com/sports/seahawks/with-win-vs-raiders-drew-lock-could-force-seahawks-qb-discussion/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "published": "2026-11-13T23:24:45Z",
+      "source": "The Seattle Times",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:11Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "What is an FAA ground stop and how does it work?",
+      "link": "https://www.kiro7.com/news/local/what-is-an-faa-ground-stop-how-does-it-work/U5IV64YNWRCVBGSHVCFMOM6BKU/",
+      "published": "2026-11-13T23:17:41Z",
+      "source": "KIRO 7",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:16Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "DHS chief sees no link between Microsoft outage and FAA ground stop, doesn’t rule out AI",
+      "link": "https://www.geekwire.com/2026/dhs-chief-sees-no-microsoft-link-to-faa-ground-stop-says-possible-ai-role-being-investigated/",
+      "published": "2026-11-13T23:04:10Z",
+      "source": "GeekWire",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:16Z",
+      "category": "Traffic & Transit"
+    },
+    {
+      "headline": "The Stranger’s Noise Complaint: XOË",
+      "link": "https://www.thestranger.com/noise-complaint/the-strangers-noise-complaint-xoe/",
+      "published": "2026-11-13T23:03:24Z",
+      "source": "The Stranger",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:12Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Shoreline Pedestrian Bridge Defect Jeopardizes Already Delayed Timeline",
+      "link": "https://www.theurbanist.org/shoreline-pedestrian-bridge-defect-jeopardizes-already-delayed-timeline/",
+      "published": "2026-11-13T22:59:31Z",
+      "source": "The Urbanist",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:13Z",
+      "category": "Traffic & Transit"
+    },
+    {
+      "headline": "Seattle Seahawks get Shaheed, Nwosu back against Raiders",
+      "link": "https://www.fox13seattle.com/sports/seahawks-get-shaheed-nwosu-back-against-raiders",
+      "published": "2026-11-13T22:50:36Z",
+      "source": "FOX 13 Seattle",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:16Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "US gives states another 6 months before they have to remove people from Medicaid for not working",
+      "link": "https://www.seattletimes.com/nation-world/nation/us-gives-states-another-6-months-before-they-have-to-remove-people-from-medicaid-for-not-working/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "published": "2026-11-13T22:50:21Z",
+      "source": "The Seattle Times",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:11Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "UW football stranded, has no Michigan travel plan after FAA halts departures nationwide",
+      "link": "https://www.king5.com/article/news/community/transportation/uw-football-stranded-has-no-michigan-travel-plan-after-faa-halts-departures-nationwide/281-2f691f0a-1060-45bc-8b33-b0fc28f4ac43",
+      "published": "2026-11-13T22:49:20Z",
+      "source": "KING 5",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:15Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Updated: Paine Field impacted by nationwide ground stop",
+      "link": "https://www.heraldnet.com/2026/11/13/paine-field-impacted-by-nationwide-ground-stop/",
+      "published": "2026-11-13T22:44:00Z",
+      "source": "The Daily Herald (Everett)",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:18Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Silicon Valley startups face a future without Jensen Huang’s money",
+      "link": "https://www.seattletimes.com/business/silicon-valley-startups-face-a-future-without-jensen-huangs-money/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "published": "2026-11-13T22:38:09Z",
+      "source": "The Seattle Times",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:11Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Blue Origin puts its space station plans on hold to concentrate on moon missions instead",
+      "link": "https://www.geekwire.com/2026/blue-origin-space-station-on-hold-moon/",
+      "published": "2026-11-13T22:35:03Z",
+      "source": "GeekWire",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:16Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Washington Huskies football impacted by FAA ground stop",
+      "link": "https://www.seattletimes.com/sports/washington-huskies-football/washington-huskies-football-impacted-by-faa-ground-stop/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "published": "2026-11-13T22:31:05Z",
+      "source": "The Seattle Times",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:11Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "SIFF Cinema Workers Union Say Management Has ‘Unilaterally Suspended’ Bargaining",
+      "link": "https://www.thestranger.com/news/siff-cinema-workers-union-say-management-has-unilaterally-suspended-bargaining/",
+      "published": "2026-11-13T22:30:00Z",
+      "source": "The Stranger",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:12Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Issaquah police search for missing teen",
+      "link": "https://www.issaquahreporter.com/2026/11/13/issaquah-police-search-for-missing-teen/",
+      "published": "2026-11-13T22:30:00Z",
+      "source": "Issaquah Reporter",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:18Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Overnight lane, ramp closures planned on the eastbound SR-16 over the Tacoma Narrows Bridge",
+      "link": "https://www.kiro7.com/news/local/overnight-lane-ramp-closures-planned-eastbound-sr-16-over-tacoma-narrows-bridge/DAOC6NA3M5EJFAS25YO24QMOIA/",
+      "published": "2026-11-13T22:29:29Z",
+      "source": "KIRO 7",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:16Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Photos: FAA issues nationwide ground stop for all U.S. airports",
+      "link": "https://www.seattletimes.com/seattle-news/photos-faa-issues-nationwide-ground-stop-for-all-u-s-airports/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "published": "2026-11-13T22:26:46Z",
+      "source": "The Seattle Times",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:11Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "New Orleans cruise ship collision: The history and a closer look at the American Heritage paddlewheeler",
+      "link": "https://www.fox13seattle.com/news/new-orleans-cruise-ship-collision-history-closer-look-american-heritage-paddlewheeler",
+      "published": "2026-11-13T22:19:28Z",
+      "source": "FOX 13 Seattle",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:16Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Efforts are being made for King County info and service to be more accessible",
+      "link": "https://www.kiro7.com/news/local/efforts-are-being-made-king-county-info-service-be-more-accessible/HT4DCPNZLVA3VKAOZIERAHIQOE/",
+      "published": "2026-11-13T22:08:16Z",
+      "source": "KIRO 7",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:16Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Seahawks’ Rashid Shaheed expected to face Raiders; Leonard Williams out",
+      "link": "https://www.seattletimes.com/sports/seahawks/seahawks-rashid-shaheed-expected-to-face-raiders-leonard-williams-out/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "published": "2026-11-13T22:06:20Z",
+      "source": "The Seattle Times",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:11Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "The US flu season is off to a very early start. It’s targeting the South and West now",
+      "link": "https://www.seattletimes.com/seattle-news/health/the-us-flu-season-is-off-to-a-very-early-start-its-targeting-the-south-and-west-now/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "published": "2026-11-13T22:04:16Z",
+      "source": "The Seattle Times",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:11Z",
+      "category": "Health",
+      "local": true
+    },
+    {
+      "headline": "‘Ebenezer’ review: A ghastly update of Dickens’ classic story",
+      "link": "https://www.seattletimes.com/entertainment/movies/ebenezer-review-a-ghastly-update-of-dickens-classic-story/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "published": "2026-11-13T22:00:02Z",
+      "source": "The Seattle Times",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:11Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Former longtime Democratic Congressman Jim McDermott dies",
+      "link": "https://www.king5.com/article/news/politics/former-longtime-democratic-congressman-jim-mcdermott-dies/281-eeb20a45-3757-4a57-94fe-e5eb6fa5e72c",
+      "published": "2026-11-13T21:33:16Z",
+      "source": "KING 5",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:15Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "FAA ground stop delays more than 10,000 flights; nearly 4,000 canceled",
+      "link": "https://www.seattletimes.com/business/faa-issues-nationwide-ground-stop-pausing-all-flights/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "published": "2026-11-13T21:29:55Z",
+      "source": "The Seattle Times",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:11Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Family Dollar to pay $63 million to settle allegations that it routinely overcharged customers",
+      "link": "https://www.seattletimes.com/business/family-dollar-to-pay-63-million-to-settle-allegations-that-it-routinely-overcharged-customers/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "published": "2026-11-13T21:20:05Z",
+      "source": "The Seattle Times",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:11Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Flights halted at airports across US due to air traffic control communications problems",
+      "link": "https://www.seattletimes.com/nation-world/flights-are-halted-at-airports-across-the-united-states-due-to-unspecified-extraordinary-circumstances-faa-says/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "published": "2026-11-13T21:20:05Z",
+      "source": "The Seattle Times",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:11Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Son of former CIA Director John Brennan arrested on child sexual abuse images charge",
+      "link": "https://www.seattletimes.com/nation-world/nation/son-of-former-cia-director-john-brennan-arrested-on-child-sexual-abuse-images-charge/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "published": "2026-11-13T21:14:03Z",
+      "source": "The Seattle Times",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:11Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Overnight SR 522 closures planned at I-405 in Bothell",
+      "link": "https://www.kiro7.com/news/local/overnight-sr-522-closures-planned-i-405-bothell/E435JTMZ7RGLBJG2KTPW5KRVQM/",
+      "published": "2026-11-13T21:12:46Z",
+      "source": "KIRO 7",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:16Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "First-round schedule, scores for WA high school football state playoffs",
+      "link": "https://www.seattletimes.com/sports/high-school/first-round-schedule-scores-for-wa-high-school-football-state-playoffs/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "published": "2026-11-13T21:05:36Z",
+      "source": "The Seattle Times",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:11Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Timing of climate science reports ignites a hot fight at U.N. talks",
+      "link": "https://www.seattletimes.com/nation-world/timing-of-climate-science-reports-ignites-a-hot-fight-at-u-n-talks/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "published": "2026-11-13T21:04:11Z",
+      "source": "The Seattle Times",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:11Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Feds launch probe into WA school district over transgender athlete",
+      "link": "https://www.seattletimes.com/education-lab/feds-launch-probe-into-wa-school-district-over-transgender-athlete/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "published": "2026-11-13T21:01:13Z",
+      "source": "The Seattle Times",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:11Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Man, 20, receives 19 years for Federal Way murder in 2023",
+      "link": "https://www.seattleweekly.com/2026/11/13/man-20-receives-19-years-for-federal-way-murder-in-2023/",
+      "published": "2026-11-13T21:01:00Z",
+      "source": "Seattle Weekly",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:15Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Man, 20, receives 19 years for Federal Way murder in 2023",
+      "link": "https://www.bellevuereporter.com/2026/11/13/man-20-receives-19-years-for-federal-way-murder-in-2023/",
+      "published": "2026-11-13T21:01:00Z",
+      "source": "Bellevue Reporter",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:17Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Man, 20, receives 19 years for Federal Way murder in 2023",
+      "link": "https://www.issaquahreporter.com/2026/11/13/man-20-receives-19-years-for-federal-way-murder-in-2023/",
+      "published": "2026-11-13T21:01:00Z",
+      "source": "Issaquah Reporter",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:18Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Man, 20, receives 19 years for Federal Way murder in 2023",
+      "link": "https://www.kentreporter.com/2026/11/13/man-20-receives-19-years-for-federal-way-murder-in-2023/",
+      "published": "2026-11-13T21:01:00Z",
+      "source": "Kent Reporter",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:18Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Man, 20, receives 19 years for Federal Way murder in 2023",
+      "link": "https://www.rentonreporter.com/2026/11/13/man-20-receives-19-years-for-federal-way-murder-in-2023/",
+      "published": "2026-11-13T21:01:00Z",
+      "source": "Renton Reporter",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:18Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "I Saw U: Yelling at the Columbia City Farmers’ Market, Wearing New Vans at Broadcast Coffee, and Walking Your Dog on Capitol Hill",
+      "link": "https://www.thestranger.com/isawu/i-saw-u-yelling-at-the-columbia-city-farmers-market-wearing-new-vans-at-broadcast-coffee-and-walking-your-dog-on-capitol-hill/",
+      "published": "2026-11-13T21:00:00Z",
+      "source": "The Stranger",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:12Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "WA State Parks announces 2027 Discover Pass-free days",
+      "link": "https://www.seattleweekly.com/2026/11/13/wa-state-parks-announces-2027-discover-pass-free-days/",
+      "published": "2026-11-13T21:00:00Z",
+      "source": "Seattle Weekly",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:15Z",
+      "category": "Other"
+    },
+    {
+      "headline": "WA State Parks announces 2027 Discover Pass-free days",
+      "link": "https://www.bellevuereporter.com/2026/11/13/wa-state-parks-announces-2027-discover-pass-free-days/",
+      "published": "2026-11-13T21:00:00Z",
+      "source": "Bellevue Reporter",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:17Z",
+      "category": "Other"
+    },
+    {
+      "headline": "WA State Parks announces 2027 Discover Pass-free days",
+      "link": "https://www.issaquahreporter.com/2026/11/13/wa-state-parks-announces-2027-discover-pass-free-days/",
+      "published": "2026-11-13T21:00:00Z",
+      "source": "Issaquah Reporter",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:18Z",
+      "category": "Other"
+    },
+    {
+      "headline": "WA State Parks announces 2027 Discover Pass-free days",
+      "link": "https://www.kentreporter.com/2026/11/13/wa-state-parks-announces-2027-discover-pass-free-days/",
+      "published": "2026-11-13T21:00:00Z",
+      "source": "Kent Reporter",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:18Z",
+      "category": "Other"
+    },
+    {
+      "headline": "WA State Parks announces 2027 Discover Pass-free days",
+      "link": "https://www.rentonreporter.com/2026/11/13/wa-state-parks-announces-2027-discover-pass-free-days/",
+      "published": "2026-11-13T21:00:00Z",
+      "source": "Renton Reporter",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:18Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Araceli raises $4.5M for drug discovery tools aimed at reducing animal testing",
+      "link": "https://www.geekwire.com/2026/araceli-raises-4-5m-for-drug-discovery-tools-aimed-at-reducing-animal-testing/",
+      "published": "2026-11-13T20:51:49Z",
+      "source": "GeekWire",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:16Z",
+      "category": "Health"
+    },
+    {
+      "headline": "U.S. Rep. Jim McDermott, longtime Seattle Democrat and health care advocate, dies at 89: report",
+      "link": "https://www.fox13seattle.com/news/jim-mcdermott-dies-89",
+      "published": "2026-11-13T20:50:07Z",
+      "source": "FOX 13 Seattle",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:16Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Immigrant families detained in cold and sunless rooms beyond 72-hour limit, advocates say",
+      "link": "https://www.seattletimes.com/nation-world/nation/immigrant-families-detained-in-cold-and-sunless-rooms-beyond-72-hour-limit-advocates-say/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "published": "2026-11-13T20:49:12Z",
+      "source": "The Seattle Times",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:11Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Trump list of US-designated ‘foreign terrorist organizations’ in Latin America grows to 22",
+      "link": "https://www.seattletimes.com/nation-world/world/trump-list-of-us-designated-foreign-terrorist-organizations-in-latin-america-grows-to-22/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "published": "2026-11-13T20:32:23Z",
+      "source": "The Seattle Times",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:11Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "WA traffic: Closures to cause delays in King, Snohomish counties",
+      "link": "https://www.fox13seattle.com/news/wa-traffic-closures-king-snohomish",
+      "published": "2026-11-13T20:23:31Z",
+      "source": "FOX 13 Seattle",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:16Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "45 years ago: The ‘Friday the 13th windstorm’ slammed Western Washington",
+      "link": "https://www.kiro7.com/news/local/45-years-ago-friday-13th-windstorm-slammed-western-washington/AS7FII7UZBD5ZMTHOCQ4NUBWAA/",
+      "published": "2026-11-13T20:12:48Z",
+      "source": "KIRO 7",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:16Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Survivors of the deadly Brooklyn building collapse recall shock, terror and grief",
+      "link": "https://www.seattletimes.com/nation-world/nation/survivors-of-the-deadly-brooklyn-building-collapse-recall-shock-terror-and-grief/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "published": "2026-11-13T20:08:09Z",
+      "source": "The Seattle Times",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:11Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Ocean Shores, WA on boil water advisory: What residents should know",
+      "link": "https://www.fox13seattle.com/news/ocean-shores-wa-boil-water-advisory",
+      "published": "2026-11-13T20:08:07Z",
+      "source": "FOX 13 Seattle",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:16Z",
+      "category": "Health",
+      "local": true
+    },
+    {
+      "headline": "Katie Wilson’s RV Ban Veto Survives!",
+      "link": "https://www.thestranger.com/news/katie-wilsons-rv-ban-veto-survives/",
+      "published": "2026-11-13T20:00:00Z",
+      "source": "The Stranger",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:12Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Avril Lavigne welcomes a baby girl, her first child",
+      "link": "https://www.king5.com/article/news/nation-world/avril-lavigne-baby-girl-announcement/507-2297e585-0004-454d-a1ec-b00c1c8af0d2",
+      "published": "2026-11-13T19:58:20Z",
+      "source": "KING 5",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:15Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Gonzaga’s Chauncey Wiggins earns injunction, set to debut against LSU",
+      "link": "https://www.heraldnet.com/2026/11/13/gonzagas-chauncey-wiggins-earns-injunction-set-to-debut-against-lsu/",
+      "published": "2026-11-13T19:27:00Z",
+      "source": "The Daily Herald (Everett)",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:18Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "Alaska Airlines adds 5 nonstop routes from Seattle, including first flights to 3 cities",
+      "link": "https://www.king5.com/article/news/community/transportation/alaska-airlines-adds-five-nonstop-routes-seattle-first-flights-three-cities/281-0dc5a3b3-c06f-4d2e-b1c2-7f7bc5aa3e83",
+      "published": "2026-11-13T18:52:43Z",
+      "source": "KING 5",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:15Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "More than 720K BMW vehicles recalled for fire risk; owners urged to park outside",
+      "link": "https://www.king5.com/article/news/nation-world/bmw-recall-models-impacted-fire-risk-park-outside-issued/507-abe082be-07ae-40ae-b8ae-00fe08e6c6f0",
+      "published": "2026-11-13T18:47:36Z",
+      "source": "KING 5",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:15Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Podcast: Pack the House Campaign Wraps Up With Circle Back Week To Support Black-Owned Eateries",
+      "link": "https://seattlemedium.com/pack-the-house-circle-back-week/",
+      "published": "2026-11-13T18:43:25Z",
+      "source": "Seattle Medium",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:14Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Podcast: Youth And Law Forum Returns To Tukwila For 36th Year With Erin Jones And Shawn Kemp",
+      "link": "https://seattlemedium.com/youth-law-forum-tukwila-36th-year/",
+      "published": "2026-11-13T18:43:22Z",
+      "source": "Seattle Medium",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:14Z",
+      "category": "Health",
+      "local": true
+    },
+    {
+      "headline": "Podcast: Washington Health Insurance Premiums To Rise in 2027: What Open Enrollment Means For You",
+      "link": "https://seattlemedium.com/washington-health-insurance-premiums-2027/",
+      "published": "2026-11-13T18:43:20Z",
+      "source": "Seattle Medium",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:14Z",
+      "category": "Health",
+      "local": true
+    },
+    {
+      "headline": "Crash on I-5 in Federal Way cleared",
+      "link": "https://www.kiro7.com/news/local/crash-i-5-federal-causes-delays/NUNZ67PSQBCL3CSXRJWCL746YQ/",
+      "published": "2026-11-13T18:37:59Z",
+      "source": "KIRO 7",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:16Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "November 10, 2026",
+      "link": "https://www.cascadepbs.org/show/amanpour-co/episode/november-10-2026-oewzwa/",
+      "published": "2026-11-13T18:30:23Z",
+      "source": "Cascade PBS / Crosscut",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:12Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Nvidia CEO Faces Scrutiny Over Affair with Alleged Chinese Spy",
+      "link": "https://www.cascadepbs.org/show/amanpour-co/extras/nvidia-ceo-faces-scrutiny-over-affair-with-alleged-chinese-spy-bf0avn/",
+      "published": "2026-11-13T18:30:23Z",
+      "source": "Cascade PBS / Crosscut",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:12Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Seattle man charged with assault after accusing mail carrier of stealing ballot",
+      "link": "https://www.king5.com/article/news/crime/seattle-man-charged-assault-accusing-mail-carrier-stealing-ballot/281-45a3f89b-d63c-46e0-9285-915d81f50575",
+      "published": "2026-11-13T18:29:23Z",
+      "source": "KING 5",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:15Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Liberty soccer avenges 2025 state championship loss",
+      "link": "https://www.bellevuereporter.com/2026/11/13/liberty-soccer-avenges-2025-state-championship-loss/",
+      "published": "2026-11-13T18:24:00Z",
+      "source": "Bellevue Reporter",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:17Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "Liberty soccer avenges 2025 state championship loss",
+      "link": "https://www.rentonreporter.com/2026/11/13/liberty-soccer-avenges-2025-state-championship-loss/",
+      "published": "2026-11-13T18:24:00Z",
+      "source": "Renton Reporter",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:18Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "Flooding expected in Seattle's South Park area; how to prepare",
+      "link": "https://www.fox13seattle.com/news/flooding-seattle-south-park",
+      "published": "2026-11-13T18:17:12Z",
+      "source": "FOX 13 Seattle",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:16Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "'KPop Demon Hunters' goes global as Netflix and AEG announce 2027 world tour",
+      "link": "https://www.king5.com/article/news/nation-world/kpop-demon-hunters-golden-world-tour-2027/507-8d852b09-11da-49e7-969c-5bb57595121d",
+      "published": "2026-11-13T18:15:36Z",
+      "source": "KING 5",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:15Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "The Best Bang for Your Buck Events in Seattle This Weekend: Nov 13–15, 2026",
+      "link": "https://www.thestranger.com/everout/the-best-bang-for-your-buck-events-in-seattle-this-weekend-nov-13-15-2026/",
+      "published": "2026-11-13T18:00:28Z",
+      "source": "The Stranger",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:12Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Seattle’s Leaders are Notably Absent from Nationwide Boycott of Starbucks Over Labor Abuses",
+      "link": "https://www.thestranger.com/news/seattles-leaders-are-notably-absent-from-nationwide-boycott-of-starbucks-over-labor-abuses/",
+      "published": "2026-11-13T18:00:00Z",
+      "source": "The Stranger",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:12Z",
+      "category": "Other"
+    },
     {
       "headline": "2 men accused of stealing, reselling $3.2M in products from online stores face Seattle arraignment",
       "link": "https://www.kiro7.com/news/local/2-men-accused-stealing-reselling-32m-products-online-stores-face-seattle-arraignment/SQHBE3YXPZAHREFFU4J3GCWN7E/",
@@ -73,6 +969,16 @@
       "area": "Seattle",
       "fetched_at": "2026-11-13T17:50:53Z",
       "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "U.S. struggles with measles surge after decades of progress",
+      "link": "https://www.cascadepbs.org/show/horizons/episode/us-struggles-with-measles-surge-after-decades-of-progress-k9nsg6/",
+      "published": "2026-11-13T17:00:23Z",
+      "source": "Cascade PBS / Crosscut",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:12Z",
+      "category": "Health",
       "local": true
     },
     {
@@ -150,6 +1056,16 @@
       "local": true
     },
     {
+      "headline": "Jon Langford",
+      "link": "https://www.cascadepbs.org/show/overheard-evan-smith/episode/jon-langford-qavwza/",
+      "published": "2026-11-13T16:02:18Z",
+      "source": "Cascade PBS / Crosscut",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:12Z",
+      "category": "Other",
+      "local": true
+    },
+    {
       "headline": "Sustainable Gifts That Are Actually Fashionable",
       "link": "https://www.seattlemet.com/style-and-shopping/sustainable-gift-guide/",
       "published": "2026-11-13T16:00:05Z",
@@ -179,6 +1095,16 @@
       "local": true
     },
     {
+      "headline": "The AI Boom Was Built Around Jensen Huang. Now What?",
+      "link": "https://seattlemedium.com/ai-boom-without-jensen-huang/",
+      "published": "2026-11-13T15:50:00Z",
+      "source": "Seattle Medium",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:14Z",
+      "category": "Other",
+      "local": true
+    },
+    {
       "headline": "Uncommon Thinkers: Alexis Harroun aims for space with a new engine — and stays grounded",
       "link": "https://www.geekwire.com/2026/uncommon-thinkers-alexis-harroun-aims-for-space-with-a-new-engine-and-stays-grounded/",
       "published": "2026-11-13T15:46:53Z",
@@ -205,6 +1131,16 @@
       "area": "Seattle",
       "fetched_at": "2026-11-13T17:50:53Z",
       "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Massive Microsoft Outage Disrupts Businesses, Schools And Governments Around The World",
+      "link": "https://seattlemedium.com/microsoft-outage-disrupts-world/",
+      "published": "2026-11-13T15:40:00Z",
+      "source": "Seattle Medium",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:14Z",
+      "category": "Business",
       "local": true
     },
     {
@@ -245,6 +1181,16 @@
       "area": "Seattle",
       "fetched_at": "2026-11-13T17:50:53Z",
       "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Inside Mike Tyson’s Netflix Documentary: The Toad, Trauma And Finding Peace",
+      "link": "https://seattlemedium.com/mike-tyson-netflix-documentary-toad/",
+      "published": "2026-11-13T15:30:00Z",
+      "source": "Seattle Medium",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:14Z",
+      "category": "Sports",
       "local": true
     },
     {
@@ -497,6 +1443,15 @@
       "category": "Other"
     },
     {
+      "headline": "Letters to the Editor",
+      "link": "https://www.heraldnet.com/2026/11/13/letters-to-the-editor-196/",
+      "published": "2026-11-13T09:30:00Z",
+      "source": "The Daily Herald (Everett)",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:18Z",
+      "category": "Other"
+    },
+    {
       "headline": "Construction projects for bike lanes, culvert and ferry dock discussed @ Fauntleroy Community Association’s November meeting",
       "link": "https://westseattleblog.com/2026/11/construction-projects-for-bike-lanes-culvert-and-ferry-dock-discussed-fauntleroy-community-associations-november-meeting/",
       "published": "2026-11-13T06:32:43Z",
@@ -640,6 +1595,16 @@
       "area": "Seattle",
       "fetched_at": "2026-11-13T17:50:50Z",
       "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Tacoma cake boutique resumes decorating classes after rebuilding from fire",
+      "link": "https://www.kiro7.com/news/local/tacoma-cake-boutique-resumes-decorating-classes-after-rebuilding-arson-attack/R7QU4GYZLRAD3BCDF6AFKWBLZE/",
+      "published": "2026-11-13T02:35:44Z",
+      "source": "KIRO 7",
+      "area": "Seattle",
+      "fetched_at": "2026-11-14T00:33:16Z",
+      "category": "Food & Events",
       "local": true
     },
     {
@@ -16616,617 +17581,6 @@
       "area": "Seattle",
       "fetched_at": "2026-10-31T15:49:55Z",
       "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Washington Week with The Atlantic full episode, 10/30/26",
-      "link": "https://www.cascadepbs.org/show/washington-week/episode/washington-week-with-the-atlantic-full-episode-103026-3jyl2r/",
-      "published": "2026-10-31T00:30:25Z",
-      "source": "Cascade PBS / Crosscut",
-      "area": "Seattle",
-      "fetched_at": "2026-10-31T15:49:55Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Scenes from Hiawatha Community Center’s first post-reopening Halloween carnival",
-      "link": "https://westseattleblog.com/2026/10/happening-now-hiawatha-community-centers-first-post-reopening-halloween-carnival/",
-      "published": "2026-10-31T00:24:57Z",
-      "source": "West Seattle Blog",
-      "area": "Seattle",
-      "fetched_at": "2026-10-31T15:49:58Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Washington governor rips Microsoft over TV ad in leaked audio",
-      "link": "https://www.geekwire.com/2026/washington-governor-rips-microsoft-over-tv-ad-in-leaked-audio/",
-      "published": "2026-10-31T00:21:33Z",
-      "source": "GeekWire",
-      "area": "Seattle",
-      "fetched_at": "2026-10-31T15:49:59Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Woman arrested by ICE at SEA Airport while traveling for potential promotion",
-      "link": "https://www.king5.com/article/news/politics/immigration-news/woman-arrested-by-ice-sea-airport-while-traveling-for-potential-promotion/281-b63d954a-139a-439d-ae30-f220232ea325",
-      "published": "2026-10-31T00:21:14Z",
-      "source": "KING 5",
-      "area": "Seattle",
-      "fetched_at": "2026-10-31T15:49:57Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Beabamania",
-      "link": "https://www.thestranger.com/arts/beabamania/",
-      "published": "2026-10-31T00:16:33Z",
-      "source": "The Stranger",
-      "area": "Seattle",
-      "fetched_at": "2026-10-31T15:49:55Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Yelm school district could dissolve if levy fails next week, superintendent warns",
-      "link": "https://www.king5.com/article/news/education/yelm-school-district-could-dissolve-if-levy-fails-next-week-superintendent-warns/281-af54fe36-75fa-4bd1-a62e-c06abb5734d3",
-      "published": "2026-10-31T00:15:01Z",
-      "source": "KING 5",
-      "area": "Seattle",
-      "fetched_at": "2026-10-31T15:49:57Z",
-      "category": "Education",
-      "local": true
-    },
-    {
-      "headline": "Kent School District teacher is one of five national 2027 Horace Mann awardees",
-      "link": "https://www.kentreporter.com/2026/10/30/kent-school-district-teacher-is-one-of-five-national-2027-horace-mann-awardees/",
-      "published": "2026-10-31T00:00:00Z",
-      "source": "Kent Reporter",
-      "area": "Seattle",
-      "fetched_at": "2026-11-02T20:27:49Z",
-      "category": "Education"
-    },
-    {
-      "headline": "Lake level litigation? Black Diamond residents claim water district is draining Lake Sawyer",
-      "link": "https://www.seattleweekly.com/2026/10/30/lake-level-litigation-black-diamond-residents-claim-water-district-is-draining-lake-sawyer/",
-      "published": "2026-10-30T23:45:00Z",
-      "source": "Seattle Weekly",
-      "area": "Seattle",
-      "fetched_at": "2026-10-31T15:49:57Z",
-      "category": "Education"
-    },
-    {
-      "headline": "Lake level litigation? Black Diamond residents claim water district is draining Lake Sawyer",
-      "link": "https://www.bellevuereporter.com/2026/10/30/lake-level-litigation-black-diamond-residents-claim-water-district-is-draining-lake-sawyer/",
-      "published": "2026-10-30T23:45:00Z",
-      "source": "Bellevue Reporter",
-      "area": "Seattle",
-      "fetched_at": "2026-10-31T15:49:59Z",
-      "category": "Education"
-    },
-    {
-      "headline": "Lake level litigation? Black Diamond residents claim water district is draining Lake Sawyer",
-      "link": "https://www.issaquahreporter.com/2026/10/30/lake-level-litigation-black-diamond-residents-claim-water-district-is-draining-lake-sawyer/",
-      "published": "2026-10-30T23:45:00Z",
-      "source": "Issaquah Reporter",
-      "area": "Seattle",
-      "fetched_at": "2026-10-31T15:49:59Z",
-      "category": "Education"
-    },
-    {
-      "headline": "Lake level litigation? Black Diamond residents claim water district is draining Lake Sawyer",
-      "link": "https://www.kentreporter.com/2026/10/30/lake-level-litigation-black-diamond-residents-claim-water-district-is-draining-lake-sawyer/",
-      "published": "2026-10-30T23:45:00Z",
-      "source": "Kent Reporter",
-      "area": "Seattle",
-      "fetched_at": "2026-10-31T15:49:59Z",
-      "category": "Education"
-    },
-    {
-      "headline": "Lake level litigation? Black Diamond residents claim water district is draining Lake Sawyer",
-      "link": "https://www.rentonreporter.com/2026/10/30/lake-level-litigation-black-diamond-residents-claim-water-district-is-draining-lake-sawyer/",
-      "published": "2026-10-30T23:45:00Z",
-      "source": "Renton Reporter",
-      "area": "Seattle",
-      "fetched_at": "2026-10-31T15:50:00Z",
-      "category": "Education"
-    },
-    {
-      "headline": "State Supreme Court Candidate Sean O’Donnell Says he Supports Reproductive Rights, Local Advocates Aren’t Convinced",
-      "link": "https://www.thestranger.com/news/state-supreme-court-candidate-sean-odonnell-says-he-supports-reproductive-rights-local-advocates-arent-convinced/",
-      "published": "2026-10-30T23:35:00Z",
-      "source": "The Stranger",
-      "area": "Seattle",
-      "fetched_at": "2026-10-31T15:49:55Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "VIDEO, PHOTOS: Admiral Trick or Treat 2026, with sunshine",
-      "link": "https://westseattleblog.com/2026/10/happening-now-admiral-trick-or-treat-2026-with-sunshine/",
-      "published": "2026-10-30T23:28:19Z",
-      "source": "West Seattle Blog",
-      "area": "Seattle",
-      "fetched_at": "2026-10-31T15:49:58Z",
-      "category": "Other"
-    },
-    {
-      "headline": "'Disappointed' Anthony Bradford handling Seattle Seahawks demotion",
-      "link": "https://www.fox13seattle.com/sports/disappointed-bradford-handling-seahawks-demotion",
-      "published": "2026-10-30T23:26:19Z",
-      "source": "FOX 13 Seattle",
-      "area": "Seattle",
-      "fetched_at": "2026-10-31T15:49:59Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Ground cinnamon recalled in 14 states over possible lead contamination",
-      "link": "https://www.king5.com/article/news/nation-world/ground-cinnamon-recall-lead-contamination-wise-wife/507-6957d5b5-4c64-45b0-a0b5-7cb9188b7425",
-      "published": "2026-10-30T23:16:58Z",
-      "source": "KING 5",
-      "area": "Seattle",
-      "fetched_at": "2026-10-31T15:49:57Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "The Stranger’s Noise Complaint: Intisaar Jubran",
-      "link": "https://www.thestranger.com/noise-complaint/the-strangers-noise-complaint-intisaar-jubran/",
-      "published": "2026-10-30T23:06:48Z",
-      "source": "The Stranger",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:28Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Jacob Aune II With WR",
-      "link": "https://www.cascadepbs.org/show/whitney-reynolds-show/trailers/jacob-aune-ii-with-wr-sdnx1d/",
-      "published": "2026-10-30T23:00:45Z",
-      "source": "Cascade PBS / Crosscut",
-      "area": "Seattle",
-      "fetched_at": "2026-10-31T15:49:55Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "October 30, 2026 - PBS News Hour full episode",
-      "link": "https://www.cascadepbs.org/show/newshour/episode/october-30-2026-pbs-news-hour-full-episode-1793332801/",
-      "published": "2026-10-30T23:00:45Z",
-      "source": "Cascade PBS / Crosscut",
-      "area": "Seattle",
-      "fetched_at": "2026-10-31T15:49:55Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "October 30, 2026",
-      "link": "https://www.cascadepbs.org/show/amanpour-co/episode/october-30-2026-tczxb9/",
-      "published": "2026-10-30T22:45:26Z",
-      "source": "Cascade PBS / Crosscut",
-      "area": "Seattle",
-      "fetched_at": "2026-10-31T15:49:55Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Tender and Tedious (Sometimes Ecstatic)",
-      "link": "https://www.thestranger.com/arts/tender-melissa-messer/",
-      "published": "2026-10-30T22:39:28Z",
-      "source": "The Stranger",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:28Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Goodbye, Captain Picard",
-      "link": "https://www.thestranger.com/film-2/goodbye-captain-picard/",
-      "published": "2026-10-30T22:36:02Z",
-      "source": "The Stranger",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:28Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "I, Anonymous: Let Dogs Be Dogs",
-      "link": "https://www.thestranger.com/i-anonymous/i-anonymous-let-dogs-be-dogs/",
-      "published": "2026-10-30T22:30:00Z",
-      "source": "The Stranger",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:28Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Archbishop Murphy football forfeits games following investigation",
-      "link": "https://www.heraldnet.com/2026/10/30/archbishop-murphy-football-forfeits-games-following-investigation/",
-      "published": "2026-10-30T22:30:00Z",
-      "source": "The Daily Herald (Everett)",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:35Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Mother of young man murdered in Burien, WA begs for tips",
-      "link": "https://www.fox13seattle.com/news/mother-man-murdered-burien-begs-tips",
-      "published": "2026-10-30T22:28:54Z",
-      "source": "FOX 13 Seattle",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:32Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "How to watch live 2026 Washington Election Day coverage on FOX 13",
-      "link": "https://www.fox13seattle.com/news/election-day-coverage-fox-13-seatte",
-      "published": "2026-10-30T22:22:50Z",
-      "source": "FOX 13 Seattle",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:32Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "National Guard keeping extra eye on ballot boxes in Snohomish County",
-      "link": "https://www.heraldnet.com/2026/10/30/national-guard-keeping-extra-eye-on-ballot-boxes-in-snohomish-county/",
-      "published": "2026-10-30T22:17:00Z",
-      "source": "The Daily Herald (Everett)",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:35Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Madrona Prize goes to UW research on agents that shrink AI models to run on small chips",
-      "link": "https://www.geekwire.com/2026/madrona-prize-goes-to-uw-research-on-agents-that-shrink-ai-models-to-run-on-small-chips/",
-      "published": "2026-10-30T22:13:09Z",
-      "source": "GeekWire",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:33Z",
-      "category": "Education"
-    },
-    {
-      "headline": "‘It's a dumpster fire’; Sec. Hobbs rejects DOJ claims of voter fraud in WA",
-      "link": "https://www.fox13seattle.com/news/sec-hobbs-doj-claims-voter-fraud-wa",
-      "published": "2026-10-30T22:00:46Z",
-      "source": "FOX 13 Seattle",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:32Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Seattle weather: Halloween forecast looks dry, partly cloudy",
-      "link": "https://www.fox13seattle.com/weather/seattle-weather-halloween-forecast-dry",
-      "published": "2026-10-30T22:00:31Z",
-      "source": "FOX 13 Seattle",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:32Z",
-      "category": "Weather",
-      "local": true
-    },
-    {
-      "headline": "When will we know who won the midterms?",
-      "link": "https://www.king5.com/article/news/nation-world/2026-midterms-when-will-we-know-who-won-house-senate/507-67ffcefd-7043-4d12-b204-dd44d83c8f63",
-      "published": "2026-10-30T21:42:27Z",
-      "source": "KING 5",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:31Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Mukilteo/Clinton ferry service to end early again for repairs",
-      "link": "https://www.kiro7.com/news/local/mukilteoclinton-ferry-service-end-early-again-repairs/2VOMFBKY4RDUNPEK6P7NQ7GXEU/",
-      "published": "2026-10-30T21:36:35Z",
-      "source": "KIRO 7",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:32Z",
-      "category": "Traffic & Transit",
-      "local": true
-    },
-    {
-      "headline": "FOLLOWUP: Change at Seacrest? City proposal process results in Marination staying and deciding to swap Alki Kayak Tours for Duwamish Tribe",
-      "link": "https://westseattleblog.com/2026/10/followup-change-at-seacrest-city-proposal-process-results-in-marination-staying-and-deciding-to-swap-alki-kayak-tours-for-duwamish-tribe/",
-      "published": "2026-10-30T21:31:03Z",
-      "source": "West Seattle Blog",
-      "area": "Seattle",
-      "fetched_at": "2026-10-31T15:49:58Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Trump Won These States. Now Republicans Face an Uncertain Midterm",
-      "link": "https://www.cascadepbs.org/show/amanpour-co/extras/trump-won-these-states-now-republicans-face-an-uncertain-midterm-3hcvtc/",
-      "published": "2026-10-30T21:30:55Z",
-      "source": "Cascade PBS / Crosscut",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:28Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Kentlake’s Lincoln Moore commits to play baseball at UCLA",
-      "link": "https://www.kentreporter.com/2026/10/30/kentlakes-lincoln-moore-commits-to-play-baseball-at-ucla/",
-      "published": "2026-10-30T21:30:00Z",
-      "source": "Kent Reporter",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:34Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "These historic firsts could happen in the 2026 midterms",
-      "link": "https://www.king5.com/article/news/politics/elections/2026-midterm-elections-possible-historic-firsts/507-961eeafc-701b-4fc6-9e60-462b343eb2e5",
-      "published": "2026-10-30T21:12:25Z",
-      "source": "KING 5",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:31Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Redistricting could shape 2026 midterm election",
-      "link": "https://www.king5.com/article/news/nation-world/redistricting-2026-midterm-election/507-5c5424a0-9b22-4808-b551-edad981d8b4b",
-      "published": "2026-10-30T21:09:21Z",
-      "source": "KING 5",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:31Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "A New Dwarf Planet Hiding in Our Solar System?",
-      "link": "https://www.cascadepbs.org/show/nova/extras/a-new-dwarf-planet-hiding-in-our-solar-system-wirx3l/",
-      "published": "2026-10-30T21:00:56Z",
-      "source": "Cascade PBS / Crosscut",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:28Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Dear Hendrix",
-      "link": "https://www.thestranger.com/dear-hendrix/dear-hendrix-6/",
-      "published": "2026-10-30T21:00:00Z",
-      "source": "The Stranger",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:28Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Longview paper mill fined $77K for unrelated safety incident a month before fatal tank rupture",
-      "link": "https://www.king5.com/article/news/local/nippon-dynawave-fined-unrelated-pulp-incident-before-tank-failure/283-3e185a71-8a5e-4079-8f18-6a0dafa12364",
-      "published": "2026-10-30T20:41:58Z",
-      "source": "KING 5",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:31Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "New York, I Love You, but You’re Bringing Me Down",
-      "link": "https://www.thestranger.com/film-2/new-york-i-love-you-but-youre-bringing-me-down/",
-      "published": "2026-10-30T20:31:35Z",
-      "source": "The Stranger",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:28Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Eng family home restored by museum offers glimpse into 1930s life in CID",
-      "link": "https://www.kiro7.com/news/local/eng-family-home-restored-by-museum-offers-glimpse-into-1930s-life-cid/JPHJQPOVONARFCOVXAGWJSGPVE/",
-      "published": "2026-10-30T20:27:29Z",
-      "source": "KIRO 7",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:32Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "WA State Ferries cancels multiple sailings for repairs, crewing needs",
-      "link": "https://www.fox13seattle.com/news/wa-ferries-cancels-sailings-mukilteo",
-      "published": "2026-10-30T20:23:37Z",
-      "source": "FOX 13 Seattle",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:32Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "4th Avenue Beach: Welcome, new West Seattle Blog sponsor!",
-      "link": "https://westseattleblog.com/2026/10/4th-avenue-beach-welcome-new-west-seattle-blog-sponsor/",
-      "published": "2026-10-30T19:45:49Z",
-      "source": "West Seattle Blog",
-      "area": "Seattle",
-      "fetched_at": "2026-10-31T15:49:58Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Armed North Seattle car thief arrested after jumping into Lake Washington",
-      "link": "https://www.fox13seattle.com/news/north-seattle-car-thief-arrested-lake",
-      "published": "2026-10-30T19:45:38Z",
-      "source": "FOX 13 Seattle",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:32Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "All lanes of Tacoma Narrows Bridge reopen ahead schedule after joint repairs",
-      "link": "https://www.kiro7.com/news/local/tacoma-narrows-bridge-reopens-ahead-schedule-after-closure-maintenance/QGAM6CC7HBDY5LLW74XLSFHKTE/",
-      "published": "2026-10-30T19:45:34Z",
-      "source": "KIRO 7",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:32Z",
-      "category": "Traffic & Transit",
-      "local": true
-    },
-    {
-      "headline": "Route 40 Upgrades Finally Reach Finish Line, Despite Business Opposition",
-      "link": "https://www.theurbanist.org/route-40-upgrades-finally-reach-finish-line-despite-business-opposition/",
-      "published": "2026-10-30T19:45:06Z",
-      "source": "The Urbanist",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:30Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "I-638 would bar trans athletes from girls' school sports. What would medical verification involve?",
-      "link": "https://www.king5.com/article/news/politics/elections/what-happens-if-initiative-638-passes/281-e66c42c0-692c-4a66-a664-492a360f09fb",
-      "published": "2026-10-30T19:44:26Z",
-      "source": "KING 5",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:31Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "2026 NBA Cup guide: Schedule, how it works and more",
-      "link": "https://www.king5.com/article/news/nation-world/2026-nba-cup-schedule-guide/507-06618140-f879-46c8-8630-2cfa03b6304f",
-      "published": "2026-10-30T19:39:16Z",
-      "source": "KING 5",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:31Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Federal appeals court reinstates 'NFL Sunday Ticket' class-action lawsuit verdict, orders new trial",
-      "link": "https://www.king5.com/article/news/nation-world/nfl-sunday-ticket-class-action-lawsuit-reinstated/507-5f01df34-f216-47be-b8e4-119b276fb1e2",
-      "published": "2026-10-30T19:35:15Z",
-      "source": "KING 5",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:31Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Southbound I-405 in Bothell to close all weekend for pedestrian bridge removal",
-      "link": "https://www.kiro7.com/news/local/southbound-i-405-bothell-close-all-weekend-pedestrian-bridge-removal/AFYPC7TCM5DQPG3QMY4IYXDDSU/",
-      "published": "2026-10-30T19:32:39Z",
-      "source": "KIRO 7",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:32Z",
-      "category": "Traffic & Transit",
-      "local": true
-    },
-    {
-      "headline": "Northbound I-5 through Seattle to close all weekend as Revive I-5 work wraps up",
-      "link": "https://www.kiro7.com/news/local/northbound-i-5-through-seattle-close-all-weekend-revive-i-5-work-wraps-up/I3BITSXSWREPBPELZMQFOR46BE/",
-      "published": "2026-10-30T19:12:35Z",
-      "source": "KIRO 7",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:32Z",
-      "category": "Traffic & Transit",
-      "local": true
-    },
-    {
-      "headline": "Archbishop Murphy football forfeits three games after investigation",
-      "link": "https://www.heraldnet.com/2026/10/30/archbishop-murphy-football-forfeits-three-games-after-investigation/",
-      "published": "2026-10-30T19:07:00Z",
-      "source": "The Daily Herald (Everett)",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:35Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "2 arrested, 13 pounds of cocaine seized in Wenatchee, WA operation",
-      "link": "https://www.fox13seattle.com/news/cocaine-seized-wenatchee-wa",
-      "published": "2026-10-30T19:03:29Z",
-      "source": "FOX 13 Seattle",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:32Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Reddit plans major shift on how users access platform as AI dampens search traffic",
-      "link": "https://www.king5.com/article/news/nation-world/reddit-changes-planned-logged-in-users-access/507-f529099f-8b89-4280-92bd-c083bbeebde8",
-      "published": "2026-10-30T19:02:30Z",
-      "source": "KING 5",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:31Z",
-      "category": "Traffic & Transit",
-      "local": true
-    },
-    {
-      "headline": "100 years after Houdini's death, a look at his daring escapes in Seattle and Tacoma",
-      "link": "https://www.king5.com/article/news/history/100-years-after-houdinis-death-daring-escapes-seattle-tacoma/281-9c6921eb-1cc4-431e-86d6-0b42710913b8",
-      "published": "2026-10-30T19:00:00Z",
-      "source": "KING 5",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:31Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Man arrested after stealing a car, hitting a patrol vehicle, and jumping into Lake Washington",
-      "link": "https://www.kiro7.com/news/local/man-arrested-after-stealing-car-hitting-patrol-vehicle-jumping-into-lake-washington/FNXQR4T2RRDDFAHUWZZRYY7VNU/",
-      "published": "2026-10-30T18:57:13Z",
-      "source": "KIRO 7",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:32Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Kent Reporter Athletes of the Week: Kentlake",
-      "link": "https://www.kentreporter.com/2026/10/30/kent-reporter-athletes-of-the-week-kentlake-12/",
-      "published": "2026-10-30T18:51:00Z",
-      "source": "Kent Reporter",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:34Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Kent Reporter Coach of the Month: Michael Dobner",
-      "link": "https://www.kentreporter.com/2026/10/30/kent-reporter-coach-of-the-month-michael-dobner/",
-      "published": "2026-10-30T18:50:00Z",
-      "source": "Kent Reporter",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:34Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Heads up for Halloweekend, Seattle drivers! NB I-5 closure starts tonight",
-      "link": "https://www.kiro7.com/news/local/heads-up-halloweekend-seattle-drivers-nb-i-5-closure-starts-tonight/B2WRLB6VERFXTAQVXJ26A5GSV4/",
-      "published": "2026-10-30T18:42:54Z",
-      "source": "KIRO 7",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:32Z",
-      "category": "Traffic & Transit",
-      "local": true
-    },
-    {
-      "headline": "Daylight Saving Time ends this weekend. Here's how it can affect you and what you can do about it",
-      "link": "https://www.king5.com/article/news/nation-world/daylight-saving-time-ends-this-weekend/507-2b369cc5-8f82-4954-870f-d00707e5a33b",
-      "published": "2026-10-30T18:41:31Z",
-      "source": "KING 5",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:31Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Schmitz Park Restore gets a spotlight at Mechanics Bank – and offers you a tour tomorrow",
-      "link": "https://westseattleblog.com/2026/10/schmitz-park-restore-gets-a-spotlight-at-mechanics-bank-and-offers-you-a-tour-tomorrow/",
-      "published": "2026-10-30T18:36:50Z",
-      "source": "West Seattle Blog",
-      "area": "Seattle",
-      "fetched_at": "2026-10-31T15:49:58Z",
-      "category": "Business"
-    },
-    {
-      "headline": "Filing: Chip startup Powerlattice raises $86M to ease AI’s power crunch",
-      "link": "https://www.geekwire.com/2026/filing-chip-startup-powerlattice-raises-86m-to-ease-ais-power-crunch/",
-      "published": "2026-10-30T18:30:57Z",
-      "source": "GeekWire",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:33Z",
-      "category": "Business"
-    },
-    {
-      "headline": "Arlington teacher awarded after saving child from choking",
-      "link": "https://www.kiro7.com/news/local/arlington-teacher-awarded-after-saving-child-choking/4NEYGHNRINEXLAST37GKSPO7WA/",
-      "published": "2026-10-30T18:23:29Z",
-      "source": "KIRO 7",
-      "area": "Seattle",
-      "fetched_at": "2026-10-30T23:17:32Z",
-      "category": "Education",
       "local": true
     }
   ],
