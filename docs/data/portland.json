@@ -1,11 +1,856 @@
 {
-  "generated_at": "2026-11-14T23:29:14Z",
+  "generated_at": "2026-11-15T17:18:22Z",
   "name": "Portland, OR",
   "areas": [
     "Portland",
     "Vancouver & Clark County, WA"
   ],
   "articles": [
+    {
+      "headline": "‘Uncle Paul’ podcast dives into Caneiro family murders. Now you can watch on YouTube.",
+      "link": "https://www.oregonlive.com/news/2026/11/uncle-paul-podcast-dives-into-caneiro-family-murders-now-you-can-watch-on-youtube.html",
+      "published": "2026-11-15T17:15:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Dozens of stolen miniature horse figurines recovered in Portland",
+      "link": "https://www.koin.com/news/portland/dozens-of-stolen-miniature-horse-figurines-recovered-in-portland/",
+      "published": "2026-11-15T17:04:38Z",
+      "source": "KOIN 6",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:03Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Where to watch Elina Svitolina vs. Mirra Andreeva tennis for free",
+      "link": "https://www.oregonlive.com/tv/2026/11/where-to-watch-elina-svitolina-vs-mirra-andreeva-wta-finals-tennis-for-free-today.html",
+      "published": "2026-11-15T17:00:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "72 stolen mini horses recovered in Portland theft case",
+      "link": "https://www.oregonlive.com/crime/2026/11/72-miniature-horses-stolen-from-a-portland-visitor-have-been-found-police-say.html",
+      "published": "2026-11-15T16:58:45Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "What they’re saying nationally, in Ann Arbor after Oregon’s win over Michigan",
+      "link": "https://www.oregonlive.com/ducks/2026/11/what-theyre-saying-nationally-in-ann-arbor-after-oregons-win-over-michigan.html",
+      "published": "2026-11-15T16:56:41Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "8 takeaways from Oregon’s comprehensive win over Michigan",
+      "link": "https://www.oregonlive.com/ducks/2026/11/8-takeaways-from-oregons-comprehensive-win-over-michigan.html",
+      "published": "2026-11-15T16:35:16Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Ailing Rock & Roll Hall of Famer cries during induction",
+      "link": "https://www.oregonlive.com/trending/2026/11/rock-roll-hall-of-famer-walking-with-2-canes-cries-during-induction-amidst-health-issues.html",
+      "published": "2026-11-15T16:29:23Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Portland rain sticks around a few more days. Here’s when it lets up",
+      "link": "https://www.oregonlive.com/weather/2026/11/portland-rain-sticks-around-a-few-more-days-heres-when-it-lets-up.html",
+      "published": "2026-11-15T16:21:39Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "Midterm voters ended the long-running GOP dominance in state legislatures",
+      "link": "https://www.opb.org/article/2026/11/15/midterm-voters-ended-the-long-running-gop-control-in-states/",
+      "published": "2026-11-15T16:13:13Z",
+      "source": "OPB",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:01Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "No. 17 Boise State outlasts Oregon State 46-41 to wrap up host spot in Pac-12 title game",
+      "link": "https://www.opb.org/article/2026/11/15/no-17-boise-state-outlasts-oregon-state-46-41-to-wrap-up-host-spot-in-pac-12-title-game/",
+      "published": "2026-11-15T16:05:03Z",
+      "source": "OPB",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:01Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Survivor helps Latinas escape domestic violence",
+      "link": "https://www.oregonlive.com/palabra/2026/11/survivor-helps-latinas-escape-domestic-violence.html",
+      "published": "2026-11-15T16:00:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Readers respond: BAAJA will help Oregon",
+      "link": "https://www.oregonlive.com/opinion/2026/11/readers-respond-baaja-will-help-oregon.html",
+      "published": "2026-11-15T16:00:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Dear Annie: I know it's 'his money too,' but lying for 3 years about his spending feels like betrayal",
+      "link": "https://www.oregonlive.com/advice/2026/11/dear-annie-i-know-its-his-money-too-but-lying-for-3-years-about-his-spending-feels-like-betrayal.html",
+      "published": "2026-11-15T16:00:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Dylan Raiola throws for 4 touchdowns and No. 18 Oregon downs Michigan 31-7",
+      "link": "https://www.opb.org/article/2026/11/15/dylan-raiola-throws-for-4-touchdowns-and-no-18-oregon-downs-michigan-31-7/",
+      "published": "2026-11-15T15:59:41Z",
+      "source": "OPB",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:01Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Flight cancellations, delays continue to plague air travel days after nationwide ground stop",
+      "link": "https://www.kgw.com/article/news/nation-world/flight-cancellations-delay-faa-ground-stop-live-updates/507-f9f47610-8b49-4fc6-ae6a-9cbc695e93bb",
+      "published": "2026-11-15T15:36:20Z",
+      "source": "KGW",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:01Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Who pays Oregon’s income tax? The wealthy, mostly, but that’s not the whole story",
+      "link": "https://www.oregonlive.com/business/2026/11/who-pays-oregons-income-tax-the-wealthy-mostly-but-thats-not-the-whole-story.html",
+      "published": "2026-11-15T15:02:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Who’s the greatest Grinch? 5 actors’ work rated",
+      "link": "https://www.columbian.com/news/2026/nov/15/whos-the-greatest-grinch-5-actors-work-rated/",
+      "published": "2026-11-15T15:00:04Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-15T17:16:06Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Editorial: PPS board needs to send the right signal on public records mess",
+      "link": "https://www.oregonlive.com/opinion/2026/11/editorial-pps-board-needs-to-send-the-right-signal-on-public-records-mess.html",
+      "published": "2026-11-15T15:00:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Popular ’90s band announces comeback 6 years after final concert",
+      "link": "https://www.oregonlive.com/trending/2026/11/popular-90s-band-announces-comeback-6-years-after-final-concert.html",
+      "published": "2026-11-15T15:00:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Liz Weston: Reader scoffs at parents helping adult children buy their first home",
+      "link": "https://www.oregonlive.com/business/2026/11/liz-weston-reader-scoffs-at-parents-helping-adult-children-buy-their-first-home.html",
+      "published": "2026-11-15T15:00:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Readers respond: Let Garden Home library alone",
+      "link": "https://www.oregonlive.com/opinion/2026/11/readers-respond-let-garden-home-library-alone.html-2",
+      "published": "2026-11-15T15:00:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Active weather sticks around Pacific Northwest to wrap-up the weekend",
+      "link": "https://www.koin.com/weather/active-weather-sticks-around-pacific-northwest-to-wrap-up-the-weekend/",
+      "published": "2026-11-15T15:00:00Z",
+      "source": "KOIN 6",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:03Z",
+      "category": "Weather"
+    },
+    {
+      "headline": "Warnings came months before FAA ground stop created nationwide flight chaos",
+      "link": "https://www.oregonlive.com/nation/2026/11/faa-was-warned-about-disruptions-before-nationwide-ground-stop-halted-flights.html",
+      "published": "2026-11-15T14:53:48Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Opinion: No ‘good guy with a gun’ is coming to save us",
+      "link": "https://www.oregonlive.com/opinion/2026/11/opinion-no-good-guy-with-a-gun-is-coming-to-save-us.html",
+      "published": "2026-11-15T14:45:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Your flight is delayed for hours. Here’s what the airline may owe you",
+      "link": "https://www.oregonlive.com/nation/2026/11/flight-delayed-for-hours-heres-what-airlines-may-actually-owe-you.html",
+      "published": "2026-11-15T14:36:06Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Valedictory Voyage: American West ship completes sunset cruise on the Columbia River",
+      "link": "https://www.columbian.com/news/2026/nov/15/valedictory-voyage-american-west-ship-completes-sunset-cruise-on-the-columbia-river/",
+      "published": "2026-11-15T14:03:31Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-15T17:16:06Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Look up this week: Leonid meteor shower is about to reach its peak",
+      "link": "https://www.oregonlive.com/nation/2026/11/leonid-meteor-shower-peaks-this-week-heres-the-best-time-to-look-up.html",
+      "published": "2026-11-15T14:01:04Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Black Friday fishing tradition started in Southwest Washington",
+      "link": "https://www.columbian.com/news/2026/nov/15/black-friday-fishing-tradition-started-in-southwest-washington/",
+      "published": "2026-11-15T14:00:30Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-15T17:16:06Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "What Portland's lottery odds mean for the Fire's draft future",
+      "link": "https://www.oregonlive.com/portland-fire/2026/11/could-the-portland-fire-win-the-no-1-pick-what-we-know-about-the-wnba-draft-lottery.html",
+      "published": "2026-11-15T14:00:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Ask Mayo Clinic: Problems with your pelvic floor can disrupt your bathroom and bedroom",
+      "link": "https://www.oregonlive.com/advice/2026/11/ask-mayo-clinic-problems-with-your-pelvic-floor-can-disrupt-your-bathroom-and-bedroom.html",
+      "published": "2026-11-15T14:00:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Health",
+      "local": true
+    },
+    {
+      "headline": "Readers respond: A hope for enduring peace",
+      "link": "https://www.oregonlive.com/opinion/2026/11/readers-respond-a-hope-for-enduring-peace.html",
+      "published": "2026-11-15T14:00:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Grand Ronde tribal members publish book with animal and plant names in two regional Indigenous languages",
+      "link": "https://www.opb.org/article/2026/11/15/grand-ronde-tribal-members-illustrated-book-regional-indigenous-languages/",
+      "published": "2026-11-15T14:00:00Z",
+      "source": "OPB",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:01Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "The dreamers risking everything to grow a seaweed industry in the PNW",
+      "link": "https://www.opb.org/article/2026/11/14/the-dreamers-risking-everything-to-grow-seaweed-industry-pnw/",
+      "published": "2026-11-15T14:00:00Z",
+      "source": "OPB",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:01Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "My friendly neighbor, R.L. Stine",
+      "link": "https://www.columbian.com/news/2026/nov/15/my-friendly-neighbor-r-l-stine/",
+      "published": "2026-11-15T13:58:39Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-15T17:16:06Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Tom Brady has an unfiltered side FOX viewers rarely get to see",
+      "link": "https://www.oregonlive.com/trending/2026/11/kevin-burkhardt-reveals-what-tom-brady-is-really-like-before-fox-nfl-games.html",
+      "published": "2026-11-15T13:18:04Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Oregon high school football playoffs: Round 3 matchups, brackets",
+      "link": "https://www.oregonlive.com/highschoolsports/2026/11/oregon-high-school-football-playoffs-round-3-matchups-brackets-state-semifinals.html",
+      "published": "2026-11-15T13:15:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Delta pilot tried to calm nervous flyers. His next comment went viral",
+      "link": "https://www.oregonlive.com/nation/2026/11/delta-pilot-tried-to-calm-nervous-flyers-then-he-made-an-unusual-promise.html",
+      "published": "2026-11-15T13:04:06Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Legendary country music group, haunted by tragedy, faces death again: ‘Only two left’",
+      "link": "https://www.oregonlive.com/trending/2026/11/legendary-country-music-group-haunted-by-tragedy-faces-death-again-only-two-left.html",
+      "published": "2026-11-15T13:00:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Readers respond: Kotek needs to work for everyday Oregonians",
+      "link": "https://www.oregonlive.com/opinion/2026/11/readers-respond-kotek-needs-to-work-for-everyday-oregonians.html",
+      "published": "2026-11-15T13:00:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Editorial cartoons for Nov. 15, 2026: Hegseth under fire, Miller time, election aftershocks",
+      "link": "https://www.oregonlive.com/opinion/2026/11/editorial-cartoons-for-nov-15-2026-hegseth-under-fire-miller-time-election-aftershocks.html",
+      "published": "2026-11-15T13:00:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Travelers appeared stranded after the FAA ground stop. Look more closely",
+      "link": "https://www.oregonlive.com/nation/2026/11/viral-video-showed-travelers-sleeping-after-faa-ground-stop-was-it-real.html",
+      "published": "2026-11-15T12:50:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "First-class parents made this unusual request, former flight attendant says",
+      "link": "https://www.oregonlive.com/nation/2026/11/flight-attendant-reveals-request-some-first-class-parents-made-about-their-kids.html",
+      "published": "2026-11-15T12:31:50Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "How to watch Lions vs. Patriots NFL Munich game today for FREE (11/15)",
+      "link": "https://www.oregonlive.com/tv/2026/11/how-to-watch-lions-vs-patriots-nfl-munich-game-today-for-free-1115.html",
+      "published": "2026-11-15T12:30:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Mike Tomlin opens up about the $100,000 NFL fine he still thinks about",
+      "link": "https://www.oregonlive.com/trending/2026/11/mike-tomlin-reveals-why-nfls-100000-fine-from-2013-still-bothers-him.html",
+      "published": "2026-11-15T12:16:40Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Country music world rocked by deaths of 2 legends: ‘This loss is lasting’",
+      "link": "https://www.oregonlive.com/trending/2026/11/country-music-world-rocked-by-deaths-of-2-legends-this-loss-is-lasting.html",
+      "published": "2026-11-15T11:30:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Latest on country music legend dead after cancer battle",
+      "link": "https://www.oregonlive.com/trending/2026/11/iconic-country-music-legend-dead-after-pancreatic-cancer-battle-heres-the-latest.html",
+      "published": "2026-11-15T11:03:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "JetBlue is raising checked bag fees again — here’s how much you’ll pay during peak travel",
+      "link": "https://www.oregonlive.com/nation/2026/11/jetblue-is-raising-checked-bag-fees-again-heres-how-much-youll-pay-during-peak-travel.html",
+      "published": "2026-11-15T11:00:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Today’s horoscope: Aries - Romance is on the rise (Nov. 15, 2026)",
+      "link": "https://www.oregonlive.com/advice/2026/11/todays-horoscope-aries-romance-is-on-the-rise-nov-15-2026.html",
+      "published": "2026-11-15T11:00:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Dear Abby: He treated me like I was disposable. Why does the breakup still bother me a year later?",
+      "link": "https://www.oregonlive.com/advice/2026/11/dear-abby-he-treated-me-like-i-was-disposable-why-does-the-breakup-still-bother-me-a-year-later.html",
+      "published": "2026-11-15T11:00:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Singer found dead in woods after telling husband she was going for walk",
+      "link": "https://www.oregonlive.com/trending/2026/11/singer-found-dead-in-woods-after-telling-husband-she-was-going-for-walk.html",
+      "published": "2026-11-15T11:00:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Scientists compared antidepressants over time. Three medications stood out",
+      "link": "https://www.oregonlive.com/nation/2026/11/scientists-compared-antidepressants-over-the-long-term-three-drugs-stood-out.html",
+      "published": "2026-11-15T10:30:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Country music mourns after legendary hit maker dies at 81: ‘Rest in peace brother’",
+      "link": "https://www.oregonlive.com/trending/2026/11/country-music-mourns-after-legendary-hit-maker-dies-at-81-rest-in-peace-brother.html",
+      "published": "2026-11-15T10:00:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Asking Eric: Troubled stepfamily says I was handed everything, but I’m self-made",
+      "link": "https://www.oregonlive.com/advice/2026/11/asking-eric-troubled-stepfamily-says-i-was-handed-everything-but-im-self-made.html",
+      "published": "2026-11-15T10:00:00Z",
+      "source": "The Oregonian",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:00Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Girls Swimming: Raegan Zaemann, Columbia River relay swim to state titles in 2A-1A state meet",
+      "link": "https://www.columbian.com/news/2026/nov/15/girls-swimming-raegan-zaemann-columbia-river-relay-swim-to-state-titles-in-2a-1a-state-meet/",
+      "published": "2026-11-15T09:41:50Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-15T17:16:06Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Toddler allegedly told babysitter ‘Mama cut Papa’ days before her mother was charged with murder",
+      "link": "https://www.kptv.com/2026/11/15/toddler-allegedly-told-babysitter-mama-cut-papa-days-before-her-mother-was-charged-with-murder/",
+      "published": "2026-11-15T09:19:03Z",
+      "source": "FOX 12 Oregon",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:02Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Ridgefield wins Class 2A volleyball state championship",
+      "link": "https://www.columbian.com/news/2026/nov/15/ridgefield-wins-class-2a-volleyball-state-championship/",
+      "published": "2026-11-15T08:33:02Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-15T17:16:06Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "New bodycam video shows moments after college student’s 8-story fall from apartment window",
+      "link": "https://www.kptv.com/2026/11/15/new-bodycam-video-shows-moments-after-college-students-8-story-fall-apartment-window/",
+      "published": "2026-11-15T07:25:54Z",
+      "source": "FOX 12 Oregon",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:02Z",
+      "category": "Education",
+      "local": true
+    },
+    {
+      "headline": "Meridian holds back Seton Catholic, 42-41, in first round of 1A state football playoffs",
+      "link": "https://www.columbian.com/news/2026/nov/14/meridian-holds-back-seton-catholic-42-41-in-first-round-of-1a-state-football-playoffs/",
+      "published": "2026-11-15T07:13:03Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-15T17:16:06Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Oregon crowns 6A boys, girls high school soccer champions in Hillsboro",
+      "link": "https://www.kptv.com/2026/11/15/oregon-crowns-6a-boys-girls-high-school-soccer-champions-hillsboro/",
+      "published": "2026-11-15T06:53:42Z",
+      "source": "FOX 12 Oregon",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:02Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "OSU takes down San Diego State 2-1 to claim 1st ever Pac-12 soccer championship",
+      "link": "https://www.kptv.com/2026/11/15/osu-takes-down-san-diego-state-2-1-claim-1st-ever-pac-12-soccer-championship/",
+      "published": "2026-11-15T06:50:16Z",
+      "source": "FOX 12 Oregon",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:02Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "PDX travelers still feeling impacts day after nationwide ground stop",
+      "link": "https://www.kptv.com/2026/11/15/pdx-travelers-still-feeling-impacts-day-after-nationwide-ground-stop/",
+      "published": "2026-11-15T06:49:46Z",
+      "source": "FOX 12 Oregon",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:02Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Hundreds march, rally against revised Portland school closure plan",
+      "link": "https://www.kptv.com/2026/11/15/hundreds-march-rally-against-revised-portland-school-closure-plan/",
+      "published": "2026-11-15T06:31:05Z",
+      "source": "FOX 12 Oregon",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:02Z",
+      "category": "Education",
+      "local": true
+    },
+    {
+      "headline": "High School Scoreboard, results from Saturday, Nov. 14",
+      "link": "https://www.columbian.com/news/2026/nov/14/high-school-scoreboard-results-from-saturday-nov-14/",
+      "published": "2026-11-15T06:14:40Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-15T17:16:06Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Cascade Christian ends La Center’s football season in 1A round-of-12 state playoffs",
+      "link": "https://www.columbian.com/news/2026/nov/14/cascade-christian-ends-la-centers-football-season-in-1a-round-of-12-state-playoffs/",
+      "published": "2026-11-15T06:08:55Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-15T17:16:06Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Prairie captures 3A district volleyball title over Kelso",
+      "link": "https://www.columbian.com/news/2026/nov/14/prairie-captures-3a-district-volleyball-title-over-kelso/",
+      "published": "2026-11-15T05:50:53Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-15T17:16:06Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Enumclaw runs past Kelso in 26-0 shutout in 3A football round of 16 game",
+      "link": "https://www.columbian.com/news/2026/nov/14/enumclaw-runs-past-kelso-in-26-0-shutout-in-3a-football-round-of-16-game/",
+      "published": "2026-11-15T05:38:44Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-15T17:16:06Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Columbia River girls soccer punches 9th consecutive berth in state semifinals",
+      "link": "https://www.columbian.com/news/2026/nov/14/columbia-river-girls-soccer-punches-9th-consecutive-berth-in-state-semifinals/",
+      "published": "2026-11-15T05:24:26Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-15T17:16:06Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "72 stolen miniature horse figurines recovered after Portland theft of Idaho woman's collection",
+      "link": "https://www.kgw.com/article/news/crime/72-stolen-miniature-horse-figurines-recovered-portland/283-86ac606b-1993-4334-bfce-009a80feb46b",
+      "published": "2026-11-15T05:03:53Z",
+      "source": "KGW",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:01Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Police arrest suspect in Nov. 10 shooting near Steel, Broadway bridges in Portland",
+      "link": "https://www.kgw.com/article/news/crime/arrest-november-10-shooting-steel-broadway-bridges-portland/283-90ea89ee-3478-4ea6-94a8-a74b02fbc004",
+      "published": "2026-11-15T05:03:36Z",
+      "source": "KGW",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:01Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Hundreds rally against Portland Public Schools' plan to close 10 schools",
+      "link": "https://www.kgw.com/article/news/community/school-closures/hundreds-march-against-school-closures-portland-oregon/283-7c8f505d-9760-4424-a95a-ff32ecbcf357",
+      "published": "2026-11-15T05:03:15Z",
+      "source": "KGW",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:01Z",
+      "category": "Education",
+      "local": true
+    },
+    {
+      "headline": "Driver hospitalized after vehicle crashes into Astoria bowling alley",
+      "link": "https://www.kgw.com/article/traffic/incidents/driver-hospitalized-vehicle-crashes-astoria-bowling-alley/283-e3486e3a-a53e-4a31-b0ac-9cfef3389059",
+      "published": "2026-11-15T04:59:56Z",
+      "source": "KGW",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:01Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Rock & Roll Hall of Fame 2026 inductees honored in ceremony",
+      "link": "https://www.kgw.com/article/news/nation-world/rock-roll-hall-of-fame-2026-inductees-and-ceremony/507-c35b7f76-0fd2-4eab-9d30-1ecca9eedc88",
+      "published": "2026-11-15T04:53:43Z",
+      "source": "KGW",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:01Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Woodland wins first state playoff football game in 42 years with 14-3 victory over North Kitsap",
+      "link": "https://www.columbian.com/news/2026/nov/14/woodland-wins-first-state-playoff-game-in-42-years-with-14-3-victory-over-north-kitsap/",
+      "published": "2026-11-15T03:32:49Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-15T17:16:06Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "2A/1A State Volleyball: Every trophy tells a tale for six area teams who placed",
+      "link": "https://www.columbian.com/news/2026/nov/14/2a-1a-state-volleyball-every-trophy-tells-a-tale-for-six-area-teams-who-placed/",
+      "published": "2026-11-15T03:27:04Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-15T17:16:06Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "No. 17 Boise State outlasts Oregon State 46-41 to wrap up host spot in Pac-12 title game",
+      "link": "https://www.kptv.com/2026/11/15/no-17-boise-state-outlasts-oregon-state-46-41-wrap-up-host-spot-pac-12-title-game/",
+      "published": "2026-11-15T03:05:56Z",
+      "source": "FOX 12 Oregon",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:02Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Richard Sterban, longtime Oak Ridge Boys bass singer, dies at 83",
+      "link": "https://www.kptv.com/2026/11/15/richard-sterban-longtime-oak-ridge-boys-bass-singer-dies-83/",
+      "published": "2026-11-15T02:33:35Z",
+      "source": "FOX 12 Oregon",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:02Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Skyview back in 4A football state quarterfinals after 30-6 win over Glacier Peak",
+      "link": "https://www.columbian.com/news/2026/nov/14/skyview-back-in-4a-football-state-quarterfinals-after-a-30-6-round-of-16-win-over-glacier-peak/",
+      "published": "2026-11-15T02:23:37Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-15T17:16:06Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Tow truck driver struck by hit-run driver in road rage incident, Portland police say",
+      "link": "https://www.koin.com/news/portland/tow-truck-driver-struck-by-hit-run-driver-in-road-rage-incident-portland-police-say/",
+      "published": "2026-11-15T02:17:26Z",
+      "source": "KOIN 6",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:03Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Over 70 miniature horse figurines recovered after Portland car break-in",
+      "link": "https://www.kptv.com/2026/11/15/over-70-miniature-horse-figurines-recovered-after-portland-car-break-in/",
+      "published": "2026-11-15T02:14:56Z",
+      "source": "FOX 12 Oregon",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:02Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Scattered showers through Monday, drier end of the week",
+      "link": "https://www.kptv.com/2026/11/15/gusty-showers-saturday-night-sunday/",
+      "published": "2026-11-15T01:16:47Z",
+      "source": "FOX 12 Oregon",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:02Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Dylan Raiola throws for 4 touchdowns and No. 18 Oregon downs Michigan 31-7",
+      "link": "https://www.kptv.com/2026/11/15/dylan-raiola-throws-4-touchdowns-no-18-oregon-downs-michigan-31-7/",
+      "published": "2026-11-15T01:06:26Z",
+      "source": "FOX 12 Oregon",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:02Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Suspect arrested for downtown Portland shooting that put man in hospital",
+      "link": "https://www.kptv.com/2026/11/15/suspect-arrested-downtown-portland-shooting-that-put-man-hospital/",
+      "published": "2026-11-15T00:46:03Z",
+      "source": "FOX 12 Oregon",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:02Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Portland Police: Shooting suspect arrested, victim still hospitalized days later",
+      "link": "https://www.koin.com/news/portland/portland-police-shooting-suspect-arrested-victim-still-hospitalized-days-later/",
+      "published": "2026-11-14T23:59:24Z",
+      "source": "KOIN 6",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:03Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Girls soccer: Late goal, defensive stand sends Ridgefield past Sehome 2-1, into 2A state semifinals",
+      "link": "https://www.columbian.com/news/2026/nov/14/girls-soccer-late-goal-defensive-stand-sends-ridgefield-past-sehome-2-1-into-2a-state-semifinals/",
+      "published": "2026-11-14T23:58:37Z",
+      "source": "The Columbian",
+      "area": "Vancouver & Clark County, WA",
+      "fetched_at": "2026-11-15T17:16:06Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Protesters march across Portland after list of potential PPS school closures released",
+      "link": "https://www.koin.com/news/portland/protesters-march-across-portland-after-list-of-potential-pps-school-closures-released/",
+      "published": "2026-11-14T23:47:51Z",
+      "source": "KOIN 6",
+      "area": "Portland",
+      "fetched_at": "2026-11-15T17:16:03Z",
+      "category": "Education"
+    },
     {
       "headline": "Three goals from Molly Schmidt sends Camas past Skyview 5-1, into 4A girls soccer state semifinals",
       "link": "https://www.columbian.com/news/2026/nov/14/three-goals-from-molly-schmidt-sends-camas-past-skyview-5-1-into-4a-girls-soccer-state-semifinals/",
@@ -26700,928 +27545,6 @@
       "area": "Portland",
       "fetched_at": "2026-11-01T23:06:50Z",
       "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Finebaum declares coach ‘dead’ after latest loss",
-      "link": "https://www.oregonlive.com/trending/2026/11/finebaum-declares-coach-dead-after-latest-loss-we-got-our-ass-whooped.html",
-      "published": "2026-11-01T17:06:04Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T23:06:50Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Avdija scores 24 and Lillard has 22 as Portland rolls over Utah 112-90",
-      "link": "https://www.opb.org/article/2026/11/01/avdija-scores-24-and-lillard-has-22-as-portland-rolls-over-utah-112-90/",
-      "published": "2026-11-01T16:54:47Z",
-      "source": "OPB",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T23:06:52Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "2 dead, 4 injured in shooting at nightclub",
-      "link": "https://www.kptv.com/2026/11/01/2-dead-4-injured-shooting-nightclub/",
-      "published": "2026-11-01T16:51:56Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T23:06:54Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Jayden Mandal throws 2 TD passes to Josiah Freeman, Fresno State beats Oregon State 38-22",
-      "link": "https://www.opb.org/article/2026/11/01/jayden-mandal-throws-2-td-passes-to-josiah-freeman-fresno-state-beats-oregon-state-38-22/",
-      "published": "2026-11-01T16:50:07Z",
-      "source": "OPB",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T23:06:52Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Jayden Mandal throws 2 TD passes to Josiah Freeman, Fresno State beats Oregon State 38-22",
-      "link": "https://www.kptv.com/2026/11/01/jayden-mandal-throws-2-td-passes-josiah-freeman-fresno-state-beats-oregon-state-38-22/",
-      "published": "2026-11-01T16:49:06Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:13Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Raiola throws for 3 TDs to help Oregon beat No. 20 Northwestern 34-26",
-      "link": "https://www.opb.org/article/2026/11/01/raiola-throws-for-3-tds-to-help-oregon-beat-no-20-northwestern-34-26/",
-      "published": "2026-11-01T16:40:39Z",
-      "source": "OPB",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Readers respond: Vote to fight data centers",
-      "link": "https://www.oregonlive.com/opinion/2026/11/readers-respond-vote-to-fight-data-centers.html",
-      "published": "2026-11-01T16:30:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "How Gen Z Republicans running for Congress are thinking about the future of the party",
-      "link": "https://www.opb.org/article/2026/11/01/how-gen-z-republican-candidates-hope-to-shape-the-future-gop/",
-      "published": "2026-11-01T16:27:49Z",
-      "source": "OPB",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Trump thanks supporters for the memories in final campaign stops for 2026 midterms",
-      "link": "https://www.opb.org/article/2026/11/01/trump-rallies-for-2026-midterms-come-with-side-of-nostalgia/",
-      "published": "2026-11-01T16:26:16Z",
-      "source": "OPB",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "10 instant reactions to Oregon high school football playoff brackets",
-      "link": "https://www.oregonlive.com/highschoolsports/2026/11/10-instant-reactions-to-oregon-high-school-football-playoff-brackets.html",
-      "published": "2026-11-01T16:10:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Halloween candy tampered with? Needles, other trick-or-treating scares reported in 5 states",
-      "link": "https://www.oregonlive.com/nation/2026/11/halloween-candy-tampered-with-needles-other-trick-or-treating-scares-reported-in-5-states.html",
-      "published": "2026-11-01T16:09:19Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Will Trump’s party lose the midterm elections? Here’s what history tells us.",
-      "link": "https://www.oregonlive.com/nation/2026/11/will-trumps-party-lose-the-midterm-elections-heres-what-history-tells-us.html",
-      "published": "2026-11-01T16:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Dear Annie: Friend never checked on me during a crisis but called a week later with her gripes",
-      "link": "https://www.oregonlive.com/advice/2026/11/dear-annie-friend-never-checked-on-me-during-a-crisis-but-called-a-week-later-with-her-gripes.html",
-      "published": "2026-11-01T16:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Readers respond: Vote Hicks for Oregon Senate",
-      "link": "https://www.oregonlive.com/opinion/2026/11/readers-respond-vote-hicks-for-oregon-senate.html",
-      "published": "2026-11-01T16:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Yelp names 3 Oregon pasta places among best in U.S. in 2026",
-      "link": "https://www.koin.com/news/oregon/yelp-names-3-oregon-pasta-places-among-best-in-u-s-in-2026/",
-      "published": "2026-11-01T16:00:00Z",
-      "source": "KOIN 6",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:13Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Oregon sisters find purpose and family through rugby",
-      "link": "https://www.oregonlive.com/highschoolsports/2026/11/sisters-from-oregon-find-purpose-and-path-forward-through-rugby.html",
-      "published": "2026-11-01T15:19:57Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Where have Portland’s children gone? Number of young kids down by a third",
-      "link": "https://www.oregonlive.com/business/2026/11/where-have-portlands-children-gone-number-of-young-kids-down-by-a-third.html",
-      "published": "2026-11-01T15:03:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Editorial: PPS must close schools but owes families a clearer vision",
-      "link": "https://www.oregonlive.com/opinion/2026/11/editorial-pps-must-close-schools-but-owes-families-a-clearer-vision.html",
-      "published": "2026-11-01T15:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Education",
-      "local": true
-    },
-    {
-      "headline": "Readers respond: Farmers need a change in direction",
-      "link": "https://www.oregonlive.com/opinion/2026/11/readers-respond-farmers-need-a-change-in-direction.html",
-      "published": "2026-11-01T15:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Liz Weston: In home sales, proceeds aren’t the same as taxable gains. Let’s do the math",
-      "link": "https://www.oregonlive.com/business/2026/11/liz-weston-in-home-sales-proceeds-arent-the-same-as-taxable-gains-lets-do-the-math.html",
-      "published": "2026-11-01T15:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Dry days ahead to start November around Portland",
-      "link": "https://www.koin.com/weather/dry-days-ahead-to-start-november-around-portland/",
-      "published": "2026-11-01T15:00:00Z",
-      "source": "KOIN 6",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:13Z",
-      "category": "Weather"
-    },
-    {
-      "headline": "What to know about the Affordable Care Act's open enrollment period now underway",
-      "link": "https://www.kgw.com/article/news/nation-world/affordable-care-act-aca-obamacare-health-insurance-open-enrollment-period/507-43f84b2d-8fce-489f-a006-45675d21ce65",
-      "published": "2026-11-01T14:14:06Z",
-      "source": "KGW",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:13Z",
-      "category": "Education",
-      "local": true
-    },
-    {
-      "headline": "‘I do this to foster empathy:’ Vancouver artist among 55 others opening doors during lark Clark County Open Studios",
-      "link": "https://www.columbian.com/news/2026/nov/01/i-do-this-to-foster-empathy-vancouver-artist-among-55-others-opening-door-during-lark-clark-county-open-studios/",
-      "published": "2026-11-01T14:05:36Z",
-      "source": "The Columbian",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-11-01T16:53:16Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "WDFW seeks public comments on two fishing endorsement plans",
-      "link": "https://www.columbian.com/news/2026/nov/01/wdfw-seeks-public-comments-on-two-fishing-endorsement-plans/",
-      "published": "2026-11-01T14:05:06Z",
-      "source": "The Columbian",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-11-01T16:53:16Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Wilkes: Guide young voters to democracy",
-      "link": "https://www.columbian.com/news/2026/nov/01/wilkes-guide-young-voters-to-democracy/",
-      "published": "2026-11-01T14:01:15Z",
-      "source": "The Columbian",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-11-01T16:53:16Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Readers respond: Endorsements mistake debate for stalemate",
-      "link": "https://www.oregonlive.com/opinion/2026/11/readers-respond-endorsements-mistake-debate-for-stalemate.html",
-      "published": "2026-11-01T14:00:01Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Ask Mayo Clinic: Should I be more concerned about affects on my hormones?",
-      "link": "https://www.oregonlive.com/advice/2026/11/ask-mayo-clinic-should-i-be-more-concerned-about-affects-on-my-hormones.html",
-      "published": "2026-11-01T14:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Health",
-      "local": true
-    },
-    {
-      "headline": "A Spokane Tribe member turned his love for running into a living history lesson",
-      "link": "https://www.opb.org/article/2026/11/01/spokane-tribe-member-danny-brigman/",
-      "published": "2026-11-01T14:00:00Z",
-      "source": "OPB",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Volunteers tend to the dead at Metro’s first Halloween cemetery cleanup",
-      "link": "https://www.opb.org/article/2026/11/01/volunteers-tend-to-the-dead-at-metros-first-halloween-cemetery-cleanup/",
-      "published": "2026-11-01T14:00:00Z",
-      "source": "OPB",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "A morning with a Bend family returning to school after the Silver Rail shooting",
-      "link": "https://www.opb.org/article/2026/11/01/bend-grinols-family-after-shooting/",
-      "published": "2026-11-01T14:00:00Z",
-      "source": "OPB",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Oregon needs more youth ‘respite’ homes, but funding problems stand in the way",
-      "link": "https://www.opb.org/article/2026/11/01/medford-interval-house-funding/",
-      "published": "2026-11-01T14:00:00Z",
-      "source": "OPB",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "‘At Work With’ an Oregon county clerk who wears many hats to make elections happen",
-      "link": "https://www.opb.org/article/2026/11/01/at-work-with-an-oregon-county-clerk-who-wears-many-hats-to-make-elections-happen/",
-      "published": "2026-11-01T14:00:00Z",
-      "source": "OPB",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "City project asks for stories of Black experience in Eugene",
-      "link": "https://www.opb.org/article/2026/11/01/eugene-city-project-asks-for-stories-of-black-experience/",
-      "published": "2026-11-01T14:00:00Z",
-      "source": "OPB",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Election forecaster drops doomsday midterm warnings for Trump",
-      "link": "https://www.oregonlive.com/nation/2026/11/election-forecaster-drops-doomsday-midterm-predictions-against-trump.html",
-      "published": "2026-11-01T13:30:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "5 suffer chemical burns from Chili’s margaritas mixed with cleaning product in N.C.",
-      "link": "https://www.oregonlive.com/nation/2026/11/5-suffer-chemical-burns-from-chilis-margaritas-rimmed-with-white-substance.html",
-      "published": "2026-11-01T13:26:22Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Readers respond: Political ads need integrity",
-      "link": "https://www.oregonlive.com/opinion/2026/11/readers-respond-political-ads-need-integrity.html",
-      "published": "2026-11-01T13:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Editorial cartoons for Nov. 1, 2026: Sprint to Election Day, dirty political ads, Halloween",
-      "link": "https://www.oregonlive.com/opinion/2026/11/editorial-cartoons-for-nov-1-2026-sprint-to-election-day-dirty-political-ads-halloween.html",
-      "published": "2026-11-01T13:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Country music stars who have gotten married in 2026: Two more just joined the list",
-      "link": "https://www.oregonlive.com/trending/2026/11/country-music-stars-who-have-gotten-married-in-2026-two-more-just-joined-the-list.html",
-      "published": "2026-11-01T13:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "What Matt Entz said after Fresno State beat Oregon State",
-      "link": "https://www.oregonlive.com/beavers/2026/11/what-matt-entz-said-after-fresno-state-beat-oregon-state.html",
-      "published": "2026-11-01T12:48:34Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Dry & mild start to November",
-      "link": "https://www.kptv.com/2026/11/01/dry-mild-start-november/",
-      "published": "2026-11-01T12:34:14Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:13Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "What JaMarcus Shephard said after Oregon State lost at Fresno State",
-      "link": "https://www.oregonlive.com/beavers/2026/11/what-jamarcus-shephard-said-after-oregon-state-lost-at-fresno-state.html",
-      "published": "2026-11-01T12:03:40Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Pop star calls Donald Trump a baby in new song, rips president on Epstein files",
-      "link": "https://www.oregonlive.com/trending/2026/11/pop-star-calls-donald-trump-a-baby-in-new-song-rips-president-on-epstein-files.html",
-      "published": "2026-11-01T12:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Oregon gardeners, here's your November to-do list",
-      "link": "https://www.oregonlive.com/hg/2026/11/prep-oregon-gardens-for-winter-with-this-to-do-list-for-november.html",
-      "published": "2026-11-01T12:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "The top 5 cities for solo travel are all on this continent: See which countries made the list",
-      "link": "https://www.oregonlive.com/nation/2026/11/the-top-5-cities-for-solo-travel-are-all-on-this-continent-see-which-countries-made-the-list.html",
-      "published": "2026-11-01T12:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Nostradamus predictions for 2027: Wildfires, economic crisis and the end of the world?",
-      "link": "https://www.oregonlive.com/nation/2026/11/nostradamus-predictions-for-2027-wildfires-economic-crisis-and-the-end-of-the-world.html",
-      "published": "2026-11-01T12:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "Rock music world stunned as heavy metal queen dies at 46: ‘This is terribly sad’",
-      "link": "https://www.oregonlive.com/trending/2026/11/rock-music-world-stunned-as-heavy-metal-queen-dies-at-46-this-is-terribly-sad.html",
-      "published": "2026-11-01T11:30:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "The economy, stupid: 5 reasons why Trump’s popularity cratered ahead of the midterms",
-      "link": "https://www.oregonlive.com/nation/2026/11/the-economy-stupid-5-reasons-why-trumps-popularity-cratered-ahead-of-the-midterms.html",
-      "published": "2026-11-01T11:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Dear Abby: When a neighbor's abandoned house becomes a hazard, who do we reach out to?",
-      "link": "https://www.oregonlive.com/advice/2026/11/dear-abby-when-a-neighbors-abandoned-house-becomes-a-hazard-who-do-we-reach-out-to.html",
-      "published": "2026-11-01T11:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "’90s R&B star dead at 61. Here’s what we know",
-      "link": "https://www.oregonlive.com/trending/2026/11/90s-rb-star-dead-at-61-heres-what-we-know.html",
-      "published": "2026-11-01T11:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Former ‘19 Kids and Counting’ star, 33, expecting 7th child",
-      "link": "https://www.oregonlive.com/trending/2026/11/former-reality-tv-star-33-expecting-7th-baby-with-husband.html",
-      "published": "2026-11-01T11:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Today’s horoscope: Pisces - Don’t be afraid to take a pass (Nov. 1, 2026)",
-      "link": "https://www.oregonlive.com/advice/2026/11/todays-horoscope-pisces-dont-be-afraid-to-take-a-pass-nov-1-2026.html",
-      "published": "2026-11-01T11:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "‘No Country for Old Men’ actor dies at 68",
-      "link": "https://www.oregonlive.com/trending/2026/11/no-country-for-old-men-actor-dies-at-68.html",
-      "published": "2026-11-01T11:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Pharmacy chain wants in on toy, collectible sales wave",
-      "link": "https://www.oregonlive.com/nation/2026/11/pharmacy-chain-wants-in-on-toy-collectible-sales-wave.html",
-      "published": "2026-11-01T11:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Health",
-      "local": true
-    },
-    {
-      "headline": "Plan ahead: All US Postal Service locations to close for multiple days in November",
-      "link": "https://www.oregonlive.com/nation/2026/11/plan-ahead-all-us-postal-service-locations-to-close-for-multiple-days-in-november.html",
-      "published": "2026-11-01T11:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Here’s the salary it takes to live comfortably in each US state in 2026",
-      "link": "https://www.kptv.com/2026/11/01/heres-salary-it-takes-live-comfortably-each-us-state-2026/",
-      "published": "2026-11-01T10:31:35Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:13Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "‘Star Trek’ fandom rocked by deaths of four beloved actors in 2 weeks",
-      "link": "https://www.oregonlive.com/trending/2026/11/star-trek-fandom-rocked-by-deaths-of-four-beloved-actors-in-2-weeks.html",
-      "published": "2026-11-01T10:05:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Ex-49ers running back arrested after police chase. Here’s the latest",
-      "link": "https://www.oregonlive.com/trending/2026/11/ex-49ers-running-back-arrested-after-police-chase-heres-the-latest.html",
-      "published": "2026-11-01T10:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Legendary rock frontman hospitalized after medical emergency. Here’s the latest",
-      "link": "https://www.oregonlive.com/trending/2026/11/legendary-rock-frontman-hospitalized-after-medical-emergency-heres-the-latest.html",
-      "published": "2026-11-01T10:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Health",
-      "local": true
-    },
-    {
-      "headline": "Terry Bradshaw reveals what he has been afraid to say about Trump: ‘Shake my head’",
-      "link": "https://www.oregonlive.com/trending/2026/11/terry-bradshaw-on-what-he-has-been-afraid-to-say-about-trump-we-have-lost-that.html",
-      "published": "2026-11-01T10:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Iconic singer dead at 84, just months after cancer diagnosis: ‘A true legend’",
-      "link": "https://www.oregonlive.com/trending/2026/11/iconic-singer-dead-at-84-just-months-after-cancer-diagnosis-a-true-legend.html",
-      "published": "2026-11-01T10:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Asking Eric: I don't know what to do with the many pictures of son's ex that hang in our home",
-      "link": "https://www.oregonlive.com/advice/2026/11/asking-eric-i-dont-know-what-to-do-with-the-many-pictures-of-sons-ex-that-hang-in-our-home.html",
-      "published": "2026-11-01T10:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Country singer with cancer promises to ‘keep fighting this death sitting on my chest’",
-      "link": "https://www.oregonlive.com/trending/2026/11/country-singer-with-cancer-promises-to-keep-fighting-this-death-sitting-on-my-chest.html",
-      "published": "2026-11-01T10:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Health",
-      "local": true
-    },
-    {
-      "headline": "60-year-old hiker stranded on icy mountain ledge rescued after standing in same spot for 7 hours, rangers say",
-      "link": "https://www.kptv.com/2026/11/01/60-year-old-hiker-stranded-icy-mountain-ledge-rescued-after-standing-same-spot-7-hours-rangers-say/",
-      "published": "2026-11-01T09:28:57Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:13Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Oregon State's offense undone by 6 pre-snap penalties",
-      "link": "https://www.oregonlive.com/beavers/2026/11/oregon-state-plagued-by-6-pre-snap-penalties-in-loss-to-fresno-state.html",
-      "published": "2026-11-01T08:36:27Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "OSU's self-inflicted wounds doom Beavers in Fresno",
-      "link": "https://www.oregonlive.com/beavers/2026/11/oregon-state-falls-to-fresno-state-38-22-in-pac-12-road-loss.html",
-      "published": "2026-11-01T08:21:38Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Oregon high school volleyball playoffs: Saturday stars, highlights, scores",
-      "link": "https://www.oregonlive.com/highschoolsports/2026/11/oregon-high-school-volleyball-playoffs-saturday-stars-highlights-scores.html",
-      "published": "2026-11-01T08:00:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Oregon high school boys soccer playoffs: 6A Round 1 stars, highlights, scores",
-      "link": "https://www.oregonlive.com/highschoolsports/2026/11/oregon-high-school-boys-soccer-playoffs-6a-round-1-stars-highlights-scores.html",
-      "published": "2026-11-01T07:55:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Oregon high school girls soccer playoffs: 6A Round 1 stars, highlights, scores",
-      "link": "https://www.oregonlive.com/highschoolsports/2026/11/oregon-high-school-girls-soccer-playoffs-6a-round-1-stars-highlights-scores.html",
-      "published": "2026-11-01T07:50:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Beavers fall to Fresno State as offensive line struggles mount",
-      "link": "https://www.oregonlive.com/beavers/2026/11/oregon-state-stumbles-in-blowout-loss-at-fresno-state.html",
-      "published": "2026-11-01T06:34:00Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Influencer Liam Fitzgerald dies from injuries after motorcycle crash, girlfriend says",
-      "link": "https://www.kptv.com/2026/11/01/influencer-liam-fitzgerald-dies-injuries-after-motorcycle-crash-girlfriend-says/",
-      "published": "2026-11-01T06:27:20Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:13Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Portland State Vikings fall to Idaho Vandals 38-14",
-      "link": "https://www.kptv.com/2026/11/01/portland-state-vikings-fall-idaho-vandals-38-14/",
-      "published": "2026-11-01T06:03:54Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:13Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Family says missed jury duty scam took $40K from elderly father in Gresham",
-      "link": "https://www.kptv.com/2026/11/01/family-says-missed-jury-duty-scam-took-40k-elderly-father-gresham/",
-      "published": "2026-11-01T06:02:23Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:13Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Police investigate reports of group stealing candy from kids trick-or-treating in Lincoln City",
-      "link": "https://www.kptv.com/2026/11/01/police-investigate-reports-group-stealing-candy-kids-trick-or-treating-lincoln-city/",
-      "published": "2026-11-01T05:37:47Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:13Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Metro hosts Halloween clean-up day at historic NE Portland cemetery",
-      "link": "https://www.kptv.com/2026/11/01/metro-hosts-halloween-clean-up-day-historic-ne-portland-cemetery/",
-      "published": "2026-11-01T05:24:07Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:13Z",
-      "category": "Traffic & Transit",
-      "local": true
-    },
-    {
-      "headline": "President Trump arrives at Mar-a-Lago for Halloween, ‘I came as Donald Trump’",
-      "link": "https://www.kptv.com/2026/11/01/president-trump-arrives-mar-a-lago-halloween-i-came-donald-trump/",
-      "published": "2026-11-01T04:55:26Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:13Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Halloween queen Heidi Klum deserves a hand for her costume in 2026",
-      "link": "https://www.kptv.com/2026/11/01/halloween-queen-heidi-klum-deserves-hand-her-costume-2026/",
-      "published": "2026-11-01T04:48:50Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:13Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Man charged with stealing bicycle while owner was inside SE Portland gas station",
-      "link": "https://www.kptv.com/2026/11/01/man-charged-with-stealing-bicycle-while-owner-was-inside-se-portland-gas-station/",
-      "published": "2026-11-01T04:21:03Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:13Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Girls soccer: Header by Avery Petersen is enough to send Skyview to 1-0 playoff win over Kentridge",
-      "link": "https://www.columbian.com/news/2026/oct/31/girls-soccer-header-by-avery-petersen-is-enough-to-send-skyview-to-1-0-playoff-win-over-kentridge/",
-      "published": "2026-11-01T03:43:11Z",
-      "source": "The Columbian",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-11-01T16:53:16Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "High School Scoreboard, results from Saturday, Oct. 31",
-      "link": "https://www.columbian.com/news/2026/oct/31/high-school-scoreboard-results-from-saturday-oct-31/",
-      "published": "2026-11-01T03:40:32Z",
-      "source": "The Columbian",
-      "area": "Vancouver & Clark County, WA",
-      "fetched_at": "2026-11-01T16:53:16Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Suspect faces attempted murder, bias crime charges after firing shots in North Portland",
-      "link": "https://www.kgw.com/article/news/crime/suspect-faces-attempted-murder-bias-crime-charges-firing-shots-north-portland/283-4bda47bc-c38d-475a-b6d5-943c0d257acb",
-      "published": "2026-11-01T03:18:05Z",
-      "source": "KGW",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:13Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "'Don't wait until Election Day': Multnomah County elections director urges voters to return ballots early",
-      "link": "https://www.kgw.com/article/news/politics/elections/multnomah-county-elections-director-urges-voters-return-ballots-early/283-79725900-9646-4a8f-8caa-b73e32a33153",
-      "published": "2026-11-01T03:17:29Z",
-      "source": "KGW",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:13Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Halloween celebrations, volunteer events kick off around Portland",
-      "link": "https://www.koin.com/news/portland/halloween-celebrations-volunteer-events-kick-off-around-portland/",
-      "published": "2026-11-01T03:16:53Z",
-      "source": "KOIN 6",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:13Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Powerball: See the winning numbers in Saturday’s $760 million drawing",
-      "link": "https://www.oregonlive.com/lottery/2026/11/powerball-see-the-winning-numbers-in-saturdays-760-million-drawing.html",
-      "published": "2026-11-01T03:05:10Z",
-      "source": "The Oregonian",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Did anyone win Powerball's $770M jackpot? Here are the winning numbers for Oct. 31",
-      "link": "https://www.kgw.com/article/news/nation-world/powerball-drawing-winning-numbers-saturday-october-31/507-e7038df6-4075-4c0a-b9d2-94f973a14590",
-      "published": "2026-11-01T03:00:52Z",
-      "source": "KGW",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:13Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Horror: Originality Among the Slop",
-      "link": "https://psuvanguard.com/horror-originality-among-the-slop/?utm_source=rss&utm_medium=rss&utm_campaign=horror-originality-among-the-slop",
-      "published": "2026-11-01T02:51:39Z",
-      "source": "The Vanguard (PSU)",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:15Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Children's sensory swing recalled after multiple injuries, including concussions",
-      "link": "https://www.kgw.com/article/news/nation-world/childrens-swing-recalled-multiple-injuries-harkla/507-8671207c-a080-4f40-b47c-b31bd01a33a0",
-      "published": "2026-11-01T02:36:08Z",
-      "source": "KGW",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:13Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "Busy ballot weekend expected in Portland ahead of Tuesday midterm elections",
-      "link": "https://www.koin.com/news/oregon/busy-ballot-weekend-expected-in-portland-ahead-of-tuesday-midterm-elections/",
-      "published": "2026-11-01T02:29:17Z",
-      "source": "KOIN 6",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:13Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "'Wildwood' crow statues flock to Darcelle XV Plaza for farewell in downtown Portland",
-      "link": "https://www.koin.com/positivelyportland/wildwood-crow-statues-flock-to-darcelle-xv-plaza-for-farewell-in-downtown-portland/",
-      "published": "2026-11-01T01:47:27Z",
-      "source": "KOIN 6",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:13Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Man accused in crime spree with 17 victims, including three people stabbed",
-      "link": "https://www.kptv.com/2026/11/01/man-accused-crime-spree-with-17-victims-including-three-people-stabbed/",
-      "published": "2026-11-01T01:13:47Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:13Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Prosecutors Won’t Charge Portland Officer Who Killed Eric Hurtado",
-      "link": "https://www.portlandmercury.com/news/prosecutors-wont-charge-portland-officer-who-killed-eric-hurtado/",
-      "published": "2026-11-01T01:00:00Z",
-      "source": "Portland Mercury",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:11Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Portland man accused of attempted murder, bias crime after firing shotgun at car",
-      "link": "https://www.koin.com/news/portland/portland-man-accused-of-attempted-murder-bias-crime-after-firing-shotgun-at-car/",
-      "published": "2026-11-01T00:33:05Z",
-      "source": "KOIN 6",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:13Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Raiola throws for 3 TDs to help Oregon beat No. 20 Northwestern 34-26",
-      "link": "https://www.kptv.com/2026/10/31/raiola-throws-3-tds-help-oregon-beat-no-20-northwestern-34-26/",
-      "published": "2026-11-01T00:23:59Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:13Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Man accused of bias crime, shooting at passing car in north Portland",
-      "link": "https://www.kptv.com/2026/11/01/man-accused-bias-crime-shooting-passing-car-north-portland/",
-      "published": "2026-11-01T00:14:45Z",
-      "source": "FOX 12 Oregon",
-      "area": "Portland",
-      "fetched_at": "2026-11-01T16:53:13Z",
-      "category": "Crime & Safety",
       "local": true
     }
   ],
