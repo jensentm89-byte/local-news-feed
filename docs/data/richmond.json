@@ -1,11 +1,559 @@
 {
-  "generated_at": "2026-11-23T00:34:50Z",
+  "generated_at": "2026-11-23T22:09:49Z",
   "name": "Richmond, VA",
   "areas": [
     "Richmond",
     "Henrico & Hanover"
   ],
   "articles": [
+    {
+      "headline": "First Alert Forecast: Spotty showers Monday evening",
+      "link": "https://www.12onyourside.com/2026/11/23/first-alert-forecast-dense-fog-early-ahead-gusty-pm-cold-front/",
+      "published": "2026-11-23T21:42:54Z",
+      "source": "NBC12",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "GardenFest of Lights returning to Lewis Ginter Botanical Garden",
+      "link": "https://www.wric.com/news/local-news/richmond/gardenfest-of-lights-lewis-ginter-2026/",
+      "published": "2026-11-23T21:41:18Z",
+      "source": "WRIC 8 News",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:54Z",
+      "category": "Other"
+    },
+    {
+      "headline": "‘My Love is a Fire’: Singer Donny Osmond douses flames to spare a family’s home",
+      "link": "https://www.12onyourside.com/2026/11/23/my-love-is-fire-singer-donny-osmond-douses-flames-spare-familys-home/",
+      "published": "2026-11-23T21:28:06Z",
+      "source": "NBC12",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Medical Monday by Bon Secours",
+      "link": "https://www.12onyourside.com/sponsored/bon-secours/medical-monday-by-bon-secours-51/",
+      "published": "2026-11-23T21:26:22Z",
+      "source": "NBC12",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Health",
+      "local": true
+    },
+    {
+      "headline": "Chesterfield neighbors describe massive home explosion: ‘Is there a war happening?'",
+      "link": "https://www.wtvr.com/news/local-news/chesterfield-county/chesterfield-neighbors-describe-massive-home-explosion-is-there-a-war-happening",
+      "published": "2026-11-23T21:22:04Z",
+      "source": "WTVR CBS 6",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Henrico to host program for youth to learn about insects",
+      "link": "https://www.wric.com/news/local-news/henrico-county/henrico-to-host-program-for-youth-to-learn-about-insects/",
+      "published": "2026-11-23T21:07:24Z",
+      "source": "WRIC 8 News",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:54Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Audit finds ‘high risk of timecard fraud’ at Richmond USPS processing center",
+      "link": "https://www.wtvr.com/news/local-news/audit-finds-high-risk-of-timecard-fraud-at-richmond-usps-processing-center",
+      "published": "2026-11-23T21:03:30Z",
+      "source": "WTVR CBS 6",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Patterson Golf Park in Goochland to close",
+      "link": "https://www.12onyourside.com/2026/11/23/patterson-golf-park-goochland-close/",
+      "published": "2026-11-23T20:56:20Z",
+      "source": "NBC12",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Child recovering after being run over by train at zoo",
+      "link": "https://www.12onyourside.com/2026/11/23/child-recovering-after-being-run-over-by-train-zoo/",
+      "published": "2026-11-23T20:52:40Z",
+      "source": "NBC12",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "U.S. Department of Education directs withholding federal funds from Albemarle schools",
+      "link": "https://www.12onyourside.com/2026/11/23/us-department-education-directs-withholding-federal-funds-albemarle-schools/",
+      "published": "2026-11-23T20:46:11Z",
+      "source": "NBC12",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Education",
+      "local": true
+    },
+    {
+      "headline": "Virginia sues SpaceX, Grok for AI-generated, nonconsensual sexualized images",
+      "link": "https://www.henricocitizen.com/virginia-sues-spacex-grok-for-ai-generated-nonconsensual-sexualized-images/",
+      "published": "2026-11-23T20:45:00Z",
+      "source": "The Henrico Citizen",
+      "area": "Henrico & Hanover",
+      "fetched_at": "2026-11-23T22:07:55Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "USPS urges customers to ship gifts before holiday deadlines",
+      "link": "https://www.12onyourside.com/2026/11/23/usps-urges-customers-ship-gifts-before-holiday-deadlines/",
+      "published": "2026-11-23T20:39:57Z",
+      "source": "NBC12",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "'We haven't forgotten': Family returns to scene of deadly Henrico hit-and-run one year later",
+      "link": "https://www.wtvr.com/news/local-news/henrico-county/hit-and-run-one-year-later-nov-23-2026",
+      "published": "2026-11-23T20:36:39Z",
+      "source": "WTVR CBS 6",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Culpeper man charged with child sex crimes involving 12-year-old girl",
+      "link": "https://www.wric.com/news/local-news/culpeper-county/culpeper-man-child-sex-crimes/",
+      "published": "2026-11-23T20:25:56Z",
+      "source": "WRIC 8 News",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:54Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Virginia DMV urges drivers to Click It or Ticket ahead of holiday travel",
+      "link": "https://www.wric.com/news/virginia-news/virginia-dmv-click-it-or-ticket/",
+      "published": "2026-11-23T20:22:53Z",
+      "source": "WRIC 8 News",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:54Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Thousands of trees planted across Virginia through DOF program",
+      "link": "https://www.wric.com/news/virginia-news/trees-planted-dof-program/",
+      "published": "2026-11-23T19:47:19Z",
+      "source": "WRIC 8 News",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:54Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Hit by a Drunk Driver in Richmond? 4 Crucial Steps to Protect Your Health and Legal Rights",
+      "link": "https://www.12onyourside.com/sponsored/emroch-kilduff/hit-by-drunk-driver-richmond-crucial-steps-protect-your-health-legal-rights/",
+      "published": "2026-11-23T19:29:15Z",
+      "source": "NBC12",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Health",
+      "local": true
+    },
+    {
+      "headline": "Mother, stepfather indicted in death of 16-year-old girl months after deputies found her remains",
+      "link": "https://www.12onyourside.com/2026/11/23/mother-stepfather-indicted-death-16-year-old-girl-months-after-deputies-found-her-remains/",
+      "published": "2026-11-23T19:27:34Z",
+      "source": "NBC12",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Virginia’s Attorney General files lawsuit against Grok over child exploitation",
+      "link": "https://www.12onyourside.com/2026/11/23/virginias-attorney-general-files-lawsuit-against-grok-over-child-exploitation/",
+      "published": "2026-11-23T19:11:53Z",
+      "source": "NBC12",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Parents fear a technology overload in schools. State leaders are beginning to step in. • Neighbors working in gig economy support elders, alleviate pressure on caregivers",
+      "link": "https://www.henricocitizen.com/henriconewsflashnov232026/",
+      "published": "2026-11-23T19:08:11Z",
+      "source": "The Henrico Citizen",
+      "area": "Henrico & Hanover",
+      "fetched_at": "2026-11-23T22:07:55Z",
+      "category": "Education"
+    },
+    {
+      "headline": "Content creator, home cook Spurweezy shows 8News how to make creme brulee",
+      "link": "https://www.wric.com/in-studio-interviews/spurweezy-thanksgiving-creme-brulee/",
+      "published": "2026-11-23T18:37:23Z",
+      "source": "WRIC 8 News",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:54Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Parents fear a technology overload in schools. State leaders are beginning to step in.",
+      "link": "https://www.henricocitizen.com/parents-fear-a-technology-overload-in-schools-state-leaders-are-beginning-to-step-in/",
+      "published": "2026-11-23T18:29:42Z",
+      "source": "The Henrico Citizen",
+      "area": "Henrico & Hanover",
+      "fetched_at": "2026-11-23T22:07:55Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Sweet Model Homes",
+      "link": "https://richmondmagazine.com/home/graham-cracker-houses-patrick-loth/",
+      "published": "2026-11-23T18:25:00Z",
+      "source": "Richmond Magazine",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:52Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Henrico completes pedestrian beacon projects near two Three Chopt Road schools",
+      "link": "https://www.henricocitizen.com/henrico-completes-pedestrian-beacon-projects-near-two-three-chopt-road-schools/",
+      "published": "2026-11-23T18:21:00Z",
+      "source": "The Henrico Citizen",
+      "area": "Henrico & Hanover",
+      "fetched_at": "2026-11-23T22:07:55Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "Henrico residents can compost Thanksgiving food scraps at public use areas",
+      "link": "https://www.henricocitizen.com/henrico-residents-can-compost-thanksgiving-food-scraps-at-public-use-areas/",
+      "published": "2026-11-23T17:53:00Z",
+      "source": "The Henrico Citizen",
+      "area": "Henrico & Hanover",
+      "fetched_at": "2026-11-23T22:07:55Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "While you watch TV, it may be spying on you",
+      "link": "https://www.12onyourside.com/2026/11/23/while-you-watch-tv-it-may-be-spying-you/",
+      "published": "2026-11-23T17:37:48Z",
+      "source": "NBC12",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Virginia-grown Christmas trees, wreaths delivered to governor’s mansion",
+      "link": "https://www.12onyourside.com/2026/11/23/virginia-grown-christmas-trees-wreaths-delivered-governors-mansion/",
+      "published": "2026-11-23T17:35:05Z",
+      "source": "NBC12",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Community members assess damage after house explosion",
+      "link": "https://www.12onyourside.com/2026/11/23/community-members-assess-damage-after-house-explosion/",
+      "published": "2026-11-23T17:33:23Z",
+      "source": "NBC12",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Keeping It Local",
+      "link": "https://styleweekly.com/keeping-it-local/",
+      "published": "2026-11-23T17:31:12Z",
+      "source": "Style Weekly",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "First Alert Weather Day: Rain and wind on Thanksgiving",
+      "link": "https://www.12onyourside.com/2026/11/23/rain-wind-thanksgiving/",
+      "published": "2026-11-23T17:12:03Z",
+      "source": "NBC12",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "Virginia sues SpaceX, says AI tool allows users to generate images of child sex abuse",
+      "link": "https://www.12onyourside.com/2026/11/23/virginia-sues-spacex-says-ai-tool-allows-users-generate-images-child-sex-abuse/",
+      "published": "2026-11-23T17:04:21Z",
+      "source": "NBC12",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Feeding 10 for Thanksgiving? Here’s what the classic meal could cost",
+      "link": "https://www.12onyourside.com/2026/11/23/feeding-10-thanksgiving-heres-what-classic-meal-could-cost/",
+      "published": "2026-11-23T17:03:59Z",
+      "source": "NBC12",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Shoppers who are not tech savvy may miss grocery savings, expert says",
+      "link": "https://www.12onyourside.com/2026/11/23/shoppers-who-are-not-tech-savvy-may-miss-grocery-savings-expert-says/",
+      "published": "2026-11-23T16:56:02Z",
+      "source": "NBC12",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Records: Henrico Schools flagged concerns with outside HVAC contractors",
+      "link": "https://www.henricocitizen.com/records-henrico-schools-flagged-concerns-with-outside-hvac-contractors/",
+      "published": "2026-11-23T16:37:00Z",
+      "source": "The Henrico Citizen",
+      "area": "Henrico & Hanover",
+      "fetched_at": "2026-11-23T22:07:55Z",
+      "category": "Education"
+    },
+    {
+      "headline": "Photos: Richmond Free Press Celebration",
+      "link": "https://styleweekly.com/photos-richmond-free-press-celebration/",
+      "published": "2026-11-23T16:29:42Z",
+      "source": "Style Weekly",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Neighbors working in gig economy support elders, alleviate pressure on caregivers",
+      "link": "https://www.henricocitizen.com/neighbors-working-in-gig-economy-support-elders-alleviate-pressure-on-caregivers/",
+      "published": "2026-11-23T16:20:00Z",
+      "source": "The Henrico Citizen",
+      "area": "Henrico & Hanover",
+      "fetched_at": "2026-11-23T22:07:55Z",
+      "category": "Business"
+    },
+    {
+      "headline": "Virginia State Police ask drivers to be safe over Thanksgiving",
+      "link": "https://www.wric.com/news/virginia-news/virginia-state-police-ask-drivers-to-be-safe-over-thanksgiving/",
+      "published": "2026-11-23T16:06:47Z",
+      "source": "WRIC 8 News",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:54Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Henrico Business in Brief: Nov. 23, 2026",
+      "link": "https://www.henricocitizen.com/henrico-business-in-brief-nov-23-2026/",
+      "published": "2026-11-23T16:06:27Z",
+      "source": "The Henrico Citizen",
+      "area": "Henrico & Hanover",
+      "fetched_at": "2026-11-23T22:07:55Z",
+      "category": "Business"
+    },
+    {
+      "headline": "Southampton Elementary School principal leaving after two years",
+      "link": "https://www.wric.com/news/local-news/richmond/southampton-principal-departure/",
+      "published": "2026-11-23T16:03:05Z",
+      "source": "WRIC 8 News",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:54Z",
+      "category": "Education"
+    },
+    {
+      "headline": "Kids These Days RVA: Sharing holiday traditions with our kids",
+      "link": "https://www.wric.com/livestreams/kids-these-days-rva-sharing-holiday-traditions-with-our-kids/",
+      "published": "2026-11-23T15:56:37Z",
+      "source": "WRIC 8 News",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:54Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Henrico Nonprofit Notes: Nov. 23, 2026",
+      "link": "https://www.henricocitizen.com/henrico-nonprofit-notes-nov-23-2026/",
+      "published": "2026-11-23T15:43:53Z",
+      "source": "The Henrico Citizen",
+      "area": "Henrico & Hanover",
+      "fetched_at": "2026-11-23T22:07:55Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Henrico Faith and Fellowship: Nov. 23, 2026",
+      "link": "https://www.henricocitizen.com/henrico-faith-and-fellowship-nov-23-2026/",
+      "published": "2026-11-23T15:41:44Z",
+      "source": "The Henrico Citizen",
+      "area": "Henrico & Hanover",
+      "fetched_at": "2026-11-23T22:07:55Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Sunken Treasure",
+      "link": "https://richmondmagazine.com/news/features/virginia-oysters/",
+      "published": "2026-11-23T15:30:00Z",
+      "source": "Richmond Magazine",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:52Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Man found dead in 2009 still unidentified in Mecklenburg",
+      "link": "https://www.wric.com/news/local-news/mecklenburg-county/human-remains-found-2009-clarksville/",
+      "published": "2026-11-23T15:09:38Z",
+      "source": "WRIC 8 News",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:54Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Henrico home sales fall 19% in October as inventory rises nearly 30%",
+      "link": "https://www.henricocitizen.com/henrico-home-sales-fall-19-in-october-as-inventory-rises-nearly-30/",
+      "published": "2026-11-23T14:20:00Z",
+      "source": "The Henrico Citizen",
+      "area": "Henrico & Hanover",
+      "fetched_at": "2026-11-23T22:07:55Z",
+      "category": "Development & Housing"
+    },
+    {
+      "headline": "HCA Virginia collects more than 2,600 pounds of unused medications during take-back event",
+      "link": "https://www.henricocitizen.com/hca-virginia-collects-more-than-2-600-pounds-of-unused-medications-during-take-back-event/",
+      "published": "2026-11-23T13:58:00Z",
+      "source": "The Henrico Citizen",
+      "area": "Henrico & Hanover",
+      "fetched_at": "2026-11-23T22:07:55Z",
+      "category": "Health"
+    },
+    {
+      "headline": "PJI Law reopens renovated Henrico office on East Parham Road",
+      "link": "https://www.henricocitizen.com/pji-law-reopens-renovated-henrico-office-on-east-parham-road/",
+      "published": "2026-11-23T13:04:00Z",
+      "source": "The Henrico Citizen",
+      "area": "Henrico & Hanover",
+      "fetched_at": "2026-11-23T22:07:55Z",
+      "category": "Business"
+    },
+    {
+      "headline": "River City Roundup",
+      "link": "https://richmondmagazine.com/arts-entertainment/river-city-roundup-nov-23-2026/",
+      "published": "2026-11-23T13:00:00Z",
+      "source": "Richmond Magazine",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:52Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Henrico News Minute – Nov. 23, 2026",
+      "link": "https://www.henricocitizen.com/henrico-news-minute-nov-23-2026/",
+      "published": "2026-11-23T12:31:04Z",
+      "source": "The Henrico Citizen",
+      "area": "Henrico & Hanover",
+      "fetched_at": "2026-11-23T22:07:55Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Suspect found hiding in crawl space of home after pursuit, barricade incident in Louisa",
+      "link": "https://www.wric.com/news/local-news/louisa-county/barricade-incident-crawl-space-mineral/",
+      "published": "2026-11-23T11:59:38Z",
+      "source": "WRIC 8 News",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:54Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "This Day in Henrico History: Nov. 23 – A two-vote Henrico election dispute goes to print",
+      "link": "https://www.henricocitizen.com/this-day-in-henrico-history-nov-23-2026/",
+      "published": "2026-11-23T11:34:00Z",
+      "source": "The Henrico Citizen",
+      "area": "Henrico & Hanover",
+      "fetched_at": "2026-11-23T22:07:55Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Ten Years Later, O’Hagan Meyer Continues to Grow With New Associate Talent",
+      "link": "https://richmondbizsense.com/2026/11/23/ten-years-later-ohagan-meyer-continues-to-grow-with-new-associate-talent/",
+      "published": "2026-11-23T09:00:45Z",
+      "source": "Richmond BizSense",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Other"
+    },
+    {
+      "headline": "‘With a heavy heart’: Patterson Golf Park to close after five decades",
+      "link": "https://richmondbizsense.com/2026/11/23/with-a-heavy-heart-patterson-golf-park-to-close-after-five-decades/",
+      "published": "2026-11-23T07:04:26Z",
+      "source": "Richmond BizSense",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "Henrico OKs Spy Rock plans for apartments, townhomes in Innsbrook",
+      "link": "https://richmondbizsense.com/2026/11/23/henrico-oks-spy-rock-plans-for-apartments-townhomes-in-innsbrook/",
+      "published": "2026-11-23T07:03:47Z",
+      "source": "Richmond BizSense",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Development & Housing"
+    },
+    {
+      "headline": "Drive-thru coffee shop 7 Brew to open across from Springline project",
+      "link": "https://richmondbizsense.com/2026/11/23/drive-thru-coffee-shop-7-brew-to-open-across-from-springline-project/",
+      "published": "2026-11-23T07:02:26Z",
+      "source": "Richmond BizSense",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "The Agenda: Local government briefs for 11.23.26",
+      "link": "https://richmondbizsense.com/2026/11/23/the-agenda-local-government-briefs-for-11-23-26/",
+      "published": "2026-11-23T07:01:41Z",
+      "source": "Richmond BizSense",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Two local MedExpress clinics won’t be revived following their acquisition by Bon Secours",
+      "link": "https://richmondbizsense.com/2026/11/23/two-local-medexpress-clinics-wont-be-revived-following-their-acquisition-by-bon-secours/",
+      "published": "2026-11-23T07:01:41Z",
+      "source": "Richmond BizSense",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Health"
+    },
+    {
+      "headline": "Just announced: 2027 Richmond Economic Forecast",
+      "link": "https://richmondbizsense.com/2026/11/23/just-announced-2027-richmond-economic-forecast/",
+      "published": "2026-11-23T07:00:50Z",
+      "source": "Richmond BizSense",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Foreclosures: 11.23.26",
+      "link": "https://richmondbizsense.com/2026/11/23/foreclosures-11-23-26/",
+      "published": "2026-11-23T07:00:37Z",
+      "source": "Richmond BizSense",
+      "area": "Richmond",
+      "fetched_at": "2026-11-23T22:07:53Z",
+      "category": "Other"
+    },
     {
       "headline": "Man accused of biting deportation officer during detainment, affidavit says",
       "link": "https://www.12onyourside.com/2026/11/23/man-accused-biting-deportation-officer-during-detainment-affidavit-says/",
@@ -8166,579 +8714,6 @@
       "area": "Richmond",
       "fetched_at": "2026-11-10T17:55:22Z",
       "category": "Crime & Safety"
-    },
-    {
-      "headline": "Homeless Advocates Warn of Rising Age Shift",
-      "link": "https://www.styleweekly.com/homeless-advocates-warn-of-rising-age-shift/",
-      "published": "2026-11-09T21:57:33Z",
-      "source": "Style Weekly",
-      "area": "Richmond",
-      "fetched_at": "2026-11-10T17:55:20Z",
-      "category": "Development & Housing"
-    },
-    {
-      "headline": "Homeless Advocates Warn of Rising Age Shift",
-      "link": "https://styleweekly.com/homeless-advocates-warn-of-rising-age-shift/",
-      "published": "2026-11-09T21:57:33Z",
-      "source": "Style Weekly",
-      "area": "Richmond",
-      "fetched_at": "2026-11-11T17:58:25Z",
-      "category": "Development & Housing"
-    },
-    {
-      "headline": "35-year-old Richmond man shot, killed in Chippenham Hospital parking lot",
-      "link": "https://www.wric.com/news/local-news/richmond/35-year-old-man-killed-chippenham-hospital/",
-      "published": "2026-11-09T21:52:27Z",
-      "source": "WRIC 8 News",
-      "area": "Richmond",
-      "fetched_at": "2026-11-10T17:55:22Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Winter weather shelters to open in Greater Richmond area ahead of cold weather",
-      "link": "https://www.wric.com/news/local-news/richmond/winter-weather-shelters-richmond/",
-      "published": "2026-11-09T21:52:04Z",
-      "source": "WRIC 8 News",
-      "area": "Richmond",
-      "fetched_at": "2026-11-10T17:55:22Z",
-      "category": "Weather"
-    },
-    {
-      "headline": "DEQ weighs new PFAS requirements for Richmond airport as residents seek tougher limits • Henrico School Board to consider new protections for immigrant students, restrictions on immigration agents at schools",
-      "link": "https://www.henricocitizen.com/henriconewsflashnov92026/",
-      "published": "2026-11-09T20:34:35Z",
-      "source": "The Henrico Citizen",
-      "area": "Henrico & Hanover",
-      "fetched_at": "2026-11-09T20:48:24Z",
-      "category": "Education"
-    },
-    {
-      "headline": "Southbound I-95 in Chesterfield to close overnight following crash",
-      "link": "https://www.12onyourside.com/2026/11/09/crash-tar-spill-closes-i-95-south/",
-      "published": "2026-11-09T20:30:52Z",
-      "source": "NBC12",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Traffic & Transit",
-      "local": true
-    },
-    {
-      "headline": "Does Virginia owe you money? Woman receives $400 in unclaimed property, how you can check",
-      "link": "https://www.wric.com/news/taking-action/does-virginia-owe-you-money-woman-receives-400-in-unclaimed-property-how-you-can-check/",
-      "published": "2026-11-09T20:24:12Z",
-      "source": "WRIC 8 News",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Henrico County uses opioid lawsuit funds to expand addiction treatment",
-      "link": "https://www.12onyourside.com/2026/11/09/henrico-county-uses-opioid-lawsuit-funds-expand-addiction-treatment/",
-      "published": "2026-11-09T20:22:00Z",
-      "source": "NBC12",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Missing 12-year-old Chesterfield boy found safe",
-      "link": "https://www.wric.com/news/local-news/chesterfield-county/missing-12-year-old-elokomin-avenue/",
-      "published": "2026-11-09T20:08:10Z",
-      "source": "WRIC 8 News",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Richmond City Council weighs opposition to $67 billion Dominion-NextEra merger",
-      "link": "https://www.wtvr.com/news/local-news/richmond/richmond-city-council-nextera-dominion-stance-nov-9-2026",
-      "published": "2026-11-09T19:57:27Z",
-      "source": "WTVR CBS 6",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:22Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Actor Donnie Dunagan, original voice of Bambi in classic Disney film, dies at 92, reports say",
-      "link": "https://www.12onyourside.com/2026/11/09/actor-donnie-dunagan-original-voice-bambi-classic-disney-film-dies-92-reports-say/",
-      "published": "2026-11-09T19:54:30Z",
-      "source": "NBC12",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Credit counselor says stigma should not keep people from seeking debt help",
-      "link": "https://www.12onyourside.com/2026/11/09/credit-counselor-says-stigma-should-not-keep-people-seeking-debt-help/",
-      "published": "2026-11-09T19:51:32Z",
-      "source": "NBC12",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Asbestos adds millions to cost of demolishing old Richmond High School of the Arts",
-      "link": "https://www.12onyourside.com/2026/11/09/asbestos-adds-millions-cost-demolishing-old-richmond-high-school-arts/",
-      "published": "2026-11-09T19:50:59Z",
-      "source": "NBC12",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Education",
-      "local": true
-    },
-    {
-      "headline": "DEQ weighs new PFAS requirements for Richmond airport as residents seek tougher limits",
-      "link": "https://www.henricocitizen.com/deq-weighs-new-pfas-requirements-for-richmond-airport-as-residents-seek-tougher-limits/",
-      "published": "2026-11-09T19:45:54Z",
-      "source": "The Henrico Citizen",
-      "area": "Henrico & Hanover",
-      "fetched_at": "2026-11-09T20:48:24Z",
-      "category": "Traffic & Transit"
-    },
-    {
-      "headline": "Varina goes wire to wire atop CBS 6/910 The Fan Coaches Poll for the regular season",
-      "link": "https://www.henricocitizen.com/varina-goes-wire-to-wire-atop-cbs-6-910-the-fan-coaches-poll-for-the-regular-season/",
-      "published": "2026-11-09T19:23:04Z",
-      "source": "The Henrico Citizen",
-      "area": "Henrico & Hanover",
-      "fetched_at": "2026-11-09T20:48:24Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Police identify 2 men killed in crash on I-64 West in Henrico",
-      "link": "https://www.henricocitizen.com/police-identify-2-men-killed-in-crash-on-i-64-west-in-henrico/",
-      "published": "2026-11-09T19:13:42Z",
-      "source": "The Henrico Citizen",
-      "area": "Henrico & Hanover",
-      "fetched_at": "2026-11-09T20:48:24Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Aging Untold: Why your metabolism changes as you age",
-      "link": "https://www.12onyourside.com/2026/11/09/aging-untold-why-your-metabolism-changes-you-age/",
-      "published": "2026-11-09T19:11:10Z",
-      "source": "NBC12",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Varina goes wire to wire atop our CBS 6/910 The Fan Coaches Poll for the regular season",
-      "link": "https://www.wtvr.com/sports/final-score-friday/cbs-6-910-the-fan-coaches-poll-nov-9-2026",
-      "published": "2026-11-09T19:07:54Z",
-      "source": "WTVR CBS 6",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:22Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Missing 12-year-old boy last seen leaving his home in Chesterfield, police say",
-      "link": "https://www.wtvr.com/news/local-news/chesterfield-county/missing-12-year-old-boy-last-seen-leaving-his-home-in-chesterfield-police-say",
-      "published": "2026-11-09T19:01:55Z",
-      "source": "WTVR CBS 6",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:22Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Bejeweled",
-      "link": "https://richmondmagazine.com/home/goods/hechizo-lighting/",
-      "published": "2026-11-09T18:55:00Z",
-      "source": "Richmond Magazine",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:20Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Shoosmith Landfill state report is more than a month overdue",
-      "link": "https://www.wric.com/news/local-news/chesterfield-county/shoosmith-landfill-oct-5-report-overdue/",
-      "published": "2026-11-09T18:49:16Z",
-      "source": "WRIC 8 News",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Affordability, Flock cameras and data centers top priorities for 2027 Virginia General Assembly session",
-      "link": "https://www.12onyourside.com/2026/11/09/affordability-flock-cameras-data-centers-top-priorities-2027-virginia-general-assembly-session/",
-      "published": "2026-11-09T18:35:21Z",
-      "source": "NBC12",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Bookings now available for Shenandoah Mansions in Richmond's Fan District",
-      "link": "https://www.wric.com/news/local-news/richmond/shenandoah-mansions-bookings-available/",
-      "published": "2026-11-09T18:04:57Z",
-      "source": "WRIC 8 News",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Education"
-    },
-    {
-      "headline": "24-year-old man shot, killed in Richmond",
-      "link": "https://www.wric.com/news/local-news/richmond/24-yo-shot-killed-shooting/",
-      "published": "2026-11-09T17:59:41Z",
-      "source": "WRIC 8 News",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "2 Henrico residents dead after crash, vehicle fire on I-64",
-      "link": "https://www.wric.com/news/local-news/henrico-county/henrico-crash-vehicle-fire-i64/",
-      "published": "2026-11-09T17:58:38Z",
-      "source": "WRIC 8 News",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Traffic & Transit"
-    },
-    {
-      "headline": "Henrico expands pre-hospital whole blood program countywide",
-      "link": "https://www.henricocitizen.com/henrico-expands-pre-hospital-whole-blood-program-countywide/",
-      "published": "2026-11-09T17:57:51Z",
-      "source": "The Henrico Citizen",
-      "area": "Henrico & Hanover",
-      "fetched_at": "2026-11-09T20:48:24Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Henrico School Board to consider new protections for immigrant students, restrictions on immigration agents at schools",
-      "link": "https://www.henricocitizen.com/henrico-school-board-to-consider-new-protections-for-immigrant-students-restrictions-on-immigration-agents-at-schools/",
-      "published": "2026-11-09T17:45:00Z",
-      "source": "The Henrico Citizen",
-      "area": "Henrico & Hanover",
-      "fetched_at": "2026-11-09T20:48:24Z",
-      "category": "Education"
-    },
-    {
-      "headline": "Rise Academy to host Night of Soul fundraiser with live music, food",
-      "link": "https://www.wric.com/in-studio-interviews/rise-academy-night-of-soul/",
-      "published": "2026-11-09T17:42:20Z",
-      "source": "WRIC 8 News",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Henrico County remains under drought watch",
-      "link": "https://www.henricocitizen.com/henrico-county-remains-under-drought-watch/",
-      "published": "2026-11-09T17:37:15Z",
-      "source": "The Henrico Citizen",
-      "area": "Henrico & Hanover",
-      "fetched_at": "2026-11-09T20:48:24Z",
-      "category": "Weather"
-    },
-    {
-      "headline": "Former Henrico staffer found guilty of strangling ACE Center student",
-      "link": "https://www.henricocitizen.com/former-henrico-staffer-found-guilty-of-strangling-ace-center-student/",
-      "published": "2026-11-09T17:31:00Z",
-      "source": "The Henrico Citizen",
-      "area": "Henrico & Hanover",
-      "fetched_at": "2026-11-09T20:48:24Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Firehouse Theatre to present Floyd Collins musical about famous cave explorer",
-      "link": "https://www.wric.com/news/local-news/richmond/firehouse-theatre-floyd-collins/",
-      "published": "2026-11-09T17:20:17Z",
-      "source": "WRIC 8 News",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Trump pushes for permanent daylight saving time: ‘It’s so dark outside, so early’",
-      "link": "https://www.12onyourside.com/2026/11/09/trump-pushes-permanent-daylight-saving-time-its-so-dark-outside-so-early/",
-      "published": "2026-11-09T17:09:21Z",
-      "source": "NBC12",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Strategic Decisions",
-      "link": "https://www.styleweekly.com/strategic-decisions/",
-      "published": "2026-11-09T17:00:24Z",
-      "source": "Style Weekly",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:20Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Strategic Decisions",
-      "link": "https://styleweekly.com/strategic-decisions/",
-      "published": "2026-11-09T17:00:24Z",
-      "source": "Style Weekly",
-      "area": "Richmond",
-      "fetched_at": "2026-11-11T17:58:25Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Unlikely allies: Why both parties want action on license plate cameras",
-      "link": "https://www.12onyourside.com/2026/11/09/unlikely-allies-why-both-parties-want-action-license-plate-cameras/",
-      "published": "2026-11-09T16:42:09Z",
-      "source": "NBC12",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Henrico Nonprofit Notes: Nov. 9, 2026",
-      "link": "https://www.henricocitizen.com/henrico-nonprofit-notes-nov-9-2026/",
-      "published": "2026-11-09T16:14:46Z",
-      "source": "The Henrico Citizen",
-      "area": "Henrico & Hanover",
-      "fetched_at": "2026-11-09T20:48:24Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Wreath laying held for Henrico police officer killed in line of duty",
-      "link": "https://www.wric.com/news/local-news/henrico-county/wreath-laying-held-for-henrico-police-officer-killed-in-line-of-duty/",
-      "published": "2026-11-09T15:53:15Z",
-      "source": "WRIC 8 News",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Richmond leaders to take action against proposed Dominion-NextEra merger at city council meeting",
-      "link": "https://www.wric.com/news/local-news/richmond/richmond-opposes-dominion-nexera-merger-meeting/",
-      "published": "2026-11-09T15:49:54Z",
-      "source": "WRIC 8 News",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Henrico Faith and Fellowship: Nov. 9, 2026",
-      "link": "https://www.henricocitizen.com/henrico-faith-and-fellowship-nov-9-2026/",
-      "published": "2026-11-09T15:43:53Z",
-      "source": "The Henrico Citizen",
-      "area": "Henrico & Hanover",
-      "fetched_at": "2026-11-09T20:48:24Z",
-      "category": "Other"
-    },
-    {
-      "headline": "'Light The Night' walk lights up Innsbrook for blood cancer patients",
-      "link": "https://www.henricocitizen.com/light-the-night-walk-lights-up-innsbrook-for-blood-cancer-patients/",
-      "published": "2026-11-09T15:33:09Z",
-      "source": "The Henrico Citizen",
-      "area": "Henrico & Hanover",
-      "fetched_at": "2026-11-09T20:48:24Z",
-      "category": "Health"
-    },
-    {
-      "headline": "First Alert Forecast: Dry and pleasant Monday",
-      "link": "https://www.12onyourside.com/2026/11/09/first-alert-forecast-dry-pleasant-monday/",
-      "published": "2026-11-09T15:31:09Z",
-      "source": "NBC12",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Weather",
-      "local": true
-    },
-    {
-      "headline": "Setting the Stage",
-      "link": "https://richmondmagazine.com/news/features/theater-set-design-construction/",
-      "published": "2026-11-09T15:30:00Z",
-      "source": "Richmond Magazine",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:20Z",
-      "category": "Other"
-    },
-    {
-      "headline": "This woman helps cemetery visitors talk openly about death",
-      "link": "https://www.12onyourside.com/2026/11/09/this-woman-helps-cemetery-visitors-talk-openly-about-death/",
-      "published": "2026-11-09T15:21:29Z",
-      "source": "NBC12",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Henrico Business in Brief: Nov. 9, 2026",
-      "link": "https://www.henricocitizen.com/henrico-business-in-brief-nov-9-2026/",
-      "published": "2026-11-09T15:14:06Z",
-      "source": "The Henrico Citizen",
-      "area": "Henrico & Hanover",
-      "fetched_at": "2026-11-09T20:48:24Z",
-      "category": "Business"
-    },
-    {
-      "headline": "12 Out the Door: Monday, November 9",
-      "link": "https://www.12onyourside.com/2026/11/09/12-out-door-monday-november-9/",
-      "published": "2026-11-09T15:00:00Z",
-      "source": "NBC12",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "How to talk about the end of life without feeling pressure to be strong",
-      "link": "https://www.12onyourside.com/2026/11/09/how-talk-about-end-life-without-feeling-pressure-be-strong/",
-      "published": "2026-11-09T14:44:26Z",
-      "source": "NBC12",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Henrico supervisors to consider marijuana regulations, retirement community and development proposals Nov. 10",
-      "link": "https://www.henricocitizen.com/henrico-supervisors-to-consider-marijuana-regulations-retirement-community-and-development-proposals-nov-10/",
-      "published": "2026-11-09T14:32:06Z",
-      "source": "The Henrico Citizen",
-      "area": "Henrico & Hanover",
-      "fetched_at": "2026-11-09T20:48:24Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Woodlawn Learning Center in Hopewell closed due to 'unexpected' power outage",
-      "link": "https://www.wric.com/news/local-news/the-tri-cities/woodlawn-learning-center-closed-nov-9/",
-      "published": "2026-11-09T14:23:59Z",
-      "source": "WRIC 8 News",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Telegraph Road lane reduction scheduled Nov. 9-10",
-      "link": "https://www.henricocitizen.com/telegraph-road-lane-reduction-scheduled-nov-9-10/",
-      "published": "2026-11-09T14:21:00Z",
-      "source": "The Henrico Citizen",
-      "area": "Henrico & Hanover",
-      "fetched_at": "2026-11-09T20:48:24Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Blood test could offer less invasive way to aid Alzheimer’s diagnosis",
-      "link": "https://www.12onyourside.com/2026/11/09/blood-test-could-offer-less-invasive-way-aid-alzheimers-diagnosis/",
-      "published": "2026-11-09T14:18:38Z",
-      "source": "NBC12",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Application period opens for Henrico Small Business Boost",
-      "link": "https://www.henricocitizen.com/application-period-opens-for-henrico-small-business-boost/",
-      "published": "2026-11-09T14:10:50Z",
-      "source": "The Henrico Citizen",
-      "area": "Henrico & Hanover",
-      "fetched_at": "2026-11-09T20:48:24Z",
-      "category": "Development & Housing"
-    },
-    {
-      "headline": "Why your metabolism changes as you age — and what you can do now",
-      "link": "https://www.12onyourside.com/2026/11/09/why-your-metabolism-changes-you-age-what-you-can-do-now/",
-      "published": "2026-11-09T13:43:20Z",
-      "source": "NBC12",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Avula shares next steps for Yes 4 RPS after voters approve 1% tax increase in Richmond",
-      "link": "https://www.wric.com/news/local-news/richmond/avula-next-steps-yes-4-rps/",
-      "published": "2026-11-09T13:20:29Z",
-      "source": "WRIC 8 News",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "River City Roundup",
-      "link": "https://richmondmagazine.com/arts-entertainment/river-city-roundup-nov-9-2026/",
-      "published": "2026-11-09T13:00:00Z",
-      "source": "Richmond Magazine",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:20Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Missing 43-year-old man last seen in Hopewell found safe",
-      "link": "https://www.wric.com/news/local-news/the-tri-cities/missing-43-year-old-north-mesa-drive/",
-      "published": "2026-11-09T12:39:34Z",
-      "source": "WRIC 8 News",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Two hurt after sedan hits truck, spills tar onto I-95 in Chesterfield",
-      "link": "https://www.wric.com/news/local-news/chesterfield-county/two-hurt-tar-spill-crash-i-95/",
-      "published": "2026-11-09T12:20:51Z",
-      "source": "WRIC 8 News",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:23Z",
-      "category": "Traffic & Transit"
-    },
-    {
-      "headline": "New Opportunity Zone map adds Monroe Ward and swaths of Southside, drops Scott’s Addition and Manchester",
-      "link": "https://richmondbizsense.com/2026/11/09/new-opportunity-zone-map-adds-monroe-ward-and-swaths-of-southside-drops-scotts-addition-and-manchester/",
-      "published": "2026-11-09T07:04:39Z",
-      "source": "Richmond BizSense",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:22Z",
-      "category": "Development & Housing"
-    },
-    {
-      "headline": "New subdivisions Tuckahoe West, Serenity Trail approved by Goochland supervisors",
-      "link": "https://richmondbizsense.com/2026/11/09/goochland-supervisors-approve-rezoning-for-tuckahoe-west-serenity-trail-subdivisions/",
-      "published": "2026-11-09T07:03:52Z",
-      "source": "Richmond BizSense",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:22Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Leader tapped for Sina Sports Complex in Colonial Heights as zoning review kicks off",
-      "link": "https://richmondbizsense.com/2026/11/09/leader-tapped-for-planned-sina-sports-complex-in-colonial-heights-as-zoning-review-kicks-off/",
-      "published": "2026-11-09T07:02:09Z",
-      "source": "Richmond BizSense",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:22Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Self-service dog wash Butt Rub & Scrub opens in Carytown",
-      "link": "https://richmondbizsense.com/2026/11/09/self-service-dog-wash-butt-rub-scrub-opens-in-carytown/",
-      "published": "2026-11-09T07:01:30Z",
-      "source": "Richmond BizSense",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:22Z",
-      "category": "Other"
-    },
-    {
-      "headline": "The Agenda: Local government briefs for 11.9.26",
-      "link": "https://richmondbizsense.com/2026/11/09/the-agenda-local-government-briefs-for-11-9-26/",
-      "published": "2026-11-09T07:01:00Z",
-      "source": "Richmond BizSense",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:22Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Foreclosures: 11.9.26",
-      "link": "https://richmondbizsense.com/2026/11/09/foreclosures-11-9-26/",
-      "published": "2026-11-09T07:00:48Z",
-      "source": "Richmond BizSense",
-      "area": "Richmond",
-      "fetched_at": "2026-11-09T20:48:22Z",
-      "category": "Other"
     }
   ],
   "link_only": [
