@@ -1,11 +1,781 @@
 {
-  "generated_at": "2026-11-24T04:33:06Z",
+  "generated_at": "2026-11-24T20:47:18Z",
   "name": "Providence, RI",
   "areas": [
     "Providence",
     "East Bay & Newport County"
   ],
   "articles": [
+    {
+      "headline": "Man charged with murder in woman's death at New Bedford hotel",
+      "link": "https://www.wpri.com/news/local-news/se-mass/man-charged-with-murder-in-womans-death-at-new-bedford-hotel/",
+      "published": "2026-11-24T20:39:55Z",
+      "source": "WPRI 12",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:50Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Trump AG Todd Blanche stumbles through questions on if Jensen Huang was investigated: ‘For what?’",
+      "link": "https://www.bostonglobe.com/2026/11/24/nation/todd-blanche-dismisses-nvidia-investigation/",
+      "published": "2026-11-24T20:23:55Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Trump grants Thanksgiving pardons for turkeys Freedom and Feathers at the White House",
+      "link": "https://www.wpri.com/news/us-and-world/trump-will-offer-thanksgiving-pardons-for-turkeys-freedom-and-feathers-at-the-white-house/",
+      "published": "2026-11-24T20:17:23Z",
+      "source": "WPRI 12",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:50Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "URI, foundation seek to change eligibility of 17 scholarships based on race, sex, national origin",
+      "link": "https://pbn.com/uri-foundation-seek-to-change-eligibility-of-17-scholarships-based-on-race-sex-national-origin/",
+      "published": "2026-11-24T20:06:12Z",
+      "source": "Providence Business News",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:50Z",
+      "category": "Health"
+    },
+    {
+      "headline": "Massachusetts trooper on restrictive status after alleged off-duty OUI crash",
+      "link": "https://www.wpri.com/new-england/massachusetts/mass-state-police-trooper-restrictive-status-alleged-off-duty-oui-crash/",
+      "published": "2026-11-24T20:01:43Z",
+      "source": "WPRI 12",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:50Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Morales names Sue AnderBois as Providence’s next chief of policy",
+      "link": "https://pbn.com/morales-names-sue-anderbois-as-providences-next-chief-of-policy/",
+      "published": "2026-11-24T20:00:00Z",
+      "source": "Providence Business News",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:50Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Steamship Authority ferry runs aground in Hyannis, damaging hull, officials say",
+      "link": "https://www.bostonglobe.com/2026/11/24/metro/steamship-authority-ferry-aground-hyannis/",
+      "published": "2026-11-24T19:57:42Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "As the holiday season begins, what I’m thankful for",
+      "link": "https://www.bostonglobe.com/2026/11/24/opinion/thankful-season-knicks-trump-friendship/",
+      "published": "2026-11-24T19:54:21Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Watertown-based biotech reports mid-stage eczema trial success",
+      "link": "https://www.bostonglobe.com/2026/11/24/business/kymera-therapeutics-mid-stage-eczema-trial-success-dupixent-rival/",
+      "published": "2026-11-24T19:33:41Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Jensen Huang apologizes to Nvidia employees and says he is in therapy",
+      "link": "https://www.bostonglobe.com/2026/11/24/business/nvidia-huang-apology-therapy/",
+      "published": "2026-11-24T19:31:35Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Polly Anderson, longtime AP editor who steered many of the biggest US stories, dies",
+      "link": "https://www.bostonglobe.com/2026/11/24/metro/polly-anderson-longtime-ap-editor-who-steered-many-biggest-us-stories-dies/",
+      "published": "2026-11-24T19:23:42Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Crews battle predawn 3-alarm fire at Plymouth recycling plant, officials say",
+      "link": "https://www.bostonglobe.com/2026/11/24/metro/plymouth-recycling-plant-fire/",
+      "published": "2026-11-24T19:18:33Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Sebastián Lelio, director of nuanced film portraits of women, dies at 52",
+      "link": "https://www.bostonglobe.com/2026/11/24/metro/sebastin-lelio-director-nuanced-film-portraits-women-dies-52/",
+      "published": "2026-11-24T19:13:04Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "State trooper accused of driving drunk during crash in West Bridgewater, police say",
+      "link": "https://www.bostonglobe.com/2026/11/24/metro/state-trooper-cited-drunk-driving/",
+      "published": "2026-11-24T19:12:42Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Days before Thanksgiving, Seekonk turkey farm shut down by local health board for sanitary violations",
+      "link": "https://www.bostonglobe.com/2026/11/24/metro/belwing-turkey-farm-shut-down/",
+      "published": "2026-11-24T18:57:36Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Health",
+      "local": true
+    },
+    {
+      "headline": "Trump tells federal contractors to ignore Congress — or else",
+      "link": "https://www.bostonglobe.com/2026/11/24/opinion/trump-congress-contracts-federal-invetigations/",
+      "published": "2026-11-24T18:52:38Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "How to make holiday travel less of an expensive hassle and get home safely",
+      "link": "https://www.bostonglobe.com/2026/11/24/nation/thanksgiving-holiday-travel-tips/",
+      "published": "2026-11-24T18:46:10Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Robert Gould Shaw was a complicated hero. That’s why historian Kevin M. Levin finds him fascinating.",
+      "link": "https://www.bostonglobe.com/2026/11/24/arts/robert-gould-shaw-kevin-m-levin/",
+      "published": "2026-11-24T18:41:28Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Rob Gronkowski, Vince Wilfork among former Patriots advancing in Pro Football Hall of Fame voting process",
+      "link": "https://www.bostonglobe.com/2026/11/24/sports/patriots-pro-football-hall-of-fame/",
+      "published": "2026-11-24T18:23:00Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Interfaith Thanksgiving Service",
+      "link": "https://www.newportthisweek.com/articles/interfaith-thanksgiving-service/",
+      "published": "2026-11-24T18:19:57Z",
+      "source": "Newport This Week",
+      "area": "East Bay & Newport County",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Rockland shooting victim called ‘wonderful person’ by brother-in-law; ‘investigation ongoing’",
+      "link": "https://www.bostonglobe.com/2026/11/24/metro/rockland-andry-mcfall-shooting-fatal/",
+      "published": "2026-11-24T18:09:40Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Photo exhibit challenges Thanksgiving myths with haunting Native images",
+      "link": "https://www.bostonglobe.com/2026/11/24/arts/jeremy-dennis-photography-thanksgiving-myths/",
+      "published": "2026-11-24T17:51:37Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Family of Waltham police officer fatally struck while working detail in 2023 sues National Grid",
+      "link": "https://www.bostonglobe.com/2026/11/24/metro/paul-tracey-lawsuit-national-grid/",
+      "published": "2026-11-24T17:51:00Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Scrap metal company to pay $400,000 to settle lawsuit in R.I.",
+      "link": "https://www.bostonglobe.com/2026/11/24/metro/conservation-law-foundation-settlement-sims-metal-ri/",
+      "published": "2026-11-24T17:50:52Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "United States to host 2028 Copa America tournament",
+      "link": "https://www.wpri.com/sports/united-states-to-host-2028-copa-america-tournament/",
+      "published": "2026-11-24T17:42:37Z",
+      "source": "WPRI 12",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:50Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "3 student lawsuits in deadly Brown shooting ‘privately resolved’",
+      "link": "https://pbn.com/3-student-lawsuits-in-deadly-brown-shooting-privately-resolved/",
+      "published": "2026-11-24T17:28:13Z",
+      "source": "Providence Business News",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:50Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "URI asks court to rewrite scholarships limited by race, sex amid DEI crackdown",
+      "link": "https://www.wpri.com/target-12/uri-asks-court-to-rewrite-scholarships-limited-by-race-sex-amid-dei-crackdown/",
+      "published": "2026-11-24T17:26:41Z",
+      "source": "WPRI 12",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:50Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "U.S. consumer confidence soars with elections in the rearview mirror and gas prices in retreat",
+      "link": "https://pbn.com/u-s-consumer-confidence-soars-with-elections-in-the-rearview-mirror-and-gas-prices-in-retreat/",
+      "published": "2026-11-24T17:17:52Z",
+      "source": "Providence Business News",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:50Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "URI fraternity suspended for a decade after hazing investigation",
+      "link": "https://www.wpri.com/news/local-news/south-county/uri-fraternity-suspended-for-a-decade-after-hazing-investigation/",
+      "published": "2026-11-24T17:09:35Z",
+      "source": "WPRI 12",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:50Z",
+      "category": "Other"
+    },
+    {
+      "headline": "‘Disney’s Hexed’ is cursed with a familiar story",
+      "link": "https://www.bostonglobe.com/2026/11/24/arts/disney-hexed/",
+      "published": "2026-11-24T17:00:00Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Faux Founding Father arrested in North End while clad in full Benjamin Franklin outfit",
+      "link": "https://www.bostonglobe.com/2026/11/24/metro/ben-franklin-impersonator-arrest/",
+      "published": "2026-11-24T16:54:52Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Sims Metal settles storm runoff lawsuit at R.I. sites for $400K",
+      "link": "https://pbn.com/sims-metal-settles-storm-runoff-lawsuit-at-r-i-sites-for-400k/",
+      "published": "2026-11-24T16:46:44Z",
+      "source": "Providence Business News",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:50Z",
+      "category": "Business"
+    },
+    {
+      "headline": "Warwick warehouse sold for $73.3M to global management heavyweight",
+      "link": "https://pbn.com/warwick-warehouse-sold-for-73-3m-to-global-management-heavyweight/",
+      "published": "2026-11-24T16:38:40Z",
+      "source": "Providence Business News",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:50Z",
+      "category": "Development & Housing"
+    },
+    {
+      "headline": "No. 2 official at FBI is said to be retiring before end of year",
+      "link": "https://www.bostonglobe.com/2026/11/24/nation/fbi-deputy-retiring-christopher-raia/",
+      "published": "2026-11-24T16:27:02Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Woman accused of setting fire to occupied Medford home is held without bail",
+      "link": "https://www.bostonglobe.com/2026/11/24/metro/sonia-flayer-medford-arson-suspect-arraigned-new-police-report-details/",
+      "published": "2026-11-24T16:20:44Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "U2 returns to Gillette Stadium for first time in a decade with ‘The Greatest Show on Earth’",
+      "link": "https://www.bostonglobe.com/2026/11/24/arts/u2-gillette-stadium/",
+      "published": "2026-11-24T16:19:54Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "New Bedford city councilors taking up Flock camera ordinance",
+      "link": "https://www.wpri.com/news/local-news/se-mass/new-bedford-city-councilors-taking-up-flock-camera-ordinance/",
+      "published": "2026-11-24T16:16:00Z",
+      "source": "WPRI 12",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:50Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Federal judge says HUD overstepped authority in latest homelessness funding changes",
+      "link": "https://pbn.com/federal-judge-says-hud-overstepped-authority-in-latest-homelessness-funding-changes/",
+      "published": "2026-11-24T16:10:45Z",
+      "source": "Providence Business News",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:50Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Andre Tippett on Patriots rookie Gabe Jacas: ‘He’s going to be a special player’",
+      "link": "https://www.bostonglobe.com/2026/11/24/sports/andre-tippett-gabe-jacas/",
+      "published": "2026-11-24T15:55:55Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "‘You belong here’: New US citizens embrace Thanksgiving tradition",
+      "link": "https://www.bostonglobe.com/2026/11/24/metro/immigrants-thanksgiving-new-americans/",
+      "published": "2026-11-24T15:55:36Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Popular Seekonk turkey farm shut down days before Thanksgiving",
+      "link": "https://www.wpri.com/news/local-news/se-mass/popular-seekonk-turkey-farm-shut-down-days-before-thanksgiving/",
+      "published": "2026-11-24T15:45:01Z",
+      "source": "WPRI 12",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:50Z",
+      "category": "Health"
+    },
+    {
+      "headline": "North End restaurateur sued for alleged withholding of workers’ tips",
+      "link": "https://www.bostonglobe.com/2026/11/24/metro/north-end-despasquale-lawsuit-restaurants/",
+      "published": "2026-11-24T15:38:02Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Trump’s extraordinary Nvidia intervention sidelines national security concerns",
+      "link": "https://www.bostonglobe.com/2026/11/24/nation/trump-huang-nvidia-national-security/",
+      "published": "2026-11-24T15:22:49Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Spinning Waste into Art",
+      "link": "https://www.rimonthly.com/reharvest-repair/",
+      "published": "2026-11-24T15:19:47Z",
+      "source": "Rhode Island Monthly",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:50Z",
+      "category": "Other"
+    },
+    {
+      "headline": "With GLP-1 drugs’ popularity, Mass General Brigham to close Newton-Wellesley weight loss surgery center",
+      "link": "https://www.bostonglobe.com/2026/11/24/business/mass-general-brigham-glp1-surgery/",
+      "published": "2026-11-24T15:16:21Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Health",
+      "local": true
+    },
+    {
+      "headline": "It’s uncertain how Pawtucket’s City Council will vote on a $17 million teachers contract",
+      "link": "https://www.bostonglobe.com/2026/11/24/metro/teachers-contract-pawtucket-city-council-decision-pending-ri/",
+      "published": "2026-11-24T15:03:41Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Education",
+      "local": true
+    },
+    {
+      "headline": "Dick Cavett pulled no punches",
+      "link": "https://www.bostonglobe.com/2026/11/24/arts/dick-cavett-90/",
+      "published": "2026-11-24T15:00:00Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "MAGA attacked Harvard. So Harvard taught a class about it.",
+      "link": "https://www.bostonglobe.com/2026/11/24/metro/harvard-maga-class/",
+      "published": "2026-11-24T14:57:26Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Jensen Huang is back, but Nvidia still has to deal with his baggage",
+      "link": "https://www.bostonglobe.com/2026/11/24/business/nvidia-jensen-huang-return-markets/",
+      "published": "2026-11-24T14:51:59Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Share your thoughts on this story: Loving Connor is easy. It’s the letting go that’s hard.",
+      "link": "https://www.bostonglobe.com/2026/11/24/special-projects/share-your-thoughts-this-story-loving-connor-is-easy-its-letting-go-thats-hard/",
+      "published": "2026-11-24T14:40:27Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Why Donald Trump believed he needed to get Jensen Huang back on top at AI behemoth Nvidia",
+      "link": "https://www.bostonglobe.com/2026/11/24/business/trump-huang-nvidia/",
+      "published": "2026-11-24T14:27:59Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Pope Francis' private diary describes a profound spiritual crisis and encounters with the devil",
+      "link": "https://www.wpri.com/news/us-and-world/pope-francis-private-diary-describes-a-profound-spiritual-crisis-and-encounters-with-the-devil/",
+      "published": "2026-11-24T14:06:48Z",
+      "source": "WPRI 12",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:50Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Can a new work program help a tiny art college defy gravity?",
+      "link": "https://www.bostonglobe.com/2026/11/24/newsletters/montserrat-college-art-work-program/",
+      "published": "2026-11-24T14:00:07Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Education",
+      "local": true
+    },
+    {
+      "headline": "24 Rhode Island Nonprofits to Help Support on #GivingTuesday",
+      "link": "https://www.rimonthly.com/local-charities-to-help-support-for-givingtuesday/",
+      "published": "2026-11-24T14:00:00Z",
+      "source": "Rhode Island Monthly",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:50Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "The play’s the thing for Ian Charleson in ‘Elsinore’",
+      "link": "https://www.bostonglobe.com/2026/11/24/arts/andrew-scott-elsinore/",
+      "published": "2026-11-24T14:00:00Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Child taken to hospital after falling from second- story window in Hyde Park",
+      "link": "https://www.bostonglobe.com/2026/11/24/metro/hyde-park-police-investigating-after-child-falls-from-second-story-window/",
+      "published": "2026-11-24T13:45:05Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Health",
+      "local": true
+    },
+    {
+      "headline": "Why is Lincoln everywhere in pop culture?",
+      "link": "https://www.bostonglobe.com/2026/11/23/arts/abraham-lincoln-pop-culture/",
+      "published": "2026-11-24T13:00:00Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "A charming historical fiction for readers of Patchett and Strout, ‘Wild Aster’ traces a woman’s life through loss and loves",
+      "link": "https://www.bostonglobe.com/2026/11/24/arts/anna-hogeland-wild-aster-novel/",
+      "published": "2026-11-24T13:00:00Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "A congressional stock trading ban is gaining momentum. But will Congress find a way to make it law?",
+      "link": "https://www.bostonglobe.com/2026/11/24/nation/congress-stock-trading-ban-democrats/",
+      "published": "2026-11-24T11:42:26Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "The PROTECT Act faces its first big test",
+      "link": "https://www.bostonglobe.com/2026/11/24/newsletters/campbell-immigration-ice-lawsuit-the-scrum/",
+      "published": "2026-11-24T11:19:59Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Would your recycling bin get an ‘Oops!’ or a ‘Yay!’?",
+      "link": "https://www.bostonglobe.com/2026/11/24/metro/education-program-boosts-providence-recycling-rates-ri/",
+      "published": "2026-11-24T10:55:00Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Loving Connor is easy. It’s the letting go that’s hard.",
+      "link": "https://www.bostonglobe.com/2026/11/24/multimedia/navigating-autism-in-adulthood-connor-family-story/",
+      "published": "2026-11-24T10:32:14Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Want to improve your baking? Trade refined flour for whole grain.",
+      "link": "https://www.bostonglobe.com/2026/11/24/lifestyle/whole-grain-flour-home-baking/",
+      "published": "2026-11-24T10:30:00Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Behind every door, a bigger, bolder, more expensive, and more over-the-top Advent calendar",
+      "link": "https://www.bostonglobe.com/2026/11/24/lifestyle/advent-calendars-gone-mad/",
+      "published": "2026-11-24T10:30:00Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "How the DNC’s presidential debate rules are a gift to AIPAC, industry, and billionaire candidates",
+      "link": "https://www.bostonglobe.com/2026/11/24/nation/dnc-presidential-race-2028/",
+      "published": "2026-11-24T10:30:00Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Sourdough takes center stage in a comprehensive new bread book",
+      "link": "https://www.bostonglobe.com/2026/11/24/lifestyle/breaducation-andrew-janjigian-bread-cookbook/",
+      "published": "2026-11-24T10:30:00Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "The last Chinatown rooming house is for sale. Can it be preserved before it’s turned into luxury condos?",
+      "link": "https://www.bostonglobe.com/2026/11/24/metro/chinatown-rooming-house-affordable-housing/",
+      "published": "2026-11-24T10:30:00Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "A (mini) whole grain primer",
+      "link": "https://www.bostonglobe.com/2026/11/24/lifestyle/whole-grains-spelt-rye-buckwheat/",
+      "published": "2026-11-24T10:30:00Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Plump, vibrant heirloom cranberries from multi-generation farm",
+      "link": "https://www.bostonglobe.com/2026/11/24/lifestyle/fresh-meadows-farm-carver-cranberries/",
+      "published": "2026-11-24T10:30:00Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Soft sandwich rolls, now jam-packed with fiber",
+      "link": "https://www.bostonglobe.com/2026/11/24/lifestyle/calise-bakery-rolls-high-fiber/",
+      "published": "2026-11-24T10:30:00Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Money is tight for many this Thanksgiving. Which supermarkets have the best meal deals? We looked at the numbers.",
+      "link": "https://www.bostonglobe.com/2026/11/24/business/thanksgiving-meal-deals-at-mass-retailers/",
+      "published": "2026-11-24T10:30:00Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Thanksgiving high school football is a Massachusetts tradition, but in many cities and towns, it’s not what it used to be",
+      "link": "https://www.bostonglobe.com/2026/11/24/sports/massachusetts-thanksgiving-high-school-football/",
+      "published": "2026-11-24T10:00:00Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Education",
+      "local": true
+    },
+    {
+      "headline": "Weather Now: Rain/Wind Storm Arrives on Thanksgiving",
+      "link": "https://www.wpri.com/weather-now/weather-now-for-tue-11-24-26/",
+      "published": "2026-11-24T09:21:24Z",
+      "source": "WPRI 12",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:50Z",
+      "category": "Weather"
+    },
+    {
+      "headline": "Today in history: Jack Ruby shoots Lee Harvey Oswald",
+      "link": "https://www.bostonglobe.com/2026/11/24/metro/today-history-jack-ruby-shoots-lee-harvey-oswald/",
+      "published": "2026-11-24T09:10:00Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Debate over MassHealth autism services highlights murky rules",
+      "link": "https://www.bostonglobe.com/2026/11/24/opinion/masshealth-autism-payments-rules/",
+      "published": "2026-11-24T09:00:00Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "I came for a recipe. I stayed for the comments.",
+      "link": "https://www.bostonglobe.com/2026/11/24/opinion/nyt-cooking-recipes-comments/",
+      "published": "2026-11-24T08:00:00Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Israel anxiously awaits the formation of a new government — the soul of the country at stake",
+      "link": "https://www.bostonglobe.com/2026/11/24/opinion/israel-netanyahu-eisenkot-arab-parties/",
+      "published": "2026-11-24T08:00:00Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Our ailing primary care system: a harsh set of diagnoses",
+      "link": "https://www.bostonglobe.com/2026/11/24/opinion/letter-primary-care-system-ailing-whats-wrong/",
+      "published": "2026-11-24T07:30:00Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Rockland’s Megan Khang steady once again to retain LPGA Tour card",
+      "link": "https://www.bostonglobe.com/2026/11/23/sports/lpga-megan-khang-q-school/",
+      "published": "2026-11-24T04:45:18Z",
+      "source": "Boston Globe Rhode Island",
+      "area": "Providence",
+      "fetched_at": "2026-11-24T20:44:53Z",
+      "category": "Food & Events",
+      "local": true
+    },
     {
       "headline": "With MLB sticking by salary cap, players counter that owners should just share revenues without one",
       "link": "https://www.bostonglobe.com/2026/11/23/sports/mlb-labor-negotiations/",
@@ -15151,972 +15921,6 @@
       "area": "Providence",
       "fetched_at": "2026-11-11T00:17:37Z",
       "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Meet the inaugural class of the Massachusetts Women’s Hall of Fame",
-      "link": "https://www.bostonglobe.com/2026/11/10/metro/massachusetts-womens-hall-of-fame-inagural-ceremony/",
-      "published": "2026-11-10T20:31:10Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-11T00:17:37Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Abortion rights become early flash point in RI Supreme Court nomination",
-      "link": "https://rhodeislandcurrent.com/2026/11/10/abortion-rights-become-early-flash-point-in-ri-supreme-court-nomination/",
-      "published": "2026-11-10T20:27:58Z",
-      "source": "Rhode Island Current",
-      "area": "Rhode Island",
-      "fetched_at": "2026-11-11T00:17:35Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Insurer FM will move HQ to Providence tower, close Johnston office",
-      "link": "https://www.wpri.com/business-news/insurer-fm-will-move-hq-to-providence-tower-close-johnston-office/",
-      "published": "2026-11-10T20:08:59Z",
-      "source": "WPRI 12",
-      "area": "Providence",
-      "fetched_at": "2026-11-11T00:17:35Z",
-      "category": "Business"
-    },
-    {
-      "headline": "Gov.-elect Foulkes names transition committee",
-      "link": "https://pbn.com/gov-elect-foulkes-names-transition-committee/",
-      "published": "2026-11-10T20:00:51Z",
-      "source": "Providence Business News",
-      "area": "Providence",
-      "fetched_at": "2026-11-11T00:17:36Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Providence seeks lasting economic ties with Scottish town after World Cup",
-      "link": "https://pbn.com/providence-seeks-lasting-economic-ties-with-scottish-town-after-world-cup/",
-      "published": "2026-11-10T20:00:22Z",
-      "source": "Providence Business News",
-      "area": "Providence",
-      "fetched_at": "2026-11-11T00:17:36Z",
-      "category": "Business"
-    },
-    {
-      "headline": "Cumberland Water asks customers to restrict usage",
-      "link": "https://www.valleybreeze.com/news/cumberland-water-asks-customers-to-restrict-usage/article_2158f315-e33c-4bd0-a94a-5b171a3f3e13.html",
-      "published": "2026-11-10T20:00:00Z",
-      "source": "Valley Breeze",
-      "area": "Providence",
-      "fetched_at": "2026-11-11T17:58:20Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Williams & Stuart REALTORS® Sally Hersey and John Moretti Receive Top Industry Honors",
-      "link": "https://pbn.com/williams-stuart-realtors-sally-hersey-and-john-moretti-receive-top-industry-honors/",
-      "published": "2026-11-10T19:55:47Z",
-      "source": "Providence Business News",
-      "area": "Providence",
-      "fetched_at": "2026-11-11T00:17:36Z",
-      "category": "Development & Housing"
-    },
-    {
-      "headline": "Man sentenced to life in prison for killing pregnant girlfriend, burying her body in Rehoboth",
-      "link": "https://www.bostonglobe.com/2026/11/10/metro/gregory-groom-rehoboth-life-in-prison/",
-      "published": "2026-11-10T19:52:11Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-11T00:17:37Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Wyatt inmate sentenced extra 24 months in drug-smuggling case",
-      "link": "https://pbn.com/wyatt-inmate-sentenced-extra-24-months-in-drug-smuggling-case/",
-      "published": "2026-11-10T19:51:21Z",
-      "source": "Providence Business News",
-      "area": "Providence",
-      "fetched_at": "2026-11-11T00:17:36Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Ex-officer convicted of killing Sandra Birchmore to keep Massachusetts woman quiet about sex abuse",
-      "link": "https://www.wpri.com/new-england/massachusetts/ex-officer-convicted-of-killing-sandra-birchmore/",
-      "published": "2026-11-10T19:34:36Z",
-      "source": "WPRI 12",
-      "area": "Providence",
-      "fetched_at": "2026-11-11T00:17:35Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Bob Boone, World Series champion and part of three-generation baseball family, dies at 78",
-      "link": "https://www.bostonglobe.com/2026/11/10/sports/bob-boone-catcher-dies-78/",
-      "published": "2026-11-10T19:33:11Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-11T00:17:37Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Water use notice from Pawtucket Water Supply Board",
-      "link": "https://www.valleybreeze.com/news/water-use-notice-from-pawtucket-water-supply-board/article_b2d8cc85-a0d9-4ecc-a460-c7e48f9cefa1.html",
-      "published": "2026-11-10T19:30:00Z",
-      "source": "Valley Breeze",
-      "area": "Providence",
-      "fetched_at": "2026-11-11T17:58:20Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "How to ‘thank’ Black women for their midterms vote",
-      "link": "https://www.bostonglobe.com/2026/11/10/opinion/black-women-midterms-power/",
-      "published": "2026-11-10T18:32:33Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-11T00:17:37Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "What we know — and what we don’t — as Nvidia investigates an alleged spy plot involving its CEO",
-      "link": "https://www.bostonglobe.com/2026/11/10/business/nvidia-investigation-jensen-huang-what-to-know/",
-      "published": "2026-11-10T18:27:23Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-11T00:17:37Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "‘I know how much you love the American people,’ Trump told Biden in 2021 letter",
-      "link": "https://www.bostonglobe.com/2026/11/10/nation/trump-biden-letter-2020-election/",
-      "published": "2026-11-10T18:26:26Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-11T00:17:37Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Impeachment isn’t only for presidents. How does the process work for Cabinet secretaries?",
-      "link": "https://www.bostonglobe.com/2026/11/10/nation/pete-hegseth-impeachment-how-it-works/",
-      "published": "2026-11-10T18:07:19Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-11T00:17:37Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "PWSB asks customers to limit water use amid 'operational issues' at treatment plant",
-      "link": "https://www.wpri.com/news/local-news/blackstone-valley/pawtucket-asks-residents-to-limit-water-use-amid-operational-issues-at-treatment-plant/",
-      "published": "2026-11-10T17:56:09Z",
-      "source": "WPRI 12",
-      "area": "Providence",
-      "fetched_at": "2026-11-11T00:17:35Z",
-      "category": "Business"
-    },
-    {
-      "headline": "Fall-Time Foraging in Rhode Island: Where to Look and How to Cook",
-      "link": "https://motifri.com/fall-time-foraging-in-rhode-island-where-to-look-and-how-to-cook/?utm_source=rss&utm_medium=rss&utm_campaign=fall-time-foraging-in-rhode-island-where-to-look-and-how-to-cook",
-      "published": "2026-11-10T17:54:42Z",
-      "source": "Motif Magazine",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:16Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Gov.-elect Helena Foulkes to lay out transition plans at 1 pm",
-      "link": "https://www.wpri.com/news/politics/gov-elect-helena-foulkes-lays-out-transition-plans/",
-      "published": "2026-11-10T17:49:12Z",
-      "source": "WPRI 12",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:13Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Mass. man charged after allegedly driving wrong way on N.H. highway toward state trooper, police say",
-      "link": "https://www.bostonglobe.com/2026/11/10/metro/nh-wrong-way-driver-thomas-burke-charged-with-dwi/",
-      "published": "2026-11-10T17:47:31Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Brown University posts $50.4M deficit as expenses outpace revenue",
-      "link": "https://pbn.com/brown-university-posts-50-4m-deficit-as-expenses-outpace-revenue/",
-      "published": "2026-11-10T17:47:03Z",
-      "source": "Providence Business News",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:13Z",
-      "category": "Education"
-    },
-    {
-      "headline": "Democrats have gained control in more states. That could change the way the US elects its president.",
-      "link": "https://www.bostonglobe.com/2026/11/10/nation/democrats-electoral-college-popular-vote/",
-      "published": "2026-11-10T17:40:24Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Nvidia chief told Trump he did not know Chinese woman was suspected spy",
-      "link": "https://www.bostonglobe.com/2026/11/10/business/trump-nvidia-jensen-huang/",
-      "published": "2026-11-10T17:38:14Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Man gets 25 to life in prison for pregnant girlfriend's murder",
-      "link": "https://www.wpri.com/news/local-news/se-mass/man-gets-25-to-life-in-prison-for-pregnant-girlfriends-murder/",
-      "published": "2026-11-10T17:27:59Z",
-      "source": "WPRI 12",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:13Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "The party’s over for a first-time dad in ‘Club Kid’",
-      "link": "https://www.bostonglobe.com/2026/11/10/arts/club-kid-jordan-firstman/",
-      "published": "2026-11-10T17:22:33Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Matthew Farwell’s jury is reporting a deadlock. Impasse is a familiar territory for Mass. jurors in high profile cases.",
-      "link": "https://www.bostonglobe.com/2026/11/10/metro/sandra-birchmore-trial-jury-deadlock/",
-      "published": "2026-11-10T17:20:55Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "NFL trade deadline live updates: Will the Patriots make a move to bolster the roster? Follow along.",
-      "link": "https://www.bostonglobe.com/2026/11/10/sports/nfl-trade-deadline-live-updates/",
-      "published": "2026-11-10T17:07:04Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Teen linked to carjacking in Roxbury by arm tattoos spotted on surveillance cameras, prosecutors say",
-      "link": "https://www.bostonglobe.com/2026/11/10/metro/roxbury-teen-charged-in-armed-carjacking/",
-      "published": "2026-11-10T17:04:11Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Justice Department sues Lyft alleging discrimination against riders with disabilities",
-      "link": "https://www.bostonglobe.com/2026/11/10/business/lyft-doj-lawsuit-disability-discrimination/",
-      "published": "2026-11-10T17:01:09Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Traffic & Transit",
-      "local": true
-    },
-    {
-      "headline": "Lardaro: R.I. economy has breakout performance in September",
-      "link": "https://pbn.com/lardaro-r-i-economy-has-breakout-performance-in-september/",
-      "published": "2026-11-10T16:51:00Z",
-      "source": "Providence Business News",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:13Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Hegseth attacks civilian-led education in Naval War College speech",
-      "link": "https://pbn.com/hegseth-attacks-civilian-led-education-in-naval-war-college-speech/",
-      "published": "2026-11-10T16:48:47Z",
-      "source": "Providence Business News",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:13Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Republicans leave closed-door meeting without a decision on whether to reelect John Thune as leader",
-      "link": "https://www.bostonglobe.com/2026/11/10/nation/john-thune-senate-republican-leadership/",
-      "published": "2026-11-10T16:40:28Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "A new Congress should mean a new agenda for health care",
-      "link": "https://www.bostonglobe.com/2026/11/10/opinion/congress-health-care/",
-      "published": "2026-11-10T16:38:44Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Health",
-      "local": true
-    },
-    {
-      "headline": "Trendsetter: Meet Local Influencer Emily Scott James",
-      "link": "https://www.rimonthly.com/trendsetter-emily-scott-james/",
-      "published": "2026-11-10T16:36:07Z",
-      "source": "Rhode Island Monthly",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:13Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Inflation continues to challenge US economy",
-      "link": "https://www.bostonglobe.com/2026/11/10/business/inflation-october-economy/",
-      "published": "2026-11-10T16:32:18Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "Why did BPS let a ‘clerical error’ derail a championship season?",
-      "link": "https://www.bostonglobe.com/2026/11/10/opinion/bps-english-new-mission-state-football-playoffs/",
-      "published": "2026-11-10T16:27:14Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "AG-elect Kim Ahern taps Coyne, Freedman to lead transition team",
-      "link": "https://www.wpri.com/news/politics-government/ag-elect-kim-ahern-taps-coyne-freedman-to-lead-transition-team/",
-      "published": "2026-11-10T16:27:13Z",
-      "source": "WPRI 12",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:13Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "AG-elect Kim Ahern taps Coyne, Freedman to lead transition team",
-      "link": "https://www.wpri.com/news/politics/ag-elect-kim-ahern-taps-coyne-freedman-to-lead-transition-team/",
-      "published": "2026-11-10T16:27:13Z",
-      "source": "WPRI 12",
-      "area": "Providence",
-      "fetched_at": "2026-11-11T00:17:35Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Anthropic seeks valuation of about $1.3 trillion when it becomes a publicly traded company",
-      "link": "https://www.bostonglobe.com/2026/11/10/business/anthropic-ipo-valuation-share/",
-      "published": "2026-11-10T16:27:02Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "The Kraft Group wants to build a $16 billion data center campus in a small Central Mass. town",
-      "link": "https://www.bostonglobe.com/2026/11/10/business/kraft-group-data-centers-sutton-mass/",
-      "published": "2026-11-10T16:24:56Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Education",
-      "local": true
-    },
-    {
-      "headline": "Search begins for new Providence fire chief as Derek Silva prepares to retire",
-      "link": "https://pbn.com/search-begins-for-new-providence-fire-chief-as-derek-silva-prepares-to-retire/",
-      "published": "2026-11-10T16:21:32Z",
-      "source": "Providence Business News",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:13Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Meghan Markle makes first public appearance since father’s arrest",
-      "link": "https://www.bostonglobe.com/2026/11/10/world/meghan-markle-brussels-prince-harry/",
-      "published": "2026-11-10T16:10:31Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "North Kingstown officer indicted on sexual assault charges",
-      "link": "https://www.wpri.com/news/local-news/south-county/north-kingstown-officer-indicted-sexual-assault/",
-      "published": "2026-11-10T16:05:11Z",
-      "source": "WPRI 12",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:13Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Defense Secretary Hegseth calls impeachment push a ‘farce’ as US House heads toward vote",
-      "link": "https://rhodeislandcurrent.com/2026/11/10/repub/defense-secretary-hegseth-calls-impeachment-push-a-farce-as-us-house-heads-toward-vote/",
-      "published": "2026-11-10T16:00:45Z",
-      "source": "Rhode Island Current",
-      "area": "Rhode Island",
-      "fetched_at": "2026-11-10T17:55:12Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "What Elizabeth Warren thinks Democrats should prioritize when they control Congress",
-      "link": "https://www.bostonglobe.com/2026/11/10/nation/elizabeth-warren-democrats-congress-trump/",
-      "published": "2026-11-10T15:54:30Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "RI ethics rule limits Roger Williams, Fatima hospitals CEO’s interactions with state officials",
-      "link": "https://rhodeislandcurrent.com/2026/11/10/ri-ethics-rule-limits-roger-williams-fatima-hospitals-ceos-interactions-with-state-officials/",
-      "published": "2026-11-10T15:54:19Z",
-      "source": "Rhode Island Current",
-      "area": "Rhode Island",
-      "fetched_at": "2026-11-10T17:55:12Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Smiley announces friendship pact between Providence and Ayr, Scotland",
-      "link": "https://www.wpri.com/news/local-news/providence/smiley-announces-friendship-pact-between-providence-and-ayr-scotland/",
-      "published": "2026-11-10T15:54:03Z",
-      "source": "WPRI 12",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:13Z",
-      "category": "Other"
-    },
-    {
-      "headline": "One man dead, one missing after car crashes into river in Taunton, officials say",
-      "link": "https://www.bostonglobe.com/2026/11/10/metro/taunton-car-crash-three-mile-river-death/",
-      "published": "2026-11-10T15:37:20Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "North Kingstown bans retail sale of dogs, cats and rabbits",
-      "link": "https://www.wpri.com/news/north-kingstown-bans-retail-sale-of-dogs-cats-and-rabbits/",
-      "published": "2026-11-10T15:28:29Z",
-      "source": "WPRI 12",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:13Z",
-      "category": "Business"
-    },
-    {
-      "headline": "North Kingstown bans retail sale of dogs, cats and rabbits",
-      "link": "https://www.wpri.com/news/local-news/south-county/north-kingstown-bans-retail-sale-of-dogs-cats-and-rabbits/",
-      "published": "2026-11-10T15:28:29Z",
-      "source": "WPRI 12",
-      "area": "Providence",
-      "fetched_at": "2026-11-11T00:17:35Z",
-      "category": "Business"
-    },
-    {
-      "headline": "Lieutenant John Fanning led the State Police probe into Sandra Birchmore’s death. He never testified at Matthew Farwell’s trial.",
-      "link": "https://www.bostonglobe.com/2026/11/10/metro/msp-john-fanning-sandra-birchmore/",
-      "published": "2026-11-10T15:25:24Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Matthew Farwell jury resumes deliberations after reporting deadlock over death of Sandra Birchmore",
-      "link": "https://www.bostonglobe.com/2026/11/10/metro/sandra-birchmore-trial-jury/",
-      "published": "2026-11-10T15:21:05Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Camberville: New ‘Fermentation Club’ comes to Somerville",
-      "link": "https://www.bostonglobe.com/2026/11/10/metro/camberville-new-fermentation-club-comes-somerville/",
-      "published": "2026-11-10T15:14:51Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Bodycam footage shows February traffic stop turn violent as police killed man who shot two Fall River officers",
-      "link": "https://www.bostonglobe.com/2026/11/10/metro/fall-river-bodycam-released-nigel-vaughn-shooting-officers-wounded/",
-      "published": "2026-11-10T15:08:59Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Nvidia and Jensen Huang face shareholder lawsuit alleging investors were misled about spy affair",
-      "link": "https://www.bostonglobe.com/2026/11/10/business/nvidia-jensen-huang-lawsuit/",
-      "published": "2026-11-10T14:51:54Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Swansea to discuss proposed AI data center Tuesday night",
-      "link": "https://www.wpri.com/news/local-news/se-mass/swansea-to-discuss-proposed-ai-data-center-tuesday-night/",
-      "published": "2026-11-10T14:49:06Z",
-      "source": "WPRI 12",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:13Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Patriots running back Rhamondre Stevenson expected to miss Sunday’s game against the Lions",
-      "link": "https://www.bostonglobe.com/2026/11/10/sports/rhamondre-stevenson-knee-injury/",
-      "published": "2026-11-10T14:47:14Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Inflation ran hotter than expected in October, underscoring affordability challenges",
-      "link": "https://pbn.com/inflation-ran-hotter-than-expected-in-october-underscoring-affordability-challenges/",
-      "published": "2026-11-10T14:40:31Z",
-      "source": "Providence Business News",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:13Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "‘This man gave us a place to live’: Crackdown on homeless encampment in Lawrence leaves residents at a loss",
-      "link": "https://www.bostonglobe.com/2026/11/10/metro/lawrence-homeless-encampment-house-of-mercy/",
-      "published": "2026-11-10T14:29:12Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Our Favorite Cosplays from Rhode Island Comic Con 2026",
-      "link": "https://www.rimonthly.com/favorite-cosplays-from-rhode-island-comic-con/",
-      "published": "2026-11-10T14:12:30Z",
-      "source": "Rhode Island Monthly",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:13Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "RI Direct Marketing Fulfillment Company Hires Christopher Mohn as Senior Vice President, Transformation and Change",
-      "link": "https://pbn.com/ri-direct-marketing-fulfillment-company-hires-christopher-mohn-as-senior-vice-president-transformation-and-change/",
-      "published": "2026-11-10T14:09:40Z",
-      "source": "Providence Business News",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:13Z",
-      "category": "Business"
-    },
-    {
-      "headline": "From Walpole to Northeastern to a likely Cy Young Award with the Yankees, Cam Schlittler keeps getting better and better",
-      "link": "https://www.bostonglobe.com/2026/11/10/sports/cam-schlittler-yankees-cy-young-northeastern/",
-      "published": "2026-11-10T13:59:15Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "2nd body found after car crashes into Taunton river",
-      "link": "https://www.wpri.com/news/local-news/se-mass/1-dead-after-car-crashes-into-taunton-river/",
-      "published": "2026-11-10T13:22:43Z",
-      "source": "WPRI 12",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:13Z",
-      "category": "Traffic & Transit"
-    },
-    {
-      "headline": "What Craig Breslow thinks Payton Tolle’s breakout season says about the Red Sox’ pipeline",
-      "link": "https://www.bostonglobe.com/2026/11/09/sports/red-sox-rotation-payton-tolle/",
-      "published": "2026-11-10T13:14:46Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Boys are allowed to play field hockey in Massachusetts. It’s still a touchy subject.",
-      "link": "https://www.bostonglobe.com/2026/11/10/sports/somerset-berkley-field-hockey-boy-player/",
-      "published": "2026-11-10T13:06:39Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Providence fire chief to retire after 20 years",
-      "link": "https://www.wpri.com/news/local-news/providence/providence-fire-chief-to-retire-after-20-years/",
-      "published": "2026-11-10T12:47:06Z",
-      "source": "WPRI 12",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:13Z",
-      "category": "Other"
-    },
-    {
-      "headline": "House Republicans are choosing their next leader as they prepare to be in the minority",
-      "link": "https://www.bostonglobe.com/2026/11/10/nation/republicans-minority-leader/",
-      "published": "2026-11-10T12:28:13Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Providence Fire Chief Derek Silva is set to retire",
-      "link": "https://www.bostonglobe.com/2026/11/10/metro/mayor-elect-morales-high-stakes-hire-providence-fire-chief-retiring/",
-      "published": "2026-11-10T12:26:05Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Hegseth says bipartisan impeachment push is about 'policy disagreements,' not high crimes",
-      "link": "https://www.wpri.com/news/us-and-world/hegseth-holds-first-news-briefing-since-may-as-he-faces-possible-impeachment/",
-      "published": "2026-11-10T12:09:28Z",
-      "source": "WPRI 12",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:13Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Hegseth says bipartisan impeachment push is about 'policy disagreements,' not high crimes",
-      "link": "https://www.wpri.com/news/politics/hegseth-holds-first-news-briefing-since-may-as-he-faces-possible-impeachment/",
-      "published": "2026-11-10T12:09:28Z",
-      "source": "WPRI 12",
-      "area": "Providence",
-      "fetched_at": "2026-11-11T00:17:35Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Johnston's mayor could be getting a bump in pay",
-      "link": "https://www.wpri.com/news/local-news/globe-ri-12-news/johnstons-mayor-could-be-getting-a-bump-in-pay/",
-      "published": "2026-11-10T12:02:47Z",
-      "source": "WPRI 12",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:13Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "‘They’ve had enough’: Blue wave boosts spirits at UN climate summit",
-      "link": "https://www.bostonglobe.com/2026/11/10/science/cop31-un-climate-summit-turkey/",
-      "published": "2026-11-10T12:00:00Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Let’s talk about business school",
-      "link": "https://www.bostonglobe.com/2026/11/10/newsletters/hilary-burns-college-town-newsletter-bentley/",
-      "published": "2026-11-10T11:58:00Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Education",
-      "local": true
-    },
-    {
-      "headline": "The (energy) bill is coming due on Beacon Hill",
-      "link": "https://www.bostonglobe.com/2026/11/10/newsletters/legislature-energy-legislation-negotiations-the-scrum/",
-      "published": "2026-11-10T11:06:47Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Yo, Adrian! ‘I Play Rocky’ is a real palooka of a movie.",
-      "link": "https://www.bostonglobe.com/2026/11/10/arts/i-play-rocky-review/",
-      "published": "2026-11-10T11:00:00Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "North Providence woman picked up on larceny warrant",
-      "link": "https://www.valleybreeze.com/news/north-providence-woman-picked-up-on-larceny-warrant/article_2309749d-313c-4099-95ce-a0e928ff58d4.html",
-      "published": "2026-11-10T11:00:00Z",
-      "source": "Valley Breeze",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:16Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "'Meta, it's soda': Owners of Yacht Club ask for public's help in campaign battling AI",
-      "link": "https://www.valleybreeze.com/news/meta-its-soda-owners-of-yacht-club-ask-for-publics-help-in-campaign-battling-ai/article_65f4873e-f9e0-4262-b8a2-eb3caf2fce67.html",
-      "published": "2026-11-10T11:00:00Z",
-      "source": "Valley Breeze",
-      "area": "Providence",
-      "fetched_at": "2026-11-11T17:58:20Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Skipping school is rising ... for sports?",
-      "link": "https://www.bostonglobe.com/2026/11/10/newsletters/starting-point-education-absenteeism-club-sports/",
-      "published": "2026-11-10T10:44:24Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Education",
-      "local": true
-    },
-    {
-      "headline": "Citing ‘equity,’ this Western Mass. school said it would close its child care center. Parents are in an uproar.",
-      "link": "https://www.bostonglobe.com/2026/11/10/metro/smith-college-child-care-fort-hill/",
-      "published": "2026-11-10T10:40:14Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Education",
-      "local": true
-    },
-    {
-      "headline": "Great pie for a great cause",
-      "link": "https://www.bostonglobe.com/2026/11/10/lifestyle/pie-in-the-sky-fundraiser/",
-      "published": "2026-11-10T10:30:00Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "In today’s economy, should you hold off on costly home repairs?",
-      "link": "https://www.bostonglobe.com/2026/11/10/real-estate/home-repairs-remodeling-inflation/",
-      "published": "2026-11-10T10:30:00Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "Bring home a dense, custardy, deeply burnished Basque cheesecake",
-      "link": "https://www.bostonglobe.com/2026/11/10/lifestyle/korean-momma-basque-cheesecake-cambridge/",
-      "published": "2026-11-10T10:30:00Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Post midterm, Democrats avoid overreach as Trump’s team looks for a reset",
-      "link": "https://www.bostonglobe.com/2026/11/10/nation/2026-midterms-democrats-republicans/",
-      "published": "2026-11-10T10:07:33Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Jane Wiedlin of the Go-Go’s titled her new book ‘TMI’ — and for good reason",
-      "link": "https://www.bostonglobe.com/2026/11/10/arts/jane-wielin-gogos-tmi-book/",
-      "published": "2026-11-10T10:00:00Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "‘I just like silence’: What a 10-year-old taught me about coaching baseball",
-      "link": "https://www.bostonglobe.com/2026/11/10/magazine/youth-sports-wisdom/",
-      "published": "2026-11-10T10:00:00Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Weather Now: Dry and Seasonable Today; Rain Late Week",
-      "link": "https://www.wpri.com/weather-now/weather-now-for-tue-11-10-26/",
-      "published": "2026-11-10T09:10:31Z",
-      "source": "WPRI 12",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:13Z",
-      "category": "Weather"
-    },
-    {
-      "headline": "People need to know what’s real and what’s AI",
-      "link": "https://www.bostonglobe.com/2026/11/10/opinion/ai-deepfakes-politics/",
-      "published": "2026-11-10T09:00:00Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Kyle Williams comes up empty, and other snap count observations from the Patriots’ ugly loss to the Packers",
-      "link": "https://www.bostonglobe.com/2026/11/10/sports/patriots-snaps-counts-packers-kyle-williams/",
-      "published": "2026-11-10T08:00:00Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "This business school is prospering but isn’t satisfied",
-      "link": "https://www.bostonglobe.com/2026/11/10/opinion/bentley-university-president-brent-chrite/",
-      "published": "2026-11-10T08:00:00Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Education",
-      "local": true
-    },
-    {
-      "headline": "Massachusetts created the gerrymander. We should lead the charge to kill it.",
-      "link": "https://www.bostonglobe.com/2026/11/10/opinion/massachusetts-gerrymander-midterm-elections-trump/",
-      "published": "2026-11-10T08:00:00Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Two transparency victories, one Beacon Hill roadblock",
-      "link": "https://www.bostonglobe.com/2026/11/10/opinion/ballot-question-beacon-hill-audit-public-records/",
-      "published": "2026-11-10T08:00:00Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "While the Patriots’ receivers struggle, Kayshon Boutte and Stefon Diggs are thriving, and other NFL Week 9 takeaways",
-      "link": "https://www.bostonglobe.com/2026/11/10/sports/nfl-week-9-kayshon-boutte-stefon-diggs/",
-      "published": "2026-11-10T08:00:00Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Google to AI-averse schools: We’ll our take our ball and go home",
-      "link": "https://www.bostonglobe.com/2026/11/10/opinion/letters-google-search-schools-ai-bans/",
-      "published": "2026-11-10T07:30:00Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Education",
-      "local": true
-    },
-    {
-      "headline": "Mass. should lead in making child care affordable, accessible",
-      "link": "https://www.bostonglobe.com/2026/11/10/opinion/letters-mass-early-childhood-education-crisis/",
-      "published": "2026-11-10T07:20:00Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "A historic number of Black political firsts in the midterms",
-      "link": "https://www.bostonglobe.com/2026/11/10/opinion/letters-black-political-firsts-midterms/",
-      "published": "2026-11-10T07:10:00Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Move by four states to bar trans kids from sports is punishment, not policy",
-      "link": "https://www.bostonglobe.com/2026/11/10/opinion/letters-trans-sports-bans-criticized/",
-      "published": "2026-11-10T07:00:00Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Josh Allen and the Bills match best start since 1993 with win over the sputtering Vikings",
-      "link": "https://www.bostonglobe.com/2026/11/10/sports/bills-vikings-josh-allen/",
-      "published": "2026-11-10T05:12:15Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "A teen saw ICE slam her mother to a sidewalk. She’s among many students missing school amid immigration raids.",
-      "link": "https://www.bostonglobe.com/2026/11/10/metro/ice-raids-massachusetts-school-attendance/",
-      "published": "2026-11-10T05:02:00Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Education",
-      "local": true
-    },
-    {
-      "headline": "‘Overriding skepticism’: Why some suburbs and wealthy towns shot down the housing ballot question",
-      "link": "https://www.bostonglobe.com/2026/11/10/elections/massachusetts-suburbs-question-7/",
-      "published": "2026-11-10T05:01:00Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Man dies after motorcycle collides with SUV in Randolph",
-      "link": "https://www.bostonglobe.com/2026/11/09/metro/fatal-motorycle-crash-randolph/",
-      "published": "2026-11-10T04:38:37Z",
-      "source": "Boston Globe Rhode Island",
-      "area": "Providence",
-      "fetched_at": "2026-11-10T17:55:15Z",
-      "category": "Crime & Safety",
       "local": true
     }
   ],
