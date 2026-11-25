@@ -1,11 +1,974 @@
 {
-  "generated_at": "2026-11-24T20:46:53Z",
+  "generated_at": "2026-11-25T03:16:15Z",
   "name": "Chicago, IL",
   "areas": [
     "Chicago",
     "Suburbs"
   ],
   "articles": [
+    {
+      "headline": "Your Turkey Day Bears vs. Lions prediction",
+      "link": "https://wgnradio.com/sports/sportsclick/your-turkey-day-bears-vs-lions-prediction/",
+      "published": "2026-11-25T03:07:34Z",
+      "source": "WGN Radio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:48Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Chicago woman sues federal government over Operation Midway Blitz arrest",
+      "link": "https://wgntv.com/news/operation-midway-blitz/chicago-woman-sues-federal-government-over-operation-midway-blitz-arrest/",
+      "published": "2026-11-25T02:58:53Z",
+      "source": "WGN-TV",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:44Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Bears QB Caleb Williams looks to get back to Goldilocks Zone in potential shoot-out with Lions",
+      "link": "https://chicago.suntimes.com/bears/2026/11/24/bears-qb-caleb-williams-looks-to-get-back-to-goldilocks-zone-in-potential-shootout-with-lions",
+      "published": "2026-11-25T02:57:00Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:36Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Giving thanks when I don’t feel thankful",
+      "link": "https://www.forestparkreview.com/2026/11/24/giving-thanks-when-i-dont-feel-thankful/",
+      "published": "2026-11-25T02:55:06Z",
+      "source": "Forest Park Review",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:50Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Cubs spend big, dropping $240 million on early Black Friday haul to add Trevor Rogers, Teruaki Sato",
+      "link": "https://chicago.suntimes.com/cubs/2026/11/24/cubs-free-agents-trevor-rogers-teruaki-sato-jed-hoyer-mlb-offseason-contract-salary-payroll-trade-rumors",
+      "published": "2026-11-25T02:55:00Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:36Z",
+      "category": "Other"
+    },
+    {
+      "headline": "From opera to politics, the Jannottas always made news",
+      "link": "https://www.forestparkreview.com/2026/11/24/from-opera-to-politics-the-jannottas-always-made-news/",
+      "published": "2026-11-25T02:51:54Z",
+      "source": "Forest Park Review",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:50Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Former Lions owner Martha Firestone Ford dies at 101, team likely to honor her before facing Bears",
+      "link": "https://chicago.suntimes.com/bears/2026/11/24/former-lions-owner-martha-firestone-ford-dies-at-102-team-likely-to-honor-her-before-facing-bears",
+      "published": "2026-11-25T02:23:58Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:36Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "TJ Stearns: What questions should you be asking your parents as they get closer to retirement?",
+      "link": "https://wgnradio.com/your-money-matters/tj-stearns-what-questions-should-you-be-asking-your-parents-as-they-get-closer-to-retirement/",
+      "published": "2026-11-25T02:19:52Z",
+      "source": "WGN Radio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:48Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "The Pocket Protector: Medicare advisory for customers at no cost",
+      "link": "https://wgnradio.com/your-money-matters/the-pocket-protector-medicare-advisory-for-customers-at-no-cost/",
+      "published": "2026-11-25T02:14:52Z",
+      "source": "WGN Radio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:48Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Oak Park in verse … or reverse?",
+      "link": "https://www.oakpark.com/2026/11/24/oak-park-in-verse-or-reverse/",
+      "published": "2026-11-25T01:57:12Z",
+      "source": "Wednesday Journal (Oak Park)",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:42Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Chicago weather: Dreary Thanksgiving ahead before weekend sunshine",
+      "link": "https://www.fox32chicago.com/news/chicago-weather-dreary-thanksgiving-ahead-before-weekend-sunshine",
+      "published": "2026-11-25T01:55:21Z",
+      "source": "Fox 32 Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:44Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Giving thanks when I don’t feel thankful",
+      "link": "https://www.oakpark.com/2026/11/24/giving-thanks-when-i-dont-feel-thankful/",
+      "published": "2026-11-25T01:55:08Z",
+      "source": "Wednesday Journal (Oak Park)",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:42Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Schools need clearer AI policies",
+      "link": "https://www.oakpark.com/2026/11/24/schools-need-clearer-ai-policies/",
+      "published": "2026-11-25T01:53:59Z",
+      "source": "Wednesday Journal (Oak Park)",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:42Z",
+      "category": "Education"
+    },
+    {
+      "headline": "Housing Forward unhouses Hemmingway’s Bistro",
+      "link": "https://www.oakpark.com/2026/11/24/housing-forward-unhouses-hemmingways-bistro/",
+      "published": "2026-11-25T01:52:44Z",
+      "source": "Wednesday Journal (Oak Park)",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:42Z",
+      "category": "Development & Housing"
+    },
+    {
+      "headline": "An AI confession",
+      "link": "https://www.oakpark.com/2026/11/24/an-ai-confession/",
+      "published": "2026-11-25T01:51:27Z",
+      "source": "Wednesday Journal (Oak Park)",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:42Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Why didn’t I know?",
+      "link": "https://www.oakpark.com/2026/11/24/why-didnt-i-know/",
+      "published": "2026-11-25T01:50:17Z",
+      "source": "Wednesday Journal (Oak Park)",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:42Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Students deserve better account of their vigil",
+      "link": "https://www.oakpark.com/2026/11/24/students-deserve-better-account-of-their-vigil/",
+      "published": "2026-11-25T01:48:15Z",
+      "source": "Wednesday Journal (Oak Park)",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:42Z",
+      "category": "Education"
+    },
+    {
+      "headline": "Hemmingway’s is homeless",
+      "link": "https://www.oakpark.com/2026/11/24/hemmingways-is-homeless/",
+      "published": "2026-11-25T01:46:31Z",
+      "source": "Wednesday Journal (Oak Park)",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:42Z",
+      "category": "Other"
+    },
+    {
+      "headline": "The Thanksgiving Moon",
+      "link": "https://www.oakpark.com/2026/11/24/the-thanksgiving-moon/",
+      "published": "2026-11-25T01:45:29Z",
+      "source": "Wednesday Journal (Oak Park)",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:42Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Signs of the times?",
+      "link": "https://www.oakpark.com/2026/11/24/signs-of-the-times-3/",
+      "published": "2026-11-25T01:43:31Z",
+      "source": "Wednesday Journal (Oak Park)",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:42Z",
+      "category": "Other"
+    },
+    {
+      "headline": "TikTok 'technical issue' resolved after users report issues with platform",
+      "link": "https://www.fox32chicago.com/news/tiktok-users-reporting-issues",
+      "published": "2026-11-25T01:43:21Z",
+      "source": "Fox 32 Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:44Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "On another bad day for Big Ten, Indiana tumbles in CFP rankings; in SEC, Vols pass Tide",
+      "link": "https://www.audacy.com/knss/sports/cfp-playoff-rankings-577f33dd3b40354221a757222c2b9c39",
+      "published": "2026-11-25T01:39:58Z",
+      "source": "WBBM Newsradio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:47Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Two Illinois residents targeted in prison-run jury duty scheme; Six charged",
+      "link": "https://wgnradio.com/news/two-illinois-residents-targeted-in-prison-run-jury-duty-scheme-six-charged/",
+      "published": "2026-11-25T01:39:44Z",
+      "source": "WGN Radio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:48Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Access: Creating a home safer for aging parents",
+      "link": "https://wgnradio.com/your-money-matters/access-creating-a-home-safer-for-aging-parents/",
+      "published": "2026-11-25T01:39:40Z",
+      "source": "WGN Radio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:48Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "The best Black Friday deals under $100 from Sony, Ninja, and more",
+      "link": "https://wgnradio.com/news/the-best-black-friday-deals-under-100-from-sony-ninja-and-more/",
+      "published": "2026-11-25T01:38:21Z",
+      "source": "WGN Radio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:48Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Peanut Tillman talks about being Grand Marshal for the Chicago Thanksgiving Parade",
+      "link": "https://wgnradio.com/lisa-dent/peanut-tillman-to-be-grand-marshal-at-the-chicago-thanksgiving-parade/",
+      "published": "2026-11-25T01:35:45Z",
+      "source": "WGN Radio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:48Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Tragically, Joliet has seen three serious or fatal pedestrian crashes in the past week",
+      "link": "https://chi.streetsblog.org/2026/11/24/tragically-joliet-has-seen-three-serious-or-fatal-pedestrian-in-the-past-week",
+      "published": "2026-11-25T01:33:28Z",
+      "source": "Streetsblog Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:47Z",
+      "category": "Traffic & Transit"
+    },
+    {
+      "headline": "Pritzker Says Illinois Won’t Join Trump’s Tax Credit Scholarship Program",
+      "link": "https://blockclubchicago.org/2026/11/24/pritzker-says-illinois-wont-join-trumps-tax-credit-scholarship-program/",
+      "published": "2026-11-25T01:31:14Z",
+      "source": "Block Club Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:35Z",
+      "category": "Education"
+    },
+    {
+      "headline": "Tennessee newspaper says its new owner will be a local resident: Al Gore, the former vice president",
+      "link": "https://www.audacy.com/kdkaradio/news/business/al-gore-buys-newspaper-tennessee-6d86ec5239dee664d312aac30b38dde5",
+      "published": "2026-11-25T01:26:42Z",
+      "source": "WBBM Newsradio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:47Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Humboldt Park coffee shop's alleged connection to ICE leads to boycott",
+      "link": "https://wgnradio.com/lisa-dent/humboldt-park-coffee-shops-potential-connection-to-ice-leads-to-boycott/",
+      "published": "2026-11-25T01:11:59Z",
+      "source": "WGN Radio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:48Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "How Spencer Knight tries to aid Blackhawks' efforts to allow fewer odd-man rushes",
+      "link": "https://chicago.suntimes.com/blackhawks/2026/11/24/blackhawks-spencer-knight-warning-odd-man-rushes-workload",
+      "published": "2026-11-25T01:06:19Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:36Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Chicago coffee shop closes after boycott calls over ICE allegations",
+      "link": "https://www.fox32chicago.com/news/chicago-coffee-shop-closes-after-boycott-calls-over-ice-allegations",
+      "published": "2026-11-25T00:54:02Z",
+      "source": "Fox 32 Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:44Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Santa for a Day to host inaugural Northwoods Supper Club Fish Fry, tree lighting on Nov. 27",
+      "link": "https://evanstonroundtable.com/2026/11/24/santa-for-a-day-to-host-inaugural-northwoods-supper-club-fish-fry-tree-lighting-on-nov-27/",
+      "published": "2026-11-25T00:43:33Z",
+      "source": "Evanston RoundTable",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:41Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "China launches Shenzhou 24 spacecraft carrying 2 Chinese and a Pakistani astronaut",
+      "link": "https://www.audacy.com/wbbm780/news/world/china-space-shenzhou-24-543306bfe17419395d10fae107500564",
+      "published": "2026-11-25T00:41:35Z",
+      "source": "WBBM Newsradio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:47Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Franciscan Ministries: People thrive after moving to the communities",
+      "link": "https://wgnradio.com/your-money-matters/franciscan-ministries-people-thrive-after-moving-to-the-communities/",
+      "published": "2026-11-25T00:41:13Z",
+      "source": "WGN Radio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:48Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "White Sox to sign free-agent outfielder Tyrone Taylor to two-year contract",
+      "link": "https://chicago.suntimes.com/white-sox/2026/11/24/white-sox-to-sign-free-agent-outfielder-tyrone-taylor-to-two-year-contract",
+      "published": "2026-11-25T00:38:03Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:36Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Humboldt Park coffee shop closes amid protests over alleged ICE ties",
+      "link": "https://wgntv.com/news/chicago-news/humboldt-park-coffee-shop-alleged-ice-ties/",
+      "published": "2026-11-25T00:36:02Z",
+      "source": "WGN-TV",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:44Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Meet Alejandra Escalante, the Evanstonian who stars in Northlight’s current production",
+      "link": "https://evanstonroundtable.com/2026/11/24/meet-alejandra-escalante-the-evanstonian-who-stars-in-northlights-current-production/",
+      "published": "2026-11-25T00:24:01Z",
+      "source": "Evanston RoundTable",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:41Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Man fatally shot after argument at Brighton Park warehouse",
+      "link": "https://chicago.suntimes.com/crime/2026/11/24/man-fatally-shot-after-argument-at-brighton-park-warehouse",
+      "published": "2026-11-25T00:16:24Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:36Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Illinois becomes sixth state to say no to Trump’s federal tax credit scholarship program",
+      "link": "https://chicago.suntimes.com/education/2026/11/24/illinois-becomes-sixth-state-to-say-no-to-trumps-federal-tax-credit-scholarship-program",
+      "published": "2026-11-25T00:15:01Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:36Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Offstage chemistry steals the show in Northlight’s world premiere of ‘All the World’",
+      "link": "https://evanstonroundtable.com/2026/11/24/offstage-chemistry-steals-the-show-in-northlights-world-premiere-of-all-the-world/",
+      "published": "2026-11-25T00:10:57Z",
+      "source": "Evanston RoundTable",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:41Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Kenwood Academy students raise over $5,700 for food drive through Thanksgiving jazz concert",
+      "link": "https://wgntv.com/news/features/kenwood-academy-students-raise-over-5700-for-food-drive-through-thanksgiving-jazz-concert/",
+      "published": "2026-11-25T00:06:41Z",
+      "source": "WGN-TV",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:44Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Man fatally shot in warehouse on Chicago’s Southwest Side, police say",
+      "link": "https://www.fox32chicago.com/news/man-fatally-shot-in-warehouse-chicagos-southwest-side-police-say",
+      "published": "2026-11-25T00:01:56Z",
+      "source": "Fox 32 Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:44Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Terry Savage: Is it time to start setting up your will?",
+      "link": "https://wgnradio.com/lisa-dent/terry-savage-is-it-time-to-start-setting-up-your-will/",
+      "published": "2026-11-24T23:42:42Z",
+      "source": "WGN Radio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:48Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "‘I always tried to treat people with respect’: After 28 years, Schakowsky bids farewell to Washington",
+      "link": "https://evanstonroundtable.com/2026/11/24/jan-schakowsky-last-day-in-congress/",
+      "published": "2026-11-24T23:32:15Z",
+      "source": "Evanston RoundTable",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:41Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Pro Picks: 49ers will edge Seahawks in a tight matchup",
+      "link": "https://www.audacy.com/knss/sports/nfl-picks-odds-predictions-acf97d3420426aea88cb4dca898a330d",
+      "published": "2026-11-24T23:25:14Z",
+      "source": "WBBM Newsradio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:47Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Noon Business Lunch 11/24/26: Market volatility, interest rate outlook, workplace ethics, holiday party conduct",
+      "link": "https://wgnradio.com/business-lunch/noon-business-lunch-11-24-26-market-volatility-interest-rate-outlook-workplace-ethics-holiday-party-conduct/",
+      "published": "2026-11-24T23:20:58Z",
+      "source": "WGN Radio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:48Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Man dead after shooting at Southwest Side warehouse",
+      "link": "https://wgntv.com/news/chicagocrime/chicago-brighton-park-warehouse-shooting/",
+      "published": "2026-11-24T23:20:45Z",
+      "source": "WGN-TV",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:44Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "ICC cuts $53 million from Illinois American Water rate-hike proposal",
+      "link": "https://chicago.suntimes.com/news/2026/11/24/commerce-commission-illinois-american-water-rate-increase-reduced-citizens-utility-board",
+      "published": "2026-11-24T23:18:36Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:36Z",
+      "category": "Other"
+    },
+    {
+      "headline": "The verdict is in on Illinois American Water’s rate hike",
+      "link": "https://www.audacy.com/wbbm780/news/local/the-verdict-is-in-on-illinois-american-waters-rate-hike",
+      "published": "2026-11-24T23:16:02Z",
+      "source": "WBBM Newsradio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:47Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "U.S. stockpile of bomb-making chemical lead azide to be detonated Wednesday morning at Iowa plant, Army says",
+      "link": "https://chicago.suntimes.com/news/2026/11/24/lead-azide-detonation-bomb-chemical-stockpile-army-iowa-courts-trump",
+      "published": "2026-11-24T23:16:00Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:36Z",
+      "category": "Business"
+    },
+    {
+      "headline": "Newsroom Sound Check: 11/24/26",
+      "link": "https://wgnradio.com/lisa-dent/sound-check/newsroom-sound-check-11-24-26/",
+      "published": "2026-11-24T23:12:02Z",
+      "source": "WGN Radio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:48Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "After another fumble, what do Bears do with D'Andre Swift now?",
+      "link": "https://chicago.suntimes.com/bears/2026/11/24/bears-dandre-swift-ben-johnson-fumbles-running-back-hold-ball-nfl-kyle-monangai-salvon-ahmed",
+      "published": "2026-11-24T23:10:47Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:36Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Blaire Flowers wants Austin to become a community where every child has someone looking out for them",
+      "link": "https://www.austinweeklynews.com/2026/11/24/blaire-flowers-wants-austin-to-become-a-community-where-every-child-has-someone-looking-out-for-them/?utm_source=rss&utm_medium=rss&utm_campaign=blaire-flowers-wants-austin-to-become-a-community-where-every-child-has-someone-looking-out-for-them",
+      "published": "2026-11-24T23:09:56Z",
+      "source": "Austin Weekly News",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:46Z",
+      "category": "Education"
+    },
+    {
+      "headline": "Decision day for your water bill",
+      "link": "https://www.audacy.com/podcasts/8852bd4c6b82bb397eb5e852eaa7e819/episodes/decision_day_for_your_water_bi-9078631",
+      "published": "2026-11-24T23:08:49Z",
+      "source": "WBBM Newsradio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:47Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Mayor: ‘Up to all of us’ to maintain quality education",
+      "link": "https://evanstonnow.com/evanston-mayor-d65-budget-crisis/",
+      "published": "2026-11-24T23:05:36Z",
+      "source": "Evanston Now",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:49Z",
+      "category": "Education"
+    },
+    {
+      "headline": "Johnson pitches vacant land tax, doubles down on head tax — a budget idea his opposition warns won’t fly",
+      "link": "https://chicago.suntimes.com/city-hall/2026/11/24/brandon-johnson-revised-budget-proposal-alderpeople-opposition-vacant-land-tax",
+      "published": "2026-11-24T23:04:25Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:36Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Stolen Chicago-area SNAP benefits spent in minutes across states, records show",
+      "link": "https://www.fox32chicago.com/news/stolen-snap-benefits-spent-minutes-across-state-lines-records-show",
+      "published": "2026-11-24T23:04:20Z",
+      "source": "Fox 32 Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:44Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Bears report: Team claims CB Isaac Yiadom",
+      "link": "https://chicago.suntimes.com/bears/2026/11/24/bears-report-claim-cornerback-isaac-yiadom-theo-benedet-injury-report-nfl",
+      "published": "2026-11-24T22:54:01Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:36Z",
+      "category": "Other"
+    },
+    {
+      "headline": "The John Williams NewsClick: What is the best part of Thanksgiving?",
+      "link": "https://wgnradio.com/john-williams/newsclick/the-john-williams-newsclick-what-is-the-best-part-of-thanksgiving/",
+      "published": "2026-11-24T22:47:21Z",
+      "source": "WGN Radio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:48Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "The Mincing Rascals 11.24.26: Huang returns, Johnson ballot challenge, Iowa explosion",
+      "link": "https://wgnradio.com/wgn-plus/the-mincing-rascals/the-mincing-rascals-11-24-26-huang-returns-johnson-ballot-challenge-iowa-explosion/",
+      "published": "2026-11-24T22:40:06Z",
+      "source": "WGN Radio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:48Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Druski to close out his breakout year in Chicago",
+      "link": "https://thetriibe.com/2026/11/druski-to-close-out-his-breakout-year-in-chicago/",
+      "published": "2026-11-24T22:37:57Z",
+      "source": "The Triibe",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:40Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Halas Intrigue podcast: Holiday showdown",
+      "link": "https://chicago.suntimes.com/halas-intrigue/2026/11/24/beas-lions-thanksgiving-podcast-halas-intrigue",
+      "published": "2026-11-24T22:35:48Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:36Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Ethanol plant worker caught with bomb files, batteries, map in plot that could have killed thousands: feds",
+      "link": "https://www.fox32chicago.com/news/ethanol-plant-worker-caught-bomb-files-batteries-map-plot-could-have-killed-thousands-feds",
+      "published": "2026-11-24T22:22:24Z",
+      "source": "Fox 32 Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:44Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Candidates have filed. Find out who’s running for local offices in 2027",
+      "link": "https://www.therecordnorthshore.org/2026/11/24/candidates-have-filed-find-out-whos-running-for-local-offices-in-2027/",
+      "published": "2026-11-24T22:18:30Z",
+      "source": "The Record North Shore",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:49Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Michael O'Brien previews IHSA state championship football games",
+      "link": "https://wgnradio.com/john-williams/michael-obrien-previews-ihsa-state-championship-football-games/",
+      "published": "2026-11-24T22:13:36Z",
+      "source": "WGN Radio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:48Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Guest essay: The true cost of school closings",
+      "link": "https://evanstonroundtable.com/2026/11/24/guest-essay-the-true-cost-of-school-closings/",
+      "published": "2026-11-24T22:11:28Z",
+      "source": "Evanston RoundTable",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:41Z",
+      "category": "Education"
+    },
+    {
+      "headline": "Rose O’Donnell",
+      "link": "https://www.rblandmark.com/2026/11/24/rose-odonnell/",
+      "published": "2026-11-24T22:05:18Z",
+      "source": "Riverside Brookfield Landmark",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:51Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Chicago developer planning 50 transit-oriented Lake View apartments",
+      "link": "https://chicago.suntimes.com/real-estate/2026/11/24/chicago-developer-jab-50-transit-oriented-lake-view-apartments",
+      "published": "2026-11-24T22:04:23Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:36Z",
+      "category": "Development & Housing"
+    },
+    {
+      "headline": "Elder law attorney Kerry Peck explains the difference between a living trust and a will",
+      "link": "https://wgnradio.com/john-williams/elder-law-attorney-kerry-peck-explains-the-difference-between-a-living-trust-and-a-will/",
+      "published": "2026-11-24T22:02:47Z",
+      "source": "WGN Radio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:48Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Rosemont Transit Station Gets New Digital Information Signs",
+      "link": "https://www.journal-topics.com/articles/rosemont-transit-station-gets-new-digital-information-signs/",
+      "published": "2026-11-24T22:01:16Z",
+      "source": "Journal & Topics (Des Plaines)",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:52Z",
+      "category": "Traffic & Transit"
+    },
+    {
+      "headline": "Wilco Fans Can Buy Band-Used Gear, Merch At December Pop-Up",
+      "link": "https://blockclubchicago.org/2026/11/24/wilco-fans-can-buy-band-used-gear-merch-at-december-pop-up/",
+      "published": "2026-11-24T22:01:09Z",
+      "source": "Block Club Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:35Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Kim Tortorici",
+      "link": "https://www.rblandmark.com/2026/11/24/kim-tortorici/",
+      "published": "2026-11-24T22:00:03Z",
+      "source": "Riverside Brookfield Landmark",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:51Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Who is running for local office in Brookfield and Riverside?",
+      "link": "https://www.rblandmark.com/2026/11/24/candidates-running-local-office-brookfield-riverside/",
+      "published": "2026-11-24T21:59:45Z",
+      "source": "Riverside Brookfield Landmark",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:51Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "E.C. Illa embodies the self-sufficient spirit of underground rap",
+      "link": "https://chicagoreader.com/music/the-secret-history-of-chicago-music/ec-illa-rap-hiphop-ill-state-assassins-traxster-whitefolks/",
+      "published": "2026-11-24T21:56:12Z",
+      "source": "Chicago Reader",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:38Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Don’t zone Riverside’s green spaces",
+      "link": "https://www.rblandmark.com/2026/11/24/dont-zone-riversides-green-spaces/",
+      "published": "2026-11-24T21:55:09Z",
+      "source": "Riverside Brookfield Landmark",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:51Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Chicago mayor's budget now fills $75M hole; biz taxes stay",
+      "link": "https://www.audacy.com/wbbm780/news/local/chicago-budget-changes",
+      "published": "2026-11-24T21:54:34Z",
+      "source": "WBBM Newsradio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:47Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Dr. Michael Bauer: Do adults need another measles vaccine?",
+      "link": "https://wgnradio.com/health/dr-michael-bauer-do-adults-need-another-measles-vaccine/",
+      "published": "2026-11-24T21:54:22Z",
+      "source": "WGN Radio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:48Z",
+      "category": "Health",
+      "local": true
+    },
+    {
+      "headline": "Tasa Coffee Roasters sign says shop 'permanently closed'",
+      "link": "https://chicago.suntimes.com/food-drink/2026/11/24/tasa-coffee-roasters-west-humboldt-park-permanently-closed-ice",
+      "published": "2026-11-24T21:53:55Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:36Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Chicago mayor says budget tweaks fill $75M hole; alders scoff",
+      "link": "https://www.audacy.com/podcasts/8852bd4c6b82bb397eb5e852eaa7e819/episodes/chicago_mayor_says_budget_twea-9078085",
+      "published": "2026-11-24T21:49:00Z",
+      "source": "WBBM Newsradio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:47Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Eric Zorn: It would be absurd if Brandon Johnson wasn't on the ballot",
+      "link": "https://wgnradio.com/john-williams/eric-zorn-it-would-be-absurd-if-brandon-johnson-wasnt-on-the-ballot/",
+      "published": "2026-11-24T21:48:10Z",
+      "source": "WGN Radio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:48Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Sky's Elizabeth Williams elected president of WNBA players union",
+      "link": "https://chicago.suntimes.com/chicago-sky/2026/11/24/sky-elizabeth-williams-elected-president-of-wnba-players-union",
+      "published": "2026-11-24T21:47:32Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:36Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "Equipment outage delays several flight at O'Hare",
+      "link": "https://wgntv.com/news/traffic/ground-stop-in-effect-at-ohare-due-to-equipment-outage/",
+      "published": "2026-11-24T21:46:36Z",
+      "source": "WGN-TV",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:44Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "The Rundown: What to know about the microschooling movement",
+      "link": "https://www.wbez.org/wbez-newsletter/2026/11/24/the-rundown-what-to-know-about-the-microschooling-movement",
+      "published": "2026-11-24T21:45:00Z",
+      "source": "WBEZ",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:35Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Younger Bulldogs bring same high hoops expectations",
+      "link": "https://www.rblandmark.com/2026/11/24/younger-bulldogs-bring-same-high-hoops-expectations/",
+      "published": "2026-11-24T21:43:42Z",
+      "source": "Riverside Brookfield Landmark",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:51Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "Chicago's O’Hare Airport ground stop lifted, flight delays continue after outage",
+      "link": "https://www.fox32chicago.com/news/equipment-outage-prompts-ground-stop-chicago-ohare-airport",
+      "published": "2026-11-24T21:42:31Z",
+      "source": "Fox 32 Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:44Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "District 65 parent groups gather pledges to support future referendum if board votes ‘no’ on closures",
+      "link": "https://evanstonroundtable.com/2026/11/24/district-65-parent-groups-gather-pledges-to-support-future-referendum-if-board-votes-no-on-closures/",
+      "published": "2026-11-24T21:42:14Z",
+      "source": "Evanston RoundTable",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:41Z",
+      "category": "Education"
+    },
+    {
+      "headline": "Howard Tullman: The magic of innovation",
+      "link": "https://wgnradio.com/lisa-dent/howard-tullman-the-magic-of-innovation/",
+      "published": "2026-11-24T21:38:49Z",
+      "source": "WGN Radio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:48Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Park Ridge Budget Discussion Postponed Due To Unusually Long Council Meeting",
+      "link": "https://www.journal-topics.com/articles/park-ridge-budget-discussion-postponed-due-to-unusually-long-council-meeting/",
+      "published": "2026-11-24T21:38:27Z",
+      "source": "Journal & Topics (Des Plaines)",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:52Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "New RBHS wrestling coach Contreras back at alma mater",
+      "link": "https://www.rblandmark.com/2026/11/24/new-rbhs-wrestling-coach-contreras-back-at-alma-mater/",
+      "published": "2026-11-24T21:35:49Z",
+      "source": "Riverside Brookfield Landmark",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:51Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "Conversations with The Forecasters: We're finally feeling the colder temperatures",
+      "link": "https://wgnradio.com/lisa-dent/conversations-with-the-forecasters-were-finally-feeling-the-colder-temperatures/",
+      "published": "2026-11-24T21:34:39Z",
+      "source": "WGN Radio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:48Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "Chicago Sky's Elizabeth Williams elected WNBPA president, succeeding Nneka Ogwumike",
+      "link": "https://wgntv.com/sports/chicago-sky/chicago-skys-elizabeth-williams-elected-wnbpa-president-succeeding-nneka-ogwumike/",
+      "published": "2026-11-24T21:34:36Z",
+      "source": "WGN-TV",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:44Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Man charged in 2025 fatal Dunning DUI crash",
+      "link": "https://chicago.suntimes.com/crime/2026/11/24/man-charged-in-2025-fatal-dunning-dui-crash",
+      "published": "2026-11-24T21:31:30Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:36Z",
+      "category": "Crime & Safety"
+    },
+    {
+      "headline": "Jaguars-Bears in Week 13 will stay at noon, leaving Texans-Steelers on Sunday night",
+      "link": "https://chicago.suntimes.com/bears/2026/11/24/jacksonville-jaguars-chicago-bears-week-13-nfl-flexible-scheduling-texans-steelers-nbc-sunday-night",
+      "published": "2026-11-24T21:24:16Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:36Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Anaya shows senior strength with RBHS girls wrestling",
+      "link": "https://www.rblandmark.com/2026/11/24/anaya-shows-senior-strength-with-rbhs-girls-wrestling/",
+      "published": "2026-11-24T21:21:02Z",
+      "source": "Riverside Brookfield Landmark",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:51Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "Are Bulls mishandling Matas Buzelis? Some numbers say yes",
+      "link": "https://chicago.suntimes.com/bulls/2026/11/24/bulls-mishandling-matas-buzelis-numbers-say-yes",
+      "published": "2026-11-24T21:20:17Z",
+      "source": "Chicago Sun-Times",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:36Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Lakeview Improv Theater Opening Delayed By Graffiti, Mounting Costs",
+      "link": "https://blockclubchicago.org/2026/11/24/lakeview-improv-theater-opening-delayed-by-graffiti-mounting-costs/",
+      "published": "2026-11-24T21:08:54Z",
+      "source": "Block Club Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:35Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Riverside’s Rooney contributes to Fenwick’s return to 6A final",
+      "link": "https://www.rblandmark.com/2026/11/24/riversides-rooney-contributes-to-fenwicks-return-to-6a-final/",
+      "published": "2026-11-24T21:08:16Z",
+      "source": "Riverside Brookfield Landmark",
+      "area": "Suburbs",
+      "fetched_at": "2026-11-25T03:10:51Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "Mayor Proposing A New Tax On Vacant Land As Part Of $75 Million Budget Stopgap",
+      "link": "https://blockclubchicago.org/2026/11/24/mayor-proposing-a-new-tax-on-vacant-land-as-part-of-75-million-budget-stopgap/",
+      "published": "2026-11-24T21:08:05Z",
+      "source": "Block Club Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:35Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "All suspects arrested after attempted armored truck robbery in Lansing",
+      "link": "https://www.fox32chicago.com/news/all-suspects-arrested-after-attempted-armored-truck-robbery-lansing",
+      "published": "2026-11-24T21:06:34Z",
+      "source": "Fox 32 Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:44Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "NFL Holidays - Air Travel & Family Multigenerational Trip",
+      "link": "https://www.audacy.com/podcasts/a496b45858c988a1777c13394deeb498/episodes/nfl_holidays_air_travel_family-9077850",
+      "published": "2026-11-24T21:03:59Z",
+      "source": "WBBM Newsradio",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:47Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "Cybersecurity breach at CIA and Office of the Director of National Intelligence - Reports",
+      "link": "https://www.fox32chicago.com/news/cybersecurity-breach-cia-office-director-national-intelligence",
+      "published": "2026-11-24T20:48:24Z",
+      "source": "Fox 32 Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:44Z",
+      "category": "Other",
+      "local": true
+    },
     {
       "headline": "As the Muslim population grows swiftly in the US, a Berwyn mosque is flourishing",
       "link": "https://borderlessmag.org/2026/11/24/as-the-muslim-population-grows-swiftly-in-the-us-a-berwyn-mosque-is-flourishing/",
@@ -457,6 +1420,16 @@
       "area": "Chicago",
       "fetched_at": "2026-11-24T20:41:15Z",
       "category": "Other"
+    },
+    {
+      "headline": "These trending products are the most viral gifts of the year",
+      "link": "https://www.fox32chicago.com/news/gift-guide-viral-gifts",
+      "published": "2026-11-24T16:54:20Z",
+      "source": "Fox 32 Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:44Z",
+      "category": "Other",
+      "local": true
     },
     {
       "headline": "Man killed in Humboldt Park shooting",
@@ -1122,6 +2095,96 @@
       "area": "Suburbs",
       "fetched_at": "2026-11-24T20:41:32Z",
       "category": "Education"
+    },
+    {
+      "headline": "Railroad crossing closed after crash involving a train in Wheaton",
+      "link": "https://www.nbcchicago.com/news/local/railroad-crossing-closed-after-crash-involving-a-train-in-wheaton/4021136/",
+      "published": "2026-11-24T08:32:13Z",
+      "source": "NBC Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:42Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Missing money raised for rescue chihuahua recovered with help of NBC 5 Responds",
+      "link": "https://www.nbcchicago.com/consumer/missing-money-raised-for-rescue-chihuahua-recovered-with-help-of-nbc-5-responds/4021111/",
+      "published": "2026-11-24T08:32:13Z",
+      "source": "NBC Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:42Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Delayed dispatch system at Chicago 911 center now has new launch date, old complaints",
+      "link": "https://www.nbcchicago.com/news/local/delayed-dispatch-system-at-chicago-911-center-now-has-new-launch-date-old-complaints/4021108/",
+      "published": "2026-11-24T08:32:13Z",
+      "source": "NBC Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:42Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Plane from Illinois narrowly misses homes in crash after engine failure; 2 injured",
+      "link": "https://www.nbcchicago.com/news/local/add-article-headline-here-2/4021089/",
+      "published": "2026-11-24T08:32:13Z",
+      "source": "NBC Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:42Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Man dies after being shot during argument in Brighton Park warehouse",
+      "link": "https://www.nbcchicago.com/news/local/man-dies-after-being-shot-during-argument-in-brighton-park-warehouse/4021055/",
+      "published": "2026-11-24T08:32:13Z",
+      "source": "NBC Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:42Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "What caused a ground stop at O'Hare for the second day in a row? FAA's explanation",
+      "link": "https://www.nbcchicago.com/news/local/what-caused-a-ground-stop-at-ohare-for-the-second-day-in-a-row-faas-explanation/4021031/",
+      "published": "2026-11-24T08:32:13Z",
+      "source": "NBC Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:42Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Students protest over allegations of sexual harassment at northwest Indiana high school",
+      "link": "https://www.nbcchicago.com/news/local/student-walkout-and-protest-over-allegations-of-sexual-harassment-at-northwest-indiana-high-school/4021025/",
+      "published": "2026-11-24T08:32:13Z",
+      "source": "NBC Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:42Z",
+      "category": "Education",
+      "local": true
+    },
+    {
+      "headline": "O'Hare Airport under ‘constrained facilities' advisory due to equipment outage",
+      "link": "https://www.nbcchicago.com/news/local/ground-stop-issued-at-ohare-international-airport-on-tuesday-afternoon/4021001/",
+      "published": "2026-11-24T08:32:13Z",
+      "source": "NBC Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:42Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Police identify Glen Ellyn woman killed in shooting; suspect believed to have died by suicide",
+      "link": "https://www.nbcchicago.com/news/local/police-identify-glen-ellyn-woman-killed-in-shooting-suspect-believed-to-have-died-by-suicide/4020971/",
+      "published": "2026-11-24T08:32:13Z",
+      "source": "NBC Chicago",
+      "area": "Chicago",
+      "fetched_at": "2026-11-25T03:10:42Z",
+      "category": "Crime & Safety",
+      "local": true
     },
     {
       "headline": "Brady Pettigrew delivers a late-night show as Bolingbrook knocks off Marshall",
@@ -22077,778 +23140,6 @@
       "area": "Suburbs",
       "fetched_at": "2026-11-11T17:54:47Z",
       "category": "Other"
-    },
-    {
-      "headline": "Man found fatally shot in Belmont Cragin alley",
-      "link": "https://chicago.suntimes.com/crime/2026/11/10/man-found-fatally-shot-in-belmont-cragin-alley",
-      "published": "2026-11-11T03:06:10Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T17:54:35Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Veterans Day Deals 2026: Where to get free food and discounts across Chicagoland",
-      "link": "https://wgntv.com/military/free-meals-military-members-nov-11/",
-      "published": "2026-11-11T02:55:18Z",
-      "source": "WGN-TV",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T17:54:49Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "As NYC eases fire department control over street redesign projects, Chicago’s fire chief calls for “more conversations… with CDOT”",
-      "link": "https://chi.streetsblog.org/2026/11/10/as-nyc-eases-fire-department-control-over-street-redesign-projects-chicagos-fire-chief-calls-for-more-conversations-with-cdot",
-      "published": "2026-11-11T02:53:36Z",
-      "source": "Streetsblog Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T17:54:52Z",
-      "category": "Other"
-    },
-    {
-      "headline": "White Sox' Will Venable named AL Manager of the Year",
-      "link": "https://chicago.suntimes.com/white-sox/2026/11/10/white-sox-will-venable-named-al-manager-of-the-year",
-      "published": "2026-11-11T02:29:00Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T17:54:35Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Brewers' Pat Murphy first to win three consecutive Manager of Year awards",
-      "link": "https://chicago.suntimes.com/mlb/2026/11/10/brewers-pat-murphy-first-to-win-three-consecutive-manager-of-year-awards",
-      "published": "2026-11-11T01:55:16Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T17:54:35Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Cars are the most expensive they have ever been",
-      "link": "https://wgnradio.com/your-money-matters/cars-are-the-most-expensive-they-have-ever-been/",
-      "published": "2026-11-11T01:54:47Z",
-      "source": "WGN Radio",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T17:54:54Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "Peoples Gas customers to get bill credits in settlement over surcharges from pipe-replacement program",
-      "link": "https://chicago.suntimes.com/2026/11/10/peoples-gas-customers-to-get-bill-credits-in-settlement-over-surchages-from-pipe-replacement-program",
-      "published": "2026-11-11T01:52:28Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T17:54:35Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Wednesday forecast: Showers, isolated thunderstorms develop as coldest air of season moves into Chicagoland",
-      "link": "https://wgntv.com/weather/chicago-weather-wednesday-11112026/",
-      "published": "2026-11-11T01:47:51Z",
-      "source": "WGN-TV",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T17:54:49Z",
-      "category": "Weather",
-      "local": true
-    },
-    {
-      "headline": "White Sox remain set on adding impact starting pitching, even after shifting Grant Taylor to rotation",
-      "link": "https://chicago.suntimes.com/white-sox/2026/11/10/white-sox-remain-set-on-adding-impact-starting-pitching-even-after-shifting-grant-taylor-to-rotation",
-      "published": "2026-11-11T01:42:07Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T17:54:35Z",
-      "category": "Business"
-    },
-    {
-      "headline": "Lenny Feil: Home prices are still rising",
-      "link": "https://wgnradio.com/your-money-matters/lenny-feil-home-prices-are-still-rising/",
-      "published": "2026-11-11T01:36:48Z",
-      "source": "WGN Radio",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T17:54:54Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "Lawmakers consider independent oversight of state prisons",
-      "link": "https://chicago.suntimes.com/illinois/2026/11/10/illinois-general-assembly-lawmakers-independent-oversight-ombudsperson-idoc",
-      "published": "2026-11-11T01:25:24Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T17:54:35Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Chicago police sergeant dies after being found unresponsive at Northwest Side station",
-      "link": "https://chicago.suntimes.com/chicago/2026/11/10/chicago-police-sergeant-dies-after-being-found-unresponsive-at-northwest-side-station",
-      "published": "2026-11-11T01:15:37Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T17:54:35Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Notre Dame Leprechaun’s College GameDay Kick Wins $200K For Greater Chicago Food Depository",
-      "link": "https://blockclubchicago.org/2026/11/10/notre-dame-leprechauns-college-gameday-kick-wins-200k-for-greater-chicago-food-depository/",
-      "published": "2026-11-11T01:14:00Z",
-      "source": "Block Club Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T17:54:36Z",
-      "category": "Education"
-    },
-    {
-      "headline": "Illinois hemp ban delayed — but only for some businesses",
-      "link": "https://chicago.suntimes.com/small-business/2026/11/10/illinois-hemp-thc-ban-lawsuit-businesses",
-      "published": "2026-11-11T01:03:21Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T17:54:35Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Burnham Prize winners seek to make State Street great again",
-      "link": "https://chicago.suntimes.com/architecture-design/2026/11/10/burnham-prize-winners-state-street-great-again",
-      "published": "2026-11-11T01:00:00Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T17:54:35Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Evanston Church of God looks for larger space, lists current building for sale",
-      "link": "https://evanstonroundtable.com/2026/11/10/evanston-church-of-god-looks-for-larger-space-lists-current-building-for-sale/",
-      "published": "2026-11-11T00:51:09Z",
-      "source": "Evanston RoundTable",
-      "area": "Suburbs",
-      "fetched_at": "2026-11-11T17:54:45Z",
-      "category": "Other"
-    },
-    {
-      "headline": "White Sox's Will Venable named A.L. Manager of the Year",
-      "link": "https://wgntv.com/sports/white-sox/white-soxs-will-venable-named-a-l-manager-of-the-year/",
-      "published": "2026-11-11T00:46:22Z",
-      "source": "WGN-TV",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T17:54:49Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Feds question 'Broadview 6' judge's authority as clash over top prosecutor's testimony inches closer",
-      "link": "https://chicago.suntimes.com/politics/2026/11/10/broadview-six-boutros-perry-stanley-woodward",
-      "published": "2026-11-11T00:23:19Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T17:54:35Z",
-      "category": "Crime & Safety"
-    },
-    {
-      "headline": "Ben Brown undergoes neck surgery, further muddying Cubs’ already unclear starting-pitching picture for 2027",
-      "link": "https://chicago.suntimes.com/cubs/2026/11/10/cubs-ben-brown-injury-neck-surgery-starting-rotation-mlb-offseason-free-agent-pitchers",
-      "published": "2026-11-11T00:17:21Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T17:54:35Z",
-      "category": "Health"
-    },
-    {
-      "headline": "Give Back Here to Support Arts and Culture",
-      "link": "https://www.oakpark.com/2026/11/10/give-back-here-to-support-arts-and-culture/",
-      "published": "2026-11-11T00:12:07Z",
-      "source": "Wednesday Journal (Oak Park)",
-      "area": "Suburbs",
-      "fetched_at": "2026-11-11T00:14:22Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Mayor Touts Voter Support For Corporate Head Tax In 4 Wards, But Alders Still Not Convinced",
-      "link": "https://blockclubchicago.org/2026/11/10/weds-mayor-touts-voter-support-for-corporate-head-tax-in-4-wards-but-alders-still-not-convinced/",
-      "published": "2026-11-11T00:11:28Z",
-      "source": "Block Club Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:17Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Make Your Gifts Go Further with the Illinois Gives Tax Credit",
-      "link": "https://www.oakpark.com/2026/11/10/make-your-gifts-go-further-with-the-illinois-gives-tax-credit/",
-      "published": "2026-11-11T00:08:40Z",
-      "source": "Wednesday Journal (Oak Park)",
-      "area": "Suburbs",
-      "fetched_at": "2026-11-11T00:14:22Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "CPD hosts blood drive to support fellow officers, community",
-      "link": "https://wgntv.com/news/chicago-news/cpd-hosts-blood-drive-to-support-fellow-officers-community/",
-      "published": "2026-11-11T00:01:10Z",
-      "source": "WGN-TV",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:25Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Huskies halt Ramblers’ playoff run — the second longest in program history",
-      "link": "https://www.therecordnorthshore.org/2026/11/10/huskies-halt-ramblers-playoff-run-the-second-longest-in-program-history/",
-      "published": "2026-11-11T00:00:42Z",
-      "source": "The Record North Shore",
-      "area": "Suburbs",
-      "fetched_at": "2026-11-11T00:14:29Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "11-month-old buried alive for 24 hours, father arrested, police say",
-      "link": "https://www.fox32chicago.com/news/11-month-old-buried-alive-24-hours-father-arrested-police-say",
-      "published": "2026-11-10T23:56:54Z",
-      "source": "Fox 32 Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T17:54:48Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "'A non-starter': Mayor Johnson faces budget revolt from 28 City Council members",
-      "link": "https://wgntv.com/news/politics/wgn-the-point-politics-chicago-illinois/chicago-alders-reject-mayor-budget/",
-      "published": "2026-11-10T23:48:59Z",
-      "source": "WGN-TV",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:25Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Rep. Nikki Budzinski elected chair of moderate New Dem Coalition, vows Dems will lower costs for Americans",
-      "link": "https://chicago.suntimes.com/us-house/2026/11/10/rep-nikki-budzinski-chair-moderate-new-dem-coalition",
-      "published": "2026-11-10T23:42:40Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:17Z",
-      "category": "Other"
-    },
-    {
-      "headline": "After Chicagoans overwhelmingly backed a millionaires tax, opposition caucus renews fight against Mayor Johnson’s budget plan",
-      "link": "https://thetriibe.com/2026/11/after-chicagoans-overwhelmingly-backed-a-millionaires-tax-opposition-caucus-renews-fight-against-mayor-johnsons-budget-plan/",
-      "published": "2026-11-10T23:31:05Z",
-      "source": "The Triibe",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:21Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "House GOP blocks Defense Secretary Pete Hegseth impeachment vote",
-      "link": "https://www.fox32chicago.com/news/watch-live-us-secretary-defense-hegseth-expected-address-impeachment-effort",
-      "published": "2026-11-10T23:29:31Z",
-      "source": "Fox 32 Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:24Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "City Budget Hits Latest Stalemate As Council Bloc Demands Mayor Go ‘Back To The Drawing Board’",
-      "link": "https://blockclubchicago.org/2026/11/10/city-budget-hits-latest-stalemate-as-council-bloc-demands-mayor-go-back-to-the-drawing-board/",
-      "published": "2026-11-10T23:22:01Z",
-      "source": "Block Club Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:17Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "28 Chicago aldermen oppose Mayor Johnson's 2027 budget proposal",
-      "link": "https://www.fox32chicago.com/video/fmc-gh3suw07g1touoal",
-      "published": "2026-11-10T23:17:01Z",
-      "source": "Fox 32 Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:24Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Levy Center to host free Fran Randall concert on Nov. 20",
-      "link": "https://evanstonroundtable.com/2026/11/10/levy-center-to-host-free-fran-randall-concert-on-nov-20/",
-      "published": "2026-11-10T23:15:21Z",
-      "source": "Evanston RoundTable",
-      "area": "Suburbs",
-      "fetched_at": "2026-11-11T00:14:22Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Trump nominates Justice Department official to an EEOC seat that was left open by Democrat's firing",
-      "link": "https://www.audacy.com/kdkaradio/news/business/eeoc-doj-trump-zandi-1efb152a0a040d6c39e09970383a93c3",
-      "published": "2026-11-10T23:02:21Z",
-      "source": "WBBM Newsradio",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:27Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Chicago candy factory shutting down",
-      "link": "https://wgntv.com/news/chicago-news/chicago-candy-factory-shutting-down/",
-      "published": "2026-11-10T22:59:57Z",
-      "source": "WGN-TV",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T17:54:49Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "Customs intercepts counterfeit watches, drugs at O'Hare",
-      "link": "https://www.audacy.com/wbbm780/news/local/cbp-finds-fake-drugs",
-      "published": "2026-11-10T22:59:22Z",
-      "source": "WBBM Newsradio",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:27Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "From Bikini Bottom to Reggie’s: Voice icon Tom Kenny & The Hi-Seas hit Chicago",
-      "link": "https://wgnradio.com/wendy-snyder/from-bikini-bottom-to-reggies-voice-icon-tom-kenny-the-hi-seas-hit-chicago/",
-      "published": "2026-11-10T22:58:29Z",
-      "source": "WGN Radio",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T17:54:54Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Evanston Church of God building up for sale",
-      "link": "https://evanstonnow.com/evanston-church-of-god-building-up-for-sale/",
-      "published": "2026-11-10T22:58:13Z",
-      "source": "Evanston Now",
-      "area": "Suburbs",
-      "fetched_at": "2026-11-11T00:14:30Z",
-      "category": "Development & Housing"
-    },
-    {
-      "headline": "Why Spencer Knight is perturbed by Blackhawks demoting Arvid Soderblom: 'Just isn't right'",
-      "link": "https://chicago.suntimes.com/blackhawks/2026/11/10/blackhawks-goalies-spencer-knight-arvid-soderblom-drew-commesso",
-      "published": "2026-11-10T22:57:40Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:17Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Gunshot tech test delay leaves Chicago aldermen frustrated",
-      "link": "https://www.audacy.com/wbbm780/news/local/chicago-shotspotter-replacement",
-      "published": "2026-11-10T22:54:38Z",
-      "source": "WBBM Newsradio",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:27Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "CBP intercepts counterfeit watches, drugs at O'Hare",
-      "link": "https://www.audacy.com/podcasts/8852bd4c6b82bb397eb5e852eaa7e819/episodes/cbp_intercepts_counterfeit_wat-8983664",
-      "published": "2026-11-10T22:53:49Z",
-      "source": "WBBM Newsradio",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:27Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Delay in Chicago gunshot technology pilot leaves aldermen frustrated",
-      "link": "https://www.audacy.com/podcasts/8852bd4c6b82bb397eb5e852eaa7e819/episodes/delay_in_chicago_gunshot_techn-8983640",
-      "published": "2026-11-10T22:48:40Z",
-      "source": "WBBM Newsradio",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:27Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Bulls preparing for French connection as Wemby and Spurs come to town",
-      "link": "https://chicago.suntimes.com/bulls/2026/11/10/bulls-french-connection-wemby-spurs-come-to-town",
-      "published": "2026-11-10T22:39:49Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:17Z",
-      "category": "Other"
-    },
-    {
-      "headline": "For some Evanston restaurants, fuel costs are taking a bite",
-      "link": "https://evanstonroundtable.com/2026/11/10/for-some-evanston-restaurants-fuel-costs-are-taking-a-bite/",
-      "published": "2026-11-10T22:35:45Z",
-      "source": "Evanston RoundTable",
-      "area": "Suburbs",
-      "fetched_at": "2026-11-11T00:14:22Z",
-      "category": "Business"
-    },
-    {
-      "headline": "Amazon drone delivery center in Markham set for takeoff",
-      "link": "https://chicago.suntimes.com/business/2026/11/10/amazon-takes-flight-on-drone-delivery-center-in-markham",
-      "published": "2026-11-10T22:27:24Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:17Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Wildcat Insider: Jackson Kleather loves the family atmosphere of Northwestern Football",
-      "link": "https://wgnradio.com/northwestern/wildcat-insider/wildcat-insider-jackson-kleather-loves-the-family-atmosphere-of-northwestern-football/",
-      "published": "2026-11-10T22:24:04Z",
-      "source": "WGN Radio",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T17:54:54Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Morgan Park football season ends amid coaching dispute, protests",
-      "link": "https://www.fox32chicago.com/news/morgan-park-football-season-ends-amid-coaching-dispute-protests",
-      "published": "2026-11-10T22:18:31Z",
-      "source": "Fox 32 Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:24Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Meet the Dershins: The Evanston couple who has been together for 74 years",
-      "link": "https://evanstonroundtable.com/2026/11/10/harvey-and-barbara-dershin/",
-      "published": "2026-11-10T22:12:55Z",
-      "source": "Evanston RoundTable",
-      "area": "Suburbs",
-      "fetched_at": "2026-11-11T00:14:22Z",
-      "category": "Other"
-    },
-    {
-      "headline": "How important is AI to national security?",
-      "link": "https://wgnradio.com/john-williams/how-important-is-ai-to-national-security/",
-      "published": "2026-11-10T22:07:48Z",
-      "source": "WGN Radio",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:28Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Illinois sees an exodus of Gen Z adults, report says",
-      "link": "https://wgnradio.com/news/illinois-sees-an-exodus-of-gen-z-adults-report-says/",
-      "published": "2026-11-10T22:06:00Z",
-      "source": "WGN Radio",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:28Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "One call, one team",
-      "link": "https://www.oakpark.com/2026/11/10/one-call-one-team/",
-      "published": "2026-11-10T21:55:53Z",
-      "source": "Wednesday Journal (Oak Park)",
-      "area": "Suburbs",
-      "fetched_at": "2026-11-11T00:14:22Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Current zoning scenario proposal",
-      "link": "https://www.oakpark.com/2026/11/10/current-zoning-scenario-proposal/",
-      "published": "2026-11-10T21:55:04Z",
-      "source": "Wednesday Journal (Oak Park)",
-      "area": "Suburbs",
-      "fetched_at": "2026-11-11T00:14:22Z",
-      "category": "Development & Housing"
-    },
-    {
-      "headline": "Oak Park cannot rest on its laurels",
-      "link": "https://www.oakpark.com/2026/11/10/oak-park-cannot-rest-on-its-laurels/",
-      "published": "2026-11-10T21:53:59Z",
-      "source": "Wednesday Journal (Oak Park)",
-      "area": "Suburbs",
-      "fetched_at": "2026-11-11T00:14:22Z",
-      "category": "Other"
-    },
-    {
-      "headline": "What’s lurking in the weeds?",
-      "link": "https://www.oakpark.com/2026/11/10/whats-lurking-in-the-weeds/",
-      "published": "2026-11-10T21:52:57Z",
-      "source": "Wednesday Journal (Oak Park)",
-      "area": "Suburbs",
-      "fetched_at": "2026-11-11T00:14:22Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Builders’ view on zoning",
-      "link": "https://www.oakpark.com/2026/11/10/builders-view-on-zoning/",
-      "published": "2026-11-10T21:51:31Z",
-      "source": "Wednesday Journal (Oak Park)",
-      "area": "Suburbs",
-      "fetched_at": "2026-11-11T00:14:22Z",
-      "category": "Development & Housing"
-    },
-    {
-      "headline": "‘Heartbreaking and entirely preventable’: Chicago-area man died after deportation, family attorney says",
-      "link": "https://chicago.suntimes.com/immigration/2026/11/10/chicago-area-man-dies-after-deportation-to-pakistan-family-attorney-says",
-      "published": "2026-11-10T21:51:25Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:17Z",
-      "category": "Other"
-    },
-    {
-      "headline": "A new world through collective liberation",
-      "link": "https://www.oakpark.com/2026/11/10/a-new-world-through-collective-liberation/",
-      "published": "2026-11-10T21:50:22Z",
-      "source": "Wednesday Journal (Oak Park)",
-      "area": "Suburbs",
-      "fetched_at": "2026-11-11T00:14:22Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Midterm victory is not a license to tax",
-      "link": "https://www.oakpark.com/2026/11/10/midterm-victory-is-not-a-license-to-tax/",
-      "published": "2026-11-10T21:49:06Z",
-      "source": "Wednesday Journal (Oak Park)",
-      "area": "Suburbs",
-      "fetched_at": "2026-11-11T00:14:22Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Your loss is a developer’s gain",
-      "link": "https://www.oakpark.com/2026/11/10/your-loss-is-a-developers-gain/",
-      "published": "2026-11-10T21:48:12Z",
-      "source": "Wednesday Journal (Oak Park)",
-      "area": "Suburbs",
-      "fetched_at": "2026-11-11T00:14:22Z",
-      "category": "Development & Housing"
-    },
-    {
-      "headline": "The Rundown: The South Side’s Black theater scene",
-      "link": "https://www.wbez.org/wbez-newsletter/2026/11/10/the-rundown-the-south-sides-black-theater-scene",
-      "published": "2026-11-10T21:45:00Z",
-      "source": "WBEZ",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:18Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "DOJ sues Lyft for denying rides to passengers with wheelchairs, service dogs",
-      "link": "https://www.fox32chicago.com/news/doj-sues-lyft-denying-rides-passengers-wheelchairs-service-dogs",
-      "published": "2026-11-10T21:42:52Z",
-      "source": "Fox 32 Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:24Z",
-      "category": "Traffic & Transit",
-      "local": true
-    },
-    {
-      "headline": "Siskel and Ebert's legacy will be honored with a new Chicago monument",
-      "link": "https://wgntv.com/news/chicago-news/siskel-and-eberts-legacy-will-be-honored-with-a-new-chicago-monument/",
-      "published": "2026-11-10T21:42:29Z",
-      "source": "WGN-TV",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:25Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Conversations with The Forecasters: Snow isn't likely to happen soon",
-      "link": "https://wgnradio.com/lisa-dent/conversations-with-the-forecasters-snow-isnt-likely-to-happen-soon/",
-      "published": "2026-11-10T21:40:25Z",
-      "source": "WGN Radio",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:28Z",
-      "category": "Weather",
-      "local": true
-    },
-    {
-      "headline": "Indiana man wanted after escaping police custody at hospital",
-      "link": "https://www.fox32chicago.com/news/indiana-man-wanted-after-escaping-police-custody-hospital",
-      "published": "2026-11-10T21:36:46Z",
-      "source": "Fox 32 Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:24Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "School mourns death of Evanston high school senior in Deerfield crash",
-      "link": "https://chicago.suntimes.com/crime/2026/11/10/school-grieves-following-death-of-beloved-evanston-high-school-senior-in-deerfield-crash",
-      "published": "2026-11-10T21:29:08Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:17Z",
-      "category": "Education"
-    },
-    {
-      "headline": "The Bears have problems, but are they as dramatic as those of the other presumed Super Bowl contenders?",
-      "link": "https://chicago.suntimes.com/bears/2026/11/10/chicago-bears-caleb-williams-ben-johnson-jeffery-simmons-josh-allen-joe-burrow-kenneth-walker-jordan-love",
-      "published": "2026-11-10T21:29:00Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:17Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Noon Business Lunch 11/10/26: Strong economy, Nvidia controversy, election lessons, Chicago real estate roundup",
-      "link": "https://wgnradio.com/business-lunch/noon-business-lunch-11-10-26-strong-economy-nvidia-controversy-election-lessons-chicago-real-estate-roundup/",
-      "published": "2026-11-10T21:16:39Z",
-      "source": "WGN Radio",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:28Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "Bears stick with roster as is at trade deadline; Vikings bring back QB Kirk Cousins",
-      "link": "https://chicago.suntimes.com/bears/2026/11/10/bears-stick-with-roster-as-is-at-trade-deadline-vikings-bring-back-qb-kirk-cousins",
-      "published": "2026-11-10T21:10:33Z",
-      "source": "Chicago Sun-Times",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:17Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Thomas Markle, father of Meghan, cut off ankle monitor shortly after release from federal custody: DOJ",
-      "link": "https://www.fox32chicago.com/news/thomas-markle-father-meghan-arrested-after-cutting-off-ankle-monitor-doj",
-      "published": "2026-11-10T21:07:55Z",
-      "source": "Fox 32 Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:24Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Dr. Michael Bauer: Public has misplaced fear of measles vaccine",
-      "link": "https://wgnradio.com/health/dr-michael-bauer-public-has-misplaced-fear-of-measles-vaccine/",
-      "published": "2026-11-10T21:07:30Z",
-      "source": "WGN Radio",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:28Z",
-      "category": "Health",
-      "local": true
-    },
-    {
-      "headline": "Downtown Evanston announces 2026 holiday events",
-      "link": "https://evanstonroundtable.com/2026/11/10/downtown-evanston-announces-2026-holiday-events/",
-      "published": "2026-11-10T21:03:39Z",
-      "source": "Evanston RoundTable",
-      "area": "Suburbs",
-      "fetched_at": "2026-11-11T00:14:22Z",
-      "category": "Business"
-    },
-    {
-      "headline": "Football Playoff Roundup: Loyola, Hersey Win, Maine South Exits",
-      "link": "https://www.journal-topics.com/articles/football-playoff-roundup-loyola-hersey-win-maine-south-exits/",
-      "published": "2026-11-10T21:01:34Z",
-      "source": "Journal & Topics (Des Plaines)",
-      "area": "Suburbs",
-      "fetched_at": "2026-11-11T00:14:32Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "AO Hawaiian Hideout Sought Work For Its Staff When It Closed. These Restaurants Stepped Up.",
-      "link": "https://blockclubchicago.org/2026/11/10/ao-hawaiian-hideout-sought-work-for-its-staff-when-it-closed-these-restaurants-stepped-up/",
-      "published": "2026-11-10T21:01:26Z",
-      "source": "Block Club Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:17Z",
-      "category": "Business"
-    },
-    {
-      "headline": "4 grizzly bears linked by DNA to deadly attack on mother and daughter in Canada",
-      "link": "https://www.audacy.com/wbbm780/news/world/bear-attack-canada-mother-daughter-british-columbia-b901e0174694af498b4e0ac3766a7176",
-      "published": "2026-11-10T21:01:22Z",
-      "source": "WBBM Newsradio",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:27Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Howard Tullman on 'You Can See Everything'",
-      "link": "https://wgnradio.com/lisa-dent/howard-tullman-on-you-can-see-everything/",
-      "published": "2026-11-10T21:01:19Z",
-      "source": "WGN Radio",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:28Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Eric Zorn: Alexi Giannoulias appearing with controversial alderperson was a big mistake",
-      "link": "https://wgnradio.com/john-williams/eric-zorn-alexi-giannoulias-appearing-with-controversial-alderperson-was-a-big-mistake/",
-      "published": "2026-11-10T21:00:08Z",
-      "source": "WGN Radio",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:28Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Former Batavia chiropractor sentenced to 60 years in child abuse case",
-      "link": "https://www.fox32chicago.com/news/david-hanson-batavia-chiropractor-sentencing",
-      "published": "2026-11-10T20:59:58Z",
-      "source": "Fox 32 Chicago",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:24Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Journal-Area Football Quarterfinal Schedule",
-      "link": "https://www.journal-topics.com/articles/journal-area-football-quarterfinal-schedule/",
-      "published": "2026-11-10T20:59:07Z",
-      "source": "Journal & Topics (Des Plaines)",
-      "area": "Suburbs",
-      "fetched_at": "2026-11-11T00:14:32Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Big Sky, Bold City",
-      "link": "https://www.journal-topics.com/articles/big-sky-bold-city/",
-      "published": "2026-11-10T20:57:54Z",
-      "source": "Journal & Topics (Des Plaines)",
-      "area": "Suburbs",
-      "fetched_at": "2026-11-11T00:14:32Z",
-      "category": "Other"
-    },
-    {
-      "headline": "December dates set for Endeavor nurses union vote",
-      "link": "https://evanstonnow.com/endeavor-health-nurses-union-vote/",
-      "published": "2026-11-10T20:53:54Z",
-      "source": "Evanston Now",
-      "area": "Suburbs",
-      "fetched_at": "2026-11-11T00:14:30Z",
-      "category": "Health"
-    },
-    {
-      "headline": "Girls Swimming: 2026 Journal-Area State Qualifiers",
-      "link": "https://www.journal-topics.com/articles/girls-swimming-2026-journal-area-state-qualifiers/",
-      "published": "2026-11-10T20:53:14Z",
-      "source": "Journal & Topics (Des Plaines)",
-      "area": "Suburbs",
-      "fetched_at": "2026-11-11T00:14:32Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Bears fans looking for Luther Burden injury updates lift up person in viral social media post",
-      "link": "https://wgntv.com/news/chicago-news/bears-fans-looking-for-luther-burden-injury-updates-lift-up-person-in-viral-social-media-post/",
-      "published": "2026-11-10T20:50:36Z",
-      "source": "WGN-TV",
-      "area": "Chicago",
-      "fetched_at": "2026-11-11T00:14:25Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Girls Swimming: Hersey, Stevenson Claim Sectional Titles",
-      "link": "https://www.journal-topics.com/articles/girls-swimming-hersey-stevenson-claim-sectional-titles/",
-      "published": "2026-11-10T20:50:18Z",
-      "source": "Journal & Topics (Des Plaines)",
-      "area": "Suburbs",
-      "fetched_at": "2026-11-11T00:14:32Z",
-      "category": "Sports"
     }
   ],
   "link_only": [
