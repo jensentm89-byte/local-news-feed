@@ -1,11 +1,905 @@
 {
-  "generated_at": "2026-11-25T03:16:22Z",
+  "generated_at": "2026-11-25T20:02:59Z",
   "name": "Houston, TX",
   "areas": [
     "Houston",
     "Region-wide"
   ],
   "articles": [
+    {
+      "headline": "Pearland expands industrial footprint",
+      "link": "https://communityimpact.com/pearland-friendswood-manvel/development/pearland-expands-industrial-footprint/",
+      "published": "2026-11-25T19:45:38Z",
+      "source": "Community Impact (Houston)",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-25T19:58:42Z",
+      "category": "Development & Housing"
+    },
+    {
+      "headline": "US travelers facing long airport lines, bad weather in the run up to Thanksgiving",
+      "link": "https://cw39.com/news/u-s-news/ap-us-news/ap-us-travelers-facing-long-airport-lines-bad-weather-in-the-run-up-to-thanksgiving/",
+      "published": "2026-11-25T19:42:41Z",
+      "source": "CW39",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:49Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "H-E-B in League City to undergo $2.6M renovation in 2027",
+      "link": "https://communityimpact.com/bay-area/business/h-e-b-grocery-store-in-league-city-to-undergo-2-6m-renovation-in-2027/",
+      "published": "2026-11-25T19:36:00Z",
+      "source": "Community Impact (Houston)",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-25T19:58:42Z",
+      "category": "Business"
+    },
+    {
+      "headline": "Texas Supreme Court declines to hear cities’ ‘Death Star’ law challenge",
+      "link": "https://www.fox26houston.com/news/texas-supreme-court-declines-hear-cities-death-star-law-challenge",
+      "published": "2026-11-25T19:29:48Z",
+      "source": "Fox 26 Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:46Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Actress Turned Arty Handbag Creator Unveils a New Collection at Houston’s McClain Gallery — Kelly Campbell’s Bold Play",
+      "link": "https://www.papercitymag.com/arts/kelly-campbell-collection-purses-fashion-debut-mcclain-gallery/",
+      "published": "2026-11-25T19:19:26Z",
+      "source": "PaperCity Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:48Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Questions remain after deadly tanker crash and fire on Houston's Eastex Freeway",
+      "link": "https://www.khou.com/article/news/local/houston-eastex-freeway-deadly-tanker-crash-fire-investigation/285-978d78ee-2e9f-473c-9778-5f494dc28eed",
+      "published": "2026-11-25T19:06:11Z",
+      "source": "KHOU 11",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:44Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Unclaimed $850,000 Texas Two Step lottery ticket sold in San Antonio expires soon",
+      "link": "https://www.fox26houston.com/news/unclaimed-texas-two-step-lottery-ticket-sold-san-antonio-expiring",
+      "published": "2026-11-25T19:03:45Z",
+      "source": "Fox 26 Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:46Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Houston confirms it's in talks to bring Essence Festival of Culture to H-Town",
+      "link": "https://www.click2houston.com/news/local/2026/11/25/houston-confirms-its-in-talks-to-bring-essence-festival-of-culture-to-h-town/",
+      "published": "2026-11-25T19:02:29Z",
+      "source": "KPRC Click2Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:45Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Buffalo Bayou gala goes with the flow at an al fresco soirée",
+      "link": "https://houston.culturemap.com/news/society/buffalo-bayou-partnership-2026-gala/",
+      "published": "2026-11-25T19:00:01Z",
+      "source": "CultureMap Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:46Z",
+      "category": "Other"
+    },
+    {
+      "headline": "French cafe, steakhouse: 6 recently opened eateries in Greater Houston",
+      "link": "https://communityimpact.com/sugar-land-missouri-city/dining/french-cafe-steakhouse-6-recently-opened-eateries-in-greater-houston/",
+      "published": "2026-11-25T19:00:00Z",
+      "source": "Community Impact (Houston)",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-25T19:58:42Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "The wine rules you’re allowed to break during the holidays, according to a master sommelier",
+      "link": "https://www.fox26houston.com/news/wine-rules-youre-allowed-break-during-master-sommelier",
+      "published": "2026-11-25T18:51:03Z",
+      "source": "Fox 26 Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:46Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Thurlow Buchanan vanished from Fort Worth in 1987. His truck was found near UH, but he was never seen again",
+      "link": "https://www.khou.com/article/news/local/texas-missing/thurlow-buchanan-fort-worth-houston-1987/285-8a6ee227-c93b-439e-a35c-f72bb318fb7b",
+      "published": "2026-11-25T18:47:49Z",
+      "source": "KHOU 11",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:44Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Man arrested for alleged AI videos of San Jacinto County sheriff claims free speech",
+      "link": "https://www.houstonpublicmedia.org/articles/news/criminal-justice/2026/11/25/567886/a-man-was-arrested-for-ai-generated-videos-of-the-san-jacinto-county-sheriff-is-it-free-speech/?utm_source=rss-criminal-justice-article&utm_medium=link&utm_campaign=hpm-rss-link",
+      "published": "2026-11-25T18:43:54Z",
+      "source": "Houston Public Media",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:41Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Weslee Whatley missing: Endangered alert issued for non-verbal Houston man",
+      "link": "https://www.fox26houston.com/news/weslee-whatley-missing-endangered-alert-houston-11252026",
+      "published": "2026-11-25T18:23:11Z",
+      "source": "Fox 26 Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:46Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Here are the Houston stores open and closed on Thanksgiving 2026",
+      "link": "https://www.khou.com/article/news/local/texas/houston-texas-stores-open-on-thanksgiving-2026/285-90871b79-c030-4ce9-bd48-c19c40e7f347",
+      "published": "2026-11-25T18:09:51Z",
+      "source": "KHOU 11",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:44Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Can you help? 30,000 Houstonians expected at Super Feast -- now a warming center -- and they’re critically short on food",
+      "link": "https://www.click2houston.com/news/local/2026/11/25/30000-houstonians-expected-at-super-feast-now-a-warming-center-but-theyre-critically-short-on-food/",
+      "published": "2026-11-25T18:09:33Z",
+      "source": "KPRC Click2Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:45Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Independent luxury fashion house announces new flagship at River Oaks District",
+      "link": "https://communityimpact.com/heights-river-oaks-montrose/business/independent-luxury-fashion-house-announces-new-flagship-at-river-oaks-district/",
+      "published": "2026-11-25T18:00:00Z",
+      "source": "Community Impact (Houston)",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-25T19:58:42Z",
+      "category": "Business"
+    },
+    {
+      "headline": "Yes, it’s actually cold in Houston this Thanksgiving -- and here’s how long it lasts",
+      "link": "https://www.click2houston.com/weather/2026/11/25/brrr-coldest-mornings-of-the-season-kick-off-the-holiday-weekend-in-houston/",
+      "published": "2026-11-25T17:46:17Z",
+      "source": "KPRC Click2Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:45Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Best Bitcoin Casino USA 2026: Top 5 Sites for Fast Crypto Payouts",
+      "link": "https://www.houstonpress.com/sponsored/best-bitcoin-casino-usa-2026-top-5-sites-for-fast-crypto-payouts/",
+      "published": "2026-11-25T17:45:57Z",
+      "source": "Houston Press",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:43Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Best Online Casinos Australia 2026 – Top Real Money Sites Ranked & Reviewed",
+      "link": "https://www.houstonpress.com/sponsored/best-online-casinos-australia-2026-top-real-money-sites-ranked-reviewed/",
+      "published": "2026-11-25T17:32:46Z",
+      "source": "Houston Press",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:43Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Best Online Casinos Canada 2026 – Safe Online Casinos Canada Reviewed",
+      "link": "https://www.houstonpress.com/sponsored/best-online-casinos-canada-2026-safe-online-casinos-canada-reviewed/",
+      "published": "2026-11-25T17:30:30Z",
+      "source": "Houston Press",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:43Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Chris Shepherd recommends 4 new books that will make Houston cooks smarter",
+      "link": "https://houston.culturemap.com/news/restaurants-bars/cookbook-recommendations-gail-simmons-guesting/",
+      "published": "2026-11-25T17:30:02Z",
+      "source": "CultureMap Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:46Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Thanksgiving foods that could put pets at risk, Houston Humane Society vet warns",
+      "link": "https://www.click2houston.com/news/local/2026/11/25/thanksgiving-foods-that-could-put-pets-at-risk-houston-humane-society-vet-warns/",
+      "published": "2026-11-25T17:29:46Z",
+      "source": "KPRC Click2Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:45Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Best Online Pokies Australia – 5 Top Pokies Sites For Fast Payouts",
+      "link": "https://www.houstonpress.com/sponsored/best-online-pokies-australia-5-top-pokies-sites-for-fast-payouts/",
+      "published": "2026-11-25T17:28:02Z",
+      "source": "Houston Press",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:43Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Best Bitcoin Casinos for Fast Payouts – 5 Top Crypto Casinos Listed",
+      "link": "https://www.houstonpress.com/sponsored/best-bitcoin-casinos-for-fast-payouts-5-top-crypto-casinos-listed/",
+      "published": "2026-11-25T17:25:34Z",
+      "source": "Houston Press",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:43Z",
+      "category": "Other"
+    },
+    {
+      "headline": "UTHealth Houston doctor shares Thanksgiving food and safety tips",
+      "link": "https://www.click2houston.com/news/local/2026/11/25/uthealth-houston-doctor-shares-thanksgiving-food-and-safety-tips/",
+      "published": "2026-11-25T17:24:16Z",
+      "source": "KPRC Click2Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:45Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Best Slots to Play Online for Real Money Ranked (2026)",
+      "link": "https://www.houstonpress.com/sponsored/best-slots-to-play-online-for-real-money-ranked-2026/",
+      "published": "2026-11-25T17:23:20Z",
+      "source": "Houston Press",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:43Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Top 10 Online Casinos for Real Money USA (Tested & Verified)",
+      "link": "https://www.houstonpress.com/sponsored/top-10-online-casinos-for-real-money-usa-tested-verified/",
+      "published": "2026-11-25T17:20:51Z",
+      "source": "Houston Press",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:43Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Best PayID Casinos Australia 2026 – 5 Top PayID Casinos For Fast Deposits",
+      "link": "https://www.houstonpress.com/sponsored/best-payid-casinos-australia-2026-5-top-payid-casinos-for-fast-deposits/",
+      "published": "2026-11-25T17:18:21Z",
+      "source": "Houston Press",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:43Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Wendy’s accused of driving up menu prices in new lawsuit",
+      "link": "https://www.fox26houston.com/news/wendys-menu-prices-lawsuit",
+      "published": "2026-11-25T17:15:47Z",
+      "source": "Fox 26 Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:46Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Best Online Casinos Europe – Top EU Online Casinos Ranked",
+      "link": "https://www.houstonpress.com/sponsored/best-online-casinos-europe-top-eu-online-casinos-ranked/",
+      "published": "2026-11-25T17:15:38Z",
+      "source": "Houston Press",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:43Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Thanksgiving traffic in Houston: TxDOT reveals when I-10 and I-45 will be busiest",
+      "link": "https://www.click2houston.com/news/local/2026/11/25/thanksgiving-traffic-in-houston-txdot-reveals-when-i-10-and-i-45-will-be-busiest/",
+      "published": "2026-11-25T17:03:14Z",
+      "source": "KPRC Click2Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:45Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "New report reveals potential developers, future uses for iconic Astrodome",
+      "link": "https://houston.innovationmap.com/houston-astrodome-future-development-2678457770.html",
+      "published": "2026-11-25T17:00:01Z",
+      "source": "InnovationMap Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:46Z",
+      "category": "Development & Housing"
+    },
+    {
+      "headline": "Interfaith of The Woodlands announces Hometown Heroes for 2027",
+      "link": "https://communityimpact.com/the-woodlands/nonprofit/interfaith-of-the-woodlands-announces-hometown-heroes-for-2027/",
+      "published": "2026-11-25T17:00:00Z",
+      "source": "Community Impact (Houston)",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-25T19:58:42Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Top 3 Best Replica Bags Websites in USA 2026: Trusted Sellers & Reviews",
+      "link": "https://www.houstonpress.com/sponsored/top-3-best-replica-bags-websites-in-usa-2026-trusted-sellers-reviews/",
+      "published": "2026-11-25T16:59:40Z",
+      "source": "Houston Press",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:43Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Best Online Casino Real Money USA 2026: Top 10 Highest Payout Online Casino",
+      "link": "https://www.houstonpress.com/sponsored/best-online-casino-real-money-usa-2026-top-10-highest-payout-online-casino/",
+      "published": "2026-11-25T16:55:50Z",
+      "source": "Houston Press",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:43Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Best Sweepstakes Casino 2026: 5 Top-Rated Sites For US Players",
+      "link": "https://www.houstonpress.com/sponsored/best-sweepstakes-casino-2026-5-top-rated-sites-for-us-players/",
+      "published": "2026-11-25T16:51:25Z",
+      "source": "Houston Press",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:43Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Iconic alt-rock band Wilco extends tour with new Houston date in 2027",
+      "link": "https://houston.culturemap.com/news/entertainment/wilco-tour-2027-houston/",
+      "published": "2026-11-25T16:30:01Z",
+      "source": "CultureMap Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:46Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Shein to pay $100 million settlement over misleading customers",
+      "link": "https://www.fox26houston.com/news/shein-settlement-misleading-customers",
+      "published": "2026-11-25T16:28:47Z",
+      "source": "Fox 26 Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:46Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Mother describes finding teen unconscious as investigators probe two girls’ deaths in Aldine",
+      "link": "https://www.khou.com/article/news/crime/aldine-two-teen-girls-deaths-investigation/285-a0aeaba5-beb1-465d-912c-be9cacf21d1b",
+      "published": "2026-11-25T16:16:55Z",
+      "source": "KHOU 11",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:44Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "More than 40 Flock cameras vandalized in Houston this year, according to records",
+      "link": "https://www.houstonpublicmedia.org/articles/news/harris-county/2026/11/25/567880/more-than-40-flock-cameras-vandalized-in-houston-this-year-according-to-records/?utm_source=rss-harris-county-article&utm_medium=link&utm_campaign=hpm-rss-link",
+      "published": "2026-11-25T16:13:02Z",
+      "source": "Houston Public Media",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:41Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Houston U.S. attorney flagged fraud case, then his campaign got nearly $100K from the accused doctor",
+      "link": "https://www.click2houston.com/news/local/2026/11/25/houston-us-attorney-pushed-for-review-of-fraud-case-against-doctor-who-later-donated-nearly-100k-to-his-campaign/",
+      "published": "2026-11-25T16:03:29Z",
+      "source": "KPRC Click2Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:45Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "2 men, 2 others injured in Third Ward shooting, HPD says",
+      "link": "https://cw39.com/crime/houston-third-ward-fatal-shooting/",
+      "published": "2026-11-25T15:54:22Z",
+      "source": "CW39",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:49Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "These 2 states have the highest flu activity ahead of Thanksgiving",
+      "link": "https://www.fox26houston.com/news/high-flu-activity-ahead-thanksgiving",
+      "published": "2026-11-25T15:13:41Z",
+      "source": "Fox 26 Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:46Z",
+      "category": "Health",
+      "local": true
+    },
+    {
+      "headline": "Trinity Park Conservancy Celebrates Founding Donors of Dallas’ Harold Simmons Park",
+      "link": "https://www.papercitymag.com/society/trinity-park-conservancy-founding-donors-party-dallas-harold-simmons-park/",
+      "published": "2026-11-25T15:12:02Z",
+      "source": "PaperCity Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:48Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Beloved Aspen Italian Restaurant Acquolina Will Bring Roman-Style Pizza, Handmade Pasta, and Tuscan-Inspired Dining to Fort Worth",
+      "link": "https://www.papercitymag.com/restaurants/acquolina-fort-worth-restaurant-opening-aspen/",
+      "published": "2026-11-25T15:02:25Z",
+      "source": "PaperCity Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:48Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Stories we’re thankful for (Nov. 25, 2026)",
+      "link": "https://www.houstonpublicmedia.org/articles/shows/houston-matters/2026/11/25/567713/stories-were-thankful-for-nov-25-2026/?utm_source=rss-houston-matters-article&utm_medium=link&utm_campaign=hpm-rss-link",
+      "published": "2026-11-25T15:00:45Z",
+      "source": "Houston Public Media",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:41Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Houston izakaya now serving McDonald's-inspired breakfast sandwiches",
+      "link": "https://houston.culturemap.com/news/restaurants-bars/toga-japanese-restaurant-breakfast-coffee/",
+      "published": "2026-11-25T15:00:02Z",
+      "source": "CultureMap Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:46Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Blackout Wednesday: Houston-area law enforcement increases patrols, advocates urge sober rides home",
+      "link": "https://www.click2houston.com/news/local/2026/11/25/blackout-wednesday-houston-area-law-enforcement-increases-patrols-advocates-urge-sober-rides-home/",
+      "published": "2026-11-25T14:55:56Z",
+      "source": "KPRC Click2Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:45Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Houston mayor stands with airline contractors in minimum wage battle",
+      "link": "https://cw39.com/news/local/whitmire-presses-airport-contractors/",
+      "published": "2026-11-25T14:53:02Z",
+      "source": "CW39",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:49Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Lavish European travel by Texas’ ex-Juvenile Justice chief contributed to her exit, records show",
+      "link": "https://www.houstonpublicmedia.org/articles/news/politics/2026/11/25/567873/lavish-european-travel-by-texas-ex-juvenile-justice-chief-contributed-to-her-exit-records-show/?utm_source=rss-politics-article&utm_medium=link&utm_campaign=hpm-rss-link",
+      "published": "2026-11-25T14:44:33Z",
+      "source": "Houston Public Media",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:41Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "Houston Restaurants Jump Into Mahjong, Host Game Days and Nights — Where To Play In H-Town",
+      "link": "https://www.papercitymag.com/fashion/mahjong-houston-restaurants-hosting-ben-berg-tonys/",
+      "published": "2026-11-25T14:43:56Z",
+      "source": "PaperCity Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:48Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Farmers who produce our Thanksgiving meals are working harder than ever to make ends meet",
+      "link": "https://www.houstonpublicmedia.org/articles/economy/2026/11/25/567866/farmers-who-produce-our-thanksgiving-meals-are-working-harder-than-ever-to-make-ends-meet/?utm_source=rss-economy-article&utm_medium=link&utm_campaign=hpm-rss-link",
+      "published": "2026-11-25T14:26:21Z",
+      "source": "Houston Public Media",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:41Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Houston organizers brace for frigid temps at this year’s Thanksgiving Day Parade",
+      "link": "https://www.houstonpublicmedia.org/articles/arts-culture/2026/11/25/567841/houston-thanksgiving-day-parade-2026-weather-planning/?utm_source=rss-arts-culture-article&utm_medium=link&utm_campaign=hpm-rss-link",
+      "published": "2026-11-25T14:21:52Z",
+      "source": "Houston Public Media",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:41Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "Inside A Night at the Museum, Dallas’ Ultimate Adults-Only, Late-Night Field Trip to the Perot Museum",
+      "link": "https://www.papercitymag.com/society/perot-night-at-museum-dallas-fundraiser-expansion/",
+      "published": "2026-11-25T14:19:48Z",
+      "source": "PaperCity Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:48Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Fire at Weatherford Aerospace under control, shelter-in-place order lifted",
+      "link": "https://www.fox26houston.com/news/fire-breaks-out-weatherford-aerospace-after-series-explosions",
+      "published": "2026-11-25T14:12:39Z",
+      "source": "Fox 26 Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:46Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Texas-based CrowdStrike to acquire Zscaler in mega $44 billion deal",
+      "link": "https://houston.innovationmap.com/crowdstrike-zscaler-acquisition-2678515618.html",
+      "published": "2026-11-25T14:06:02Z",
+      "source": "InnovationMap Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:46Z",
+      "category": "Other"
+    },
+    {
+      "headline": "Q&A: Get to know Paula Moorhaj, Partnership Lake Houston's new president and CEO",
+      "link": "https://communityimpact.com/lake-houston-humble-kingwood/government/q-a-get-to-know-paula-moorhaj-partnership-lake-houston-s-new-president-and-ceo/",
+      "published": "2026-11-25T14:00:00Z",
+      "source": "Community Impact (Houston)",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-25T19:58:42Z",
+      "category": "Government & Politics"
+    },
+    {
+      "headline": "Sky's the limit: United Airlines unveils redeveloped Terminal B North Concourse at IAH",
+      "link": "https://communityimpact.com/lake-houston-humble-kingwood/transportation/sky-s-the-limit-united-airlines-unveils-redeveloped-terminal-b-north-concourse-at-iah/",
+      "published": "2026-11-25T14:00:00Z",
+      "source": "Community Impact (Houston)",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-25T19:58:42Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "Construction begins to transform Porter IHOP to dual-brand restaurant with Applebee's",
+      "link": "https://communityimpact.com/new-caney-porter/dining/construction-begins-to-transform-porter-ihop-to-dual-brand-restaurant-with-applebee-s/",
+      "published": "2026-11-25T14:00:00Z",
+      "source": "Community Impact (Houston)",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-25T19:58:42Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "New pet grooming business offers boarding, day care in Friendswood",
+      "link": "https://communityimpact.com/pearland-friendswood-manvel/business/new-pet-grooming-business-offers-boarding-day-care-in-friendswood/",
+      "published": "2026-11-25T14:00:00Z",
+      "source": "Community Impact (Houston)",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-25T19:58:42Z",
+      "category": "Business"
+    },
+    {
+      "headline": "Now booking: EMCID to open $159M convention center for December events in Valley Ranch",
+      "link": "https://communityimpact.com/new-caney-porter/development/now-booking-emcid-to-open-159m-convention-center-for-december-events-in-valley-ranch/",
+      "published": "2026-11-25T14:00:00Z",
+      "source": "Community Impact (Houston)",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-25T19:58:42Z",
+      "category": "Development & Housing"
+    },
+    {
+      "headline": "Houston homeowner shot teen who allegedly broke into car, police say",
+      "link": "https://www.fox26houston.com/news/houston-homeowner-shot-teen-who-allegedly-broke-car-police-say",
+      "published": "2026-11-25T13:55:19Z",
+      "source": "Fox 26 Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:46Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Social Security December payment schedule: Here’s when recipients get their checks",
+      "link": "https://www.fox26houston.com/news/social-security-december-2026-payment-schedule",
+      "published": "2026-11-25T13:51:02Z",
+      "source": "Fox 26 Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:46Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Fowl play: What to do if a wild turkey comes after you",
+      "link": "https://www.click2houston.com/news/local/2026/11/25/fowl-play-what-to-do-if-a-wild-turkey-comes-after-you/",
+      "published": "2026-11-25T13:45:39Z",
+      "source": "KPRC Click2Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:45Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Coldest airmass of the season arrives just ahead of turkey dinners in Houston",
+      "link": "https://spacecityweather.com/coldest-airmass-of-the-season-arrives-just-ahead-of-turkey-dinners-in-houston/",
+      "published": "2026-11-25T13:38:29Z",
+      "source": "Space City Weather",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:48Z",
+      "category": "Weather"
+    },
+    {
+      "headline": "Texas pharmacy recalls medications nationwide. Here's how to check yours",
+      "link": "https://www.khou.com/article/news/health/tomball-texas-greenwich-rx-clove-rx-nationwide-medication-recall/285-fb60ffac-0a7a-4387-9678-31543e99bb20",
+      "published": "2026-11-25T13:15:09Z",
+      "source": "KHOU 11",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:44Z",
+      "category": "Health",
+      "local": true
+    },
+    {
+      "headline": "Flying out of Houston for Thanksgiving? Here's what to know",
+      "link": "https://www.khou.com/article/travel/houston-airports-thanksgiving-travel-parking-flight-status/285-8bab98f9-b3fe-4020-ab06-aac5b17dfeab",
+      "published": "2026-11-25T13:04:19Z",
+      "source": "KHOU 11",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:44Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Highway 6 hit-and-run: Man in critical condition after being struck by pickup truck",
+      "link": "https://www.fox26houston.com/news/highway-6-beechnut-hit-and-run-man-critical-condition-11252026",
+      "published": "2026-11-25T12:49:33Z",
+      "source": "Fox 26 Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:46Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Houstonians have been waiting all night for these Thanksgiving pies",
+      "link": "https://www.click2houston.com/news/local/2026/11/25/houstonians-have-been-waiting-all-night-for-these-thanksgiving-pies/",
+      "published": "2026-11-25T12:40:48Z",
+      "source": "KPRC Click2Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:45Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Here are the street closures for the H-E-B Thanksgiving Day Parade in downtown Houston",
+      "link": "https://cw39.com/traffic/houston-heb-thanksgiving-parade-closures/",
+      "published": "2026-11-25T12:24:09Z",
+      "source": "CW39",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:49Z",
+      "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "Fort Hood shooter Nidal Hasan asks court to delay firing-squad execution so he can fight sentence",
+      "link": "https://cw39.com/crime/hasan-seeks-execution-delay/",
+      "published": "2026-11-25T12:17:27Z",
+      "source": "CW39",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:49Z",
+      "category": "Crime & Safety",
+      "local": true
+    },
+    {
+      "headline": "Sunny skies ahead for Thanksgiving in Southeast Texas",
+      "link": "https://cw39.com/weather/thanksgiving-weather-forecast-houston/",
+      "published": "2026-11-25T12:04:32Z",
+      "source": "CW39",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:49Z",
+      "category": "Weather",
+      "local": true
+    },
+    {
+      "headline": "City Wide Club of America prepares to serve over 30,000 at annual Super Feast",
+      "link": "https://www.houstonpublicmedia.org/articles/economy/affordability/2026/11/25/567768/city-wide-club-of-america-prepares-to-serve-over-30000-at-annual-super-feast/?utm_source=rss-affordability-article&utm_medium=link&utm_campaign=hpm-rss-link",
+      "published": "2026-11-25T12:00:00Z",
+      "source": "Houston Public Media",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:41Z",
+      "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Best Of Houston® 2026: Best Comfort Food",
+      "link": "https://www.houstonpress.com/restaurants/best-of-houston-2026-best-comfort-food/",
+      "published": "2026-11-25T12:00:00Z",
+      "source": "Houston Press",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:43Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Houston airports are about to be slammed. Here’s help to get through in one piece",
+      "link": "https://www.click2houston.com/news/local/2026/11/25/houston-airports-brace-for-a-packed-day-before-thanksgiving-getaway/",
+      "published": "2026-11-25T11:56:12Z",
+      "source": "KPRC Click2Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:45Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "From roasted turkey to filet mignon: 5 places to dine this Thanksgiving in Cypress and Cy-Fair",
+      "link": "https://communityimpact.com/cypress/dining/from-roasted-turkey-to-filet-mignon-5-places-to-dine-this-thanksgiving-in-cypress-and-cy-fair/",
+      "published": "2026-11-25T11:55:00Z",
+      "source": "Community Impact (Houston)",
+      "area": "Region-wide",
+      "fetched_at": "2026-11-25T19:58:42Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Houston’s Holiday Tamale Guide: Where to Order by the Dozen",
+      "link": "https://www.houstonpress.com/restaurants/houstons-holiday-tamale-guide-where-to-order-by-the-dozen/",
+      "published": "2026-11-25T11:30:00Z",
+      "source": "Houston Press",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:43Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Best Of Houston® 2026: Best Fancy Burger",
+      "link": "https://www.houstonpress.com/restaurants/best-of-houston-2026-best-fancy-burger/",
+      "published": "2026-11-25T11:15:00Z",
+      "source": "Houston Press",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:43Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Could a data center in your county pay you every year? This Texas bill would make it possible",
+      "link": "https://www.click2houston.com/news/texas/2026/11/25/could-a-data-center-in-your-county-pay-you-every-year-this-texas-bill-would-make-it-possible/",
+      "published": "2026-11-25T11:07:44Z",
+      "source": "KPRC Click2Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:45Z",
+      "category": "Government & Politics",
+      "local": true
+    },
+    {
+      "headline": "TEATRX Spotlights Latinx Stories in La Vida Es Cortos Festival",
+      "link": "https://www.houstonpress.com/arts/teatrx-spotlights-latinx-stories-in-la-vida-es-cortos-festival/",
+      "published": "2026-11-25T11:00:00Z",
+      "source": "Houston Press",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:43Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Best Of Houston® 2026: Best Tex-Mex Restaurant",
+      "link": "https://www.houstonpress.com/restaurants/best-of-houston-2026-best-tex-mex-restaurant/",
+      "published": "2026-11-25T11:00:00Z",
+      "source": "Houston Press",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:43Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "NFL and College Football Thanksgiving Weekend TV Watch Guide",
+      "link": "https://www.houstonpress.com/news/nfl-and-college-football-thanksgiving-weekend-tv-watch-guide/",
+      "published": "2026-11-25T10:30:00Z",
+      "source": "Houston Press",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:43Z",
+      "category": "Sports"
+    },
+    {
+      "headline": "Best Of Houston® 2026: Best Galveston Restaurant",
+      "link": "https://www.houstonpress.com/restaurants/best-of-houston-2026-best-galveston-restaurant/",
+      "published": "2026-11-25T10:30:00Z",
+      "source": "Houston Press",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:43Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Houston Black Friday: Gift Cards, Bourbon and Brunch",
+      "link": "https://www.houstonpress.com/restaurants/houston-black-friday-gift-cards-bourbon-and-brunch/",
+      "published": "2026-11-25T10:15:00Z",
+      "source": "Houston Press",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:43Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Houston Concert Watch 11/25: BEAT, Horton Heat and More",
+      "link": "https://www.houstonpress.com/music/houston-concert-watch-11-25-beat-horton-heat-and-more/",
+      "published": "2026-11-25T10:00:00Z",
+      "source": "Houston Press",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:43Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Best of Houston® 2026: Drag Performer",
+      "link": "https://www.houstonpress.com/arts/best-of-houston-2026-drag-performer/",
+      "published": "2026-11-25T10:00:00Z",
+      "source": "Houston Press",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:43Z",
+      "category": "Food & Events"
+    },
+    {
+      "headline": "Best Of Houston® 2026: Best Computer Store",
+      "link": "https://www.houstonpress.com/news/best-of-houston-2026-best-computer-store/",
+      "published": "2026-11-25T10:00:00Z",
+      "source": "Houston Press",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:43Z",
+      "category": "Business"
+    },
+    {
+      "headline": "The Engines of Our Ingenuity 3439: The Cell Tower in the Sky",
+      "link": "https://www.houstonpublicmedia.org/articles/shows/engines-of-our-ingenuity/engines-podcast/2026/11/25/567485/the-engines-of-our-ingenuity-3439-the-cell-tower-in-the-sky/?utm_source=rss-engines-podcast-article&utm_medium=link&utm_campaign=hpm-rss-link",
+      "published": "2026-11-25T06:01:42Z",
+      "source": "Houston Public Media",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:41Z",
+      "category": "Development & Housing",
+      "local": true
+    },
+    {
+      "headline": "7 types of relatives you’ll see at Thanksgiving dinner",
+      "link": "https://defendernetwork.com/culture/7-types-of-relatives-youll-see-at-thanksgiving-dinner/",
+      "published": "2026-11-25T05:33:50Z",
+      "source": "Houston Defender",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:44Z",
+      "category": "Food & Events",
+      "local": true
+    },
+    {
+      "headline": "Madison caps historic run with back-to-back district titles",
+      "link": "https://defendernetwork.com/sports/high-school/madison-caps-historic-run-with-back-to-back-district-titles/",
+      "published": "2026-11-25T04:21:04Z",
+      "source": "Houston Defender",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:44Z",
+      "category": "Sports",
+      "local": true
+    },
+    {
+      "headline": "KeAndré Jordan celebrates Houston with My Southern Brand",
+      "link": "https://defendernetwork.com/people/dn-news-profiles/keandre-jordan-celebrates-houston-with-my-southern-brand/",
+      "published": "2026-11-25T04:20:04Z",
+      "source": "Houston Defender",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:44Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Keeping Chaneyville alive: A Black community silently disappearing",
+      "link": "https://defendernetwork.com/news/local-state/keeping-chaneyville-alive-a-black-community-silently-disappearing/",
+      "published": "2026-11-25T04:19:37Z",
+      "source": "Houston Defender",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:44Z",
+      "category": "Other",
+      "local": true
+    },
+    {
+      "headline": "Trash hasn't been picked up in more than a month at this North Harris County apartment complex",
+      "link": "https://www.khou.com/article/news/community/trash-hasnt-been-picked-up-north-harris-county-apartment-complex/285-825ec4d5-654c-4eed-800b-af065b7f0cf9",
+      "published": "2026-11-25T04:12:43Z",
+      "source": "KHOU 11",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:44Z",
+      "category": "Government & Politics",
+      "local": true
+    },
     {
       "headline": "Katy ISD sets priorities ahead of legislative session",
       "link": "https://communityimpact.com/katy-fulshear/education/katy-isd-sets-priorities-ahead-of-legislative-session/",
@@ -43,6 +937,16 @@
       "area": "Houston",
       "fetched_at": "2026-11-25T03:11:43Z",
       "category": "Traffic & Transit",
+      "local": true
+    },
+    {
+      "headline": "H-E-B named largest private company in Texas on Forbes 2026 List",
+      "link": "https://www.fox26houston.com/news/h-e-b-named-largest-private-company-texas-forbes-2026-list",
+      "published": "2026-11-25T00:54:07Z",
+      "source": "Fox 26 Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:46Z",
+      "category": "Business",
       "local": true
     },
     {
@@ -858,6 +1762,16 @@
       "local": true
     },
     {
+      "headline": "Houston nonprofit Love You Adam shares evidence-based suicide prevention tips",
+      "link": "https://www.click2houston.com/news/local/2026/11/24/houston-nonprofit-love-you-adam-shares-evidence-based-suicide-prevention-tips/",
+      "published": "2026-11-24T17:41:37Z",
+      "source": "KPRC Click2Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:45Z",
+      "category": "Other",
+      "local": true
+    },
+    {
       "headline": "The Oil Reserve now offering imported goods in Old Town Spring",
       "link": "https://communityimpact.com/spring-klein/business/the-oil-reserve-now-offering-imported-goods-in-old-town-spring/",
       "published": "2026-11-24T17:30:00Z",
@@ -933,6 +1847,16 @@
       "area": "Houston",
       "fetched_at": "2026-11-24T20:42:29Z",
       "category": "Business",
+      "local": true
+    },
+    {
+      "headline": "Rachel’s Science Lab: Make a Cloud in your Kitchen!",
+      "link": "https://www.click2houston.com/weather/2026/11/24/rachels-science-lab-make-a-cloud-in-your-kitchen/",
+      "published": "2026-11-24T16:51:36Z",
+      "source": "KPRC Click2Houston",
+      "area": "Houston",
+      "fetched_at": "2026-11-25T19:58:45Z",
+      "category": "Other",
       "local": true
     },
     {
@@ -15823,770 +16747,6 @@
       "area": "Houston",
       "fetched_at": "2026-11-12T01:42:21Z",
       "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Polar vortex weakens unusually early: What it could mean for Texas this winter",
-      "link": "https://cw39.com/weather/polar-vortex-weakening-early/",
-      "published": "2026-11-11T20:00:00Z",
-      "source": "CW39",
-      "area": "Houston",
-      "fetched_at": "2026-11-12T01:42:26Z",
-      "category": "Weather",
-      "local": true
-    },
-    {
-      "headline": "Houston's Pancho Claus hospitalized, makes urgent plea for help",
-      "link": "https://www.khou.com/article/news/local/houston-pancho-claus-health-update-toy-giveaway/285-90aabeef-5a21-4c0b-a4c8-470f0644b7a9",
-      "published": "2026-11-11T19:56:22Z",
-      "source": "KHOU 11",
-      "area": "Houston",
-      "fetched_at": "2026-11-12T01:42:21Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Houston 911 system budget to decrease in 2027",
-      "link": "https://communityimpact.com/heights-river-oaks-montrose/government/houston-911-system-budget-to-decrease-in-2027/",
-      "published": "2026-11-11T19:40:00Z",
-      "source": "Community Impact (Houston)",
-      "area": "Region-wide",
-      "fetched_at": "2026-11-12T01:42:19Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Historic Houston theater secures $7 million loan to begin renovations",
-      "link": "https://houston.culturemap.com/news/city-life/garden-oaks-theater-renovation-loan/",
-      "published": "2026-11-11T19:30:04Z",
-      "source": "CultureMap Houston",
-      "area": "Houston",
-      "fetched_at": "2026-11-12T01:42:23Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Memorial Hermann Southwest seeks help finding patient’s family",
-      "link": "https://cw39.com/news/houston-hospital-seeks-elderly-family/",
-      "published": "2026-11-11T19:30:00Z",
-      "source": "CW39",
-      "area": "Houston",
-      "fetched_at": "2026-11-12T01:42:26Z",
-      "category": "Health",
-      "local": true
-    },
-    {
-      "headline": "New Rice Village steakhouse to combine talents of local hospitality group",
-      "link": "https://communityimpact.com/bellaire-meyerland-west-university/dining/new-rice-village-steakhouse-to-combine-talents-of-local-hospitality-group/",
-      "published": "2026-11-11T19:25:00Z",
-      "source": "Community Impact (Houston)",
-      "area": "Region-wide",
-      "fetched_at": "2026-11-12T01:42:19Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Flight canceled by bad weather? Here’s when you can get your money back",
-      "link": "https://www.click2houston.com/news/local/2026/11/11/flight-canceled-by-bad-weather-heres-when-you-can-get-your-money-back/",
-      "published": "2026-11-11T19:14:09Z",
-      "source": "KPRC Click2Houston",
-      "area": "Houston",
-      "fetched_at": "2026-11-12T01:42:21Z",
-      "category": "Weather",
-      "local": true
-    },
-    {
-      "headline": "The Galleria hosts its holiday tree lighting celebration on Friday night",
-      "link": "https://cw39.com/homefortheholidays/houston-galleria-holiday-tree-lighting/",
-      "published": "2026-11-11T19:06:59Z",
-      "source": "CW39",
-      "area": "Houston",
-      "fetched_at": "2026-11-13T00:43:12Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Heroes Along the Bayou: 18 Harris County constable deputies honored for capturing alleged White Oak Bayou rapist",
-      "link": "https://www.click2houston.com/news/local/2026/11/11/heroes-along-the-bayou-18-harris-county-constable-deputies-honored-for-capturing-alleged-white-oak-bayou-rapist/",
-      "published": "2026-11-11T18:59:43Z",
-      "source": "KPRC Click2Houston",
-      "area": "Houston",
-      "fetched_at": "2026-11-12T01:42:21Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Acclaimed actress Irma P. Hall, best known for ‘Soul Food,’ dies at 91",
-      "link": "https://www.click2houston.com/news/local/2026/11/11/acclaimed-actress-irma-p-hall-best-known-for-soul-food-dies-at-91/",
-      "published": "2026-11-11T18:59:40Z",
-      "source": "KPRC Click2Houston",
-      "area": "Houston",
-      "fetched_at": "2026-11-12T01:42:21Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Slowpokes opens ninth location in Timbergrove neighborhood",
-      "link": "https://communityimpact.com/heights-river-oaks-montrose/dining/slowpokes-opens-ninth-location-in-timbergrove-neighborhood/",
-      "published": "2026-11-11T18:45:00Z",
-      "source": "Community Impact (Houston)",
-      "area": "Region-wide",
-      "fetched_at": "2026-11-12T01:42:19Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "More than 5,000 handicap placards reported stolen in Texas in 6 months",
-      "link": "https://www.click2houston.com/news/local/2026/11/02/nearly-5000-disabled-parking-placards-reported-stolen-in-texas-in-first-half-of-2026-as-investigation-raises-questions/",
-      "published": "2026-11-11T18:25:54Z",
-      "source": "KPRC Click2Houston",
-      "area": "Houston",
-      "fetched_at": "2026-11-12T01:42:21Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "‘Praying for the best outcome’: Texans who live near data centers hope for change following election",
-      "link": "https://www.houstonpublicmedia.org/articles/news/energy-environment/2026/11/11/566804/praying-for-the-best-outcome-texans-who-live-near-data-centers-hope-for-change-following-election/?utm_source=rss-energy-environment-article&utm_medium=link&utm_campaign=hpm-rss-link",
-      "published": "2026-11-11T18:25:04Z",
-      "source": "Houston Public Media",
-      "area": "Houston",
-      "fetched_at": "2026-11-12T01:42:18Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Sitting Down with Julie Bagley, One of the Ten Best Dressed Women of Dallas",
-      "link": "https://www.papercitymag.com/society/julie-bagley-dallas-crystal-charity-ball-best-dressed-women/",
-      "published": "2026-11-11T18:00:12Z",
-      "source": "PaperCity Houston",
-      "area": "Houston",
-      "fetched_at": "2026-11-12T01:42:24Z",
-      "category": "Other"
-    },
-    {
-      "headline": "The hidden struggles Houston area veterans face after service, and the local network stepping up to help",
-      "link": "https://www.click2houston.com/news/local/2026/11/11/beyond-the-uniform-how-easter-seals-greater-houston-is-connecting-veterans-with-resources-after-military-service/",
-      "published": "2026-11-11T17:55:23Z",
-      "source": "KPRC Click2Houston",
-      "area": "Houston",
-      "fetched_at": "2026-11-12T01:42:21Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Harris County Pct. 5 says goodbye to K-9 with extraordinary record of service",
-      "link": "https://www.khou.com/article/life/animals/k9-biko-final-farewell-harris-county-texas/285-f88f1061-ec92-4aee-a4a3-c6ce1701f833",
-      "published": "2026-11-11T17:49:00Z",
-      "source": "KHOU 11",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:57Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Texas lawmaker renews push to ban children under 16 from social media after previous attempt failed",
-      "link": "https://www.click2houston.com/news/local/2026/11/11/texas-lawmaker-renews-push-to-ban-children-under-16-from-social-media-after-previous-attempt-failed/",
-      "published": "2026-11-11T17:40:39Z",
-      "source": "KPRC Click2Houston",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:58Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Medical examiner reveals official cause of death in Galveston cruise ship homicide",
-      "link": "https://www.khou.com/article/news/crime/susan-watford-cause-of-death-msc-seascape-homicide/285-3f784c81-d67c-4441-8040-68b0aebc9c76",
-      "published": "2026-11-11T17:33:19Z",
-      "source": "KHOU 11",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:57Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "JCPenney closing at The Woodlands Mall",
-      "link": "https://communityimpact.com/the-woodlands/business/jcpenney-closing-at-the-woodlands-mall/",
-      "published": "2026-11-11T17:16:09Z",
-      "source": "Community Impact (Houston)",
-      "area": "Region-wide",
-      "fetched_at": "2026-11-11T17:55:55Z",
-      "category": "Business"
-    },
-    {
-      "headline": "2 charged after public tips led Texas game wardens to duck shooting suspects in North Texas",
-      "link": "https://www.fox26houston.com/news/2-charged-after-public-tips-led-texas-game-wardens-duck-shooting-suspects-north-texas",
-      "published": "2026-11-11T17:02:32Z",
-      "source": "Fox 26 Houston",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:58Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "7 can't-miss food and drink events happening in Houston this fall",
-      "link": "https://houston.culturemap.com/news/restaurants-bars/november-december-food-wine-events/",
-      "published": "2026-11-11T17:00:02Z",
-      "source": "CultureMap Houston",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:58Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Astros bring back former catcher Brad Ausmus as their manager after Joe Espada exit",
-      "link": "https://www.houstonpublicmedia.org/articles/news/2026/11/11/566814/astros-bring-back-former-catcher-brad-ausmus-as-their-manager-after-joe-espada-exit/?utm_source=rss-news-article&utm_medium=link&utm_campaign=hpm-rss-link",
-      "published": "2026-11-11T16:59:29Z",
-      "source": "Houston Public Media",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:55Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Astros turn to familiar face for next manager",
-      "link": "https://www.khou.com/article/sports/mlb/astros/brad-ausmus-astros-new-manager/285-dfff3322-9947-47d3-960d-195b66cd106a",
-      "published": "2026-11-11T16:52:36Z",
-      "source": "KHOU 11",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:57Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Houston attorney giving away free Thanksgiving turkeys to help families facing financial challenges",
-      "link": "https://www.click2houston.com/news/local/2026/11/11/houston-attorney-giving-away-free-thanksgiving-turkeys-to-help-families-facing-financial-challenges/",
-      "published": "2026-11-11T16:47:41Z",
-      "source": "KPRC Click2Houston",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:58Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Astros name former catcher Brad Ausmus as new manager",
-      "link": "https://cw39.com/sports/astros/brad-ausmus-astros-manager/",
-      "published": "2026-11-11T16:45:36Z",
-      "source": "CW39",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:56:01Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "Houston Ballet Nutcracker Market returns to Reliant Center this week",
-      "link": "https://cw39.com/news/local/houston-ballet-nutcracker-market-reliant/",
-      "published": "2026-11-11T16:44:14Z",
-      "source": "CW39",
-      "area": "Houston",
-      "fetched_at": "2026-11-12T01:42:26Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "Houston veterans carry spirit of service into Life Flight careers",
-      "link": "https://www.click2houston.com/news/local/2026/11/11/houston-veterans-carry-spirit-of-service-into-life-flight-careers/",
-      "published": "2026-11-11T16:28:27Z",
-      "source": "KPRC Click2Houston",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:58Z",
-      "category": "Traffic & Transit",
-      "local": true
-    },
-    {
-      "headline": "1 person confirmed dead in 6-vehicle crash on Beltway 8 near Greenspoint, HCSO says",
-      "link": "https://cw39.com/traffic/beltway-8-crash-fatality-houston/",
-      "published": "2026-11-11T16:26:20Z",
-      "source": "CW39",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:56:01Z",
-      "category": "Traffic & Transit",
-      "local": true
-    },
-    {
-      "headline": "It’s not us, it’s you – Why Collin County voters broke up with Ken Paxton",
-      "link": "https://www.houstonpublicmedia.org/articles/news/politics/2026/11/11/566807/its-not-us-its-you-why-collin-county-voters-broke-up-with-ken-paxton/?utm_source=rss-politics-article&utm_medium=link&utm_campaign=hpm-rss-link",
-      "published": "2026-11-11T16:12:28Z",
-      "source": "Houston Public Media",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:55Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Houston-area high schoolers showcase skills at regional auto tech competition",
-      "link": "https://cw39.com/news/education/houston-high-school-auto-tech-competition/",
-      "published": "2026-11-11T16:05:32Z",
-      "source": "CW39",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:56:01Z",
-      "category": "Education",
-      "local": true
-    },
-    {
-      "headline": "Expert shopping tips for the 2026 Nutcracker Market, plus 29 new vendors",
-      "link": "https://houston.culturemap.com/news/fashion/nutcracker-market-2026/",
-      "published": "2026-11-11T15:30:04Z",
-      "source": "CultureMap Houston",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:58Z",
-      "category": "Business"
-    },
-    {
-      "headline": "Recognize this car? HCSO asks for help finding driver in deadly hit-and-run crash",
-      "link": "https://www.khou.com/article/news/crime/fm-1960-hit-and-run-crash-investigation-update/285-626a31a9-2ff0-4b48-b05f-2ea9283e218e",
-      "published": "2026-11-11T15:26:33Z",
-      "source": "KHOU 11",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:57Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Hot Shooting and Strong Defense, Keep Lady Cougars Undefeated",
-      "link": "https://www.houstonpress.com/news/hot-shooting-and-strong-defense-keep-lady-cougars-undefeated/",
-      "published": "2026-11-11T14:54:52Z",
-      "source": "Houston Press",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:56Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Popular cheddar cheese recalled in 12 states over Listeria concerns",
-      "link": "https://www.fox26houston.com/news/popular-cheddar-cheese-recalled-12-states-over-listeria-concerns",
-      "published": "2026-11-11T14:36:08Z",
-      "source": "Fox 26 Houston",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:58Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Texas bill proposes $1,500 payments. Here's who would qualify and how it would work",
-      "link": "https://www.khou.com/article/news/local/texas/texas-1500-payment-sb-297-eligibility-application-date/285-c8294c76-676e-42e0-bb1f-a2aaac3c0a82",
-      "published": "2026-11-11T14:32:06Z",
-      "source": "KHOU 11",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:57Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "3 Houston incubators and accelerators fueling the growth of local startups",
-      "link": "https://houston.innovationmap.com/houston-innovation-awards-2026-incubator-2678358257.html",
-      "published": "2026-11-11T14:30:02Z",
-      "source": "InnovationMap Houston",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:58Z",
-      "category": "Business"
-    },
-    {
-      "headline": "Vikki Goodwin names bipartisan transition team with former Republican senators",
-      "link": "https://www.houstonpublicmedia.org/articles/news/politics/2026/11/11/566792/vikki-goodwin-names-bipartisan-transition-team-with-former-republican-senators/?utm_source=rss-politics-article&utm_medium=link&utm_campaign=hpm-rss-link",
-      "published": "2026-11-11T14:19:04Z",
-      "source": "Houston Public Media",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:55Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "South Texas WWII veteran shares his side of history after nearly 80 years",
-      "link": "https://www.houstonpublicmedia.org/articles/history/2026/11/11/566787/south-texas-wwii-veteran-shares-his-side-of-history-after-nearly-80-years/?utm_source=rss-history-article&utm_medium=link&utm_campaign=hpm-rss-link",
-      "published": "2026-11-11T14:15:27Z",
-      "source": "Houston Public Media",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:55Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Four Seasons Resort Lanai Is the Ultimate Hawaiian Escape for Couples Seeking Seclusion",
-      "link": "https://www.papercitymag.com/culture/four-seasons-resort-lanai-hawaii/",
-      "published": "2026-11-11T14:08:00Z",
-      "source": "PaperCity Houston",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:59Z",
-      "category": "Other"
-    },
-    {
-      "headline": "‘They would have never done it’: Musk-backed business court lands in Hinojosa’s hands",
-      "link": "https://www.houstonpublicmedia.org/articles/news/politics/2026/11/11/566782/they-would-have-never-done-it-musk-backed-business-court-lands-in-hinojosas-hands/?utm_source=rss-politics-article&utm_medium=link&utm_campaign=hpm-rss-link",
-      "published": "2026-11-11T14:03:24Z",
-      "source": "Houston Public Media",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:55Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Every Friday, these veterans meet for coffee — and so much more",
-      "link": "https://www.click2houston.com/news/local/2026/11/11/every-friday-these-veterans-meet-for-coffee-and-so-much-more/",
-      "published": "2026-11-11T13:52:44Z",
-      "source": "KPRC Click2Houston",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:58Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Arthouse Houston closes on Garden Oaks Theater, officially saving it from demolition",
-      "link": "https://www.khou.com/article/news/local/arthouse-houston-garden-oaks-theater-update/285-df6cde2e-1441-4fd1-b6fc-9062f50674ca",
-      "published": "2026-11-11T13:41:54Z",
-      "source": "KHOU 11",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:57Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Popular Houston Tex-Mex restaurant set to make Galveston debut",
-      "link": "https://www.khou.com/article/life/food/el-tiempo-cantina-galveston-opening-delay/285-acd4232d-6930-47bf-8a3f-3e3a724b0830",
-      "published": "2026-11-11T13:36:23Z",
-      "source": "KHOU 11",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:57Z",
-      "category": "Food & Events",
-      "local": true
-    },
-    {
-      "headline": "Mattress Mack giving away 150 free mattresses to Houston veterans today",
-      "link": "https://www.khou.com/article/news/local/mattress-mack-free-mattress-giveaway-houston-veterans-day-2026/285-fa1ef6e1-48b1-49b0-9b3a-4e2921d67706",
-      "published": "2026-11-11T13:31:37Z",
-      "source": "KHOU 11",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:57Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Nearly $1M in counterfeit lithium batteries seized by Houston CBP, officials say",
-      "link": "https://www.khou.com/article/news/crime/counterfeith-lithium-batteries-houston-seizure/285-512ef3c1-eab3-4623-9faf-c47ef6e546b9",
-      "published": "2026-11-11T13:30:49Z",
-      "source": "KHOU 11",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:57Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Woman shot during attempted home robbery in east Houston, HPD says",
-      "link": "https://cw39.com/crime/houston-woman-shot-apartment-robbery/",
-      "published": "2026-11-11T13:15:03Z",
-      "source": "CW39",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:56:01Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Deer Park shelter-in-place lifted after hydrogen sulfide release",
-      "link": "https://www.khou.com/article/news/local/shelter-in-place-deer-park-level-3-incident-lubrizol-facility/285-fb02ea4a-e898-4965-958b-9fca0609f884",
-      "published": "2026-11-11T12:48:13Z",
-      "source": "KHOU 11",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:57Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Houston just got a nice soaking to start the week, especially areas that needed it",
-      "link": "https://spacecityweather.com/houston-just-got-a-nice-soaking-to-start-the-week-especially-areas-that-needed-it/",
-      "published": "2026-11-11T12:41:20Z",
-      "source": "Space City Weather",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:56:00Z",
-      "category": "Weather"
-    },
-    {
-      "headline": "Texans can now get power grid emergency alerts by text. Here’s how to sign up",
-      "link": "https://www.click2houston.com/news/local/2026/11/11/texans-can-now-get-power-grid-emergency-alerts-by-text-heres-how-to-sign-up/",
-      "published": "2026-11-11T12:32:50Z",
-      "source": "KPRC Click2Houston",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:58Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "'I think about it every day': Houston mother still searching for daughter missing since 1994",
-      "link": "https://www.khou.com/article/news/local/texas-missing/wanda-holland-missing-houston-1994/285-77187c2e-d47b-46cc-bd21-0a8cad14e1ec",
-      "published": "2026-11-11T12:13:27Z",
-      "source": "KHOU 11",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:57Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Showers taper off today as cold front approaches tonight",
-      "link": "https://cw39.com/weather/cold-front-se-texas-forecast/",
-      "published": "2026-11-11T12:06:58Z",
-      "source": "CW39",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:56:01Z",
-      "category": "Weather",
-      "local": true
-    },
-    {
-      "headline": "The week in politics (Nov. 11, 2026)",
-      "link": "https://www.houstonpublicmedia.org/articles/shows/houston-matters/2026/11/11/566464/the-week-in-politics-nov-11-2026/?utm_source=rss-houston-matters-article&utm_medium=link&utm_campaign=hpm-rss-link",
-      "published": "2026-11-11T12:00:26Z",
-      "source": "Houston Public Media",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:55Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "Best Of Houston® 2026: Best Wings",
-      "link": "https://www.houstonpress.com/restaurants/best-of-houston-2026-best-wings/",
-      "published": "2026-11-11T12:00:00Z",
-      "source": "Houston Press",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:56Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Deer Park lifts shelter-in-place after chemical release from plant",
-      "link": "https://cw39.com/news/local/deer-park-lubrizol-h2s-release/",
-      "published": "2026-11-11T11:48:22Z",
-      "source": "CW39",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:56:01Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "Best Of Houston® 2026: Best Restaurant – Spring",
-      "link": "https://www.houstonpress.com/restaurants/best-of-houston-2026-best-restaurant-spring/",
-      "published": "2026-11-11T11:30:00Z",
-      "source": "Houston Press",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:56Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "No nurse at your child’s school? Texas bill would require parents to be notified",
-      "link": "https://www.click2houston.com/news/texas/2026/11/11/no-nurse-at-your-childs-school-texas-bill-would-require-parents-to-be-notified/",
-      "published": "2026-11-11T11:27:33Z",
-      "source": "KPRC Click2Houston",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:58Z",
-      "category": "Education",
-      "local": true
-    },
-    {
-      "headline": "Why Dripping Springs Is the Perfect Texas Hill Country Getaway, Wedding or Not",
-      "link": "https://www.houstoniamag.com/travel-and-outdoors/texas/dripping-springs-texas-travel-guide-hill-country-houston/",
-      "published": "2026-11-11T11:00:52Z",
-      "source": "Houstonia",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:56Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Expect Big Emotions on Stage with Tosca at Opera in the Heights",
-      "link": "https://www.houstonpress.com/arts/expect-big-emotions-on-stage-with-tosca-at-opera-in-the-heights/",
-      "published": "2026-11-11T11:00:00Z",
-      "source": "Houston Press",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:56Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Best Of Houston® 2026: Best Expense Account Restaurant",
-      "link": "https://www.houstonpress.com/restaurants/best-of-houston-2026-best-expense-account-restaurant/",
-      "published": "2026-11-11T11:00:00Z",
-      "source": "Houston Press",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:56Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Woman shot after armed men force their way into east Houston apartment, police say",
-      "link": "https://www.click2houston.com/news/local/2026/11/11/woman-shot-after-armed-men-force-their-way-into-east-houston-apartment-police-say/",
-      "published": "2026-11-11T10:33:34Z",
-      "source": "KPRC Click2Houston",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:58Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "It’s Back to the Drawing Board After Cy-Fair Bond Fails",
-      "link": "https://www.houstonpress.com/news/its-back-to-the-drawing-board-after-cy-fair-bond-fails/",
-      "published": "2026-11-11T10:30:00Z",
-      "source": "Houston Press",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:56Z",
-      "category": "Government & Politics"
-    },
-    {
-      "headline": "Cuban Artists Rediscovered in Buena Vista Social Club",
-      "link": "https://www.houstonpress.com/arts/cuban-artists-rediscovered-in-buena-vista-social-club/",
-      "published": "2026-11-11T10:30:00Z",
-      "source": "Houston Press",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:56Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Best Of Houston® 2026: Best Delivery Service",
-      "link": "https://www.houstonpress.com/news/best-of-houston-2026-best-delivery-service/",
-      "published": "2026-11-11T10:30:00Z",
-      "source": "Houston Press",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:56Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Best Of Houston® 2026: Best Dessert",
-      "link": "https://www.houstonpress.com/restaurants/best-of-houston-2026-best-dessert/",
-      "published": "2026-11-11T10:30:00Z",
-      "source": "Houston Press",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:56Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Latest College Football Playoff Rankings Feature Big Moves From Texas Schools",
-      "link": "https://www.houstonpress.com/news/latest-college-football-playoff-rankings-feature-big-moves-from-texas-schools/",
-      "published": "2026-11-11T10:00:00Z",
-      "source": "Houston Press",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:56Z",
-      "category": "Sports"
-    },
-    {
-      "headline": "Houston Concert Watch 11/11: Stray Cats, Treaty Oak Revival and More",
-      "link": "https://www.houstonpress.com/music/houston-concert-watch-11-11-stray-cats-treaty-oak-revival-and-more/",
-      "published": "2026-11-11T10:00:00Z",
-      "source": "Houston Press",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:56Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Group Acorde Celebrates a Decade in Motion with Gone",
-      "link": "https://www.houstonpress.com/arts/group-acorde-celebrates-a-decade-in-motion-with-gone/",
-      "published": "2026-11-11T10:00:00Z",
-      "source": "Houston Press",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:56Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "Best Of Houston® 2026: Best Deli",
-      "link": "https://www.houstonpress.com/restaurants/best-of-houston-2026-best-deli/",
-      "published": "2026-11-11T10:00:00Z",
-      "source": "Houston Press",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:56Z",
-      "category": "Food & Events"
-    },
-    {
-      "headline": "The Engines of Our Ingenuity 3431 Catching Carbon From Thin Air",
-      "link": "https://www.houstonpublicmedia.org/articles/shows/engines-of-our-ingenuity/engines-podcast/2026/11/11/565922/the-engines-of-our-ingenuity-3431-catching-carbon-from-thin-air/?utm_source=rss-engines-podcast-article&utm_medium=link&utm_campaign=hpm-rss-link",
-      "published": "2026-11-11T06:01:39Z",
-      "source": "Houston Public Media",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:55Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Hightower’s Champ Anthony makes plays through speed and preparation",
-      "link": "https://defendernetwork.com/sports/high-school/hightowers-champ-anthony-makes-plays-through-speed-and-preparation/",
-      "published": "2026-11-11T05:29:28Z",
-      "source": "Houston Defender",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:56Z",
-      "category": "Sports",
-      "local": true
-    },
-    {
-      "headline": "The Black Wave: Referendum on Trump, Musk",
-      "link": "https://defendernetwork.com/news/opinion/the-black-wave-referendum-on-trump-musk/",
-      "published": "2026-11-11T05:29:23Z",
-      "source": "Houston Defender",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:56Z",
-      "category": "Government & Politics",
-      "local": true
-    },
-    {
-      "headline": "How Black professionals close the AI opportunity gap",
-      "link": "https://defendernetwork.com/news/business-news/how-black-professionals-close-the-ai-opportunity-gap/",
-      "published": "2026-11-11T05:29:20Z",
-      "source": "Houston Defender",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:56Z",
-      "category": "Business",
-      "local": true
-    },
-    {
-      "headline": "HISD opens new Sunrise Center on Worthing HS campus in Sunnyside",
-      "link": "https://defendernetwork.com/news/education/hisd-opens-new-sunrise-center-on-worthing-hs-campus-in-sunnyside/",
-      "published": "2026-11-11T05:29:19Z",
-      "source": "Houston Defender",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:56Z",
-      "category": "Education",
-      "local": true
-    },
-    {
-      "headline": "Vietnam: A Black veteran’s ‘Soldiers Story’",
-      "link": "https://defendernetwork.com/culture/vietnam-a-black-veterans-soldiers-story/",
-      "published": "2026-11-11T05:29:15Z",
-      "source": "Houston Defender",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:56Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Deer Park Shelter in Place lifted: All clear given after gas release involving H2S gas at Lubrizol Deer Park",
-      "link": "https://www.fox26houston.com/news/deer-park-shelter-place-officials-working-incident-lubrizol-deer-park",
-      "published": "2026-11-11T05:00:59Z",
-      "source": "Fox 26 Houston",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:58Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Houston’s Magical Party in the Park Turns Into a Glowing Success For The Menil",
-      "link": "https://www.papercitymag.com/society/menil-party-park-houston-bygones-sculpture-museum/",
-      "published": "2026-11-11T04:46:00Z",
-      "source": "PaperCity Houston",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:59Z",
-      "category": "Other"
-    },
-    {
-      "headline": "Kingwood Navy veteran speaks out after yearlong struggle to get answers about benefits claim",
-      "link": "https://www.khou.com/article/news/local/kingwood-navy-veteran-benefits-claim/285-670facfb-52f2-4395-a47a-4067a517a1d2",
-      "published": "2026-11-11T04:31:02Z",
-      "source": "KHOU 11",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:57Z",
-      "category": "Other",
-      "local": true
-    },
-    {
-      "headline": "Husband pleads for answers after missing mother's car crosses into Mexico without her",
-      "link": "https://www.click2houston.com/news/local/2026/11/11/husband-pleads-for-answers-after-missing-mothers-car-crosses-into-mexico-without-her/",
-      "published": "2026-11-11T04:20:22Z",
-      "source": "KPRC Click2Houston",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:58Z",
-      "category": "Crime & Safety",
-      "local": true
-    },
-    {
-      "headline": "Texas $1,500 relief checks: Lawmaker files bill to send one-time payment to every household",
-      "link": "https://www.fox26houston.com/news/texas-1500-relief-checks-lawmaker-files-bill-send-one-time-payments-every-household",
-      "published": "2026-11-11T03:44:09Z",
-      "source": "Fox 26 Houston",
-      "area": "Houston",
-      "fetched_at": "2026-11-11T17:55:58Z",
-      "category": "Government & Politics",
       "local": true
     }
   ],
