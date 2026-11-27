@@ -1,6 +1,6 @@
 # Source health
 
-Generated 2026-11-26 19:44Z.
+Generated 2026-11-27 02:30Z.
 
 Active feeds: 679 · link-only: 303 · paused: 1
 
@@ -9,7 +9,6 @@ Active feeds: 679 · link-only: 303 · paused: 1
 - **no stories yet** Reporter Newspapers
 - **no stories yet** Henry Herald
 - **no stories yet** Gwinnett Citizen
-- **failing** Rockdale Citizen: 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Birmingham, AL
 
@@ -18,27 +17,27 @@ Active feeds: 679 · link-only: 303 · paused: 1
 ## Boston, MA
 
 - **silent** Jamaica Plain Gazette: newest story 20 days old
-- **failing** Gloucester Daily Times: 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** Gloucester Daily Times: 4 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Charlotte, NC
 
 - **no stories yet** Mooresville Tribune
-- **failing** Independent Tribune (Concord): 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
-- **failing** Lancaster News: 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** Independent Tribune (Concord): 4 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Chicago, IL
 
 - **silent** WTTW News: newest story 17 days old
-- **silent** Better Government Association: newest story 16 days old
+- **silent** Better Government Association: newest story 17 days old
 
 ## Cincinnati, OH
 
-- **failing** The News Record (UC): 7 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** The News Record (UC): 8 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** Middletown Journal: 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Columbus, OH
 
-- **failing** Delaware Gazette: 80 runs in a row (PermissionError: robots.txt disallows this feed)
-- **failing** Marysville Journal-Tribune: 15 runs in a row (PermissionError: robots.txt disallows this feed)
+- **failing** Delaware Gazette: 81 runs in a row (PermissionError: robots.txt disallows this feed)
+- **failing** Marysville Journal-Tribune: 16 runs in a row (PermissionError: robots.txt disallows this feed)
 
 ## Dallas–Fort Worth, TX
 
@@ -46,25 +45,28 @@ Active feeds: 679 · link-only: 303 · paused: 1
 
 ## Denver, CO
 
-- **failing** Douglas County News-Press: 10 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
-- **failing** Castle Rock News-Press: 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** Douglas County News-Press: 11 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** Castle Rock News-Press: 4 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Grand Rapids, MI
 
-- **failing** The Rapidian: 75 runs in a row (HTTPError: HTTP Error 403: Forbidden)
+- **failing** The Rapidian: 76 runs in a row (HTTPError: HTTP Error 403: Forbidden)
 
 ## Indianapolis, IN
 
-- **failing** Greenfield Daily Reporter: 80 runs in a row (PermissionError: robots.txt disallows this feed)
-- **failing** Shelbyville News: 3 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** Greenfield Daily Reporter: 81 runs in a row (PermissionError: robots.txt disallows this feed)
 
 ## Jacksonville, FL
 
-- **silent** The Resident (Jax Beaches): newest story 22 days old
+- **silent** The Resident (Jax Beaches): newest story 23 days old
 
 ## Kansas City, MO
 
 - **silent** The Kansas City Defender: newest story 16 days old
+
+## Los Angeles, CA
+
+- **silent** OC Weekly: newest story 10 days old
 
 ## Louisville, KY
 
@@ -72,30 +74,34 @@ Active feeds: 679 · link-only: 303 · paused: 1
 
 ## Minneapolis–St. Paul, MN
 
-- **silent** Park Bugle: newest story 26 days old
+- **silent** Park Bugle: newest story 27 days old
 - **no stories yet** Stillwater Gazette
 
 ## Nashville, TN
 
-- **silent** Murfreesboro Pulse: newest story 20 days old
+- **silent** Murfreesboro Pulse: newest story 21 days old
 
 ## New York, NY
 
-- **silent** Brooklyn Reporter: newest story 12 days old
+- **silent** Brooklyn Reporter: newest story 13 days old
 - **no stories yet** Queens Post
 - **no stories yet** Astoria Post
 - **no stories yet** Norwood News
-- **failing** Long Island Business News: 31 runs in a row (HTTPError: HTTP Error 403: Forbidden)
+- **failing** Long Island Business News: 32 runs in a row (HTTPError: HTTP Error 403: Forbidden)
 
 ## Oklahoma City, OK
 
-- **failing** The Journal Record: 31 runs in a row (HTTPError: HTTP Error 403: Forbidden)
+- **failing** The Journal Record: 32 runs in a row (HTTPError: HTTP Error 403: Forbidden)
 - **silent** Oklahoma Magazine: newest story 29 days old
 - **silent** Edmond Life & Leisure: newest story 25 days old
 
 ## Orlando, FL
 
-- **failing** Florida Courier Orlando: 24 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** Florida Courier Orlando: 25 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+
+## Pittsburgh, PA
+
+- **silent** Pittsburgh Post-Gazette: newest story 10 days old
 
 ## Portland, OR
 
@@ -109,12 +115,11 @@ Active feeds: 679 · link-only: 303 · paused: 1
 
 ## Riverside–San Bernardino, CA
 
-- **no stories yet** Fontana Herald News
-- **failing** Mountain News: 4 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** Mountain News: 5 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## Sacramento, CA
 
-- **failing** Mountain Democrat (Placerville): 10 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
+- **failing** Mountain Democrat (Placerville): 11 runs in a row (HTTPError: HTTP Error 429: Too Many Requests)
 
 ## St. Louis, MO
 
@@ -126,4 +131,4 @@ Active feeds: 679 · link-only: 303 · paused: 1
 
 ## Washington, DC
 
-- **failing** Greater Greater Washington: 47 runs in a row (HTTPError: HTTP Error 403: Forbidden)
+- **failing** Greater Greater Washington: 48 runs in a row (HTTPError: HTTP Error 403: Forbidden)
